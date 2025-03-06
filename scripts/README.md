@@ -29,6 +29,7 @@ You can also run it directly if you have the dependencies installed:
 ### Options
 
 - `--save-text`: Save the intermediate text file after PDF conversion
+- `--overwrite`: Overwrite existing directory if a directory with the same date already exists
 
 ### Example
 

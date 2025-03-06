@@ -273,6 +273,8 @@ def main():
     parser.add_argument('output_dir', help='Base directory to save processed files')
     parser.add_argument('--save-text', dest='save_text', action='store_true',
                         help='Save the intermediate text file after PDF conversion')
+    parser.add_argument('--overwrite', dest='overwrite', action='store_true',
+                        help='Overwrite existing directory if it already exists')
     args = parser.parse_args()
     
     # Check if input file exists
@@ -290,6 +292,14 @@ def main():
     # Create directory structure
     date_dir = os.path.join(args.output_dir, revision_date)
     sections_dir = os.path.join(date_dir, "sections")
+    
+    # Check if directory already exists and handle based on overwrite flag
+    if os.path.exists(date_dir) and not args.overwrite:
+        print(f"Error: Directory '{date_dir}' already exists.")
+        print("Use --overwrite flag to overwrite existing directory.")
+        sys.exit(1)
+    
+    # Create directories
     os.makedirs(sections_dir, exist_ok=True)
     
     # Copy PDF file to the date directory

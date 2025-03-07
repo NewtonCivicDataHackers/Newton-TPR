@@ -84,6 +84,58 @@ The script generates an index.json file with the following structure:
 7. Creates a directory structure based on the revision date
 8. Writes individual section files and a structured index
 
+## get-tpr.py
+
+This script downloads the latest Newton Traffic and Parking Regulations document from the city's website.
+
+### Dependencies
+
+The script uses [PEP 723](https://peps.python.org/pep-0723/) to specify its dependencies:
+- Python 3.8 or later
+- requests (for HTTP requests)
+- beautifulsoup4 (for HTML parsing)
+
+### Usage
+
+The recommended way to run the script is with [uv](https://github.com/astral-sh/uv):
+
+```bash
+uv run get-tpr.py output-file.pdf
+```
+
+You can also run it directly if you have the dependencies installed:
+
+```bash
+./get-tpr.py output-file.pdf
+```
+
+### Options
+
+- `--url`: URL to the Newton Transportation Division page (default: https://www.newtonma.gov/government/public-works/transportation-division)
+- `--direct-url`: Direct URL to the TPR PDF if known (bypasses searching the transportation page)
+- `--cookie`: Cookie in format name=value. Can be specified multiple times for multiple cookies
+- `--referer`: Referer URL to use in request headers
+
+### Example
+
+```bash
+# Standard usage to fetch latest TPR
+uv run get-tpr.py ../tpr-revisions/latest.pdf
+
+# Using a direct URL
+uv run get-tpr.py ../tpr-revisions/latest.pdf --direct-url "https://www.newtonma.gov/home/showpublisheddocument/xyz"
+
+# Setting a specific referer and cookies
+uv run get-tpr.py ../tpr-revisions/latest.pdf --referer "https://www.google.com" --cookie "name1=value1" --cookie "name2=value2"
+```
+
+### How It Works
+
+1. Visits the Newton Transportation Division page
+2. Searches for links containing "Traffic and Parking Regulations (TPR)"
+3. Follows the link to download the PDF document
+4. Saves the PDF to the specified output file
+
 ## Other Scripts
 
 ### tpr-to-sections.py

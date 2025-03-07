@@ -7,8 +7,25 @@
 # 3. Processes it if needed
 # 4. Optionally commits changes to git
 #
+# Options:
+#   --overwrite: Force processing even if the document hasn't changed
+#
 
 set -e  # Exit on error
+
+# Parse command line arguments
+FORCE_OVERWRITE=false
+for arg in "$@"; do
+  case $arg in
+    --overwrite)
+      FORCE_OVERWRITE=true
+      shift
+      ;;
+    *)
+      # unknown option
+      ;;
+  esac
+done
 
 # Configuration
 REPO_DIR="$(cd "$(dirname "$0")/.." && pwd)"  # Repository root directory
@@ -75,9 +92,13 @@ else
   NEEDS_PROCESSING=true
 fi
 
-# Process the document if needed
-if [ "$NEEDS_PROCESSING" = true ]; then
-  log "Processing new TPR document with revision date $REVISION_DATE..."
+# Check if we need to process the document based on revision date or force flag
+if [ "$NEEDS_PROCESSING" = true ] || [ "$FORCE_OVERWRITE" = true ]; then
+  if [ "$FORCE_OVERWRITE" = true ]; then
+    log "Forcing processing with overwrite flag, even though revision date is unchanged..."
+  else
+    log "Processing new TPR document with revision date $REVISION_DATE..."
+  fi
   
   # Process with source URLs
   SOURCE_ARGS=""
@@ -86,6 +107,11 @@ if [ "$NEEDS_PROCESSING" = true ]; then
   fi
   if [ -n "$SOURCE_PDF_URL" ]; then
     SOURCE_ARGS="$SOURCE_ARGS --pdf-url '$SOURCE_PDF_URL'"
+  fi
+  
+  # Add overwrite flag if forcing
+  if [ "$FORCE_OVERWRITE" = true ]; then
+    SOURCE_ARGS="$SOURCE_ARGS --overwrite"
   fi
   
   # Use eval to properly handle the quoted arguments
@@ -103,11 +129,22 @@ if [ "$NEEDS_PROCESSING" = true ]; then
     # Add all changed files
     git add index.json README.md sections/ tpr.pdf
     
+    # Set commit message based on what we did
+    if [ "$FORCE_OVERWRITE" = true ] && [ "$NEEDS_PROCESSING" = false ]; then
+      # Only updated README or metadata, not a new revision
+      COMMIT_MSG="Update README and metadata for TPR revision $REVISION_DATE"
+      COMMIT_DESC="Forced update without revision change"
+    else
+      # New revision or first processing
+      COMMIT_MSG="Update TPR to revision $REVISION_DATE"
+      COMMIT_DESC="Automatically updated by cron job"
+    fi
+    
     # Create a new tag for this revision
     TAG_NAME="tpr-$REVISION_DATE"
     
-    # Commit with the revision date
-    git commit -m "Update TPR to revision $REVISION_DATE" -m "Automatically updated by cron job"
+    # Commit with the appropriate message
+    git commit -m "$COMMIT_MSG" -m "$COMMIT_DESC"
     
     # Push the changes if we have a remote
     if git remote -v | grep -q origin; then

@@ -33,9 +33,20 @@ cd "$REPO_DIR"
 
 log "Starting TPR update check"
 
+# Source URLs for Newton TPR
+SOURCE_WEBPAGE="https://www.newtonma.gov/government/public-works/transportation-division"
+SOURCE_PDF_URL=""  # Will be detected during download
+
 # Download the latest TPR document
 log "Downloading latest TPR document..."
-python scripts/get-tpr.py "$TEMP_PDF"
+DOWNLOAD_OUTPUT=$(python scripts/get-tpr.py "$TEMP_PDF")
+log "Download complete"
+
+# Try to extract the PDF URL from the download output
+if echo "$DOWNLOAD_OUTPUT" | grep -q "Found TPR document link:"; then
+    SOURCE_PDF_URL=$(echo "$DOWNLOAD_OUTPUT" | grep "Found TPR document link:" | sed 's/.*Found TPR document link: //')
+    log "Detected PDF URL: $SOURCE_PDF_URL"
+fi
 
 if [ ! -f "$TEMP_PDF" ]; then
   log "Error: Failed to download TPR document"
@@ -67,7 +78,18 @@ fi
 # Process the document if needed
 if [ "$NEEDS_PROCESSING" = true ]; then
   log "Processing new TPR document with revision date $REVISION_DATE..."
-  python scripts/process-tpr.py "$TEMP_PDF" "$REPO_DIR"
+  
+  # Process with source URLs
+  SOURCE_ARGS=""
+  if [ -n "$SOURCE_WEBPAGE" ]; then
+    SOURCE_ARGS="$SOURCE_ARGS --source-url '$SOURCE_WEBPAGE'"
+  fi
+  if [ -n "$SOURCE_PDF_URL" ]; then
+    SOURCE_ARGS="$SOURCE_ARGS --pdf-url '$SOURCE_PDF_URL'"
+  fi
+  
+  # Use eval to properly handle the quoted arguments
+  eval "python scripts/process-tpr.py '$TEMP_PDF' '$REPO_DIR' $SOURCE_ARGS"
   log "Processing complete"
   
   # Commit changes if requested

@@ -87,7 +87,9 @@ jobs:
           echo "Processing new TPR document with revision date $REVISION_DATE..."
           # The script will automatically detect the new revision and process it
           # We don't need --overwrite since we've already checked this is a new revision
-          python scripts/process-tpr.py tmp/latest.pdf .
+          python scripts/process-tpr.py tmp/latest.pdf . \
+            --source-url "https://www.newtonma.gov/government/public-works/transportation-division" \
+            --pdf-url "https://www.newtonma.gov/home/showpublisheddocument/100747/637832115714270000"
           echo "Processing complete"
       
       - name: Commit changes if there are updates

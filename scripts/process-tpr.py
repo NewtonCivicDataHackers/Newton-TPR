@@ -291,14 +291,23 @@ def create_readme(index_data, sections_dir):
     revision_date = index_data.get("revision_date", "Unknown")
     last_updated = index_data.get("last_updated", datetime.date.today().strftime("%Y-%m-%d"))
     source_file = index_data.get("source", "tpr.pdf")
+    source_url = index_data.get("source_url")
+    pdf_url = index_data.get("pdf_url")
     
     # Start building the README content
     readme_content = f"# Newton Traffic and Parking Regulations\n\n"
     readme_content += f"## Document Information\n\n"
     readme_content += f"- **Revision Date**: {revision_date}\n"
     readme_content += f"- **Last Processed**: {last_updated}\n"
-    readme_content += f"- **Source Document**: [{source_file}]({source_file})\n\n"
-    readme_content += f"## Table of Contents\n\n"
+    readme_content += f"- **Local Document**: [{source_file}]({source_file})\n"
+    
+    # Add source URLs if available
+    if source_url:
+        readme_content += f"- **Source Webpage**: [{source_url}]({source_url})\n"
+    if pdf_url:
+        readme_content += f"- **Original PDF**: [{pdf_url}]({pdf_url})\n"
+    
+    readme_content += "\n## Table of Contents\n\n"
     
     # Create a table header for the sections
     readme_content += "| Section | Title | Text | PDF Page | Size |\n"
@@ -338,7 +347,14 @@ def create_readme(index_data, sections_dir):
     readme_content += "- Section files are provided in plain text format in the [sections](sections/) directory.\n"
     readme_content += "- For direct access to specific content, you can either:\n"
     readme_content += "  - Read the text files in the sections directory\n"
-    readme_content += "  - View the original PDF by clicking on the page links in the table above\n"
+    readme_content += "  - View the local PDF by clicking on the page links in the table above\n"
+    
+    if pdf_url:
+        readme_content += f"  - Access the [original PDF]({pdf_url}) on Newton's website\n"
+    
+    if source_url:
+        readme_content += f"- The latest version of this document can be found on [Newton's Transportation Division website]({source_url}).\n"
+        
     readme_content += "- Previous versions of this document can be found in the Git history.\n"
     
     return readme_content
@@ -353,6 +369,10 @@ def main():
                         help='Force processing even if the document revision date has not changed')
     parser.add_argument('--extract-date-only', dest='extract_date_only', action='store_true',
                         help='Only extract and output the revision date in YYYY-MM-DD format')
+    parser.add_argument('--source-url', dest='source_url',
+                        help='URL of the source webpage where the PDF was found')
+    parser.add_argument('--pdf-url', dest='pdf_url',
+                        help='Direct URL to the source PDF document')
     args = parser.parse_args()
     
     # Check if input file exists
@@ -443,6 +463,12 @@ def main():
         "last_updated": datetime.date.today().strftime("%Y-%m-%d"),
         "sections": []
     }
+    
+    # Add source URLs if provided
+    if args.source_url:
+        index["source_url"] = args.source_url
+    if args.pdf_url:
+        index["pdf_url"] = args.pdf_url
     
     # Process each section
     for section_num in sorted(section_content.keys(), key=int):

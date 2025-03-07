@@ -105,6 +105,7 @@ def get_tpr_document(url, output_file, cookies=None, referer=None):
             if not tpr_link.startswith(('http://', 'https://')):
                 tpr_link = urljoin(url, tpr_link)
             
+            # Print this on a separate line so it can be easily extracted by scripts
             print(f"Found TPR document link: {tpr_link}")
             
             # Step 3: Download the TPR document

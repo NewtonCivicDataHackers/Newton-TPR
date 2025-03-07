@@ -267,6 +267,78 @@ def extract_preamble(processed_text, first_section_start_line):
     
     return clean_section_content(preamble_lines)
 
+def extract_section_title(section_content):
+    """Extract the title from a section's content."""
+    if not section_content:
+        return "Reserved"
+        
+    first_line = section_content[0].strip()
+    title_match = re.match(r'^Sec\.\s*TPR-\d+\.\s*(.+?)\.?\s*$', first_line)
+    
+    if title_match:
+        return title_match.group(1).strip()
+    else:
+        return first_line.strip()
+
+def get_file_size(file_path):
+    """Get the size of a file in bytes."""
+    return os.path.getsize(file_path)
+
+
+def create_readme(index_data, sections_dir):
+    """Create a README.md file with information about the document and a table of contents."""
+    # Get the revision date from the index
+    revision_date = index_data.get("revision_date", "Unknown")
+    source_file = index_data.get("source", "tpr.pdf")
+    
+    # Start building the README content
+    readme_content = f"# Newton Traffic and Parking Regulations\n\n"
+    readme_content += f"## Document Information\n\n"
+    readme_content += f"- **Revision Date**: {revision_date}\n"
+    readme_content += f"- **Source Document**: [{source_file}]({source_file})\n\n"
+    readme_content += f"## Table of Contents\n\n"
+    
+    # Create a table header for the sections
+    readme_content += "| Section | Title | Text | PDF Page | Size |\n"
+    readme_content += "|---------|-------|------|----------|------|\n"
+    
+    # Add the preamble if it exists
+    preamble_path = os.path.join(sections_dir, "00-preamble.txt")
+    if os.path.exists(preamble_path):
+        preamble_size = get_file_size(preamble_path)
+        readme_content += f"| Preamble | TRAFFIC AND PARKING REGULATIONS | [00-preamble.txt](sections/00-preamble.txt) | - | {preamble_size} bytes |\n"
+    
+    # Add each section to the table
+    for section in index_data["sections"]:
+        section_num = section["section"]
+        section_title = section.get("title", "Unknown")
+        txt_filename = section["txt_filename"]
+        page_start = section.get("page_start", "-")
+        page_end = section.get("page_end", "-")
+        
+        # Calculate the section file size
+        section_path = os.path.join(sections_dir, f"{section_num}.txt")
+        if os.path.exists(section_path):
+            section_size = get_file_size(section_path)
+        else:
+            section_size = 0
+        
+        # Create a link to the PDF page if page_start is available
+        pdf_link = f"[{page_start}]({source_file}#page={page_start})" if page_start not in [None, "-"] else "-"
+        
+        # Add the row to the table
+        readme_content += f"| {section_num} | {section_title} | [{section_num}.txt](sections/{section_num}.txt) | {pdf_link} | {section_size} bytes |\n"
+    
+    # Add additional information
+    readme_content += "\n## Notes\n\n"
+    readme_content += f"- This document contains the Traffic and Parking Regulations for the City of Newton, updated through {revision_date}.\n"
+    readme_content += "- Section files are provided in plain text format in the [sections](sections/) directory.\n"
+    readme_content += "- For direct access to specific content, you can either:\n"
+    readme_content += "  - Read the text files in the sections directory\n"
+    readme_content += "  - View the original PDF by clicking on the page links in the table above\n"
+    
+    return readme_content
+
 def main():
     parser = argparse.ArgumentParser(description='Process a TPR document (PDF or text) and split it into sections.')
     parser.add_argument('input_file', help='Input PDF file to process')
@@ -354,6 +426,9 @@ def main():
         # Clean the section content
         clean_content = clean_section_content(section_lines)
         
+        # Extract the section title
+        section_title = extract_section_title(section_lines)
+        
         # Create filename just with the section number
         file_name = f"{section_num}.txt"
         section_file = os.path.join(sections_dir, file_name)
@@ -362,12 +437,17 @@ def main():
         with open(section_file, 'w', encoding='utf-8') as f:
             f.write('\n'.join(clean_content))
         
-        # Add to index
+        # Get file size
+        file_size = get_file_size(section_file)
+        
+        # Add to index with enhanced information
         index["sections"].append({
             'section': section_num,
+            'title': section_title,
             'page_start': page_range['start_page'],
             'page_end': page_range['end_page'],
-            'txt_filename': f"sections/{file_name}"
+            'txt_filename': f"sections/{file_name}",
+            'size': file_size
         })
         
         print(f"Processed section {section_num} (pages: {page_range['start_page']} to {page_range['end_page']})")
@@ -377,8 +457,15 @@ def main():
     with open(index_file, 'w', encoding='utf-8') as f:
         json.dump(index, f, indent=2)
     
+    # Create README.md with table of contents
+    readme_content = create_readme(index, sections_dir)
+    readme_file = os.path.join(date_dir, 'README.md')
+    with open(readme_file, 'w', encoding='utf-8') as f:
+        f.write(readme_content)
+    
     print(f"File processed and split into sections in {date_dir}")
     print(f"Index file created: {index_file}")
+    print(f"README.md created: {readme_file}")
     print(f"Total sections processed: {len(section_content)}")
 
 if __name__ == "__main__":

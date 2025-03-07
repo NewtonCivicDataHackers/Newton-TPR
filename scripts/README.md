@@ -34,7 +34,7 @@ You can also run it directly if you have the dependencies installed:
 ### Example
 
 ```bash
-uv run process-tpr.py ../source-docs/2025-03-06/tpr.pdf ../source-docs
+uv run process-tpr.py ../tpr-revisions/2025-03-06/tpr.pdf ../tpr-revisions
 ```
 
 ### Output Structure

@@ -1,0 +1,12 @@
+street1,street2,direction,times,exceptions,notes
+Albemarle Road (eastern leg),Crafts Street,northbound,,bicycles,crossing Crafts Street continuing onto Albemarle Road
+Albemarle Road (eastern leg),North Street,southbound,,bicycles,crossing North Street continuing onto Albemarle Road
+Beacon Street,Beethoven Avenue,,"Mondays, Tuesdays, Thursdays, Fridays, school days, 8:00 a.m. to 9:00 a.m. and 2:30 p.m. to 3:30 p.m., Wednesdays, school days, 8:00 a.m. to 9:00 a.m. and 12:00 p.m. to 1:00 p.m.",,
+Capital Street,Washburn Street,eastbound,"school days, 8:00 a.m. to 8:45 a.m.",,onto Capital Street
+Commonwealth Avenue (North Drive),Bristol Road,eastbound,,bicycles,
+Evelyn Road,Beethoven Avenue,,"Mondays, Tuesdays, Thursdays, Fridays, school days, 8:00 a.m. to 9:00 a.m. and 2:30 p.m. to 3:30 p.m., Wednesdays, school days, 8:00 a.m. to 9:00 a.m. and 12:00 p.m. to 1:00 p.m.",,
+Gilbert Street,Curve Street,,"from 7:00 a.m. to 9:00 a.m.",,
+Hancock Street,Woodland Road,,"7:00 a.m.to 4:00 p.m., Weekdays",,crossing Woodland Road onto Hancock Street
+Lowell Avenue,Walnut Street,southbound,,,onto Lowell Avenue
+Trowbridge Avenue,Tiger Drive,,,,
+Tiger Drive,Trowbridge Avenue,,,,

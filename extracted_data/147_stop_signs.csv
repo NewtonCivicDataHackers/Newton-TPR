@@ -1,0 +1,978 @@
+street1,street2,direction,notes
+Acacia Avenue,Lee Road,southbound,
+Adams Avenue,Cherry Street,eastbound,
+Adams Avenue,Sheridan Street,eastbound and westbound,
+Adams Street,California Street,northbound,
+Adams Street,Linwood Avenue,northbound and southbound,
+Adeline Road,Brandeis Road,southbound,
+Adeline Road,Hagen Road,northbound,
+Adella Avenue,Orchard Avenue,westbound,
+Adena Road,Derby Street,northbound,
+Adena Road,Derby Street,southbound,
+Albemarle Road,Brookside Avenue,eastbound,southern roadway
+Albemarle Road,Crafts Street,northbound,eastern roadway
+Albemarle Road,North Street,northbound and southbound,eastern roadway
+Albemarle Road,North Street,southbound,western roadway
+Albemarle Road,Crafts Street,southbound,western roadway
+Albemarle Road,Eddy Street,westbound,northern roadway
+Alderwood Road,Centre Street,westbound,
+Alexander Road,Walnut Hill Road,northbound,
+Algonquin Road,Waban Hill Road,southbound,
+Allen Avenue,Beacon Street,northbound,
+Allen Avenue,Woodward Street,southbound,
+Allerton Road,Centre Street,eastbound and westbound,
+Allerton Road,Hyde Street,westbound,
+Allerton Road,Rowena Road,southbound,
+Allston Street,Mt. Vernon Street,northbound and southbound,
+Amherst Road,Chestnut Street,westbound,
+Andrew Street,Dedham Street,northbound,
+Angier Circle,Washington Street,westbound,
+Annawan Road,Waban Avenue,northbound,
+Arapahoe Road,Commonwealth Avenue,southbound,North Drive
+Arapahoe Road,Greenough Street,northeastbound,
+Arlington Street,Nonantum Road,southbound,
+Arlington Street,Park Street,westbound,
+Arlington Street,Pembroke Street,eastbound and westbound,
+Arlington Street,Waverley Avenue,westbound,
+Armory Street,Washington Street,southbound,
+Arnold Road,Country Club Road,northbound and southbound,
+Arnold Road,Greenwood Street,eastbound,
+Arnold Road,Greenwood Street,westbound,
+Arnold Road,Meadowbrook Road,northwestbound and southeastbound,
+Asheville Road,Crehore Drive,northwestbound,
+Ashton Avenue,Homer Street,southbound,
+Ashton Avenue,Manor House Road,eastbound,
+Ashton Avenue,Morton Street,eastbound and westbound,
+Aspen Street,Washington Street,southbound,
+Athelstane Road,Clark Street,southbound,
+Athelstane Road,Parker Street,eastbound,
+Auburn Street,Lexington Street,eastbound,
+Auburndale Avenue,River Street,eastbound,
+Austin Street,Chestnut Street,westbound,
+Austin Street,Lowell Avenue,eastbound and westbound,
+Austin Street,Walnut Street,eastbound,
+Avalon Road,Allen Avenue,eastbound,
+Avalon Road,Upland Avenue,eastbound and westbound,
+Avondale Road,Commonwealth Avenue,southbound,North Drive
+Bacon Street,Pearl Street,northbound,
+Baldpate Hill Road,Brookline Street,eastbound,
+Baldpate Hill Road,Dudley Road,southeastbound,on traffic island
+Beach Street,Court Street,northbound,
+Beach Street,Washington Street,southbound,
+Beaconwood Road,Beacon Street,northbound,
+Beaumont Avenue,Commonwealth Avenue,southbound,South Drive
+Beethoven Avenue,Woodward Street,southbound,
+Bellevue Street,Centre Street,eastbound,
+Bellevue Street,Newtonville Avenue,northbound,
+Belmore Park,Washington Street,eastbound,
+Bennington Street,Centre Street,eastbound,
+Berkeley Place,Maple Street,westbound,
+Berkeley Street,Prince Street,eastbound and westbound,
+Berkeley Street,Temple Street,northbound,
+Bernard Street,Christina Street,northbound,
+Berwick Road,Lake Avenue,eastbound,
+Berwick Road,Walnut Street,westbound,
+Bishopsgate Road,Beacon Street,southbound,
+Blake Street,Cabot Street,northbound,
+Blake Street,Mill Street,southbound,
+Bonmar Circle,Washington Street,eastbound,
+Border Street,Elm Street,eastbound,
+Botsford Road,Vine Street,southbound,
+Boulder Road,Wendall Road,northbound and southbound,
+Bow Road,Cypress Street,eastbound,
+Bowdoin Street,Erie Avenue,southbound,
+Bowdoin Street,Forest Street,northbound and southbound,
+Bowdoin Street,Lincoln Street,northbound and southbound,
+Brackett Road,Park Avenue,eastbound and westbound,northern intersection
+Brackett Road,Park Avenue,eastbound,southern intersection
+Brackett Road,Waverley Avenue,eastbound,
+Braeburn Road,Commonwealth Avenue,southbound,North Drive
+Braeland Avenue,Cypress Street,westbound,
+Braeland Avenue,Herrick Road,eastbound and westbound,
+Braeland Avenue,Institution Avenue,eastbound and westbound,
+Brentwood Avenue,Garland Road,eastbound and westbound,
+Brentwood Avenue,Greenlawn Avenue,eastbound,
+Brentwood Avenue,Walnut Street,westbound,
+Bridge Street,Watertown Street,eastbound,
+Bridges Avenue,Cabot Street,southbound,
+Bristol Road,Commonwealth Avenue,southbound,North Drive
+Bristol Road,Commonwealth Avenue,southbound,South Drive
+Broadway,Churchill Street,northbound and southbound,
+Broadway,Watertown Street,southeastbound,
+Broadway,Linwood Avenue,northbound,
+Broken Tree Road,Old Farm Road,northbound and southbound,
+Brooks Avenue,Washington Street,southbound,
+Brookside Avenue,Washington Street,southbound,
+Browning Road,Parker Street,eastbound,
+Bullough Park,Commonwealth Avenue,southbound,South Drive
+Bullough Park,Mill Street,northbound,
+Bunker Lane,Fairway Drive,northbound and southbound,
+Burnham Road,Valentine Street,northbound,
+Buswell Park,Centre Street,westbound,
+Byfield Road,Chestnut Street,westbound,
+Cabot Street,East Side Parkway,eastbound and westbound,
+Cabot Street,Harvard Street,eastbound and westbound,
+California Street,Crafts Street,southwestbound,
+Capital Street,Jackson Street,southeastbound,
+Capital Street,Watertown Street,,
+Carlton Road,Beacon Street,northbound,
+Carlton Road,Waban Avenue,northbound and southbound,
+Carleton Street,Centre Street,eastbound,
+Caroline Park,Moffat Road,southeastbound,
+Carthay Circle,Walnut Street,eastbound,
+Carver Street,Woodward Street,northbound,
+Carver Street,Woodward Street,southbound,
+Cedar Street,Commonwealth Avenue,southbound,North Drive
+Cedar Street,Commonwealth Avenue,northbound,South Drive
+Cedar Street,Commonwealth Avenue,southbound,South Drive
+Cedar Street,Mill Street,northbound,
+Central Avenue,Crafts Street,northbound,
+Central Avenue,Washington Street,southbound,
+Central Street,Commonwealth Avenue,northbound,South Drive
+Central Street,Commonwealth Avenue,southbound,South Drive
+Central Street,Grove Street,westbound,
+Central Street,Maple Street,eastbound and westbound,
+Central Street,Woodland Road,northeastbound and southwestbound,
+Centre Street,Sargent Street,southeastbound,connector spur from Sargent Street east of the traffic island
+Centre Street,Cypress Street,northbound,
+Channing Road,Morseland Avenue,eastbound and westbound,
+Channing Street,Pearl Street,northbound,
+Chapel Street,California Street,northbound,
+Chapel Street,Green Street,northbound and southbound,
+Chase Street,Herrick Road,all directions,
+Chase Street,Langley Road,eastbound,
+Chaske Avenue,Melrose Street,eastbound,at the intersection of Melrose Street
+Cherry Place,Cherry Street,southeastbound,
+Chesley Road,Everett Street,northbound,
+Chester Street,Forest Street,northbound and southbound,Ward 5
+Chesterfield Road,Commonwealth Avenue,southbound,North Drive
+Chesterfield Road,Commonwealth Avenue,southbound,South Drive
+Chestnut Hill Road,Hammond Street,southwestbound,
+Chestnut Street,Boylston Street,northbound and southbound,northbound at the eastbound ramp and southbound at the westbound ramp
+Chestnut Street,Highland Street,northbound and southbound,
+Chestnut Terrace,Commonwealth Avenue,northbound,South Drive
+Cheswick Road,Commonwealth Avenue,northbound,South Drive
+Cheswick Road,Woodland Road,southbound,
+Church Street,Eldredge Street,eastbound and westbound,
+Church Street,Park Street,eastbound and westbound,
+Churchill Street,Broadway,eastbound and westbound,
+Churchill Street,Nevada Street,eastbound,
+Claflin Place,Walnut Street,westbound,
+Clarendon Street,Cabot Street,southbound,
+Clarendon Street,Norwood Avenue,northbound,
+Clark Street,Centre Street,northbound,
+Clark Street,Rowena Road,southbound,on the traffic island at the northwest corner of the Clark Street and Rowena Road intersection
+Clark Street,Route 9,eastbound,at the westbound entrance ramp of Route 9
+Clements Road,Cotton Street,westbound,
+Clements Road,Waverley Avenue,eastbound,
+Clifton Road,Redwood Road,southwestbound,
+Clifton Road,Hartman Road,northbound,
+Clinton Street,Adams Street,eastbound,
+Clinton Street,Crafts Street,westbound,
+Clinton Street,Hawthorn Street,eastbound and westbound,
+Cloverdale Road,Clark Street,northbound,
+Cloverdale Road,Miller Road,northbound and westbound,
+Cochituate Road,Plymouth Road,westbound,
+Colby Street,Centre Street,eastbound,
+Colby Street,Rochester Road and Westchester Road,westbound,
+Colgate Road,Grove Street,westbound,
+College Road,Commonwealth Avenue,northbound,South Drive
+Collins Road,Chestnut Street,northbound,
+Collins Road,Devonshire Road,westbound,
+Collins Road,Fenwick Road,westbound,
+Collins Road,Waban Avenue,northbound,
+Columbia Avenue,Winchester Street,eastbound,
+Columbus Street,Forest Street,northbound and southbound,
+Columbus Street,Hillside Road,northbound,
+Columbus Street,Lincoln Street,eastbound,
+Commonwealth Avenue,Irving Street,eastbound,North Drive at a point 100 feet east of Irving Street
+Commonwealth Avenue,Windermere Road,eastbound,North Drive at a point 165 feet east of Windermere Road
+Commonwealth Avenue,Auburn Street,eastbound,North Drive at Auburn Street (east intersection)
+Commonwealth Avenue,Beaumont Avenue,eastbound,North Drive
+Commonwealth Avenue,Bristol Road,eastbound,North Drive
+Commonwealth Avenue,Bristol Road,westbound,North Drive at Bristol Road
+Commonwealth Avenue,Bullough Park,eastbound,North Drive
+Commonwealth Avenue,Bullough Park,westerly,North Drive
+Commonwealth Avenue,Cedar Street,eastbound,North Drive
+Commonwealth Avenue,Cedar Street,westerly,North Drive
+Commonwealth Avenue,Chesterfield Road,eastbound,North Drive
+Commonwealth Avenue,Chesterfield Road,westbound,North Drive
+Commonwealth Avenue,Chestnut Street,eastbound,North Drive
+Commonwealth Avenue,Chestnut Street,westbound,North Drive
+Commonwealth Avenue,Commonwealth Avenue,southbound,North Drive at Commonwealth Avenue South Drive 97 feet east of Centre Street
+Commonwealth Avenue,Commonwealth Park,eastbound,North Drive
+Commonwealth Avenue,Commonwealth Park,westerly,North Drive
+Commonwealth Avenue,Dartmouth Street,eastbound,North Drive
+Commonwealth Avenue,Dartmouth Street,westbound,North Drive
+Commonwealth Avenue,Elberta Terrace,eastbound,North Drive
+Commonwealth Avenue,Elberta Terrace,westbound,North Drive
+Commonwealth Avenue,Exeter Street,eastbound,North Drive
+Commonwealth Avenue,Exeter Street,westerly,North Drive
+Commonwealth Avenue,Grafton Street,eastbound,North Drive
+Commonwealth Avenue,Grafton Street,westbound,North Drive
+Commonwealth Avenue,Grant Avenue,eastbound,North Drive
+Commonwealth Avenue,Hammond Street,eastbound,North Drive
+Commonwealth Avenue,Higgins Street,eastbound,North Drive
+Commonwealth Avenue,Higgins Street,westbound,North Drive
+Commonwealth Avenue,Irving Street,eastbound,North Drive
+Commonwealth Avenue,Irving Street,westerly,North Drive
+Commonwealth Avenue,Lowell Avenue,eastbound,North Drive
+Commonwealth Avenue,Lowell Avenue,westerly,North Drive
+Commonwealth Avenue,Manet Road,eastbound,North Drive
+Commonwealth Avenue,Manet Road,westerly,North Drive
+Commonwealth Avenue,Melrose Street,eastbound,North Drive
+Commonwealth Avenue,Melrose Street,westerly,North Drive
+Commonwealth Avenue,Morseland Avenue,eastbound,North Drive
+Commonwealth Avenue,Morseland Avenue,westerly,North Drive
+Commonwealth Avenue,Morton Street,eastbound,North Drive
+Commonwealth Avenue,Morton Street,westerly,North Drive
+Commonwealth Avenue,Mt. Alvernia Road,eastbound,North Drive
+Commonwealth Avenue,Mt. Alvernia Road,westbound,North Drive
+Commonwealth Avenue,Oldham Road,eastbound,North Drive
+Commonwealth Avenue,Oldham Road,westerly,North Drive
+Commonwealth Avenue,Pamela Court,eastbound,North Drive
+Commonwealth Avenue,Pamela Court,westbound,North Drive
+Commonwealth Avenue,Prince Street,eastbound,North Drive
+Commonwealth Avenue,Prince Street,westbound,North Drive
+Commonwealth Avenue,Robinhood Street,eastbound,North Drive
+Commonwealth Avenue,Robinhood Street,westbound,North Drive
+Commonwealth Avenue,Rowe Street,eastbound,North Drive
+Commonwealth Avenue,Rowe Street,westbound,North Drive
+Commonwealth Avenue,Sumner Street,eastbound,North Drive
+Commonwealth Avenue,Sumner Street,westerly,North Drive
+Commonwealth Avenue,Temple Street,eastbound,North Drive
+Commonwealth Avenue,Temple Street,westbound,North Drive
+Commonwealth Avenue,Valentine Street,eastbound,North Drive
+Commonwealth Avenue,Valentine Street,westerly,North Drive
+Commonwealth Avenue,Wauwinet Road,eastbound,North Drive
+Commonwealth Avenue,Wauwinet Road,westbound,North Drive
+Commonwealth Avenue,Westbourne Road,westerly,North Drive at a point 382 feet west of Westbourne Road
+Commonwealth Avenue,Westbourne Road,eastbound,North Drive
+Commonwealth Avenue,Westbourne Road,westerly,North Drive
+Commonwealth Avenue,Wimbledon Circle,eastbound,North Drive
+Commonwealth Avenue,Wimbledon Circle,westbound,North Drive
+Commonwealth Avenue,Windermere Road,eastbound,North Drive
+Commonwealth Avenue,Windermere Road,westbound,North Drive
+Commonwealth Avenue,Woodbine Street,westbound,North Drive
+Commonwealth Avenue,Ransom Road,northbound,northbound crossover from South Drive to North Drive 253 feet west of Ransom Road
+Commonwealth Park,Commonwealth Avenue,southbound,South Drive
+Commonwealth Park West,Commonwealth Avenue,southbound,North Drive
+Converse Avenue,Centre Street,eastbound,
+Cook Street,Green Street,southbound,
+Cook Street,Watertown Street,northbound,
+Coolidge Road,Ward Street,southbound,
+Copley Street,Washington Street,southbound,
+Corey Street,LaGrange Street,northbound,
+Cornell Street,Grove Street,eastbound and westbound,
+Cottage Street,Elliot Street,eastbound,
+Cotton Street,Centre Street,westbound,
+Cotton Street,Park Avenue,eastbound and westbound,
+Country Club Road,Dedham Street,southbound,
+Country Club Road,Meadow Road,northwestbound and southeastbound,
+Country Club Road,Rosalie Road,northbound and southeastbound,
+Countryside Road,Dedham Street,eastbound,
+Court Street,Washington Street,southbound,
+Crehore Drive,Pierrepont Road,eastbound and westbound,
+Crescent Avenue,Beacon Street,northbound and southbound,
+Crescent Avenue,Norwood Avenue,northbound and southbound,
+Crescent Avenue,Pleasant Street,northbound,
+Crescent Street,Robinhood Street,northbound,
+Crofton Road,Waban Avenue,northbound and southbound,both roadways
+Crosby Road,Commonwealth Avenue,northbound,
+Crosby Road,Hammond Street,southbound,
+Cross Hill Road,Rosalie Road,northbound,
+Cross Street,Washington Street,southbound,
+Curve Street,Auburn Street,southbound,
+Cushing Street,Allerton Road,northbound,
+Cushing Street,Centre Street,southbound,
+Cypress Street,Jackson Street,southbound,
+Cypress Street,Parker Street,northbound,
+Dalby Street,Watertown Street,southbound,
+Dalton Road,Everett Street,northbound,
+Dana Road,Parmenter Road,westbound,
+Daniel Street,Jackson Street,eastbound,
+Daniel Street,Parker Street,westbound,
+Dartmouth Street,Commonwealth Avenue,southbound,North Drive
+Dartmouth Street,Commonwealth Avenue,northbound,South Drive
+Dartmouth Street,Commonwealth Avenue,southbound,South Drive
+Dartmouth Street,Fuller Street,northbound and southbound,
+Dartmouth Street,Prince Street,northbound,
+David Road,Theodore Road,southbound,
+Davis Avenue,Furbush Avenue,westbound,
+Davis Avenue,Stoneleigh Road,eastbound,
+Davis Avenue,Watertown Street,southbound,
+Davis Street,Chestnut Street,eastbound,
+Davis Street,Highland Street,westbound,
+Day Street,Commonwealth Avenue,northbound,South Drive
+Day Street,Washington Street,eastbound,
+Dedham Street,Walnut Street,eastbound and westbound,
+Derby Street,Waltham Street,eastbound,
+Devon Street,Middlesex Road,northbound,
+Devonshire Road,Collins Road,northbound,
+Dexter Road,Walnut Street,northbound and southbound,
+Dickerman Road,Boylston Street,southbound,
+Dickerman Road,Lincoln Street,southbound and northbound,
+Dorcar Road,Vine Street,northbound,
+Druid Hill Road,Upland Avenue,southbound,
+Drumlin Road,Dudley Road,northbound,
+Drumlin Road,Hartman Road,southbound,
+Dudley Road,Boylston Street,northbound,
+Dudley Road,Brookline Street,southbound,
+Dudley Road,Greenwood Street,northbound and southbound,
+Duncklee Street,Manchester Road,eastbound and westbound,
+Duncklee Street,Walnut Street,eastbound,
+Dunstan Street,Washington Street,southbound,
+Dunstan Street,Watertown Street,northbound,
+East Side Parkway,Cabot Street,southbound,
+East Side Parkway,Newtonville Avenue,northbound,
+East Side Parkway,Newtonville Avenue,southbound,on the east side of the channelized island 76 feet south of Newtonville Avenue
+Eddy Street,Washington Street,southbound,
+Edward Road,Derby Street,southbound,
+Eldredge Street,Church Street,northeastbound and southwestbound,
+Eldredge Street,Vernon Street,northbound and southbound,
+Elgin Street,Glen Avenue,eastbound and westbound,
+Elgin Street,Langley Road,westbound,
+Elinor Road,Walnut Street,westbound,
+Elinor Road,Woodcliff Road,eastbound and westbound,
+Elliot Street,Oak Street,eastbound and westbound,
+Ellis Road,Valentine Street,eastbound,
+Ellis Road,Wauwinet Road,westbound,
+Ellis Street,Chestnut Street,eastbound,
+Ellis Street,Route 9,northbound,eastbound ramp
+Ellison Road,Commonwealth Avenue,northbound,South Drive
+Elm Street,River Street,northbound,
+Elm Street,Webster Street,northbound and southbound,
+Elmhurst Road,Washington Street,southbound,
+Elmwood Street,Park Street,eastbound,
+Elsworth Road,Parmenter Road,westbound,
+Emerson Street,Pearl Street,southbound,
+Endicott Street,Plymouth Road,eastbound,
+Erie Avenue,Hartford Street,eastbound,
+Erie Avenue,Woodward Street,westbound,
+Evelyn Road,Paulson Road,northbound and southbound,
+Everett Street,Summer Street,westbound,
+Executive Park Drive,Washington Street,southbound,
+Exeter Street,Commonwealth Avenue,northbound,South Drive
+Exeter Street,Commonwealth Avenue,southbound,South Drive
+Exeter Street,Commonwealth Avenue,southbound,North Drive
+Fair Oaks Avenue,California Street,northbound and southbound,
+Fair Oaks Avenue,Fessenden Street,westbound,
+Fairfield Street,Bolton Road,southbound and northbound,
+Fairlee Road,Woodward Street,northbound,
+Fairmont Avenue,Centre Street,eastbound,
+Fairway Drive,Bunker Lane,eastbound and westbound,
+Fairway Drive,Waltham Street,westbound,
+Fairway Drive,Watertown Street,southbound,
+Falmouth Road,Parmenter Road,westbound,
+Farlow Road,Waverley Avenue,westbound,
+Farwell Street,North Street,southbound,southern intersection
+Faxon Street,Watertown Street,southbound,
+Fellsmere Road,Mandalay Road,northeastbound and southwestbound,
+Fenwick Road,Chestnut Street,eastbound,
+Fenwick Road,Collins Road,northwestbound,
+Fern Street,Hancock Street,eastbound,
+Ferncroft Road,Beacon Street,southbound,
+Ferncroft Road,Paulson Road,northbound,
+Fessenden Street,Crafts Street,southwestbound,
+Fessenden Street,Nevada Street,northeastbound,
+Fessenden Street,Nevada Street,southwestbound,
+Fisher Avenue,Walnut Street,eastbound,
+Floral Street,Hyde Street,northeastbound,
+Floral Street,Walnut Street,westbound,
+Forest Avenue,Highland Street,northbound and southbound,
+Forest Avenue,Otis Street,northbound and southbound,
+Forest Avenue,Woodland Road,northbound,
+Forest Street,Chester Street,eastbound and westbound,
+Forest Street,Columbus Street,eastbound and westbound,
+Foster Street,Chester Street,eastbound and westbound,
+Fountain Street,Highland Street,southbound and northbound,
+Fountain Street,Valentine Street,westbound,
+Fox Lane,Arnold Road,westbound,
+Fox Lane,Meadowbrook Road,eastbound,
+Fox Place,Arnold Road,eastbound,
+Franklin Street,Centre Street,westbound,
+Franklin Street,Waverley Avenue,eastbound and westbound,
+Franklin Street,Park Street,all directions,
+Franklin Street,Park Street,eastbound and westbound,eastern intersection
+Fredette Road,Sawmill Brook Parkway,northwestbound,
+Fredette Road,Spiers Road,southeastbound,
+Freeman Street,Staniford Street,northbound,
+Fuller Street,Chestnut Street,eastbound and westbound,
+Fuller Street,Commonwealth Avenue,northbound,South Drive (eastern intersection)
+Fuller Street,Commonwealth Avenue,northwestbound,South Drive (western intersection)
+Fuller Street,Evelyn Road,eastbound,
+Fuller Street,Parmenter Road,eastbound,
+Furber Lane,Commonwealth Avenue,northbound,South Drive
+Furbush Avenue,Adella Avenue and Orchard Avenue,eastbound,
+Furbush Avenue,Davis Avenue and Stoneleigh Road,westbound,
+Garden Road,Centre Street,westbound,
+Gardner Street,Pearl Street,southbound,
+Gardner Street,School Street,eastbound,
+Garland Road,Brentwood Avenue,northbound and southbound,
+Garrison Street,Commonwealth Avenue,southbound,North Drive
+Garrison Street,Ward Street,northbound,
+Gay Street,Cabot Street,northbound,
+George Street,Centre Street,westbound,
+Gibbs Street,Everett Street,southbound,
+Gibbs Street,Summer Street,eastbound and westbound,
+Gilbert Street,Auburn Street,northbound,
+Gilbert Street,Greenough Street,southwestbound,
+Glen Avenue,Langley Road,southbound,
+Glenwood Avenue,Parker Street,westbound,
+Goddard Street,Christina Street,westbound,
+Goddard Street,Winchester Street,eastbound,
+Gordon Road,Beacon Street,southbound,
+Gordon Road,Chestnut Street,westbound,
+Gordon Road,Paulson Road,northbound,
+Grafton Street,Commonwealth Avenue,southbound,North Drive
+Grafton Street,Commonwealth Avenue,northbound,South Drive
+Grafton Street,Commonwealth Avenue,southbound,South Drive
+Grafton Street,Homer and Water Streets,westbound,
+Gralynn Road,Mandalay Road,northbound and southbound,
+Grant Avenue,Ward Street,northbound,
+Grasmere Street,Hunnewell Avenue,northbound and southbound,
+Grasmere Street,Washington Street,southbound,
+Graycliff Road,Beacon Street,southbound,
+Great Meadow Road,Brandeis Road,southeastbound,
+Green Street,Chapel Street,northeastbound and southwestbound,
+Green Street,Pearl Street,northeastbound,
+Greenlawn Avenue,Homer Street,northbound,
+Greenough Street,Auburn Street,northbound,
+Greenough Street,Washington Street,southeastbound,
+Greenwood Street,Country Club Road,all directions,
+Greenwood Street,Dedham Street,southbound,
+Greenwood Street,Dudley Road,eastbound,
+Greenwood Street,Hartman Road,northeastbound and southwestbound,
+Grove Hill Avenue,Lakeview Avenue,southbound,
+Grove Hill Avenue,Prospect Avenue,northbound,
+Grove Hill Avenue,Prospect Avenue,southbound,
+Grove Street,Hagar Street,northbound and southbound,
+Grove Street,Woodland Road,southbound and northbound,
+Hagar Street,Concord Street,southwestbound,
+Hagar Street,Grove Street,eastbound,
+Hagen Road,Adeline Road,eastbound,
+Hagen Road,Olde Field Road,eastbound and westbound,
+Hagen Road,Parker Street,westbound,
+Halcyon Road,Parker Street,eastbound,
+Hammond Pond Parkway,Beacon Street,northbound,from right turn lane onto Beacon Street
+Hammond Street,Middlesex Road,northbound,
+Hammond Street,Middlesex Road,southbound,
+Hammond Street,Suffolk Road,northbound,
+Hammond Street,Suffolk Road,southbound,
+Hammond Street,Ward Street,northbound,
+Hammondswood Road,Commonwealth Avenue,northbound,South Drive
+Hammondswood Road,Hammond Street,southbound and northbound,
+Hammondswood Road,Monadnock Road,northbound and southbound,
+Hampshire Street,Valentine Street,eastbound,
+Hancock Avenue,Beacon Street,southbound,easterly intersection
+Hancock Street,Woodland Road,northwestbound and southeastbound,
+Hancock Street,Grove Street,southbound,
+Hanson Road,Saw Mill Brook Parkway,southeastbound,
+Hanson Road,Wiswall Road,northwestbound,
+Harrington Street,Albemarle Road,northbound,
+Harrington Street,Washington Street,southbound,
+Harris Road,Cherry Street,westbound,
+Hartford Street,Lincoln Street,northbound,
+Hartman Road,Brookline Street,southbound,
+Hartman Road,Greenwood Avenue,eastbound and westbound,
+Hartman Road,Meadowbrook Road,westbound,
+Harvard Street,Cabot Street,northbound and southbound,
+Hatfield Road,Fuller Terrace,eastbound and westbound,northern intersection
+Hawthorn Street,Clinton Street,northbound and southbound,
+Hawthorn Street,Watertown Street,northbound,
+Hawthorne Avenue,Woodland Road,northbound,
+Haynes Road,Olde Field Road,eastbound and westbound,
+Hazelton Road,Commonwealth Avenue,southbound,North Drive
+Heatherland Road,Upland Avenue,eastbound and westbound,
+Heatherland Road,Winchester Street,westbound,
+Henshaw Place,Kilburn Road,westbound,
+Henshaw Street,Henshaw Street,northbound,Henshaw Place and Kilburn Road
+Henshaw Street,Kilburn Road,eastbound,
+Henshaw Street,River Street,southbound,
+Herrick Road,Braeland Avenue,northbound and southbound,
+Herrick Road,Union Street,northbound,
+Hibbard Road,Washington Street,northbound,
+Hibbard Road,Tremont Street,southbound,
+Higgins Street,Commonwealth Avenue,southbound,North Drive
+Higgins Street,Commonwealth Avenue,southbound,South Drive
+High Street,Boylston Street,northbound,
+High Street,Elliot Street,eastbound,
+Highland Avenue,Lowell Avenue,eastbound and westbound,
+Highland Avenue,Walnut Street,eastbound,
+Highland Street,Chestnut Street,southeastbound and northwestbound,
+Highland Street,Chestnut Street,westbound,at the connector between Highland Street and Chestnut Street
+Highland Street,Lowell Avenue,eastbound,
+Highland Street,Valentine Street,westbound,
+Hillside Avenue,Austin Street,northbound,
+Hillside Road,Columbus Street,eastbound,
+Hillside Road,Raeburn Terrace,westbound,
+Hillside Road,Walnut Street,eastbound,
+Hobart Road,Beacon Street,southeastbound,west side of triangle at intersection
+Hobart Road,Commonwealth Avenue,southbound,North Drive
+Hobart Road,Ward Street,northbound,
+Hollis Street,Centre Street,westbound,north
+Hollis Street,Centre Street,westbound,south
+Homer Street,Centre Street,eastbound,
+Homer Street,Commonwealth Avenue,northbound,northbound right turn lane at Commonwealth Avenue South Drive
+Hood Street,Nonantum Street,northbound,
+Hope Street,Washington Street,westbound,
+Hovey Street,Waban Street,northbound,
+Hovey Street,Washington Street,southbound,
+Howe Road,Parker Street,westbound,
+Howley Avenue,Parker Street,eastbound,
+Hull Street,Lowell Avenue,westbound,
+Hunnewell Avenue,Washington Street,southbound,
+Hunnewell Circle,Washington Street,southbound,
+Huntington Road,Chamberlain Road,westbound,
+Huntington Road,Farlow Road,westbound,
+Hyde Avenue,Centre Street,westbound,
+Hyde Street,Centre Street,southeastbound,
+Hyde Street,Lake Avenue,northbound and southbound,
+Hyde Street,Walnut Street,westbound,
+I-95 North,Washington Street,northwestbound,exit 21 dedicated left turn lane
+Intervale Road,Hobart Road,eastbound and westbound,
+Irving Street,Commonwealth Avenue,southbound,South Drive
+Irvington Street,Beacon Street,northbound,
+Islington Road,Commonwealth Avenue,southbound,South Drive
+Islington Road,Commonwealth Avenue,southbound,North Drive
+Jackson Street,Langley Road,eastbound and westbound,
+James Street,River Street,southbound,
+Jasset Street,California Street,northbound,
+Jefferson Street,Maple Street,northbound,
+Jewett Street,Boyd Street,northbound and southbound,
+Jewett Street,Gardner Street,northbound and southbound,
+Jewett Street,Pearl Street,northbound and southbound,
+Jewett Street,Waban Park,northbound,
+John F. Kennedy Circle,Green Street,eastbound,east end
+John F. Kennedy Circle,Green Street,westbound,west end
+Judith Road,Walnut Street,westbound,
+June Lane,Spiers Road,southbound,Ward 8
+Kendall Road,Parker Street,eastbound,
+Kendall Road,Walnut Hill Road,westbound,
+Kenmore Street,Lake Avenue,eastbound,
+Kenrick Terrace,Kenrick Street,southbound,
+Kenwood Avenue,Commonwealth Avenue,northbound,South Drive
+Kilburn Road,Henshaw Street and Henshaw Place,southbound,
+Kingman Road,Manchester Road,westbound,
+Kirkstall Road,Walnut Street,westbound,
+Lake Avenue,Beacon Street,northbound and southbound,
+Lake Avenue,Hyde Street,eastbound and westbound,
+Lake Avenue,Pleasant Street,northbound,
+Lake Avenue,Rogers Street,northbound and southbound,
+Lake Avenue,Woodland Road,northbound,
+Lakewood Road,Walnut Street,eastbound and westbound,
+Lakewood Road,Lake Avenue,eastbound,
+Lancaster Road,Cotton Street,eastbound,
+Langdon Street,Bellevue Street,northbound,
+Langdon Street,Cabot Street,northbound and southbound,
+Laurel Street,Beacon Street,northbound,
+Lasell Street,Hancock Street,westbound,
+Lawmarissa Road,Fredana Road and Oakvale Road,northbound and southbound,
+Lawmarissa Road,Moffat Road,northbound,
+Lawrence Avenue,Beacon Street,northbound,
+Lawrence Road,Hammond Street,northbound,
+Lee Road,Reservoir Avenue,eastbound,
+Lenglen Road,Washington Street,southbound,
+Lenox Street,Highland Street,northbound and southbound,
+Lenox Street,Sylvan Avenue,southbound,
+Leslie Road,Day Street,eastbound,
+Leslie Road,Washington Street,westbound,
+Lewis Street,Newtonville Avenue,northbound,
+Lewis Terrace,Newtonville Avenue,northbound,east side of triangle
+Lewis Terrace,Newtonville Avenue,southbound,
+Lincoln Road,Adams Street,eastbound,
+Lincoln Road,Crafts Street,southwestbound,
+Lincoln Street,Woodward Street,eastbound and westbound,
+Linwood Avenue,Adams Street,eastbound and westbound,
+Linwood Avenue,Nevada Street,eastbound and westbound,
+Linwood Avenue,Walnut Street,eastbound and westbound,
+Linwood Avenue,Watertown Street,southbound,
+Lion Drive,Greenwood Street,southbound,
+Littlefield Road,Greenwood Street,southbound,
+Locksley Road,Hereward Road,southeastbound,
+Lombard Street,Centre Street,eastbound,
+Longfellow Road,Washington Street,westbound,
+Long Meadow Road,Old Farm Road,northbound,
+Los Angeles Street,California Street,northbound,
+Los Angeles Street,California Street,southbound,
+Louise Road,Florence Street,northbound,
+Lowell Avenue,Walnut Street,northbound and southbound,
+Lyman Street,Summer Street,eastbound,
+Madison Avenue,Walnut Street,westbound,
+Mandalay Road,Fellsmere Road,northwestbound and southeastbound,
+Mandalay Road,Gralynn Road,eastbound and westbound,
+Mandalay Road,Waverley Avenue,westbound,
+Mandalay Road,Woodchester Road,eastbound,
+Manemet Road,Commonwealth Avenue,northbound,South Drive
+Manet Road,Commonwealth Avenue,northbound,
+Manet Road,Commonwealth Avenue,southbound,
+Manet Road,Commonwealth Avenue,southbound,North Drive
+Manitoba Road,Nehoiden Road,southbound,
+Maple Street,Central Street,southbound and northbound,
+Maple Street,Nonantum Road,eastbound,
+Maple Street,Woodland Road,southbound,
+Marcellus Drive,Parker Street,eastbound,
+Marlboro Street,Arlington Street,northbound and southbound,
+Marriott Hotel Driveway,Commonwealth Avenue,southerly,North Drive
+Marriott Hotel Driveway,Commonwealth Avenue,southbound,South Drive
+Marshall Street,Sumner Street,westbound,
+Marshfield Road,Jackson Street,northwestbound,
+Mary Mount Road,Washington Street,eastbound,
+Mason Road,Commonwealth Avenue,eastbound,South Drive
+Maynard Street,Morrill Street,westbound,
+McCarthy Road,Saw Mill Brook Parkway,southeastbound,
+McCarthy Road,Wiswall Road,northwestbound,
+Meadowbrook Road,Dedham Street,southwestbound,
+Meadowbrook Road,Wheeler Road,all directions,
+Mechanic Street,Elliot Street,northbound,
+Melina Road,Parker Street,westbound,
+Melrose Street,Ash Street,southbound,
+Melrose Street,Auburn Street,southbound,
+Melrose Street,Staniford Street and West Pine Street,all directions,
+Metacomet Road,Dorset Road,northbound,
+Middle Street,Adams Street,westbound,
+Middlesex Road,Hammond Street,westbound,
+Mildred Road,Elinor Road,northwestbound,
+Mildred Road,Truman Road,southbound,
+Mill Street,Centre Street,eastbound,
+Mill Street,Walnut Street,westbound,
+Miller Road,Cloverdale Road,eastbound,
+Milo Street,Derby Street,southbound,
+Moffat Road,Chestnut Street,eastbound,
+Moffat Road,Windsor Road,westbound,
+Monadnock Road,Hammondswood Road,eastbound and westbound,
+Monadnock Road,Wachusett Road,northwestbound and southeastbound,
+Montclair Road,Short Street and Beacon Street,all directions,at the intersection with Short Street and Beacon Street
+Montrose Street,Waverley Avenue,westbound,
+Moreland Avenue,Pine Crest Road,eastbound,
+Morseland Avenue,Commonwealth Avenue,westbound,North Drive
+Morseland Avenue,Commonwealth Avenue,southbound,South Drive
+Morton Street,Commonwealth Avenue,southbound,North Drive
+Morton Street,Commonwealth Avenue,southbound,South Drive
+Morton Street,Commonwealth Avenue,northbound,South Drive
+Morton Street,Homer Street,southbound,
+Morton Street,Mill Street,northwestbound,
+Mountfort Road,Lincoln Street,southbound,
+Mt. Ida Street,Centre Street,eastbound,
+Mt. Ida Street,Newtonville Avenue,southbound,
+Mt. Vernon Street,Allston Street,eastbound and westbound,
+Mt. Vernon Street,Austin Street,northeastbound,Ward 2
+Munroe Street,Newtonville Avenue,northwestbound,
+Murray Road,Webster Street,southbound,
+Myrtle Street,Temple Street,southeastbound,
+Myrtle Street,Washington Street,northwestbound,
+Nardone Road,Great Meadow Road,westbound,
+Nathan Road,Centre Street,eastbound,
+Nathan Road,Commonwealth Avenue,westbound,North Drive
+Nehoiden Road,Beacon Street,northbound,
+Nehoiden Road,Carlton Road,eastbound and westbound,
+Nehoiden Road,Waban Avenue,southbound,
+Nevada Street,Albemarle Road,northbound,
+Nevada Street,Linwood Avenue,northbound and southbound,
+Nevada Street,Watertown Street,southbound,
+Newell Road,Auburndale Avenue,southeastbound,
+Newtonville Avenue,Centre Street,southeastbound,
+Newtonville Avenue,Walnut Street,westbound,
+Nobscot Road,Commonwealth Avenue,southbound,North Drive
+Nonantum Street,Waverley Avenue,westbound,
+North Street,Commonwealth Avenue,northbound,South Drive
+Norwood Avenue,Crescent Avenue,eastbound,
+Oak Street,Elliot Street,northbound,
+Oak Cliff Road,Valentine Street,westbound,
+Oak Hill Street,Dedham Street,southwestbound,
+Oak Hill Street,Old Farm Road,northbound and southbound,
+Oak Vale,Chestnut Street,eastbound,
+Oakland Avenue,Commonwealth Avenue,northbound,South Drive
+Oakland Street,Church Street,northbound,
+Oakland Street,Newtonville Avenue,southbound,
+Old Farm Road,Oak Hill Street,eastbound and westbound,Ward 8
+Old Orchard Road,Hammond Street,northbound,
+Olde Field Road,Boylston Street,northbound,
+Olde Field Road,Brandeis Road,southbound,Ward 8
+Olde Field Road,Hagen Road,northbound and southbound,
+Olde Field Road,Haynes Road,northbound and southbound,
+Oldham Road,Commonwealth Avenue,southbound,North Drive
+Oldham Road,Commonwealth Avenue,southbound,South Drive
+Orris Street,Newell Road,eastbound,
+Ossippee Road,Linden Street,eastbound and westbound,
+Otis Street,Chestnut Street,westbound,
+Otis Street,Walnut Street,eastbound,
+Park Avenue,Cotton Street,northbound and southbound,
+Park Avenue,Sargent Street,northbound,
+Park Lane,Greenlawn Avenue,westbound,
+Park Lane,Pleasant Street,eastbound,
+Park Street,Church Street,northbound,
+Park Street,Franklin Street,northbound,eastern intersection
+Park Street,Franklin Street,southbound,western intersection
+Park Street,Vernon Street,southbound,
+Parker Avenue,Parker Street,eastbound,
+Parker Road,Parker Street,eastbound,
+Parker Street,Dedham Street,southbound,
+Parker Terrace,Parker Street,westbound,
+Parmenter Road,Derby Street,southbound,
+Parsons Street,Washington Street,southbound,
+Paul Street,Centre Street,westbound,
+Paul Street,Cypress Street,eastbound,
+Paulson Road,Evelyn Road,northwestbound and southeastbound,
+Peabody Street,Pearl Street,northbound,
+Peabody Street,Washington Street,southbound,
+Pearl Street,Jewett Street,eastbound and westbound,
+Peirce Elementary School parking lot,Ruane Road,southbound,
+Pelham Street,Crescent Avenue,northwestbound,Ward 6
+Pembroke Street,Arlington Street,northeastbound and southwestbound,
+Pershing Road,Adams Avenue,southbound,
+Pettee Street,High Street,southbound,
+Philip Bram Way,Austin Street,northbound,
+Philip Bram Way,Highland Avenue,southbound,
+Pine Ridge Road,Allen Avenue,eastbound,
+Pine Ridge Road,Chestnut Street,eastbound and westbound,
+Pine Ridge Road,Upland Road,eastbound and westbound,
+Pine Ridge Road,Woodward Street,westbound,
+Pine Street,River Street,northbound,
+Pine Street,Washburn Avenue,southwestbound,
+Plainfield Street,Allen Avenue,eastbound,
+Plainfield Street,Upland Road,eastbound and westbound,
+Pleasant Street,Centre Street,eastbound,
+Pleasant Street,Homer Street,northbound,
+Pleasant Street,Lake Avenue,southbound and westbound,
+Plymouth Road,Woodward Street,southbound,
+Pond Brook Road,Brookline Street,northbound and southbound,
+Prentice Road,Commonwealth Avenue,southbound,North Drive
+Prescott Street,Central Avenue,eastbound and westbound,
+Prince Street,Berkeley Street,northbound and southbound,
+Prince Street,Chestnut Street,eastbound and westbound,
+Prince Street,Commonwealth Avenue,southbound,North Drive
+Prince Street,Commonwealth Avenue,southbound,South Drive
+Prince Street,Temple Street,northbound,
+Priscilla Road,Hammond Street,southbound,
+Priscilla Road,Old Colony Road,eastbound,
+Proctor Street,Walker Street,westbound,
+Prospect Avenue,Beaumont Avenue,westbound,
+Prospect Street,Temple Street,southbound,
+Puritan Road,Beethoven Avenue,westbound,
+Putnam Street,Temple Street,southbound,
+Quincy Road,Priscilla Road,westbound,
+Rachel Road,Dedham Street,eastbound,
+Rachel Road,Winchester Street,westbound,
+Randlett Park,Waltham Street,westbound,
+Randlett Park,Watertown Street,southeastbound,
+Randolph Street,Woodward Street,eastbound,
+Ransom Road,Commonwealth Avenue,southbound,North Drive
+Read Court,Commonwealth Avenue,northbound,South Drive
+Redwood Road,Brookline Street,southbound,
+Redwood Road,Hartman Road,northbound,
+Reservoir Avenue,Beacon Street,northbound,
+Reservoir Avenue,Lee Road,northbound,
+Reservoir Drive,Woodlawn Drive,westbound,
+Richardson Street,Centre Street,eastbound,
+Richardson Street,Church Street,westbound,
+Richmond Road,Centre Street,eastbound,
+Ridge Avenue,Parker Street,westbound,
+Risley Road,Commonwealth Avenue,southbound,North Drive
+River Street,Waltham Street,eastbound,
+Robinhood Street,Commonwealth Avenue,southbound,North Drive
+Robinhood Street,Commonwealth Avenue,southbound,South Drive
+Rogers Street,Allerton Road,eastbound,
+Rogers Street,Lake Avenue,northbound,
+Roland Street,Charlemont Street,northeastbound,
+Roland Street,Christina Street,westbound,
+Roosevelt Road,Brandeis Road,southeastbound,
+Roosevelt Road,Parker Street,westbound,
+Rosalie Road,Country Club Road,eastbound and westbound,
+Rosalie Road,Dedham Street,southbound,
+Rosalie Road,Hartman Road,northbound,
+Rowe Street,Auburndale Avenue,northbound,
+Rowe Street,Commonwealth Avenue,southbound,North Drive
+Rowe Street,Commonwealth Avenue,southbound,South Drive (easterly intersection)
+Rowe Street,Commonwealth Avenue,southbound,South Drive (westerly intersection)
+Rowe Street,Rowe Street,all directions,
+Rowe Street,Webster Street,northbound and southbound,
+Rowena Road,Clark Street,eastbound,
+Ruane Road,Commonwealth Avenue,southbound,North Drive
+Sargent Street,Park Street,westbound,
+School Street,Pearl Street,southbound,
+Scotney Road,Dorcar Road,eastbound,
+Selwyn Road,Mildred Road,northbound and southbound,
+Seminary Avenue,Woodland Road,northbound,
+Seton Hill Road,Washington Street,eastbound,
+Shady Hill Road,Stony Brae Road,northbound and southbound,
+Shamrock Street,Clinton Street,northbound and southbound,
+Sheffield Road,Highland Street,northbound,easterly approach
+Sheffield Road,Highland Street,northbound,westerly approach
+Sheridan Street,Adams Avenue,northbound and southbound,
+Sheridan Street,River Street,southbound,
+Shornecliffe Road,Franklin Street,northbound and southwestbound,
+Shornecliffe Road,Nonantum Street,northbound,
+Short Street,Beacon Street,southbound,
+Silver Lake Avenue,Adams Street,eastbound,
+Silver Lake Avenue,Adams Street,westbound,
+Smith Avenue,River Street,southbound,
+Solon Street,Walnut Street,westbound,northern intersection
+Spaulding Lane,Brookline Street,westbound,
+Spiers Road,Dedham Street,northeastbound,
+St. James Terrace,Charlesbank Road,southbound,
+Staniford Street,Lexington Street,eastbound,
+Stanley Road,Chestnut Street,westbound,
+Stanton Avenue,Washington Street,northwestbound,northern intersection
+Stanton Avenue,Washington Street,westbound,southern intersection
+Station Avenue,Lake Avenue,northbound,
+Stearns Street,Parker Street,eastbound,
+Stein Circle,Saw Mill Brook Parkway,southbound,
+Sterling Street,Berkeley Street,southbound,
+Stone Avenue,Hammond Street,southwestbound,Ward 6
+Stoneleigh Road,Furbush Avenue,southbound,
+Stony Brae Road,Walnut Street,eastbound,
+Stony Brae Road,Dedham Street,southbound,
+Stony Brae Road,Shady Hill Road,northbound and southbound,
+Stuart Road,Cotton Street,northbound,
+Studio Road,Woodland Road,northbound,
+Suffolk Road,Hammond Street,eastbound,
+Summer Street,Chestnut Street,westbound,
+Summit Street,Bellevue Street,southbound,
+Summit Street,Newtonville Avenue,eastbound,
+Sumner Street,Commonwealth Avenue,southbound,North Drive
+Sumner Street,Commonwealth Avenue,northbound,South Drive
+Sumner Street,Commonwealth Avenue,southbound,South Drive
+Sumner Street,Willow Street,southbound,
+Swallow Drive,Baker Place,westbound,
+Sylvan Avenue,Bigelow Road,southbound,
+Sylvan Avenue,Lenox Street,westbound,
+Tamworth Road,Chestnut Street,eastbound,
+Temple Street,Fuller Street,southbound,
+Temple Street,Commonwealth Avenue,southbound,North Drive
+Temple Street,Commonwealth Avenue,northbound,South Drive
+Temple Street,Commonwealth Avenue,southbound,South Drive
+Temple Street,Highland Street,eastbound,
+Terrace Avenue,Hillside Road,southwestbound,
+Theodore Road,Parker Street,westbound,
+Theodore Road,Roosevelt Road,northbound and southbound,
+Thornton Street,Pearl Street,northbound,
+Thornton Street,Washington Street,southbound,
+Thurston Road,Circuit Avenue,eastbound,
+Tirrell Crescent,Dorcar Road,westbound,
+Tolman Street,Derby Street,northbound and southbound,
+Trowbridge Street,Norwood Avenue,westbound,
+Truman Road,Mildred Road,northbound and westbound,
+Truman Road,Parker Street,eastbound,
+Tudor Road,Beacon Street,southbound,
+Tudor Road,Hammond Street,northbound,
+Turner Street,Central Avenue,eastbound,
+Turner Terrace,Central Avenue,westbound,
+Tyler Terrace,Pleasant Street,westbound,
+Union Street,Langley Road,eastbound,
+Upland Avenue,Dedham Street,northbound,
+Upland Avenue,Heatherland Road,northbound and southbound,
+Upland Avenue,Rachel Road,southbound,
+Upland Road,Mill Street,southwestbound,
+Upland Road,Woodward Street,southbound,
+Valentine Park,Valentine Street,northbound,
+Valentine Street,Commonwealth Avenue,southbound,North Drive
+Valentine Street,Commonwealth Avenue,southbound,South Drive
+Varick Road,Beacon Street,northbound,
+Vernon Street,Centre Street,westbound,
+Vernon Street,Eldredge Street,westbound,
+Vernon Street,Park Street,eastbound,
+Vernon Street,Waverley Avenue,westbound,
+Vine Street,Brookline Street,northbound,
+Vine Street,Lagrange Street,eastbound,
+Vista Avenue,Woodland Road,northbound,
+Waban Avenue,Crofton Road,eastbound and westbound,both roadways
+Waban Avenue,Waban Avenue,westbound,two-way portion westbound direction at Waban Avenue one-way southbound portion
+Waban Avenue,Waban Avenue,southbound,approximately 120 feet south of Manitoba Road
+Waban Hill Road,Commonwealth Avenue,southbound,North Drive
+Waban Street,Jewett Street,eastbound and westbound,
+Waban Street,Pearl Street,northbound,
+Waban Street,Thornton Street,eastbound,
+Wachusett Road,Hobart Road,westbound,
+Wachusett Road,Monadnock Road,northeastbound,
+Wachusett Road,Monadnock Road,southwestbound,
+Walden Street,Highland Street,southbound,
+Walker Street,Page Road,northbound,
+Walker Street,Washington Street,southbound,
+Wallace Street,Winchester Street,eastbound,
+Walnut Hill Road,Elinor Road,eastbound,
+Walnut Hill Road,Parker Avenue,northbound and southbound,
+Walnut Hill Road,Woodcliff Road,westbound,
+Walnut Park,Washington Street,southbound,
+Walnut Place,Walnut Street,eastbound,Ward 2
+Walnut Place,Walnut Street,westbound and eastbound,Ward 5
+Walnut Street,Boylston Street,southbound,westbound roadway
+Walnut Street,Boylston Street,northbound,eastbound roadway
+Walnut Street,Crafts Street,northbound,
+Walnut Street,Dedham Street,southbound,
+Walnut Street,Newtonville Avenue,southeastbound,
+Walsingham Street,Washington Street,eastbound,
+Walter Street,Jackson Street,southeastbound,
+Walter Street,Parker Street,westbound,
+Waltham Street,Lyme Road,northwestbound,at triangle facing Waltham opposite Lyme Road
+Ward Street,Hammond Street/Woodchester Drive,eastbound,
+Ward Street,Manet Road,eastbound,
+Ward Street,Morseland Avenue,westbound,
+Ware Road,Melrose Street,eastbound,
+Warren Street,Glen Avenue,westbound,
+Warren Street,Langley Road,westbound,
+Washburn Avenue,Auburndale Avenue,southbound,
+Washburn Street,Capital Street,northeastbound and southwestbound,
+Washburn Street,Pearl Street,southwestbound,
+Washington Avenue,Parmenter Road,eastbound,
+Washington Park,Walnut Street,westbound,
+Washington Terrace,Washington Street,southbound,
+Water Street,Commonwealth Avenue,northbound,South Drive
+Water Street,Homer Street,southbound,
+Watertown Street,Eddy Street/Eliot Avenue,all directions,
+Wauwinet Road,Commonwealth Avenue,southbound,North Drive
+Wauwinet Road,Commonwealth Avenue,southbound,South Drive
+Waverley Avenue,Washington Street,northbound,
+Webster Street,Elm Street,eastbound and westbound,
+Webster Street,Rowe Street,westbound,
+Webster Street,Waltham Street,eastbound,
+Wells Avenue,Wells Avenue,westbound,from left-turn lane
+Wendell Road,Parker Street,eastbound,
+Wesley Street,Centre Street,eastbound,north
+Wesley Street,Centre Street,eastbound,south
+Westbourne Road,Commonwealth Avenue,southbound,North Drive
+Westbourne Road,Commonwealth Avenue,southbound,South Drive
+West Street,Middle Street,eastbound,
+West Street,Watertown Street,northbound,
+West Pine Street,Freeman Street,eastbound,
+Westchester Road,Cabot Street,northbound,
+Westwood Street,Webster Street,southbound,
+Whittlesey Road,Parker Street,westbound,
+Williston Road,Hancock Street,eastbound,
+Willow Street,Centre Street,westbound,
+Wiltshire Road,Adams Street,westbound,
+Wiltshire Road,Jackson Road,eastbound,
+Wimbledon Circle,Commonwealth Avenue,southbound,North Drive
+Wimbledon Circle,Commonwealth Avenue,southbound,South Drive
+Winchester Road,East Side Parkway,westbound,
+Winchester Street,Rachel Road/Goddard Street,southbound and northbound,
+Windermere Road,Commonwealth Avenue,southbound,North Drive
+Windermere Road,Commonwealth Avenue,northbound,South Drive
+Windermere Road,Commonwealth Avenue,southbound,South Drive
+Windermere Road,Woodland Road,southbound,
+Windsor Road,Beacon Street,southeastbound,
+Winter Street,Chestnut Street,westbound,
+Winthrop Street,Putnam Street,eastbound,
+Wiswall Road,Dedham Street,northbound,
+Withington Road,Cabot Street,northbound,
+Wolcott Street,Rowe Street,eastbound,
+Wolcott Street Extension,Wolcott Street,westbound,near 432 Wolcott Street
+Woodbine Street,Commonwealth Avenue,southbound,South Drive
+Woodchester Drive,Ward Street,southbound,
+Woodcliff Road,Centre Street,northbound,
+Woodcliff Road,Elinor Road,northbound and southbound,
+Woodcliff Road,Walnut Hill Road,southbound,
+Woodend Road,Bowdoin Street,northeastbound,
+Woodhaven Road,Allen Avenue,eastbound,
+Woodland Road,Auburn Street,northbound,
+Woodland Road,Central Street,northwestbound and southeastbound,
+Woodland Road,Grove Street,eastbound and westbound,
+Woodland Road,Hancock Street,northeastbound and southwestbound,
+Woodland Road,Washington Street,eastbound,
+Woodlawn Drive,Ward Street,southbound,
+Woodman Road,Hammond Street,northbound,
+Woodward Street,Beacon Street,westbound,
+Woodward Street,Lincoln Street,northbound and southbound,
+Wyman Street,Chestnut Street,eastbound,
+Wyoming Road,Nevada Street,northbound and southbound,
+YMCA Driveway,Church Street,eastbound,

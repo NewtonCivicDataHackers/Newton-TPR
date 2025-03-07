@@ -1,0 +1,34 @@
+street,from,to,vehicle_type,weight (tons),time,alternate_route,notes,approval_status
+Albemarle Road,North Street,Crafts Street,Commercial motor vehicles,> 5,10:00 p.m. to 8:00 a.m.,,,Approved
+Albemarle Road,Watertown Street,Crafts Street,Commercial motor vehicles,> 5,,"Watertown Street easterly to Walnut Street, and via Walnut Street northerly to Crafts Street",,Approved
+Bacon Street,Washington Street,Pearl Street,Commercial vehicles,,8:00 p.m. to 7:00 a.m.,,,Approved
+Charles Street,Auburn Street,Riverside Road,Commercial vehicles,,,,,Approved
+Charlesbank Road,St. James Street,Nonantum Road,Commercial vehicles,,,,,Pending
+Chestnut Street,Washington Street,Boylston Street,Commercial vehicles,,12:00 midnight to 7:00 a.m.,,,Approved
+Commonwealth Avenue (North Drive),end of channelizing portion near Washington Street,Rowe Street,Commercial vehicles,,,,,Approved
+Crescent Street,,,Commercial vehicles,> 5,,,West Newton,Approved
+Cross Street,,,Commercial vehicles,,,,West Newton,Approved
+Dearborn Street,entire length,,Commercial vehicles,> 2.5,,Adams Avenue,,Approved
+Dudley Road,Boylston Street,Brookline Street,Commercial vehicles,,,,,Approved
+Grove Street,Washington Street,Route 128 southerly access ramp,Commercial vehicles,> 2.5,,I-95/Route 128 Southbound/Northbound,,Approved
+Hammond Street,Commonwealth Avenue,Newton/Brookline line,Commercial vehicles,,,,,Approved
+Hammondswood Road,,,Commercial vehicles,,,,If not approved will be installed on only the private portion,Pending
+Linwood Avenue,,,Commercial vehicles,,,,Newtonville/Nonantum,Approved
+Middlesex Road,,,Commercial vehicles,,,,,Approved
+Norwood Avenue,,,Commercial vehicles,,8:00 p.m. to 7:00 a.m.,,Newtonville,Approved
+Pearl Street,,,Commercial vehicles,,,"via Centre Street to Washington Street to Adams Street to Watertown Street",,Approved
+Richmond Road,Centre Street,Academy Road,Commercial vehicles,,,,,Approved
+St. James Street,Washington Street,Nonantum Road,Commercial vehicles,,,,,Pending
+Watertown Street,Washington Street,Newton-Watertown line,Commercial vehicles,,8:00 p.m. to 7:00 a.m.,,,Approved
+Winchester Street,Needham Street,Nahanton Street,Commercial vehicles,,8:00 p.m. to 7:00 a.m.,,,Approved
+Bernard Street,,,Commercial vehicles,> 2.5,,,,Pending
+Bridge Street,,,Commercial vehicles,,,,,Pending
+Charlemont Street,Roland Street,Winchester Street,Commercial vehicles,> 2.5,,,,Pending
+Christina Street,Needham Street,Wallace Street,Commercial vehicles,> 2.5,,,,Pending
+Crescent Avenue,Centre Street,Beacon Street,Commercial vehicles,,,,,Pending
+Davis Avenue,,,Commercial vehicles,,,,,Pending
+Goddard Street,,,Commercial vehicles,> 2.5,,,,Pending
+Norwood Avenue,Centre Street,Crescent Avenue,Commercial vehicles,,,,"Newton Centre",Pending
+Roland Street,,,Commercial vehicles,> 2.5,,,,Pending
+Wallace Street,Winchester Street,Bernard Street,Commercial vehicles,> 2.5,,,,Pending
+Winchester Street,entire length,,Commercial vehicles,,8:00 p.m. to 7:00 a.m.,,,Pending

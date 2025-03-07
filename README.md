@@ -7,6 +7,7 @@
 - **Local Document**: [tpr.pdf](tpr.pdf)
 - **Source Webpage**: [https://www.newtonma.gov/government/public-works/transportation-division](https://www.newtonma.gov/government/public-works/transportation-division)
 - **Original PDF**: [https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000)
+- **Extracted Data**: [extracted_data/](extracted_data/)
 
 ## Table of Contents
 
@@ -60,6 +61,18 @@
 | 221 | Signs to be erected | [221.txt](sections/221.txt) | [224](tpr.pdf#page=224) | 595 bytes |
 | 222 | Reserved | [222.txt](sections/222.txt) | [224](tpr.pdf#page=224) | 66 bytes |
 | 223 | Reserved | [223.txt](sections/223.txt) | [224](tpr.pdf#page=224) | 25 bytes |
+
+## Data Formats
+
+The Traffic and Parking Regulations have been processed into machine-readable CSV files in the [extracted_data/](extracted_data/) directory:
+
+- Speed limits by street segment
+- Traffic controls (signals, stop signs, yield signs)
+- Turning restrictions (left turns, right turns, U-turns, no turn on red)
+- Parking regulations (loading zones, fire lanes, accessible spaces)
+- School zones and safety zones
+- Commercial vehicle restrictions
+- One-way streets
 
 ## Notes
 

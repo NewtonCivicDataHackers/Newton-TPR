@@ -1,4 +1,4 @@
-street,segment,from,to,direction,exceptions,notes
+street,segment,start,end,direction,exceptions,notes
 Beacon Street,1,Centre Street,Dalton Street,both,,
 Beacon Street,2,Waban Avenue,Woodward Street,both,,
 Brookline Street,,Oak Hill Street,Hartman Road,both,,

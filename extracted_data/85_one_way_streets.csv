@@ -1,4 +1,4 @@
-street,segment_description,from,to,direction,exceptions,notes
+street,segment_description,start,end,direction,exceptions,notes
 Acacia Avenue,,Beacon Street,Lee Road,northbound,,
 Albemarle Road,Southern roadway,Eddy Street,Brookside Avenue,eastbound,,
 Albemarle Road,Eastern roadway,Watertown Street,Crafts Street,northbound,,

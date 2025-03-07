@@ -4,7 +4,9 @@
 
 - **Revision Date**: 2024-12-20
 - **Last Processed**: 2025-03-06
-- **Source Document**: [tpr.pdf](tpr.pdf)
+- **Local Document**: [tpr.pdf](tpr.pdf)
+- **Source Webpage**: [https://www.newtonma.gov/government/public-works/transportation-division](https://www.newtonma.gov/government/public-works/transportation-division)
+- **Original PDF**: [https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000)
 
 ## Table of Contents
 
@@ -66,5 +68,7 @@
 - Section files are provided in plain text format in the [sections](sections/) directory.
 - For direct access to specific content, you can either:
   - Read the text files in the sections directory
-  - View the original PDF by clicking on the page links in the table above
+  - View the local PDF by clicking on the page links in the table above
+  - Access the [original PDF](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000) on Newton's website
+- The latest version of this document can be found on [Newton's Transportation Division website](https://www.newtonma.gov/government/public-works/transportation-division).
 - Previous versions of this document can be found in the Git history.

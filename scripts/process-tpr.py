@@ -289,12 +289,14 @@ def create_readme(index_data, sections_dir):
     """Create a README.md file with information about the document and a table of contents."""
     # Get the revision date from the index
     revision_date = index_data.get("revision_date", "Unknown")
+    last_updated = index_data.get("last_updated", datetime.date.today().strftime("%Y-%m-%d"))
     source_file = index_data.get("source", "tpr.pdf")
     
     # Start building the README content
     readme_content = f"# Newton Traffic and Parking Regulations\n\n"
     readme_content += f"## Document Information\n\n"
     readme_content += f"- **Revision Date**: {revision_date}\n"
+    readme_content += f"- **Last Processed**: {last_updated}\n"
     readme_content += f"- **Source Document**: [{source_file}]({source_file})\n\n"
     readme_content += f"## Table of Contents\n\n"
     
@@ -332,10 +334,12 @@ def create_readme(index_data, sections_dir):
     # Add additional information
     readme_content += "\n## Notes\n\n"
     readme_content += f"- This document contains the Traffic and Parking Regulations for the City of Newton, updated through {revision_date}.\n"
+    readme_content += f"- The data in this repository was last processed on {last_updated}.\n"
     readme_content += "- Section files are provided in plain text format in the [sections](sections/) directory.\n"
     readme_content += "- For direct access to specific content, you can either:\n"
     readme_content += "  - Read the text files in the sections directory\n"
     readme_content += "  - View the original PDF by clicking on the page links in the table above\n"
+    readme_content += "- Previous versions of this document can be found in the Git history.\n"
     
     return readme_content
 
@@ -347,6 +351,8 @@ def main():
                         help='Save the intermediate text file after PDF conversion')
     parser.add_argument('--overwrite', dest='overwrite', action='store_true',
                         help='Overwrite existing directory if it already exists')
+    parser.add_argument('--extract-date-only', dest='extract_date_only', action='store_true',
+                        help='Only extract and output the revision date in YYYY-MM-DD format')
     args = parser.parse_args()
     
     # Check if input file exists
@@ -361,27 +367,32 @@ def main():
     revision_date = extract_revision_date(text)
     print(f"Detected revision date: {revision_date}")
     
-    # Create directory structure
-    date_dir = os.path.join(args.output_dir, revision_date)
-    sections_dir = os.path.join(date_dir, "sections")
+    # If only extracting date, print it and exit
+    if args.extract_date_only:
+        print(revision_date)
+        return 0
+    
+    # Use the output directory directly instead of creating a date subdirectory
+    output_dir = args.output_dir
+    sections_dir = os.path.join(output_dir, "sections")
     
     # Check if directory already exists and handle based on overwrite flag
-    if os.path.exists(date_dir) and not args.overwrite:
-        print(f"Error: Directory '{date_dir}' already exists.")
+    if os.path.exists(sections_dir) and not args.overwrite:
+        print(f"Error: Directory '{sections_dir}' already exists.")
         print("Use --overwrite flag to overwrite existing directory.")
         sys.exit(1)
     
     # Create directories
     os.makedirs(sections_dir, exist_ok=True)
     
-    # Copy PDF file to the date directory
-    pdf_dest = os.path.join(date_dir, "tpr.pdf")
+    # Copy PDF file to the output directory
+    pdf_dest = os.path.join(output_dir, "tpr.pdf")
     shutil.copy2(args.input_file, pdf_dest)
     print(f"Copied PDF to: {pdf_dest}")
     
     # Save the text file if requested
     if args.save_text:
-        text_file = os.path.join(date_dir, "tpr.txt")
+        text_file = os.path.join(output_dir, "tpr.txt")
         with open(text_file, 'w', encoding='utf-8') as f:
             f.write(text)
         print(f"Saved text to: {text_file}")
@@ -415,6 +426,7 @@ def main():
     index = {
         "source": "tpr.pdf",
         "revision_date": revision_date,
+        "last_updated": datetime.date.today().strftime("%Y-%m-%d"),
         "sections": []
     }
     
@@ -452,21 +464,22 @@ def main():
         
         print(f"Processed section {section_num} (pages: {page_range['start_page']} to {page_range['end_page']})")
     
-    # Write the index file (in the date directory, not the sections directory)
-    index_file = os.path.join(date_dir, 'index.json')
+    # Write the index file (in the output directory, not the sections directory)
+    index_file = os.path.join(output_dir, 'index.json')
     with open(index_file, 'w', encoding='utf-8') as f:
         json.dump(index, f, indent=2)
     
     # Create README.md with table of contents
     readme_content = create_readme(index, sections_dir)
-    readme_file = os.path.join(date_dir, 'README.md')
+    readme_file = os.path.join(output_dir, 'README.md')
     with open(readme_file, 'w', encoding='utf-8') as f:
         f.write(readme_content)
     
-    print(f"File processed and split into sections in {date_dir}")
+    print(f"File processed and split into sections in {output_dir}")
     print(f"Index file created: {index_file}")
     print(f"README.md created: {readme_file}")
     print(f"Total sections processed: {len(section_content)}")
+    print(f"TPR revision date: {revision_date}")
 
 if __name__ == "__main__":
     main()

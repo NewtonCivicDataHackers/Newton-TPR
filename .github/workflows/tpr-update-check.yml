@@ -1,0 +1,117 @@
+name: TPR Update Check
+
+on:
+  schedule:
+    # Run at 10:00 AM UTC on Monday every week
+    - cron: '0 10 * * 1'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  check-for-updates:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for potential comparisons
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+      
+      - name: Install dependencies
+        run: |
+          # Install jq for JSON parsing
+          sudo apt-get update
+          sudo apt-get install -y jq
+          
+          python -m pip install --upgrade pip
+          pip install uv
+          # Use uv to install dependencies from the scripts
+          # Install get-tpr.py dependencies
+          uv pip install -r <(grep -A 10 "# dependencies" scripts/get-tpr.py | grep -v "#" | sed 's/^#[[:space:]]*//g' | sed 's/"//g' | awk -F'#' '{print $1}')
+          # Install process-tpr.py dependencies
+          uv pip install -r <(grep -A 10 "# dependencies" scripts/process-tpr.py | grep -v "#" | sed 's/^#[[:space:]]*//g' | sed 's/"//g' | awk -F'#' '{print $1}')
+      
+      - name: Create temp directory for downloads
+        run: mkdir -p tmp
+      
+      - name: Download latest TPR
+        id: download
+        run: |
+          echo "Downloading latest TPR document..."
+          python scripts/get-tpr.py tmp/latest.pdf
+          # Check if download was successful
+          if [ -f "tmp/latest.pdf" ] && [ $(stat -c%s "tmp/latest.pdf") -gt 0 ]; then
+            echo "Download successful"
+            echo "DOWNLOAD_SUCCESS=true" >> $GITHUB_ENV
+          else
+            echo "Download failed"
+            echo "DOWNLOAD_SUCCESS=false" >> $GITHUB_ENV
+            exit 1
+          fi
+      
+      - name: Check for updates
+        id: check
+        if: env.DOWNLOAD_SUCCESS == 'true'
+        run: |
+          # Extract the revision date from the downloaded file using the extract-date-only option
+          REVISION_DATE=$(python scripts/process-tpr.py tmp/latest.pdf tmp --extract-date-only | tail -n 1)
+          echo "Detected revision date: $REVISION_DATE"
+          echo "REVISION_DATE=$REVISION_DATE" >> $GITHUB_ENV
+          
+          # Check if we already have an index.json file
+          if [ -f "index.json" ]; then
+            CURRENT_REVISION=$(jq -r '.revision_date' index.json)
+            echo "Current revision date in repository: $CURRENT_REVISION"
+            
+            if [ "$CURRENT_REVISION" = "$REVISION_DATE" ]; then
+              echo "This revision ($REVISION_DATE) already exists in our repository"
+              echo "NEEDS_PROCESSING=false" >> $GITHUB_ENV
+            else
+              echo "New revision ($REVISION_DATE) detected (current is $CURRENT_REVISION)!"
+              echo "NEEDS_PROCESSING=true" >> $GITHUB_ENV
+            fi
+          else
+            echo "No existing index.json found - will process new document"
+            echo "NEEDS_PROCESSING=true" >> $GITHUB_ENV
+          fi
+      
+      - name: Process new TPR document
+        if: env.NEEDS_PROCESSING == 'true'
+        run: |
+          echo "Processing new TPR document with revision date $REVISION_DATE..."
+          # Use --overwrite to replace existing files
+          python scripts/process-tpr.py tmp/latest.pdf . --overwrite
+          echo "Processing complete"
+      
+      - name: Commit changes if there are updates
+        if: env.NEEDS_PROCESSING == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add all changed files 
+          git add index.json README.md sections/ tpr.pdf
+          
+          # Create a new tag for this revision
+          TAG_NAME="tpr-$REVISION_DATE"
+          
+          # Commit with the revision date
+          git commit -m "Update TPR to revision $REVISION_DATE" -m "Automatically updated by GitHub Actions workflow"
+          
+          # Push the changes
+          git push
+          
+          # Create and push a tag for this revision
+          git tag -a "$TAG_NAME" -m "TPR revision $REVISION_DATE"
+          git push origin "$TAG_NAME"
+      
+      - name: Clean up
+        if: always()
+        run: |
+          rm -rf tmp

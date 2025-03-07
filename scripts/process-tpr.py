@@ -339,8 +339,11 @@ def create_readme(index_data, sections_dir):
         else:
             section_size = 0
         
-        # Create a link to the PDF page if page_start is available
-        pdf_link = f"[{page_start}]({source_file}#page={page_start})" if page_start not in [None, "-"] else "-"
+        # Create a link to the PDF page in the Newton original document if available
+        if page_start not in [None, "-"] and pdf_url:
+            pdf_link = f"[{page_start}]({pdf_url}#page={page_start})"
+        else:
+            pdf_link = f"{page_start}" if page_start not in [None, "-"] else "-"
         
         # Add the row to the table
         readme_content += f"| {section_num} | {section_title} | [{section_num}.txt](sections/{section_num}.txt) | {pdf_link} | {section_size} bytes |\n"

@@ -85,8 +85,9 @@ jobs:
         if: env.NEEDS_PROCESSING == 'true'
         run: |
           echo "Processing new TPR document with revision date $REVISION_DATE..."
-          # Use --overwrite to replace existing files
-          python scripts/process-tpr.py tmp/latest.pdf . --overwrite
+          # The script will automatically detect the new revision and process it
+          # We don't need --overwrite since we've already checked this is a new revision
+          python scripts/process-tpr.py tmp/latest.pdf .
           echo "Processing complete"
       
       - name: Commit changes if there are updates

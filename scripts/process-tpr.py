@@ -350,7 +350,7 @@ def main():
     parser.add_argument('--save-text', dest='save_text', action='store_true',
                         help='Save the intermediate text file after PDF conversion')
     parser.add_argument('--overwrite', dest='overwrite', action='store_true',
-                        help='Overwrite existing directory if it already exists')
+                        help='Force processing even if the document revision date has not changed')
     parser.add_argument('--extract-date-only', dest='extract_date_only', action='store_true',
                         help='Only extract and output the revision date in YYYY-MM-DD format')
     args = parser.parse_args()
@@ -376,11 +376,25 @@ def main():
     output_dir = args.output_dir
     sections_dir = os.path.join(output_dir, "sections")
     
-    # Check if directory already exists and handle based on overwrite flag
-    if os.path.exists(sections_dir) and not args.overwrite:
-        print(f"Error: Directory '{sections_dir}' already exists.")
-        print("Use --overwrite flag to overwrite existing directory.")
-        sys.exit(1)
+    # Check if the document has changed by comparing revision dates
+    current_revision = None
+    should_process = True
+    index_path = os.path.join(output_dir, 'index.json')
+    
+    if os.path.exists(index_path):
+        try:
+            with open(index_path, 'r') as f:
+                current_index = json.load(f)
+                current_revision = current_index.get('revision_date')
+                
+                if current_revision == revision_date and not args.overwrite:
+                    print(f"The document revision date ({revision_date}) matches the current version.")
+                    print("No changes detected. Use --overwrite to force processing.")
+                    return 0
+                    
+                print(f"Current revision: {current_revision}, New revision: {revision_date}")
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"Warning: Could not read existing index.json: {e}")
     
     # Create directories
     os.makedirs(sections_dir, exist_ok=True)

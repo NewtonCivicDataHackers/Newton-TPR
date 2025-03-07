@@ -151,6 +151,13 @@ if [ "$NEEDS_PROCESSING" = true ] || [ "$FORCE_OVERWRITE" = true ]; then
       log "Pushing changes to remote repository..."
       git push
       
+      # Delete existing tag if we're using overwrite and the tag exists
+      if [ "$FORCE_OVERWRITE" = true ] && git tag | grep -q "$TAG_NAME"; then
+        log "Deleting existing tag $TAG_NAME for overwrite..."
+        git tag -d "$TAG_NAME"
+        git push origin :refs/tags/"$TAG_NAME" || true
+      fi
+      
       # Create and push a tag for this revision
       git tag -a "$TAG_NAME" -m "TPR revision $REVISION_DATE"
       git push origin "$TAG_NAME"

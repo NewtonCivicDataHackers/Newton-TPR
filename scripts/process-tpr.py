@@ -307,6 +307,11 @@ def create_readme(index_data, sections_dir):
     if pdf_url:
         readme_content += f"- **Original PDF**: [{pdf_url}]({pdf_url})\n"
     
+    # Add extracted data reference if directory exists
+    extracted_data_dir = os.path.join(os.path.dirname(sections_dir), "extracted_data")
+    if os.path.exists(extracted_data_dir) and os.path.isdir(extracted_data_dir):
+        readme_content += f"- **Extracted Data**: [extracted_data/](extracted_data/)\n"
+    
     readme_content += "\n## Table of Contents\n\n"
     
     # Create a table header for the sections
@@ -339,6 +344,19 @@ def create_readme(index_data, sections_dir):
         
         # Add the row to the table
         readme_content += f"| {section_num} | {section_title} | [{section_num}.txt](sections/{section_num}.txt) | {pdf_link} | {section_size} bytes |\n"
+    
+    # Add Data Formats section if the extracted_data directory exists
+    extracted_data_dir = os.path.join(os.path.dirname(sections_dir), "extracted_data")
+    if os.path.exists(extracted_data_dir) and os.path.isdir(extracted_data_dir):
+        readme_content += "\n## Data Formats\n\n"
+        readme_content += "The Traffic and Parking Regulations have been processed into machine-readable CSV files in the [extracted_data/](extracted_data/) directory:\n\n"
+        readme_content += "- Speed limits by street segment\n"
+        readme_content += "- Traffic controls (signals, stop signs, yield signs)\n"
+        readme_content += "- Turning restrictions (left turns, right turns, U-turns, no turn on red)\n"
+        readme_content += "- Parking regulations (loading zones, fire lanes, accessible spaces)\n"
+        readme_content += "- School zones and safety zones\n"
+        readme_content += "- Commercial vehicle restrictions\n"
+        readme_content += "- One-way streets\n"
     
     # Add additional information
     readme_content += "\n## Notes\n\n"

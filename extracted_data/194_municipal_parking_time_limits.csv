@@ -1,12 +1,12 @@
-lot_name,location,enforcement_hours,accessible_spaces,ev_spaces,other_reserved_spaces,reserved_notes
-Auburndale,Lexington St,8AM-6PM Mon-Sat,2,0,6,Reserved for vehicles displaying Auburndale Business Permit
-Newton Centre,Cypress St,8AM-6PM Mon-Sat,3,0,28,18 long-term spaces reserved for Newton Centre employees with permits Mon-Fri 8am-6pm
-Newton Centre,Langley "Triangle",8AM-6PM Mon-Sat,6,0,1,ZipCar
-Newton Centre,Pelham St,8AM-6PM Mon-Sat,4,0,1,ZipCar
-Newton Centre,Pleasant St,8AM-6PM Mon-Sat,4,0,0,
-Newton Corner,Pearl St,8AM-6PM Mon-Sat,3,0,0,
-Newton Corner,Richardson St,8AM-6PM Mon-Sat,3,0,0,
-Newton Highlands,Hartford St,8AM-6PM Mon-Sat,3,0,0,
-Newtonville,Austin St,8AM-6PM Mon-Sat,5,0,0,
-West Newton,Cherry St,8AM-6PM Mon-Sat,3,0,0,
-West Newton,Waltham St,8AM-6PM Mon-Sat,4,1,3,Brigham House
+lot_name,location,enforcement_hours,time_limit_1hr,time_limit_2hr,time_limit_3hr,time_limit_6hr,time_limit_10hr,accessible_spaces,ev_spaces,other_reserved_spaces,reserved_notes
+"Auburndale","Lexington St","8AM-6PM Mon-Sat","0","0","0","0","14","2","0","6","Reserved for vehicles displaying Auburndale Business Permit"
+"Newton Centre","Cypress St","8AM-6PM Mon-Sat","15","21","132","63","23","3","0","28","18 long-term spaces reserved for Newton Centre employees with permits Mon-Fri 8am-6pm"
+"Newton Centre","Langley ""Triangle""","8AM-6PM Mon-Sat","0","0","30","0","0","6","0","1","ZipCar"
+"Newton Centre","Pelham St","8AM-6PM Mon-Sat","10","35","11","0","21","4","0","1","ZipCar"
+"Newton Centre","Pleasant St","8AM-6PM Mon-Sat","0","0","0","0","18","4","0","0",""
+"Newton Corner","Pearl St","8AM-6PM Mon-Sat","0","46","69","55","25","3","0","0",""
+"Newton Corner","Richardson St","8AM-6PM Mon-Sat","0","14","0","0","35","3","0","0",""
+"Newton Highlands","Hartford St","8AM-6PM Mon-Sat","0","0","0","0","5","3","0","0",""
+"Newtonville","Austin St","8AM-6PM Mon-Sat","0","0","0","0","50","5","0","0",""
+"West Newton","Cherry St","8AM-6PM Mon-Sat","0","0","0","0","11","3","0","0",""
+"West Newton","Waltham St","8AM-6PM Mon-Sat","0","0","0","0","4","4","1","3","Brigham House"

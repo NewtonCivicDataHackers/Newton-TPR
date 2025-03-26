@@ -27,13 +27,10 @@ jobs:
           echo "Repository structure:"
           find . -type f -name "pyproject.toml" -o -name "requirements.txt"
 
-      - name: Install uv
-        uses: astral-sh/setup-uv@v5
-        with:
-          version: "0.6.10"
-
       - name: Set up Python
-        run: uv python install
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
       - name: Install dependencies
         run: |
@@ -45,16 +42,9 @@ jobs:
           echo "Current directory before installing dependencies:"
           ls -la
           
-          # First try direct installation
-          uv pip install requests>=2.25.0 beautifulsoup4>=4.9.0 pdfminer.six>=20221105
-          
-          # If pyproject.toml exists, install from it
-          if [ -f "pyproject.toml" ]; then
-            echo "Found pyproject.toml, installing in development mode"
-            uv pip install -e .
-          else
-            echo "pyproject.toml not found, skipping editable install"
-          fi
+          # Install Python dependencies directly
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 pdfminer.six
       
       - name: Create temp directory for downloads
         run: mkdir -p tmp

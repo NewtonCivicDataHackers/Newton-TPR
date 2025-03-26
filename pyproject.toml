@@ -8,6 +8,11 @@ version = "0.1.0"
 description = "Newton Traffic Parking Regulations Extractor"
 requires-python = ">=3.10"
 readme = "README.md"
+dependencies = [
+    "requests>=2.25.0",
+    "beautifulsoup4>=4.9.0",
+    "pdfminer.six>=20221105",
+]
 
 [project.optional-dependencies]
 dev = [

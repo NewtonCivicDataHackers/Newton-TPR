@@ -17,20 +17,20 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history for potential comparisons
       
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
         with:
-          python-version: '3.10'
-          cache: 'pip'
-      
+          version: "0.6.10"
+
+      - name: Set up Python
+        run: uv python install
+
       - name: Install dependencies
         run: |
           # Install jq for JSON parsing
           sudo apt-get update
           sudo apt-get install -y jq
           
-          python -m pip install --upgrade pip
-          pip install uv
           # Use uv to install dependencies from the scripts
           # Install get-tpr.py dependencies
           uv pip install -r <(grep -A 10 "# dependencies" scripts/get-tpr.py | grep -v "#" | sed 's/^#[[:space:]]*//g' | sed 's/"//g' | awk -F'#' '{print $1}')

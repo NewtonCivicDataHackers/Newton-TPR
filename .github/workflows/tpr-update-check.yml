@@ -41,11 +41,20 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y jq
           
-          # Install from pyproject.toml
-          uv pip install -e .
+          # Print directory content
+          echo "Current directory before installing dependencies:"
+          ls -la
           
-          # Ensure required dependencies are installed
+          # First try direct installation
           uv pip install requests>=2.25.0 beautifulsoup4>=4.9.0 pdfminer.six>=20221105
+          
+          # If pyproject.toml exists, install from it
+          if [ -f "pyproject.toml" ]; then
+            echo "Found pyproject.toml, installing in development mode"
+            uv pip install -e .
+          else
+            echo "pyproject.toml not found, skipping editable install"
+          fi
       
       - name: Create temp directory for downloads
         run: mkdir -p tmp

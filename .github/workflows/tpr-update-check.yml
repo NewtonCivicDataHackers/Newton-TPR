@@ -17,6 +17,16 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history for potential comparisons
       
+      - name: Debug workspace
+        run: |
+          echo "Workspace directory structure:"
+          pwd
+          ls -la
+          echo "Parent directory structure:"
+          ls -la ..
+          echo "Repository structure:"
+          find . -type f -name "pyproject.toml" -o -name "requirements.txt"
+
       - name: Install uv
         uses: astral-sh/setup-uv@v5
         with:

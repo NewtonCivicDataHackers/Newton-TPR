@@ -206,19 +206,32 @@ def extract_section_content(processed_text, section_boundaries):
 
 def clean_line(line):
     """Clean up a line of text, removing section markers and headers."""
-    # Skip section markers at the beginning of lines
+    # Skip lines that are entirely page headers
+    # Pattern 1: § TPR-XXX at the beginning
     if re.match(r'^\s*§\s*TPR-\d+', line):
         return None
     
-    # Skip "NEWTON TRAFFIC AND PARKING REGULATIONS" headers
+    # Pattern 2: § Sec. TPR-XXX or variations
+    if re.match(r'^\s*§\s*Sec\.\s*TPR-\d+', line):
+        return None
+    
+    # Pattern 3: Lines with just "NEWTON TRAFFIC AND PARKING REGULATIONS"
     if re.match(r'^\s*NEWTON TRAFFIC AND PARKING REGULATIONS\s*$', line):
         return None
     
-    # Remove section markers within lines
-    line = re.sub(r'§\s*TPR-\d+', '', line)
+    # Pattern 4: Page headers with section references on both sides
+    # e.g., "§ Sec. TPR-178    NEWTON TRAFFIC AND PARKING REGULATIONS    § Sec. TPR-179."
+    if 'NEWTON TRAFFIC AND PARKING REGULATIONS' in line and re.search(r'§\s*(?:Sec\.)?\s*TPR-\d+', line):
+        return None
     
-    # Remove section references in headers (including range references)
+    # Remove inline section markers that may appear within content
+    # But preserve the rest of the line
+    line = re.sub(r'§\s*TPR-\d+', '', line)
     line = re.sub(r'§§?\s*TPR-\d+(?:[—-]TPR-\d+)?', '', line)
+    line = re.sub(r'§\s*Sec\.\s*TPR-\d+\.?', '', line)
+    
+    # Clean up any resulting extra whitespace
+    line = re.sub(r'\s+', ' ', line)
     
     return line
 

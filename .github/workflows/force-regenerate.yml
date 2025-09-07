@@ -28,13 +28,19 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 pdfminer.six
       
+      - name: Create temp directory
+        run: mkdir -p tmp
+      
       - name: Force regenerate TPR sections
         run: |
           echo "Forcing regeneration of TPR sections..."
           echo "Reason: ${{ github.event.inputs.reason }}"
           
-          # Use the existing tpr.pdf to regenerate all sections with current script
-          python scripts/process-tpr.py tpr.pdf . --overwrite \
+          # Create a temporary copy to avoid SameFileError when input and output are the same directory
+          cp tpr.pdf tmp/tpr_source.pdf
+          
+          # Use the temporary copy to regenerate all sections with current script
+          python scripts/process-tpr.py tmp/tpr_source.pdf . --overwrite \
             --source-url "https://www.newtonma.gov/government/public-works/transportation-division" \
             --pdf-url "https://www.newtonma.gov/home/showpublisheddocument/100747/637832115714270000"
           
@@ -63,3 +69,8 @@ jobs:
             
             echo "Changes committed and pushed"
           fi
+      
+      - name: Clean up
+        if: always()
+        run: |
+          rm -rf tmp

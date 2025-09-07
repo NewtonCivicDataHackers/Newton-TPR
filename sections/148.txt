@@ -52,6 +52,7 @@ following locations:
   Highland Street, at the connector between Chestnut Street and Highland Street, eastbound, at Highland Street. 
 
   I-95/Massachusetts-128 Northbound, from right turn lane onto Washington Street. 
+
   Islington Oval Road at Islington Road. 
 
    Larkspur Road, northbound at Devonshire Road. 
@@ -84,6 +85,7 @@ No. X-235, 11-6-06.  TPR-16, 10-23-08; TPR-148, 01-08-10; TPR-96, 05-03-12; TPR-
 11-14; TPR-229, 11-19-15; TPR-278, 01-19-17; TPR-279, 01-19-17; TPR-297, 04-13-17; TPR-300, 04-13-17; TPR-
 304, 05-25-17; TPR-305, 05-25-17; TPR-297B, 06-19-17; TPR-319, 07-26-17; TPR-387, 01-18-18; TPR-580, 04-
 23-20;  TPR-593,  04-23-20;  TPR-594,  04-23-20;  TPR-621,  04-23-20;  TPR-647,  06-25-20;  TPR-648,  06-25-20; 
+
 TPR-651, 06-25-20; TPR-652, 06-25-20; TPR-656, 06-25-20; TPR-657, 06-25-20; TPR-661, 06-25-20; TPR-662, 
 06-25-20; TPR-667, 07-30-20; TPR-724, 03-25-21; TPR-805, 03-17-22; TPR-840, 09-15-22; TPR-853, 12-15-22; 
 TPR-870, 03-23-23) 

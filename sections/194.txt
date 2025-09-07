@@ -5,6 +5,43 @@ The following municipal off-street parking areas are hereby designated as paid p
 The distribution of time limits within each municipal off-street parking area, and the time periods within which 
 payment is required, is shown in the following table. 
 
+Metered Parking 
+
+Lot
+
+Auburndale
+
+Lexington St
+
+Newton Centre
+
+Cypress St
+
+Langley "Triangle"
+
+Pelham St
+
+Pleasant St
+
+Newton Corner
+
+Pearl St
+
+Richardson St
+
+Newton Highlands
+
+Hartford St
+
+Newtonville
+Austin St
+
+West Newton
+
+Cherry St
+
+Waltham St
+
 Type of Parking Space
 
 No 
@@ -217,43 +254,6 @@ Mon-Fri
 
 
 
-
-Metered Parking 
-
-Lot
-
-Auburndale
-
-Lexington St
-
-Newton Centre
-
-Cypress St
-
-Langley "Triangle"
-
-Pelham St
-
-Pleasant St
-
-Newton Corner
-
-Pearl St
-
-Richardson St
-
-Newton Highlands
-
-Hartford St
-
-Newtonville
-Austin St
-
-West Newton
-
-Cherry St
-
-Waltham St
 
 (A) = Reserved for vehicles displaying Auburndale Business Permit.
 

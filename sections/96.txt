@@ -7,6 +7,7 @@ Laws.
 
   (b) No driver of a vehicle facing a circular red signal indication shall make a right turn where official traffic signs 
 are installed and maintained prohibiting such turn at intersections which shall from time to time be designated by 
+
 ordinance amending this section. 
 
   (c) Right turns on red signals are prohibited at the following intersections: 
@@ -27,7 +28,9 @@ Beethoven Avenue, northbound at Beacon Street.
 
 Cabot Street at Walnut Street, westbound. 
 
-Centre Avenue at Centre Street, eastbound. 
+Centre Avenue at Centre Street, eastbound (left two lanes). 
+
+Centre Avenue at Centre Street, eastbound (right two lanes). 
 
 Centre Street, all directions at Commonwealth Avenue. 
 
@@ -36,6 +39,8 @@ Centre Street, facing eastbound traffic at Park Street.
 Centre Street at Church Street, all approaches. 
 
 Charlesbank Road, eastbound, at Nonantum Road. 
+
+Chestnut Street at Oak Street, all approaches. 
 
 Chestnut Street at Woodward Street, all directions. 
 
@@ -105,6 +110,8 @@ Tremont Street, westbound at Park Street.
 
 Wachusett Road, northbound at Commonwealth Avenue. 
 
+Walnut Street at Commonwealth Avenue, northbound. 
+
 Walnut Street, northbound, onto Centre Street. 
 
 Walnut Street, southbound at Centre Street. 
@@ -112,6 +119,10 @@ Walnut Street, southbound at Centre Street.
 Walnut Street at Washington Street, northbound and southbound. 
 
 Waltham Street at Washington Street, southbound. 
+
+Ward Street, north-westbound at Waverley Avenue.  
+
+Ward Street, north-eastbound, continuing onto Ward Street at Waverley Avenue. 
 
 Washington Street continuing onto Washington Street, eastbound (opposite Elm Street). 
 
@@ -139,6 +150,8 @@ Watertown Street, westbound at Washington Street.
 
 Watertown Street/Walnut Street, all approaches. 
 
+Waverley Avenue, southbound at Stuart Street. 
+
 Wheeler Road, westbound at Parker Street. 
 
 Winchester Street, southbound at Nahanton Street, Monday–Friday, 7:00 a.m. – 9:00 a.m. & 3:00 p.m. – 7:00 
@@ -153,12 +166,13 @@ far left two lanes.
 
 (Ord  No.  R-33,  11-5-79;  Ord.  No.  R-44,  12-17-79;  Ord.  No.  R-68,  6-16-80;  Ord.  No.  R-94,11-17-80;  Ord.  No. 
 R-103,12-1-80; Ord. No. R-110, 1-19-81; Ord. No. S-67, 5-21-84;  Ord. No. S-181, 3-17-86; Ord. No. S-267, 8-10-87; 
+
 Ord No. T-82, 3-19-90; Ord. No. U-8, 4-4-94; Ord. V-25, 6-19-95; Ord. V-59, 1-16-96; Ord. No. V-284, 3-6-00; Ord. 
 No. Y-6, 3-19-07; Ord. No. Z-1, 10-01-07.  TPR-12, 05-22-08; TPR-43, 01-08-10; TPR-47, 04-29-10; TPR-70, 09-
 22-13; TPR-137, 12-19-13; TPR-138, 12-09-13; TPR-268, 10-20-16; TPR-389, 01-18-18; TPR-417, 06-14-18; TPR-
 429, 09-17-18; TPR-436, 09-20-18; TPR-451, 11-29-18; TPR-459, 02-24-19; TPR-475, 02-28-19; TPR-498, 07-25-
 19; TPR-536, 01-23-20; TPR-567, 04-16-20; TPR-649, 06-25-20; TPR-663, 07-30-20; TPR-665, 07-30-20; TPR-713, 
 02-25-21; TPR-743, 06-24-21; TPR-755, 07-22-21; TPR-758, 07-22-21; TPR-766, 09-23-21; TPR-775, 10-21-21; 
-
 TPR-787, 12-16-21; TPR-789, 01-20-22; TPR-841, 09-15-22; TPR-847, 11-17-22; TPR-851, 12-15-22; TPR-864, 03-
-23-23; TPR-885, 07-13-23; TPR-886, 07-13-23) 
+23-23; TPR-885, 07-13-23; TPR-886, 07-13-23; TPR 970, 01-30-25; TPR 972, 01-30-25; TPR 974, 02-27-25; TPR 
+982, 04-10-25) 

@@ -548,7 +548,7 @@ d) Two-hour limit, 9:00 a.m. to 5:00 p.m., except by Waban permit, from Manitoba
 
 west of the east end of Dorset Road, north side. 
 
-e) No restriction, any time, from a point 170’ west of Holly Road, to Holly Road, north side. 
+e) No restriction, any time, from Holly Road to a point 315’ west of Holly Road, north side. 
 
 f) One-hour limit, 7:00 a.m. to 7:00 p.m., including Saturdays, from a point 310’ west of Woodward Street 
 
@@ -984,13 +984,7 @@ Central Terrace
 
 Centre Avenue  
 
-(1) Prohibited, all days: 
-
-a) North side from the Massachusetts Turnpike Bridge 450 feet easterly. 
-
-b) South side from the eastern end of the off-ramp of the Massachusetts Turnpike to the eastern end of the 
-
-traffic island at Centre Street. 
+(1) Prohibited, all days, all times: 
 
 Centre Green 
 
@@ -1130,7 +1124,7 @@ c) West side, from Watertown Street to Middle Street.
 
 170 feet north of Watertown Street. 
 
-(3)  Parking  meter  zone,  ten  (10)  hour limit,  8:00  a.m. to  6:00  p.m.,  west  side  from  a  point  160  feet  north  of 
+(3)  Parking  meter  zone,  ten  (10)  hour  limit,  8:00  a.m.  to  6:00  p.m.,  west  side  from  a  point  160  feet  north  of 
 
 Watertown Street to Watertown Street. 
 
@@ -1160,7 +1154,7 @@ Charlesbank Road
 
 (3)  Parking meter zone, no time limit , 8:00 a.m. to 6:00 p.m., from a point 170 feet west of Nonantum Place 
 
-to a point 210 feet west of Nonantum Place, north side 
+to a point 210 feet west of Nonantum Place, north side. 
 
 (4) Prohibited, all days, from a point 210 feet west of Nonantum Place to Centre Street, north side. 
 
@@ -1206,7 +1200,7 @@ Chester Street
 
 (2) Prohibited, all days, east side from Hillside Road to Forest Street. 
 
-(3)  Two-hour limit, 8:00  a.m. to 6:00  p.m.,  west  side, from  Lincoln  Street  to  Forest  Street, except by  Newton 
+(3) Two-hour limit, 8:00  a.m. to 6:00 p.m.,  west side, from  Lincoln Street  to  Forest  Street,  except by  Newton 
 
 Highlands Permit. 
 
@@ -1214,54 +1208,65 @@ Highlands Permit.
 
  Chestnut Street 
 
-(1) Prohibited, all days: 
+(1)  Prohibited, all days: 
 
- a) West side from Short Street to Beacon Street. 
+a)  West side, from Short Street to Beacon Street.  
 
-b) East side from Winter Street to Summer Street. 
+b)  East side, from Winter Street to Summer Street.  
 
-c) West side from Elliot Street southerly 200 feet. 
+c)  West side, from Elliot Street southerly 200 feet.  
 
-d) North side from Oak Street to number 1198. 
+d)  North side, from Oak Street to number 1198.  
 
-e) West side from Ellis Street to Boylston Street. 
+e)  West side, from Ellis Street to Boylston Street.  
 
-f) West side from the southern curbline of Washington Street southerly 55 feet. 
+f)  West side, from the southern curbline of Washington Street southerly 55 feet.  
 
-g) East side from the southern curbline of Washington Street southerly 170 feet. 
+g)  East side, from the southern curbline of Washington Street southerly 170 feet.  
 
-h) North side, from a point 362 feet west of Oak Street westerly 200 feet. 
+h)  North side, from a point 362 feet west of Oak Street westerly 200 feet.  
 
-i) South side, from a point 230 feet west of Oak Street westerly 350 feet. 
+i)  South side, from a point 230 feet west of Oak Street westerly 350 feet.  
 
-j) West side from 1159 Chestnut northward to the driveway for the Bobby Braceland Park. 
+j)    West side, from 1159 Chestnut northward to the driveway for the Bobby Braceland Park. 
 
-(2) Prohibited, all days, 8:00 a.m. to 6:00 p.m., east side from Austin Street to Westfield Road. 
+k)  South side from Oak Street to a point 60 feet east of Oak Street. 
 
-(3) One-hour limit, 7:00 a.m. to 7:00 p.m., south side, from a point 78 feet west of Oak Street westerly 152 
-feet. 
+l) South side, from a point 365 feet east of Oak Street to Linden Street. 
 
-(4) Fifteen-minute limit, 8:00 a.m. to 6:00 p.m., south side, from Oak Street to a point 90 feet east of Oak 
-Street. 
+(2) Prohibited, all days, 8:00 a.m. to 6:00 p.m., east side from Austin Street to Westfield Road.  
 
-(5)  Parking  meter  zone,  one-hour  limit,  8:00  a.m.  to  6:00  p.m.,  west  side,  from  a  point  55  feet  south  of 
-Washington Street, 20 feet southerly. 
+(3) One-hour limit, 9:00 a.m. to 7:00 p.m., south side, from a point 78 feet west of Oak Street westerly 152 
+feet.  
 
-(6) Police Parking Only, 7:00 a.m. to 5:00 p.m., Monday to Friday, except Holidays, west side, from a point 
-120 feet south of Washington Street, 100 feet southerly. 
+(4) Parking meter zone, one-hour limit, 8:00 a.m. to 6:00 p.m., west side, from a point 55 feet south of 
+Washington Street, 20 feet southerly.  
 
-(7) Parking meter zone, two-hour limit, 8:00 a.m. to 6:00 p.m., east side, from a point across from Davis Street, 
-80 feet northerly. 
+(5) Police Parking Only, 7:00 a.m. to 5:00 p.m., Monday to Friday, except Holidays, west side, from a point 
+120 feet south of Washington Street, 100 feet southerly.  
 
-(8) Parking meter zone, three-hour limit, 8:00 a.m. to 6:00 p.m., south side, from a point 135 feet east of Oak 
+(6) Parking meter zone, two-hour limit, 8:00 a.m. to 6:00 p.m., east side, from a point across from Davis 
+Street, 80 feet northerly. 
+
+(7) Fifteen-minute limit, 8:00 a.m. to 6:00 p.m., south side, from a point 60 feet east of Oak Street to a point 
+
+100 feet east of Oak Street. 
+
+(8) Accessible Parking Only, from a point 110 feet east of Oak Street to a point 135 feet east of Oak Street. 
+
+(9) Electric Vehicle Charging Only with a three-hour limit, 8:00 a.m. to 6:00 p.m., from a point 135 feet east 
+
+of Oak Street to a point 155 feet east of Oak Street. 
+
+(10) Parking meter zone, three-hour limit, 8:00 a.m. to 6:00 p.m., south side, from a point 155 feet east of Oak 
+
 Street to a point 210 feet east of Oak Street. 
 
-(9) Parking meter zone, no limit, 8:00 a.m. to 6:00 p.m., south side, from a point 210 feet east of Oak Street to 
-a point 430 feet east of Oak Street. 
+   (11) Parking meter zone, no time limit, 8:00 a.m. to 6:00 p.m., south side, from a point 210 feet east of Oak    
 
-Chestnut Terrace  
+Street to a point 365 feet east of Oak Street. Chestnut Terrace  
 
-(1)  Prohibited, all days, east side from Commonwealth Avenue to Marshall Street.  
+(12) Prohibited, all days, east side from Commonwealth Avenue to Marshall Street.  
 
 Chestnut Hill Terrace 
 
@@ -1323,7 +1328,7 @@ of Centre Street, north side.
 
 Circuit Avenue  
 
-(1) Two-hour limit, Saturdays included, 7:00 a.m. to 10:00 p.m., both sides from  Thurston Road to Boylston 
+(1)  Two-hour limit,  Saturdays included, 7:00 a.m. to 10:00 p.m.,  both  sides from Thurston  Road to Boylston 
 
 Street. 
 
@@ -1460,6 +1465,8 @@ m) North Drive, north side from a point 338 feet east of Waban Hill Road easterl
 n) North Drive, north side from Bristol Road to Chestnut Street. 
 
 o) South Drive, south side, from a point 60 feet west of Manet Road to Manet Road.  
+
+p) South Drive, south side, from Chestnut Terrace easterly 30 feet. 
 
 (2) Parking prohibited, all days, 7:00 a.m. to 9:00 a.m. and 4:00 p.m. to 6:00 p.m.: 
 
@@ -1819,7 +1826,7 @@ Dolphin Road
 
 (1)  Prohibited, school days, 8:00 a.m. to 4:00 p.m.  
 
-a)  West side, from Mandalay Road to Fellsmere Road. 
+a)West side, from Mandalay Road to Fellsmere Road. 
 
 b) East side, from a point 405 feet north of Mandalay Road, northerly 170 feet.  
 
@@ -1929,11 +1936,11 @@ of Elmwood Street, west side.
 
 of Elmwood Street, west side.  
 
-(10) No Parking Bus Stop, from a point 230 feet south of Elmwood Street to Vernon Street, west side. 
+(10)  No Parking Bus Stop, from a point 230 feet south of Elmwood Street to Vernon Street, west side. 
 
-(11) Prohibited, 4:30 p.m. to 6:30 p.m., Vernon Street to Church Street, west side. 
+(11)  Prohibited, 4:30 p.m. to 6:30 p.m., Vernon Street to Church Street, west side. 
 
-(12) Prohibited, all times, Church Street to Franklin Street, west side. 
+(12)  Prohibited, all times, Church Street to Franklin Street, west side. 
 
 Elgin Street  
 
@@ -1953,7 +1960,7 @@ b) North side from Cottage Street westerly 100 feet.
 
 c) Both sides from Boylston Street (Route 9) southerly to Josselyn Place. 
 
-(2) Prohibited, Saturdays included: 
+(2)  Prohibited, Saturdays included: 
 
 a)  South side from Oak Street westerly 150 feet. 
 
@@ -2069,7 +2076,7 @@ Evelyn Road
 
 (1) No parking, any time, west side, from Beacon Street to a point 110 feet northerly. 
 
-(2) Prohibited, school days, 8:00 a.m. to 4:00 p.m., west  side, from a point 110 feet north of Beacon Street to 
+(2) Prohibited, school days, 8:00 a.m. to 4:00 p.m., west side, from a point 110 feet north of Beacon Street to 
 
 Paulson Road. 
 
@@ -2282,7 +2289,6 @@ Glazer Road
 Glen Avenue 
 
 (1) Prohibited, all days, 7:00 a.m. to 7:00 p.m., both sides, entire length.  
-
 (2)  Two-hour limit, 9:00 a.m. to 7:00 p.m., north side, from Elgin Street to Langley Road. 
 
 Glen Road 
@@ -2358,7 +2364,7 @@ Grove Street
 a) from Washington Street to Moulton Street, east side and both sides of the island (no 
 restriction on the west side). 
 
-b)  west side from Moulton Street to Colgate Road. 
+b)west side from Moulton Street to Colgate Road. 
 
 c) west side from Pine Grove Avenue to a point 400 feet south of Woodland Road. 
 
@@ -2458,7 +2464,7 @@ Harrison Street
 
 (3) Prohibited, south side, from a point 100 feet west of Lincoln Street, westerly 90 feet. 
 
-(4) Two-hour limit, 7:00 a.m. to 10:00 p.m., south side, from a point 160 feet west of Lincoln to the street’s 
+(4) Two-hour limit, 7:00  a.m. to 10:00 p.m.,  south  side, from a point 160 feet  west of Lincoln to the  street’s 
 
 terminus. 
 
@@ -2560,7 +2566,7 @@ northerly 375 feet.
 
 (2) Prohibited, all days: 
 
-a) North side, from Pettee Street westerly 200 feet. 
+a)  North side, from Pettee Street westerly 200 feet. 
 
 b) West side, from Summer Street, southerly 70 feet. 
 
@@ -2640,13 +2646,16 @@ e) South side, from Walnut Street, westerly 150 feet.
 
 f) South side, from a point 205 feet west of Walnut Street, westerly 375 feet.  
 
-(2) Live Parking, south side, from a point 150 feet west of Walnut Street, westerly 55 feet.  
+g) North side, from Centre Street, westerly 40 feet.(2) Live Parking, south side, from a point 150 feet west 
+of Walnut Street, westerly 55 feet.  
 
-(3) Two-hour limit, 7:00 a.m. to 6:00 p.m., north side from Centre Street to Grafton Street.  
+(2) Two-hour limit, 7:00 a.m. to 6:00 p.m., north side from a point 80 feet west of Centre Street to Grafton 
 
-(4) Prohibited, 9:00 a.m. to 11:00 a.m., south side, from Centre Street to Bowen Street.  
+Street. 
 
-(5) Prohibited, 3:00 p.m. to 6:00 p.m., south side, from Centre Street to Bowen Street. 
+(3) Prohibited, 9:00 a.m. to 11:00 a.m., south side, from Centre Street to Bowen Street.  
+
+(4) Prohibited, 3:00 p.m. to 6:00 p.m., south side, from Centre Street to Bowen Street. 
 
 Hovey Street 
 
@@ -2768,7 +2777,7 @@ Jackson Street
 
 a) Both sides, from Boylston Street to Langley Road. 
 
-b)  North  side,  from  a  point  80  feet  west  of  Langley  Road  to  Oakmont  Road  (the  easterly intersection  of 
+b)  North  side,  from  a  point  80  feet  west  of  Langley  Road  to  Oakmont  Road  (the  easterly  intersection  of 
 Oakmont Road with Jackson Street). 
 
 (2) Two-hour limit, Saturdays included, from 7:00 a.m. to 7:00 p.m., south side, from Langley Road to Oakmont 
@@ -3027,7 +3036,7 @@ to 9:00 p.m. except Saturdays, Sundays and Holidays, Stone Avenue to Reservoir A
 to 9:00 p.m. except Saturdays, Sundays and Holidays, Reservoir Avenue to a point 180 feet west of Acacia 
 Avenue, northeast side. 
 
-(4) Prohibited 7:00 a.m. to 7:00 p.m. all days, from a point 180 feet west of Acacia Avenue to Stone Avenue,                            
+(4) Prohibited 7:00 a.m. to 7:00 p.m. all days, from a point 180 feet west of Acacia Avenue to Stone Avenue,                    
 
 northeast side.    
 
@@ -3107,7 +3116,7 @@ to a point 80 feet east of Bowdoin Street.
 
 (4) Prohibited, north side, all days, from a point 80 feet east of Bowdoin Street to Bowdoin Street. 
 
-(5)  Two-hour  limit,  8:00  a.m. to  6:00  p.m.,  except  by  Newton  Highlands  Permit,  north  side  from  Bowdoin 
+(5)  Two-hour  limit,  8:00  a.m.  to  6:00  p.m.,  except  by  Newton  Highlands  Permit,  north  side  from  Bowdoin 
 
 Street to a point 150 feet east of Woodward Street. 
 
@@ -3219,11 +3228,11 @@ Longfellow Road
 
 (1)  Prohibited, all days: 
 
-a)  North side, from Washington Street, entire length. 
+a)North side, from Washington Street, entire length. 
 
-b)  South side, from Washington Street, easterly 100 feet. 
+b)South side, from Washington Street, easterly 100 feet. 
 
-c)  Inside of the circle. 
+c)Inside of the circle. 
 
 (2) One-hour limit, 7:00 a.m. to 7:00 p.m., south side, from a point 100 feet east of Washington Street to end 
 except by Resident Permit as listed in TPR-202, including the outside of the circle and the southern half of 
@@ -3235,7 +3244,7 @@ Lowell Avenue
 
 a) from Hull Street to a point 55 feet northerly, east side. 
 
-       b) from a point 95 feet north of Hull Street to a point 145 feet north of Hull Street, east side. 
+ b) from a point 95 feet north of Hull Street to a point 145 feet north of Hull Street, east side. 
 
 c) from a point 330 feet north of Hull Street to Elm Road, east side. 
 
@@ -3251,9 +3260,11 @@ h) from a point 325 feet north of Washington Street to Washington Street, west s
 
 i) from Washington Street to a point 115 feet south of Austin Street, west side. 
 
-  j) from a point 35 feet north of Calvin Road to a point 115 feet south of Calvin Road, west side. 
+j) from a point 35 feet north of Calvin Road to a point 115 feet south of Calvin Road, west side. 
 
-k) from a point 355 feet south of Calvin Road to a point 60 feet south of Highland Street, west side.                   
+k) from a point 355 feet south of Calvin Road to a point 60 feet south of Highland Street, west side.     
+
+l) from a point 100 feet south of Page Road to Page Road, east side.           
 
 (2) TIGER permit parking only, 7:00 a.m. to 4:00 p.m., school days: 
 
@@ -3265,14 +3276,14 @@ b) adjacent to Claflin Park, west side.
 
 parking permit: 
 
-a)  Commonwealth Avenue to Hull Street, east side. 
+a) Commonwealth Avenue to Hull Street, east side. 
 
 b) Elm Road to a point 115 feet south of Austin Street, east side. 
 
 c)Highland  Avenue  to  Calvin  Road,  west  side  (three  non-resident  Newtonville  Parking  Permits              
 allowed). 
 
-d)  Hull Street to northern edge of Claflin Park, west side. 
+d)Hull Street to northern edge of Claflin Park, west side. 
 
 e)  southern edge of Claflin Park to Commonwealth Avenue, west side. 
 
@@ -3568,6 +3579,10 @@ b) north side, from a point 800 feet east of Winchester Street to Dedham Street.
 
 c) south side, from Needham town boundary to Dedham Street. 
 
+Needham Street 
+
+(1) Prohibited, all times, entire length, both sides. 
+
 Nevada Street 
 
 (1) Prohibited, west side, all times. 
@@ -3590,7 +3605,7 @@ Nevada Street
 
 (c)  west side, from a point 40 feet north of Linwood Avenue, 30 feet northerly. 
 
-(d) west side, from a point 170 feet north of Linwood Avenue, 100 feet northerly. 
+(d)  west side, from a point 170 feet north of Linwood Avenue, 100 feet northerly. 
 
 (e) west side, from a point 20 feet south of California Street, 30 feet southerly. 
 
@@ -3668,13 +3683,11 @@ Norumbega Court
 
 Norwood Avenue (Newtonville) 
 
-(1) Prohibited, 7:00 a.m. to 6:00 p.m., south side. 
+(1)  Prohibited, 7:00 a.m. to 6:00 p.m., south side. 
 
-(2) Prohibited, all days, all times, Parkview Avenue to a point 20 feet east of Bridges Avenue, north side. 
+(2)  Two-hour limit, 8:00 a.m. to 4:00 p.m., from a point 10 feet east of Clarendon Street to Harvard Street, 
 
-(3) Two-hour limit, 8:00 a.m. to 4:00 p.m., from a point 10 feet east of Clarendon Street to Harvard Street, north 
-
-side. 
+north side. 
 
 Norwood Avenue (Newton Centre) 
 
@@ -3756,7 +3769,7 @@ by Newtonville Resident parking permit.
 
 Old Orchard Road 
 
-   (1) Prohibited, all days:     
+   (1) Prohibited, all days:    
 
 a)  Southeast side, from a point 580 feet north of Woodman Road to Hammond Street.  
 
@@ -3764,7 +3777,7 @@ a)  Southeast side, from a point 580 feet north of Woodman Road to Hammond Stree
 
       (2) Prohibited, 9:00 a.m. to 11:00 a.m.:  
 
- a) North side, from Woodman Road northerly 580 feet.  
+  a) North side, from Woodman Road northerly 580 feet.  
 
 b)  South side, from Woodman Road northerly 610 feet. 
 
@@ -3802,7 +3815,7 @@ Otis Street
 
 (1) Prohibited, north side from Walnut Street to Lowell Avenue. 
 
-(2) Parking by Newtonville Resident parking permit only, 8:00 a.m. to 4:00 p.m., school days, south side from 
+(2)  Parking by Newtonville Resident parking permit only, 8:00 a.m. to 4:00 p.m., school days, south side from 
 
 Walnut Street to Lowell Avenue (five non-resident Newtonville Resident Parking Permits allowed). 
 
@@ -4114,7 +4127,7 @@ Pulsifer Street
 
 (1)  Prohibited, all days, east side from Clyde Street to Cabot Street. 
 
-(2)   Parking by Newtonville Resident Parking Permit Only, 8:00 a.m. to 4:00 p.m., school days, west side (three                                                    
+(2)   Parking by Newtonville Resident Parking Permit Only, 8:00 a.m. to 4:00 p.m., school days, west side (three                    
 
 non-resident Newtonville Permits allowed). 
 
@@ -4387,6 +4400,7 @@ Spring Street
 (1) Prohibited, all days: 
 
 a) East side, entire length. 
+
 b) West side, from Summer Street to a point 60 feet north of Winter Street. 
 
 St. James Circle 
@@ -4417,7 +4431,7 @@ a) North side, entire length.
 
 b) South side, from Washington Street 225 feet easterly.  
 
-(2)  Prohibited,  all  days,  7:00  a.m. to  10:00  a.m., south  side  from  a  point 225 feet from  Washington  Street, 
+(2)  Prohibited,  all  days,  7:00  a.m.  to  10:00  a.m.,  south  side  from  a  point  225 feet  from  Washington  Street, 
 
 northerly to the end. 
 
@@ -4425,7 +4439,7 @@ Station Avenue
 
 (1)  Prohibited, all days, east side, from Walnut Street to a point 75 feet northerly. 
 
-(2) One-hour  limit,  7:00  a.m.  to  7:00  p.m.,  including  Saturdays,  east  side,  from  a  point  75  feet  north  of                                       
+(2) One-hour  limit,  7:00  a.m.  to  7:00  p.m.,  including  Saturdays,  east  side,  from  a  point  75  feet  north  of                    
 
 Walnut Street to a point 235 feet northerly. 
 
@@ -4437,7 +4451,7 @@ feet northerly.
 
 (5) Prohibited, all days, west side, from a point 250 feet north of Walnut Street, 50 feet northerly. 
 
-(6)  One-hour  limit,  7:00  a.m.  to  7:00  p.m.,  including  Saturdays,  west  side,  from  a  point  300  feet  north  of                     
+(6)  One-hour  limit,  7:00  a.m.  to  7:00  p.m.,  including  Saturdays,  west  side,  from  a  point  300  feet  north  of                    
 
 Walnut Street to Lake Avenue. 
 
@@ -4479,21 +4493,21 @@ Suban Place
 
 Suffolk Road 
 
-(1) Prohibited, Saturdays included: 
+(1) Prohibited, Saturdays included 
 
 a) North side from Hammond Street to a point 380 feet westerly. 
 
 b) North side, from a point 880 feet west of Hammond Street, 80 feet westerly. 
 
-c) South side, from Kingsbury Road to a point 160 feet easterly. 
+c) South side, from Kingsbury Road to a point 240 feet easterly. 
 
-(2) Two-hour limit, Saturdays included, 7:00 a.m. to 10:00 p.m.   
+(2) Two-hour limit, Saturdays included, 7:00 a.m. to 10:00 p.m.,  
 
 a) North side, from a point 380 feet west of Hammond Street, 500 feet westerly. 
 
 b) North side, from a point 960 feet west of Hammond Street, 70 feet westerly. 
 
-c) South side, from a point 160 feet east of Kingsbury Road to Hammond Street. 
+c) South side, from a point 240 feet east of Kingsbury Road to Hammond Street 
 
 (3) Two-hour limit, 8:00 a.m. to Noon: 
 
@@ -4550,6 +4564,7 @@ Tanglewood Road
 Temple Street 
 
 (1) Prohibited, all days, east side from Berkeley Street to Mignon Road. 
+
 (2) Prohibited, all days, west side from Commonwealth  Avenue to Fuller Street. 
 
 Thornton Street 
@@ -4707,7 +4722,7 @@ north side.
 
 Vista Avenue 
 
-(1) Prohibited all days, east side, entire length. 
+(1)  Prohibited all days, east side, entire length. 
 
 (2) Prohibited, all days, west side, from Woodland Road to a point 35 feet southerly. 
 
@@ -4995,7 +5010,7 @@ g) North side, from West Boulevard to a point 50 feet easterly.
 
 Road. 
 
-(4)  Prohibited, 8:00 a.m.  to  12:00 p.m.,  Saturdays  only,  north  side, from  a  point  60 feet  east of Morseland 
+(4)  Prohibited,  8:00  a.m.  to  12:00  p.m.,  Saturdays  only,  north  side,  from  a  point  60  feet  east  of  Morseland 
 Avenue, 120 feet easterly. 
 
 Warren Avenue 
@@ -5083,6 +5098,7 @@ on-ramp, 110’ westerly, south side.
 side.  
 
 (5) Parking meter zone, two-hour limit, 8:00 a.m. to 6:00 p.m., from a point 355’ west of the I-90 Westbound 
+
 on-ramp, 120’ westerly, south side. 
 
 (6) Parking meter zone, two-hour limit, 8:00 a.m. to 6:00 p.m., Bacon Street to Peabody Street, north side.  
@@ -5302,6 +5318,7 @@ Washington Street between Chestnut Street and Perkins Street (both sides of the 
 (1) Prohibited, any time, any side, except for the following: 
 
 (2) Parking meter zone, one-hour limit, 8:00 a.m. to 6:00 p.m., from a point 95’ west of Waltham Street, 60’ 
+
      westerly, north side. 
 
 (3) Accessible Parking only, from a point 155’ west of Waltham Street, 20’ westerly, north side. 
@@ -5368,7 +5385,7 @@ Washington Street between Beacon Street and the Wellesley Town Line
 
 (1) Prohibited, any time, any side, except for the following: 
 
-(2) Parking meter zone, two-hour limit, 8:00 a.m. to 6:00 p.m., from the northerly edge of the bridge over the 
+(2)  Parking meter zone, two-hour limit, 8:00 a.m. to 6:00 p.m., from the northerly edge of the bridge over the 
 
 Charles River, 80’ northerly, east side. 
 
@@ -5385,6 +5402,188 @@ northerly, east side.
 Street, 426’ northerly, east side. 
 
 (6) No restriction, any time, from a point 540’ north of the center of Grove Street, 125’ northerly, east side.  
+
+Watertown Street 
+
+(1) Prohibited, all days: 
+
+a) South side, from Crafts Street easterly 228 feet. 
+
+b) South side, from Adams Street easterly 50 feet. 
+
+c) North side, from Nevada Street easterly 245 feet. 
+
+d) North side, from Edinboro Street westerly 150 feet. 
+
+e) Both sides, from Walnut Street westerly 100 feet, and from Walnut Street easterly 50 feet. 
+
+f) North side, from the eastern curbline of Waltham Street easterly for 95 feet. 
+
+g) South side, from the northern curbline of Washington Street, easterly 100 feet. 
+
+h) North side, from Davis Avenue easterly 60 feet. 
+
+i) North side, from Davis Avenue westerly 40 feet. 
+
+j) South side, from Dunstan Street westerly 100 feet. 
+
+k) North side from Bridge Street to a point 65 feet westerly. 
+
+l) North side from a point 90 feet east of Adams Street to Adams Street. 
+
+m) North side from Capital Street to a point 90 feet westerly. 
+
+n) North side, from a point 40 feet east of Albemarle Road (northbound leg) to Albemarle Road 
+(southbound leg). 
+
+o) South side, from Albemarle Road (southbound leg) to a point 25 feet east of Brookside Avenue. 
+
+p) South side, from a point 60 feet west of Walker Street to Walker Street. 
+
+       (2) Prohibited, all days, 4:00 p.m. to 6:00 p.m. 
+
+a) South side from a point 80 feet east of Washington Street easterly 85 feet. 
+
+       (3) One-hour limit, south side from a point 50 feet east of Adams Street to West Street. 
+
+       (4) One-hour limit, 7:00 a.m. to 7:00 p.m. 
+
+a) South side from Hawthorn Street to Pearl Street. 
+
+b) North side from Hawthorn Street to Adams Street. 
+
+c)  North side from Bridge Street to Pearl Street. 
+
+       (5) Two-hour limit, 8:00 a.m. to 6:00 p.m.: 
+
+a) South side from a point 228 feet east of Crafts Street easterly to a point 273 feet east of Nevada 
+Street. 
+
+b) North side from Nevada Street to Broadway. 
+
+       (6) Parking meter zone, two-hour limit, 8:00 am to 6:00 pm: 
+
+a) South side from opposite Faxon Street to Adams Street. 
+
+b) North side from Faxon Street to Bridge Street. 
+
+c) North side from a point 65 feet west of Bridge Street 60 feet westerly. 
+
+d) North side from a point 215 feet west of Davis Avenue to Eden Avenue. 
+
+e) North side from a point 75 feet east of Eden Avenue to a point 110 feet east of Waltham Street. 
+
+f) South side from a point 100 feet east of Washington Street 380 feet easterly. 
+
+       (7) 15-minute limit, 8:00 a.m. to 4:00 p.m., school days, from a point 150 feet west of Edinboro Street to a 
+            point 40 feet east of Albemarle Road (northbound leg), north side. 
+
+       (8) One hour limit, 8:00 a.m. to 4:00 p.m., school days, from a point 25 feet east of Brookside Avenue to a 
+            point 60 feet west of Walker Street, south side. 
+
+Waverley Avenue 
+
+(1) Prohibited, both sides, all times, 100 feet from the intersection with Ward Street. 
+
+(2) Prohibited, Saturdays included, 7:00 a.m. to 7:00 p.m., both sides from Church Street to Tremont 
+Street. 
+
+(3) Prohibited, both sides, all days, from Tremont Street to Whittemore Road. 
+
+(4) Two-hour limit, 8:00 a.m. to 6:00 p.m., except by Newton Corner permit, both sides from Whittemore 
+Road to Washington Street. 
+
+Webster Street 
+
+(1) Prohibited, all days, north side from Elm Street to Oak Avenue. 
+
+(2) Prohibited, all days, south side from the western curbline of Cherry Street, westerly 95 feet. 
+
+(3) Prohibited, all days, south side from the eastern curbline of Elm Street, easterly 40 feet. 
+
+(4) Prohibited, all days, north side, from Waltham Street to Cherry Street. 
+
+(5) Prohibited, all days, north side of Cherry Street to Elm Street. 
+
+(6) Two-hour limit, 7:00 a.m. to 6:00 p.m., south side, from Elm Street to Border Street. 
+
+(7) Two-hour limit, 7:00 a.m. to 6:00 p. m., south side, from a point 40 feet east of Elm Street, easterly 
+154 feet. 
+
+Weldon Road 
+
+(1) Prohibited, north side, from a point 120 feet west of Summit Street, westerly 30 feet. 
+
+Wells Avenue 
+
+(1) Prohibited, all days, on the outside of the circle drive, a distance of 20 feet on both sides of all driveways. 
+All measurements are taken from the intersection of Wells Avenue at Wells Avenue, in a southerly direction.  
+
+The measurements for the areas affected by such prohibitions are as follows: 
+
+a) From a point 262.9 feet southerly 72.2 feet. 
+
+b) From a point 458.8 feet southerly 72 feet. 
+
+c) From a point 611.7 feet southerly 67.7 feet. 
+
+d) From a point 1263.1 feet southerly 67.4 feet. 
+
+e) From a point 1529.6 feet southerly 65.2 feet. 
+
+f) From a point 1798 feet southerly 80.2 feet. 
+
+g) From a point 2122.8 feet southerly 65.6 feet. 
+
+h) From a point 2492.5 feet southerly 73.11 feet. 
+
+i) From a point 2656.71 feet southerly 67.9 feet. 
+
+j) From a point 2960.21 feet southerly 65.6 feet. 
+
+k) From a point 3203.61 feet southerly 126.5 feet. 
+
+l) From a point 3650.61 feet southerly 59.1 feet. 
+
+m) From a point 3733.11 feet southerly 64 feet. 
+
+n) From a point 4008.11 feet southerly 65.7 feet. 
+
+(2)Prohibited, all days: 
+
+a)  On  the  inside  of  the  circle  drive,  from  the  intersection  of  Wells  Avenue  at  Wells  Avenue,  to  the 
+
+intersection of Wells Avenue at Wells Avenue. 
+
+b)  East side, from the Wells Avenue Split northerly to Nahanton Street. 
+
+c)  West side, from Nahanton Street to a point 1080 feet southerly (50 feet south of southerly driveway of 
+
+1 Wells Avenue). 
+
+Wesley Street 
+
+(1)  Prohibited, all days, north, east and south sides from Mt. Ida Street to Centre Street. 
+
+(2)  Two-hour limit, all days, 7:00 a.m. to 7:00 p.m., south, west and north sides from Mt. Ida Street to Centre 
+
+Street. 
+
+Wessex Road 
+
+(1) Prohibited, all days, east side, entire length. 
+
+West Boulevard Road 
+
+(1) Prohibited, all days, east side, from Ward Street northerly 200 feet. 
+
+(2) Prohibited, all days, west side, from Ward Street northerly 100 feet. 
+
+West Street 
+
+(1) Prohibited, all days, west side. 
+
+(2) Two-hour limit, 7:00 a.m. to 7:00 p.m. Saturdays included, east side, from Watertown Street 335 feet southerly. 
 
 Westwood Street 
 

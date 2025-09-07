@@ -91,6 +91,7 @@ Cabot Street, eastbound, beginning at Walnut Street, thence easterly on Cabot St
 
 0.27 miles at 30 miles per hour    
 0.39     “    “  25   “        “     “    
+
 0.25     “     “ 20   “        “     “    
 
 ending at Centre Street, the total distance being 0.91 miles. 
@@ -159,7 +160,7 @@ Charlesbank Road, eastbound, beginning at Saint James Street, thence easterly on
 
 ending at a point 100 feet west of Nonantum Street; the total distance being 0.29 miles. 
 
-Charlesbank  Road,  westbound,  beginning  at  a point 100  feet  west of  Nonantum  Road, thence southerly on 
+Charlesbank  Road,  westbound,  beginning  at  a  point  100  feet  west  of  Nonantum  Road,  thence  southerly  on 
 
 Charlesbank Road: 
 
@@ -197,8 +198,8 @@ ending Watertown Street; the total distance being 1.03 miles.
 Chestnut Street, northbound, beginning at Oak Street, thence northerly on Chestnut Street: 
 
 0.74 miles at 25 miles per hour 
-
 0.74     “     “ 30    “       “    “ 
+
 0.32     “     “ 20    “       “    “ 
 1.18     “     “ 30    “       “     “  
 
@@ -614,6 +615,7 @@ ending at Route 9; the total distance being 1.06 miles.
 Lexington Street, northbound, beginning at Auburn Street, thence northerly on Lexington Street: 
 
 0.24 miles at 25 miles per hour    
+
 0.82   “      “  30   “       “     “     
 
 ending at the Newton-Waltham line; the total distance being 1.06 miles.  
@@ -621,7 +623,6 @@ ending at the Newton-Waltham line; the total distance being 1.06 miles.
 Lexington Street, southbound, beginning at the Newton-Waltham line, thence southerly on Lexington Street: 
 
 0.82 miles at 30 miles per hour 
-
 0.24   “     “   25   “      “     “      
 
 ending at Auburn Street; the total distance being 1.06 miles. 
@@ -885,7 +886,6 @@ Walnut Street, northbound, beginning north of Route 9, thence northerly on Walnu
 
 0.33 miles at 25 miles per hour 
 0.40    “     “ 30    “      “     “ 
-
 2.12    “     “ 25    “      “     “ 
 
 ending at Crafts Street; the total distance being 2.85 miles. 
@@ -924,7 +924,7 @@ Ward Street, eastbound, beginning at a point 500 feet east of Elmore Street, the
 
 ending at Manet Road; the total distance being 0.95 miles. 
 
-Ward Street, westbound, beginning at a point 100 feet west of Hammond Street, thence southerly on Ward 
+Ward Street,  westbound, beginning at a point 100 feet west of Hammond Street, thence southerly on Ward 
 
 Street: 
 
@@ -943,6 +943,7 @@ State Highway north of Route 128, thence northerly:
 
 0.10 miles at 25 miles per hour 
 1.32    “     “  35    “       “     “ 
+
 0.36    “     “  25    “       “     “  
 
 ending at Watertown Street; the total distance being 2.08 miles. 

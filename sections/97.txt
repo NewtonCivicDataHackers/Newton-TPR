@@ -16,11 +16,15 @@ Sec. TPR-97. Left lane must turn left.
 
   Beacon Street, westbound, at Waban Avenue. 
 
-  Centre Street, northbound onto Beacon Street. 
+   Boylston Street, westbound onto Winchester Street southbound. 
+
+   Centre Street, northbound onto Beacon Street. 
 
   Centre Street, northbound onto Cabot Street. 
 
   Centre Street, northbound onto Church Street. 
+
+   Centre Street, southbound onto the Route 9 eastbound on-ramp. 
 
   Centre Street, southbound onto Church Street. 
 
@@ -32,7 +36,9 @@ Cherry Street, southbound, onto Washington Street.
 
    Chestnut Street, northbound, onto Washington Street. 
 
-  Collins Road, northbound, at Beacon Street. 
+   Christina Street, eastbound onto Needham Street. 
+
+   Collins Road, northbound, at Beacon Street. 
 
    Commonwealth Avenue at Walnut Street, all directions.  
 
@@ -48,7 +54,7 @@ Cherry Street, southbound, onto Washington Street.
 
    Commonwealth Avenue, South Drive, eastbound, onto Lowell Avenue. 
 
-   Commonwealth Avenue, South Drive, eastbound onto Washington Street. 
+  Commonwealth Avenue, South Drive, eastbound onto Washington Street. 
 
   Crafts Street, westbound, onto Waltham Street. 
 
@@ -82,6 +88,24 @@ Grove Street, northbound, into 267-287 Grove Street.
 
   Nahanton Street, westbound onto Wells Avenue. 
 
+   Needham Street, northbound onto Winchester Street (2 left lanes). 
+
+   Needham Street, southbound onto Columbia Avenue. 
+
+   Needham Street, northbound onto Columbia Avenue. 
+
+   Needham Street, southbound onto Charlemont Street. 
+
+   Needham Street, northbound at 233 Needham Street. 
+
+   Needham Street, northbound onto Charlemont Street. 
+
+   Needham Street, southbound onto Christina Street. 
+
+   Needham Street, northbound onto Oak Street. 
+
+   Oak Street, westbound onto Needham Street. 
+
   Walnut Street at Beacon Street, all directions. 
 
   Walnut Street, northbound, into Trio Parking Lot (between Washington St and Foster St). 
@@ -106,7 +130,7 @@ Grove Street, northbound, into 267-287 Grove Street.
 
 Washington Street, eastbound, onto Watertown Street. 
 
- Washington  Street, northbound  two  lanes  on  Washington  Street  Bridge  over  Mass.  Turnpike,  onto Washington                                
+ Washington  Street,  northbound  two  lanes  on  Washington  Street  Bridge  over  Mass.  Turnpike,  onto  Washington                     
 Street. 
 
 Washington Street, north-eastbound, continuing onto Washington Street (opposite Elm Street). 
@@ -131,8 +155,14 @@ Washington Street, westbound, onto Quinobequin Road or Wales Street.
 
   Watertown Street, westbound onto Walnut Street. 
 
+   Winchester Street, northbound onto Needham Street northbound. 
+
+   Winchester Street, southbound, onto Needham Street. 
+
+   Winchester and Centre Streets, northbound onto the Route 9 westbound on-ramp. 
+
 (Ord. No. S-65, 5-21-84; Ord. No. S-201, 3-17-86; Ord. No. S-242, 11-3-86; Ord. No.V-196, 5-18-98; Ord. No. V-
 259, 10-4-99; Ord. No. V-292, 3-20-00; Ord. No. X-193, 2-6-06. TPR-8, 03-20-09; TPR-9, 03-20-08; TPR-12, 05-
 22-08; TPR-43, 01-08-10; TPR-51, 10-21-10; TPR-57, 04-27-10; TPR-97, 06-23-11; TPR-95, 05-03-12; TPR-96, 05-
 03-12; TPR-203, 05-28-15; TPR-642, 06-25-20; TPR-682, 08-28-20; TPR-775, 10-21-21; TPR-805, 3-17-22; TPR-
-847, 11-17-22; TPR-895, 07-13-23) 
+847, 11-17-22; TPR-895, 07-13-23; TPR 984, 04-10-25) 

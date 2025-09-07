@@ -41,25 +41,27 @@ north of Watertown Street (2 spaces).
 
   Bowen Street: south side, 460 feet west of Centre Street, 20 feet westerly. 
 
-§ Sec. TPR-200 
-
-§ Sec. TPR-200 
-
   Centre Green: east side, from a point 95 feet south of Lyman Street, southerly 30 feet. 
 
   Centre Street: west side, from a point 40 feet south of Pleasant Street, southerly 20 feet. 
 
   Chapel Street, in front of 154 Chapel Street. 
 
+§ Sec. TPR-200 
+
+§ Sec. TPR-200 
+
   Chestnut Street, north side, from a point 290’ east of Oak Street, 20’ easterly. 
 
   Chestnut Street, north side, from a point 320’ east of Oak Street, 20’ easterly. 
 
-  Chestnut Street, south side, from a point 110’ west of Oak Street, 25’ easterly. 
+  Chestnut Street, south side, from a point 110’ east of Oak Street to a point 135’ east of Oak Street. 
 
   Commonwealth Avenue: On either side of the front pathway to Street Ignatius Church. 
 
   Commonwealth Avenue: south side, south Drive, 231 feet east of Melrose Street, easterly 22 feet. 
+
+  Commonwealth Avenue, South Drive, South Side, from a point 125 feet east of Chestnut Terrace, 20 feet easterly. 
 
   Coyne Road: in front of 18-20 Coyne Road. 
 
@@ -81,9 +83,9 @@ Dalby Street: east side, from a point 140 feet north of Watertown Street, 20 fee
 
   Hawthorn Street: east side, 60 feet north of Burton Avenue. 
 
-  Homer Street: north side, 30 feet west of Centre Street, westerly 20 feet. 
+Homer Street: north side, 40 feet west of Centre Street, westerly 40 feet.   Homer Street: north side, 40 feet west 
 
-   Homer Street: north side, 40 feet west of City Hall Drive, westerly 20 feet. 
+of City Hall Drive, westerly 20 feet. 
 
   Homer Street: south side, 125 feet west of Walnut Street, westerly 20 feet. 
 
@@ -97,21 +99,21 @@ Dalby Street: east side, from a point 140 feet north of Watertown Street, 20 fee
 
   Lincoln Street: opposite the hp ramp at the Newton Highlands Congregational Church on Lincoln Street. 
 
-§ Sec. TPR-200 
-
-§ Sec. TPR-200 
-
   Linwood Avenue: north side, 250 feet west of Nevada Street. 
 
    Madison Avenue: east side of Walnut Street, immediately north of the crosswalk.  
 
    Mechanic Street, east side, from a point 65 feet south of Elliot Street, southerly 20 feet. 
 
+§ Sec. TPR-200 
+
+§ Sec. TPR-200 
+
    Murphy Court: north side, from a point 70 feet west of Adams Street westerly 20 feet.     
 
-   Nevada Street: in front of 262 Nevada Street. 
+ Nevada Street: in front of 262 Nevada Street. 
 
-  Nevada Street: in front of the ramp leading to #538 California Street. 
+Nevada Street: in front of the ramp leading to #538 California Street. 
 
   Newbury Street: east side, 60 feet south of Newbury Terrace, 20 feet southerly. 
 
@@ -194,4 +196,5 @@ TPR-700, 01-28-21; TPR-701, 01-28-21; TPR-717, 03-25-21; TPR-762, 09-23-21; TPR-
 TPR-826, 07-21-22; TPR-842, 10-27-22; TRP-846, 11-17-22; TPR-849, 12-15-22; TPR-875, 04-27-23; TPR-879, 
 06-15-23; TPR-897, 09-28-23; TPR-898, 09-28-23; TPR-899, 09-28-23; TPR-904, 09-28-23; TPR-906, 10-26-23; 
 TPR-907, 10-26-23; TPR-908, 10-26-23; TPR-910, 10-26-23; TPR 921, 12-14-23; TPR 926, 02-15-24; TPR 929, 
-03-14-24; TPR 933, 06-13-24; TPR 946, 09-12-24; TPR 947, 09-12-24; TPR 948, 09-12-24; TPR 961, 12-19-24) 
+03-14-24; TPR 933, 06-13-24; TPR 946, 09-12-24; TPR 947, 09-12-24; TPR 948, 09-12-24; TPR 961, 12-19-24; 
+TPR 971, 01-30-25; TPR 973, 02-27-25; TPR 975, 03-13-25) 

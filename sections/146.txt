@@ -84,6 +84,8 @@ Lincoln Street, 10 feet east of Chester Street (pedestrian activated RRFB).
 
 Lowell Avenue, 30 feet south of Austin Street (pedestrian activated RRFB). 
 
+Lowell Avenue, 10 feet south of Page Road (pedestrian activated RRFB). 
+
 Needham Street, 25 feet southwest of Industrial Place (pedestrian activated RRFB). 
 
 Needham Street, 160 feet northeast of Jaconnet Street (pedestrian activated RRFB). 
@@ -131,4 +133,4 @@ Waverley Avenue at Sherbrooke Road (pedestrian activated RRFB).
 04-11-19; TPR-532, 12-19-19; TPR-533, 12-19-19; TPR-534, 12-19-19; TPR-551, 02-27-20; TPR-627, 05-07-20; 
 TPR-628, 05-07-20; TPR-629, 05-07-20; TPR-753, 07-22-21; TPR-756, 07-22-21; TPR-771, 10-21-21; TPR-859, 01-
 19-23; TPR-863, 02-16-23; TPR-902, 09-28-23; TPR-914, 11-16-23; TPR 915, 11-16-23; TPR 930, 03-14-24; TPR 
-931, 04-11-24) 
+931, 04-11-24; TPR 978, 03-13-25) 

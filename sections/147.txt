@@ -77,7 +77,7 @@ Adena Road at Derby Street, southbound.
 
    Arlington Street at Waverley Avenue, westbound. 
 
-    Armory Street at Washington Street, southbound. 
+  Armory Street at Washington Street, southbound. 
 
   Arnold Road at Country Club Road, northbound and southbound. 
 
@@ -138,6 +138,8 @@ Adena Road at Derby Street, southbound.
   Bellevue Street at Newtonville Avenue, northbound. 
 
   Belmore Park at Washington Street, eastbound. 
+
+  Bencliffe Circle at Chaske Avenue, southbound. 
 
   Bennington Street at Centre Street, eastbound. 
 
@@ -213,7 +215,7 @@ Adena Road at Derby Street, southbound.
 
 Brooks Avenue at Washington Street, southbound. 
 
-   Brookside Avenue at Washington Street, southbound. 
+Brookside Avenue at Washington Street, southbound. 
 
   Browning Road at Parker Street, eastbound. 
 
@@ -703,7 +705,7 @@ Dartmouth Street at Prince Street, northbound.
 
   Elsworth Road at Parmenter Road, westbound. 
 
-   Emerson Street at Pearl Street, southbound. 
+  Emerson Street at Pearl Street, southbound. 
 
   Endicott Street at Plymouth Road, eastbound. 
 
@@ -1013,7 +1015,7 @@ Grove Hill Avenue at Prospect Avenue, southbound.
 
   Highland Street at Chestnut Street, southeastbound and northwestbound. 
 
-    Highland Street, at the connector between Highland Street and Chestnut Street, westbound, at Chestnut Street. 
+  Highland Street, at the connector between Highland Street and Chestnut Street, westbound, at Chestnut Street. 
 
   Highland Street at Lowell Avenue, eastbound. 
 
@@ -1359,7 +1361,7 @@ Morseland Avenue at Commonwealth Avenue, North Drive, westbound.
 
   Newtonville Avenue at Walnut Street, westbound. 
 
-   Nobscot Road at Commonwealth Avenue, North Drive, southbound. 
+  Nobscot Road at Commonwealth Avenue, North Drive, southbound. 
 
   Nonantum Street at Waverley Avenue, westbound. 
 
@@ -1382,6 +1384,8 @@ Morseland Avenue at Commonwealth Avenue, North Drive, westbound.
   Oakland Street at Church Street, northbound. 
 
   Oakland Street at Newtonville Avenue, southbound. 
+
+Oakwood Road at Upland Road, eastbound and westbound. 
 
   Old Farm Road at Oak Hill Street, Ward 8, eastbound and westbound. 
 
@@ -1406,6 +1410,8 @@ Morseland Avenue at Commonwealth Avenue, North Drive, westbound.
   Otis Street at Chestnut Street, westbound. 
 
   Otis Street at Walnut Street, eastbound. 
+
+  Owatonna Street at Chaske Avenue, northbound. 
 
   Park Avenue at Cotton Street, northbound and southbound. 
 
@@ -1487,6 +1493,8 @@ Peirce Elementary School parking lot, southbound at Ruane Road.
 
   Pond Brook Road at Brookline Street, northbound and southbound. 
 
+  Prairie Avenue at Auburndale Avenue, northbound and southbound. 
+
   Prentice Road at Commonwealth Avenue, North Drive, southbound. 
 
   Prescott Street at Central Avenue, eastbound and westbound. 
@@ -1551,7 +1559,7 @@ Prospect Avenue at Beaumont Avenue, westbound.
 
   Risley Road at Commonwealth Avenue, North Drive, southbound. 
 
-  River Street at Waltham Street, eastbound. 
+   River Street at Auburndale Avenue, eastbound and westbound.  River Street at Waltham Street, eastbound. 
 
   Robinhood Street at Commonwealth Avenue, North Drive, southbound. 
 
@@ -1612,6 +1620,8 @@ Prospect Avenue at Beaumont Avenue, westbound.
   Sheffield Road at Highland Street, westerly approach, northbound. 
 
   Sheridan Street at Adams Avenue, northbound and southbound. 
+
+  Sheridan Street at Derby Street, northbound. 
 
   Sheridan Street at River Street, southbound. 
 
@@ -1737,7 +1747,7 @@ Silver Lake Avenue at Adams Street, westbound.
 
   Upland Avenue at Heatherland Road, northbound and southbound. 
 
-   Upland Avenue at Rachel Road, southbound. 
+  Upland Avenue at Rachel Road, southbound. 
 
   Upland Road at Mill Street, southwestbound. 
 
@@ -1789,7 +1799,7 @@ Silver Lake Avenue at Adams Street, westbound.
 
   Walker Street at Page Road, northbound. 
 
-   Walker Street at Washington Street, southbound. 
+    Walker Street at Washington Street, southbound. 
 
   Wallace Street at Winchester Street, eastbound. 
 
@@ -1978,16 +1988,16 @@ Ord. No. 291, 8-14-78; Ord. No. 296, 10-3-78; Ord. No. 319, 3-5-79; Ord. No. 323
 Ord. No. 328, 4-4-79; Ord. No. 329, 4-4-79; Ord. Nos. R-17, 18, 19, 9-4-79; Ord. Nos. R-28, 29, 30, 31, 11-5-79; 
 Ord. Nos. R-34, 36, 12-3-79; Ord. No. R-70, 6-16-80; Ord. No. R-79, 8-11-80; Ord. No. R-88, 9-8-80; Ord. No. 
 R-108, 1-19-81; Ord. No. R-119, 2-2-81; Ord. No. R-125, 3-2-81; Ord. No. R-148, 6-1-81; Ord. Nos. R-161, 163, 
-7-13-81;  Ord.  No.  R-169, 9-21-81;  Ord.  Nos.  R-183,  184,  185,  11-2-81;  Ord. Nos.  R-193,  194,  196,  197,  198, 
+7-13-81;  Ord.  No.  R-169,  9-21-81;  Ord.  Nos.  R-183,  184,  185,  11-2-81;  Ord.  Nos.  R-193,  194,  196,  197,  198, 
 12-7-81; Ord. No. R-207, 12-21-81; Ord. Nos. S-9, 11, 9-6-83; Ord. No. S-101, 8-12-85; Ord. No. S-105, 7-8-85; 
 Ord. No. S-111, 1-21-85; Ord. No. S-114, 9-17-84; Ord. No. S-116, 9-17-84; Ord. No. S-117, 9-17-84; Ord. No. 
-S-135,  11-4-85;  Ord.  No. S-147,  12-2-85;  Ord.  No. S-150,  12-2-85;  Ord.  No. S-166,  2-18-86;  Ord.  No. S-213, 
+
+S-135,  11-4-85;  Ord.  No.  S-147,  12-2-85;  Ord.  No.  S-150,  12-2-85;  Ord.  No.  S-166,  2-18-86;  Ord.  No.  S-213, 
 9-2-86; Ord. No. S-237, 11-3-86; Ord. No. S-285, 11-16-87; Ord. No. S-289, 12-7-87; Ord. No. S-307, 3-21-88; 
 Ord. No. S-339, 11-7-88; Ord. No. T-3, 1-3-89; Ord. No. T-4, 1-3-89; Ord. No. T-26, 6-5-89; Ord. No. T-32, 6-19-
 89; Ord. No. T-34, 6-19-89; Ord. No. T-63, 12-4-89; Ord. No. T-81, 3-19-90; Ord. No. T-96, 6-18-90; Ord. No. T-
 97, 6-18-90; Ord. No. T-99, 6-18-90; Ord. No. T-110, 10-15-90; Ord. No. T-117, 1-7-91; Ord. No. T-123, 2-19-91; 
 Ord. No. T-125, 2-19-91; Ord. No. T-128, 3-4-91; Ord. No. T-129, 3-4-91; Ord. No. T-136, 3-18-91; Ord. No. T-
-
 138, 3-18-91; Ord. No. T-144, 4-16-91; Ord. No. T-145, 4-16-91; Ord. No. T-150, 5-20-91; Ord. No. T-151, 5-20-
 91; Ord. No. T-152, 5-20-91; Ord. No. T-153, 5-20-91; Ord. No. T-156, 6-17-91; Ord. No. T-159, 6-17-91; Ord. 
 No. T-175, 10-7-91; Ord. No. T-178, 10-21-91; Ord. No. T-179, 10-21-91; Ord. No. T-190, 11-4-91; Ord. No. T-
@@ -2034,13 +2044,13 @@ TPR-568, 04-16-20; TPR-574, 04-23-20; TPR-576, 04-23-20; TPR-577, 04-23-20; TPR-
 TPR-586, 04-23-20; TPR-587, 04-23-20; TPR-588, 04-23-20; TPR-590, 04-23-20; TPR-591, 04-23-20; TPR-592, 
 04-23-20; TPR-593, 04-23-20; TPR 595 to 620, 04-23-20; TPR-622, 04-23-20; TPR-623, 05-07-20; TPR-637, 05-
 07-20;  TPR-640,  05-18-20;  TPR-644,  06-25-20;  TPR-655,  06-25-20;  TPR-658,  06-25-20;  TPR-659,  06-25-20; 
+
 TPR-664, 07-30-20; TPR-669, 07-30-20; TPR-670, 07-30-20; TPR-672, 07-30-20; TPR-675, 07-30-20; TPR-678, 
 08-28-20; TPR-679, 08-28-20; TPR-680, 08-28-20; TPR-681, 08-28-20; TPR-684, 08-28-20; TPR-686, 08-28-20; 
 TPR-702, 01-28-21; TPR-703, 01-28-21; TPR-704, 01-28-21; TPR-707, 02-25-21; TPR-708, 02-25-21; TPR-709, 
 02-25-21; TPR-715, 02-25-21; TPR-718, 03-25-21; TPR-720, 03-25-21; TPR-721, 03-25-21; TPR-726, 03-25-21; 
 TPR-727, 03-25-21; TPR-728, 03-25-21; TPR-729, 03-25-21; TPR-730, 03-25-21; TPR-732, 04-29-21; TPR-733, 
 04-29-21; TPR-734, 04-29-21; TPR-735, 04-29-21; TPR-739, 06-24-21; TPR-740, 06-24-21; TPR-741, 06-24-21; 
-
 TPR-742, 06-24-21; TPR-745, 06-24-21; TPR-746, 06-24-21; TPR-747, 06-24-21; TPR-748, 06-24-21; TPR-750, 
 07-22-21; TPR-751, 07-22-21; TPR-754, 07-22-21; TPR-759, 07-22-21; TPR-767, 09-23-21; TPR-773, 10-21-21; 
 TPR-775, 10-21-21; TPR-781, 11-18-21; TPR-788, 01-20-22; TPR-805, 03-17-22; TPR-811, 05-19-22; TPR-815, 
@@ -2051,4 +2061,5 @@ TPR-889, 07-13-23; TPR-892, 07-13-23; TPR-902, 09-28-23; TPR-905, 09-28-23; TPR-
 12-14-23; TPR 920, 12-14-23; TPR 922, 01-18-24; TPR 927, 02-15-24; TPR 928, 02-15-24; TPR 932, 04-11-24; 
 TPR 935, 06-13-24; TPR 937, 06-13-24; TPR 939, 06-13-24; TPR 940, 06-13-24; TPR 941, 06-13-24; TPR 942, 
 06-13-24; TPR 949, 09-12-24; TPR 957, 11-21-24; TPR 958, 11-21-24; TPR 962, 12-19-24; TPR 963, 12-19-24; 
-TPR 964, 12-19-24) 
+TPR 964, 12-19-24; TPR 965, 01-30-25; TPR 966, 01-30-25; TPR 967; 01-30-25; TPR 976, 03-13-25; TPR 985, 
+04-10-25) 

@@ -1,7 +1,7 @@
 {
   "source": "tpr.pdf",
-  "revision_date": "2024-12-20",
-  "last_updated": "2025-03-06",
+  "revision_date": "2025-04-11",
+  "last_updated": "2025-09-07",
   "sections": [
     {
       "section": "83",
@@ -9,7 +9,7 @@
       "page_start": 1,
       "page_end": 3,
       "txt_filename": "sections/83.txt",
-      "size": 6333
+      "size": 6304
     },
     {
       "section": "84",
@@ -17,7 +17,7 @@
       "page_start": 3,
       "page_end": 23,
       "txt_filename": "sections/84.txt",
-      "size": 38936
+      "size": 38944
     },
     {
       "section": "85",
@@ -25,7 +25,7 @@
       "page_start": 23,
       "page_end": 28,
       "txt_filename": "sections/85.txt",
-      "size": 9605
+      "size": 9514
     },
     {
       "section": "86",
@@ -33,7 +33,7 @@
       "page_start": 28,
       "page_end": 29,
       "txt_filename": "sections/86.txt",
-      "size": 1875
+      "size": 1860
     },
     {
       "section": "87",
@@ -57,7 +57,7 @@
       "page_start": 32,
       "page_end": 33,
       "txt_filename": "sections/89.txt",
-      "size": 2317
+      "size": 2318
     },
     {
       "section": "90",
@@ -73,7 +73,7 @@
       "page_start": 33,
       "page_end": 33,
       "txt_filename": "sections/95.txt",
-      "size": 760
+      "size": 761
     },
     {
       "section": "96",
@@ -81,305 +81,305 @@
       "page_start": 33,
       "page_end": 37,
       "txt_filename": "sections/96.txt",
-      "size": 5602
+      "size": 6041
     },
     {
       "section": "97",
       "title": "Left lane must turn left",
       "page_start": 37,
-      "page_end": 39,
+      "page_end": 40,
       "txt_filename": "sections/97.txt",
-      "size": 4458
+      "size": 5362
     },
     {
       "section": "98",
       "title": "Right lane must turn right",
-      "page_start": 39,
-      "page_end": 40,
+      "page_start": 40,
+      "page_end": 41,
       "txt_filename": "sections/98.txt",
-      "size": 1918
+      "size": 2086
     },
     {
       "section": "99",
       "title": "Through travel prohibited",
-      "page_start": 40,
-      "page_end": 41,
+      "page_start": 41,
+      "page_end": 42,
       "txt_filename": "sections/99.txt",
-      "size": 1474
+      "size": 1473
     },
     {
       "section": "145",
       "title": "Traffic-control signal locations",
-      "page_start": 41,
-      "page_end": 46,
+      "page_start": 42,
+      "page_end": 47,
       "txt_filename": "sections/145.txt",
-      "size": 6827
+      "size": 6988
     },
     {
       "section": "146",
       "title": "Flashing warning light locations",
-      "page_start": 46,
-      "page_end": 48,
+      "page_start": 47,
+      "page_end": 49,
       "txt_filename": "sections/146.txt",
-      "size": 5133
+      "size": 5225
     },
     {
       "section": "147",
       "title": "Obedience to isolated stop signs",
-      "page_start": 48,
-      "page_end": 88,
+      "page_start": 49,
+      "page_end": 89,
       "txt_filename": "sections/147.txt",
-      "size": 64975
+      "size": 65404
     },
     {
       "section": "148",
       "title": "Obedience to yield signs",
-      "page_start": 88,
-      "page_end": 89,
+      "page_start": 89,
+      "page_end": 91,
       "txt_filename": "sections/148.txt",
-      "size": 4196
+      "size": 4198
     },
     {
       "section": "149",
       "title": "School zones",
-      "page_start": 89,
-      "page_end": 91,
+      "page_start": 91,
+      "page_end": 92,
       "txt_filename": "sections/149.txt",
-      "size": 3998
+      "size": 4019
     },
     {
       "section": "150",
       "title": "Safety Zones",
-      "page_start": 91,
-      "page_end": 92,
+      "page_start": 92,
+      "page_end": 93,
       "txt_filename": "sections/150.txt",
-      "size": 1565
+      "size": 1609
     },
     {
       "section": "168",
       "title": "Parking limit in municipal off-street parking areas",
-      "page_start": 92,
-      "page_end": 92,
+      "page_start": 93,
+      "page_end": 93,
       "txt_filename": "sections/168.txt",
       "size": 314
     },
     {
       "section": "169",
       "title": "Times parking prohibited in Oak Hill off-street area",
-      "page_start": 92,
-      "page_end": 92,
+      "page_start": 93,
+      "page_end": 94,
       "txt_filename": "sections/169.txt",
       "size": 255
     },
     {
       "section": "172",
       "title": "Loading zones",
-      "page_start": 92,
-      "page_end": 94,
+      "page_start": 94,
+      "page_end": 95,
       "txt_filename": "sections/172.txt",
-      "size": 2394
+      "size": 2143
     },
     {
       "section": "176",
       "title": "Parking regulations pertaining to particular streets.*",
-      "page_start": 94,
-      "page_end": 195,
+      "page_start": 95,
+      "page_end": 200,
       "txt_filename": "sections/176.txt",
-      "size": 182894
+      "size": 189314
     },
     {
       "section": "177",
       "title": "Football game day parking regulations",
-      "page_start": 195,
-      "page_end": 199,
+      "page_start": 200,
+      "page_end": 204,
       "txt_filename": "sections/177.txt",
       "size": 5970
     },
     {
       "section": "178",
       "title": "Reserved",
-      "page_start": 199,
-      "page_end": 199,
+      "page_start": 204,
+      "page_end": 204,
       "txt_filename": "sections/178.txt",
       "size": 25
     },
     {
       "section": "179",
       "title": "School drop off zones",
-      "page_start": 199,
-      "page_end": 201,
+      "page_start": 204,
+      "page_end": 206,
       "txt_filename": "sections/179.txt",
-      "size": 4442
+      "size": 4428
     },
     {
       "section": "180",
       "title": "Stopping Prohibited on Particular Streets",
-      "page_start": 201,
-      "page_end": 202,
+      "page_start": 206,
+      "page_end": 207,
       "txt_filename": "sections/180.txt",
-      "size": 999
+      "size": 1011
     },
     {
       "section": "194",
       "title": "Time limits in municipal off-street parking areas",
-      "page_start": 202,
-      "page_end": 202,
+      "page_start": 207,
+      "page_end": 207,
       "txt_filename": "sections/194.txt",
       "size": 1999
     },
     {
       "section": "195",
       "title": "Reserved",
-      "page_start": 202,
-      "page_end": 203,
+      "page_start": 207,
+      "page_end": 208,
       "txt_filename": "sections/195.txt",
       "size": 805
     },
     {
       "section": "199",
       "title": "Fire Lanes",
-      "page_start": 203,
-      "page_end": 204,
+      "page_start": 208,
+      "page_end": 209,
       "txt_filename": "sections/199.txt",
       "size": 1596
     },
     {
       "section": "200",
       "title": "Accessible Parking Spaces",
-      "page_start": 204,
-      "page_end": 207,
+      "page_start": 209,
+      "page_end": 212,
       "txt_filename": "sections/200.txt",
-      "size": 8337
+      "size": 8525
     },
     {
       "section": "201",
       "title": "Overnight on-street angle parking areas",
-      "page_start": 207,
-      "page_end": 208,
+      "page_start": 212,
+      "page_end": 213,
       "txt_filename": "sections/201.txt",
       "size": 329
     },
     {
       "section": "202",
       "title": "Resident restricted areas",
-      "page_start": 208,
-      "page_end": 209,
+      "page_start": 213,
+      "page_end": 214,
       "txt_filename": "sections/202.txt",
-      "size": 3716
+      "size": 3725
     },
     {
       "section": "203",
       "title": "Reserved",
-      "page_start": 209,
-      "page_end": 209,
+      "page_start": 214,
+      "page_end": 214,
       "txt_filename": "sections/203.txt",
       "size": 97
     },
     {
       "section": "204",
       "title": "Newton North High School Tiger Parking Permits",
-      "page_start": 209,
-      "page_end": 210,
+      "page_start": 214,
+      "page_end": 215,
       "txt_filename": "sections/204.txt",
       "size": 3538
     },
     {
       "section": "205",
       "title": "Newtonville Neighborhood Parking District",
-      "page_start": 210,
-      "page_end": 212,
+      "page_start": 215,
+      "page_end": 217,
       "txt_filename": "sections/205.txt",
-      "size": 4424
+      "size": 4442
     },
     {
       "section": "206",
       "title": "Auburndale Village Parking District",
-      "page_start": 212,
-      "page_end": 214,
+      "page_start": 217,
+      "page_end": 219,
       "txt_filename": "sections/206.txt",
-      "size": 5379
+      "size": 5389
     },
     {
       "section": "207",
       "title": "Horace Mann Neighborhood Parking District",
-      "page_start": 214,
-      "page_end": 215,
+      "page_start": 219,
+      "page_end": 220,
       "txt_filename": "sections/207.txt",
-      "size": 2270
+      "size": 2269
     },
     {
       "section": "208",
       "title": "Waban Village Parking District",
-      "page_start": 215,
-      "page_end": 216,
+      "page_start": 220,
+      "page_end": 222,
       "txt_filename": "sections/208.txt",
-      "size": 4069
+      "size": 4105
     },
     {
       "section": "209",
       "title": "Newton Highlands Parking District",
-      "page_start": 216,
-      "page_end": 218,
+      "page_start": 222,
+      "page_end": 223,
       "txt_filename": "sections/209.txt",
-      "size": 3256
+      "size": 3220
     },
     {
       "section": "210",
       "title": "Newton Corner Parking District",
-      "page_start": 218,
-      "page_end": 219,
+      "page_start": 223,
+      "page_end": 224,
       "txt_filename": "sections/210.txt",
       "size": 2367
     },
     {
       "section": "211",
       "title": "Charlesbank Area Parking District",
-      "page_start": 219,
-      "page_end": 220,
+      "page_start": 224,
+      "page_end": 225,
       "txt_filename": "sections/211.txt",
-      "size": 2111
+      "size": 2112
     },
     {
       "section": "219",
       "title": "Parking prohibitions in areas that previously allowed parking",
-      "page_start": 220,
-      "page_end": 220,
+      "page_start": 225,
+      "page_end": 225,
       "txt_filename": "sections/219.txt",
       "size": 411
     },
     {
       "section": "220",
       "title": "Parking prohibitions for tow zones.*",
-      "page_start": 220,
-      "page_end": 224,
+      "page_start": 225,
+      "page_end": 229,
       "txt_filename": "sections/220.txt",
-      "size": 8207
+      "size": 8237
     },
     {
       "section": "221",
       "title": "Signs to be erected",
-      "page_start": 224,
-      "page_end": 224,
+      "page_start": 229,
+      "page_end": 229,
       "txt_filename": "sections/221.txt",
-      "size": 595
+      "size": 603
     },
     {
       "section": "222",
       "title": "Reserved",
-      "page_start": 224,
-      "page_end": 224,
+      "page_start": 229,
+      "page_end": 229,
       "txt_filename": "sections/222.txt",
       "size": 66
     },
     {
       "section": "223",
       "title": "Reserved",
-      "page_start": 224,
+      "page_start": 229,
       "page_end": null,
       "txt_filename": "sections/223.txt",
       "size": 25
     }
   ],
   "source_url": "https://www.newtonma.gov/government/public-works/transportation-division",
-  "pdf_url": "https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000"
+  "pdf_url": "https://www.newtonma.gov/home/showpublisheddocument/100747/637832115714270000"
 }

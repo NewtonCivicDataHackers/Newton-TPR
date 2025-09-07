@@ -9,7 +9,7 @@
       "page_start": 1,
       "page_end": 3,
       "txt_filename": "sections/83.txt",
-      "size": 6304
+      "size": 6223
     },
     {
       "section": "84",
@@ -17,7 +17,7 @@
       "page_start": 3,
       "page_end": 23,
       "txt_filename": "sections/84.txt",
-      "size": 38944
+      "size": 36292
     },
     {
       "section": "85",
@@ -25,7 +25,7 @@
       "page_start": 23,
       "page_end": 28,
       "txt_filename": "sections/85.txt",
-      "size": 9514
+      "size": 9366
     },
     {
       "section": "86",
@@ -33,7 +33,7 @@
       "page_start": 28,
       "page_end": 29,
       "txt_filename": "sections/86.txt",
-      "size": 1860
+      "size": 1840
     },
     {
       "section": "87",
@@ -41,7 +41,7 @@
       "page_start": 29,
       "page_end": 31,
       "txt_filename": "sections/87.txt",
-      "size": 3795
+      "size": 3744
     },
     {
       "section": "88",
@@ -49,7 +49,7 @@
       "page_start": 31,
       "page_end": 32,
       "txt_filename": "sections/88.txt",
-      "size": 1144
+      "size": 1131
     },
     {
       "section": "89",
@@ -57,7 +57,7 @@
       "page_start": 32,
       "page_end": 33,
       "txt_filename": "sections/89.txt",
-      "size": 2318
+      "size": 2287
     },
     {
       "section": "90",
@@ -65,7 +65,7 @@
       "page_start": 33,
       "page_end": 33,
       "txt_filename": "sections/90.txt",
-      "size": 1349
+      "size": 1328
     },
     {
       "section": "95",
@@ -73,7 +73,7 @@
       "page_start": 33,
       "page_end": 33,
       "txt_filename": "sections/95.txt",
-      "size": 761
+      "size": 739
     },
     {
       "section": "96",
@@ -81,7 +81,7 @@
       "page_start": 33,
       "page_end": 37,
       "txt_filename": "sections/96.txt",
-      "size": 6041
+      "size": 6013
     },
     {
       "section": "97",
@@ -89,7 +89,7 @@
       "page_start": 37,
       "page_end": 40,
       "txt_filename": "sections/97.txt",
-      "size": 5362
+      "size": 5225
     },
     {
       "section": "98",
@@ -97,7 +97,7 @@
       "page_start": 40,
       "page_end": 41,
       "txt_filename": "sections/98.txt",
-      "size": 2086
+      "size": 2044
     },
     {
       "section": "99",
@@ -105,7 +105,7 @@
       "page_start": 41,
       "page_end": 42,
       "txt_filename": "sections/99.txt",
-      "size": 1473
+      "size": 1436
     },
     {
       "section": "145",
@@ -113,7 +113,7 @@
       "page_start": 42,
       "page_end": 47,
       "txt_filename": "sections/145.txt",
-      "size": 6988
+      "size": 6806
     },
     {
       "section": "146",
@@ -121,7 +121,7 @@
       "page_start": 47,
       "page_end": 49,
       "txt_filename": "sections/146.txt",
-      "size": 5225
+      "size": 5223
     },
     {
       "section": "147",
@@ -129,7 +129,7 @@
       "page_start": 49,
       "page_end": 89,
       "txt_filename": "sections/147.txt",
-      "size": 65404
+      "size": 64208
     },
     {
       "section": "148",
@@ -137,7 +137,7 @@
       "page_start": 89,
       "page_end": 91,
       "txt_filename": "sections/148.txt",
-      "size": 4198
+      "size": 4096
     },
     {
       "section": "149",
@@ -145,7 +145,7 @@
       "page_start": 91,
       "page_end": 92,
       "txt_filename": "sections/149.txt",
-      "size": 4019
+      "size": 3870
     },
     {
       "section": "150",
@@ -153,7 +153,7 @@
       "page_start": 92,
       "page_end": 93,
       "txt_filename": "sections/150.txt",
-      "size": 1609
+      "size": 1592
     },
     {
       "section": "168",
@@ -161,7 +161,7 @@
       "page_start": 93,
       "page_end": 93,
       "txt_filename": "sections/168.txt",
-      "size": 314
+      "size": 312
     },
     {
       "section": "169",
@@ -169,7 +169,7 @@
       "page_start": 93,
       "page_end": 94,
       "txt_filename": "sections/169.txt",
-      "size": 255
+      "size": 252
     },
     {
       "section": "172",
@@ -177,7 +177,7 @@
       "page_start": 94,
       "page_end": 95,
       "txt_filename": "sections/172.txt",
-      "size": 2143
+      "size": 2116
     },
     {
       "section": "176",
@@ -185,7 +185,7 @@
       "page_start": 95,
       "page_end": 200,
       "txt_filename": "sections/176.txt",
-      "size": 189314
+      "size": 187737
     },
     {
       "section": "177",
@@ -193,7 +193,7 @@
       "page_start": 200,
       "page_end": 204,
       "txt_filename": "sections/177.txt",
-      "size": 5970
+      "size": 5788
     },
     {
       "section": "178",
@@ -209,7 +209,7 @@
       "page_start": 204,
       "page_end": 206,
       "txt_filename": "sections/179.txt",
-      "size": 4428
+      "size": 4330
     },
     {
       "section": "180",
@@ -217,7 +217,7 @@
       "page_start": 206,
       "page_end": 207,
       "txt_filename": "sections/180.txt",
-      "size": 1011
+      "size": 972
     },
     {
       "section": "194",
@@ -233,7 +233,7 @@
       "page_start": 207,
       "page_end": 208,
       "txt_filename": "sections/195.txt",
-      "size": 805
+      "size": 767
     },
     {
       "section": "199",
@@ -241,7 +241,7 @@
       "page_start": 208,
       "page_end": 209,
       "txt_filename": "sections/199.txt",
-      "size": 1596
+      "size": 1559
     },
     {
       "section": "200",
@@ -249,7 +249,7 @@
       "page_start": 209,
       "page_end": 212,
       "txt_filename": "sections/200.txt",
-      "size": 8525
+      "size": 8351
     },
     {
       "section": "201",
@@ -257,7 +257,7 @@
       "page_start": 212,
       "page_end": 213,
       "txt_filename": "sections/201.txt",
-      "size": 329
+      "size": 327
     },
     {
       "section": "202",
@@ -265,7 +265,7 @@
       "page_start": 213,
       "page_end": 214,
       "txt_filename": "sections/202.txt",
-      "size": 3725
+      "size": 3684
     },
     {
       "section": "203",
@@ -281,7 +281,7 @@
       "page_start": 214,
       "page_end": 215,
       "txt_filename": "sections/204.txt",
-      "size": 3538
+      "size": 3490
     },
     {
       "section": "205",
@@ -289,7 +289,7 @@
       "page_start": 215,
       "page_end": 217,
       "txt_filename": "sections/205.txt",
-      "size": 4442
+      "size": 4267
     },
     {
       "section": "206",
@@ -297,7 +297,7 @@
       "page_start": 217,
       "page_end": 219,
       "txt_filename": "sections/206.txt",
-      "size": 5389
+      "size": 5232
     },
     {
       "section": "207",
@@ -305,7 +305,7 @@
       "page_start": 219,
       "page_end": 220,
       "txt_filename": "sections/207.txt",
-      "size": 2269
+      "size": 2246
     },
     {
       "section": "208",
@@ -313,7 +313,7 @@
       "page_start": 220,
       "page_end": 222,
       "txt_filename": "sections/208.txt",
-      "size": 4105
+      "size": 4022
     },
     {
       "section": "209",
@@ -321,7 +321,7 @@
       "page_start": 222,
       "page_end": 223,
       "txt_filename": "sections/209.txt",
-      "size": 3220
+      "size": 3181
     },
     {
       "section": "210",
@@ -329,7 +329,7 @@
       "page_start": 223,
       "page_end": 224,
       "txt_filename": "sections/210.txt",
-      "size": 2367
+      "size": 2325
     },
     {
       "section": "211",
@@ -337,7 +337,7 @@
       "page_start": 224,
       "page_end": 225,
       "txt_filename": "sections/211.txt",
-      "size": 2112
+      "size": 2053
     },
     {
       "section": "219",
@@ -353,7 +353,7 @@
       "page_start": 225,
       "page_end": 229,
       "txt_filename": "sections/220.txt",
-      "size": 8237
+      "size": 7967
     },
     {
       "section": "221",
@@ -361,7 +361,7 @@
       "page_start": 229,
       "page_end": 229,
       "txt_filename": "sections/221.txt",
-      "size": 603
+      "size": 595
     },
     {
       "section": "222",
@@ -369,7 +369,7 @@
       "page_start": 229,
       "page_end": 229,
       "txt_filename": "sections/222.txt",
-      "size": 66
+      "size": 65
     },
     {
       "section": "223",

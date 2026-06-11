@@ -26,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pdfminer.six
+          pip install curl_cffi beautifulsoup4 pdfminer.six
       
       - name: Create temp directory
         run: mkdir -p tmp
@@ -39,10 +39,14 @@ jobs:
           # Create a temporary copy to avoid SameFileError when input and output are the same directory
           cp tpr.pdf tmp/tpr_source.pdf
           
+          # Preserve the PDF URL already recorded for this revision rather
+          # than hardcoding one that may be stale
+          TPR_PDF_URL=$(jq -r '.pdf_url // empty' index.json)
+
           # Use the temporary copy to regenerate all sections with current script
           python scripts/process-tpr.py tmp/tpr_source.pdf . --overwrite \
             --source-url "https://www.newtonma.gov/government/public-works/transportation-division" \
-            --pdf-url "https://www.newtonma.gov/home/showpublisheddocument/100747/637832115714270000"
+            --pdf-url "${TPR_PDF_URL:-https://www.newtonma.gov/home/showpublisheddocument/100747/637832115714270000}"
           
           echo "Regeneration complete"
       

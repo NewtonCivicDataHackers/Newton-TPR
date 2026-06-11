@@ -44,7 +44,7 @@ jobs:
           
           # Install Python dependencies directly
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 pdfminer.six
+          pip install curl_cffi beautifulsoup4 pdfminer.six
       
       - name: Create temp directory for downloads
         run: mkdir -p tmp
@@ -53,7 +53,13 @@ jobs:
         id: download
         run: |
           echo "Downloading latest TPR document..."
-          python scripts/get-tpr.py tmp/latest.pdf
+          python scripts/get-tpr.py tmp/latest.pdf | tee tmp/download.log
+
+          # Capture the PDF link the script discovered on the page, so the
+          # processed metadata records the real URL instead of a stale one
+          TPR_PDF_URL=$(sed -n 's/^Found TPR document link: //p' tmp/download.log | tail -n 1)
+          echo "TPR_PDF_URL=$TPR_PDF_URL" >> $GITHUB_ENV
+
           # Check if download was successful
           if [ -f "tmp/latest.pdf" ] && [ $(stat -c%s "tmp/latest.pdf") -gt 0 ]; then
             echo "Download successful"
@@ -98,7 +104,7 @@ jobs:
           # We don't need --overwrite since we've already checked this is a new revision
           python scripts/process-tpr.py tmp/latest.pdf . \
             --source-url "https://www.newtonma.gov/government/public-works/transportation-division" \
-            --pdf-url "https://www.newtonma.gov/home/showpublisheddocument/100747/637832115714270000"
+            --pdf-url "${TPR_PDF_URL:-https://www.newtonma.gov/home/showpublisheddocument/100747/637832115714270000}"
           echo "Processing complete"
       
       - name: Commit changes if there are updates

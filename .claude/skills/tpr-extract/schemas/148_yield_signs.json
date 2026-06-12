@@ -1,0 +1,30 @@
+{
+  "title": "Yield sign locations (Sec. TPR-148)",
+  "columns": ["street", "direction", "yields_to", "location_detail", "notes", "source_text"],
+  "fields": {
+    "street": {
+      "description": "Street or way on which traffic must yield",
+      "required": true
+    },
+    "direction": {
+      "description": "Direction of travel governed by the sign; empty when the source does not state one",
+      "$ref": "common#direction"
+    },
+    "yields_to": {
+      "description": "Street or way being entered; empty when the source text does not state it unambiguously",
+      "required": false
+    },
+    "location_detail": {
+      "description": "Lane, island, or position qualifier from the source (e.g. 'from right turn lane', 'at the channelized traffic island')",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

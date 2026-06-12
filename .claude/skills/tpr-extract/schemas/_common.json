@@ -1,0 +1,38 @@
+{
+  "comment": "Shared vocabulary for all TPR datasets. Reference from dataset schemas as {\"$ref\": \"common#<name>\"}. Extend here first; never inline new vocabulary in a single dataset schema.",
+  "defs": {
+    "direction": {
+      "description": "Compass-bound direction of travel",
+      "enum": [
+        "northbound",
+        "southbound",
+        "eastbound",
+        "westbound",
+        "northeastbound",
+        "northwestbound",
+        "southeastbound",
+        "southwestbound"
+      ]
+    },
+    "side": {
+      "description": "Side of street a regulation applies to",
+      "enum": ["north", "south", "east", "west", "both", "odd", "even"]
+    },
+    "time_range": {
+      "description": "Time window in 24-hour HH:MM-HH:MM form",
+      "pattern": "([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d"
+    },
+    "days": {
+      "description": "Comma-separated day tokens; school_days = Newton Public Schools in session",
+      "pattern": "(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all)(,(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all))*"
+    },
+    "speed_mph": {
+      "description": "Speed limit in miles per hour",
+      "type": "integer"
+    },
+    "source_text": {
+      "description": "Verbatim source clause, whitespace-collapsed; the row's provenance",
+      "required": true
+    }
+  }
+}

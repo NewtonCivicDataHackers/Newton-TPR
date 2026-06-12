@@ -1,0 +1,467 @@
+{
+  "comment": "Join table between sections/*.txt and extracted_data/*.tsv. Slugs are stable identifiers chosen here once; titles are informational copies from index.json. Paths under schema/spec are relative to the skill directory; source/output are relative to the repo root.",
+  "datasets": [
+    {
+      "section": "83",
+      "title": "Use and operation of heavy commercial vehicles restricted on certain streets",
+      "status": "planned",
+      "source": "sections/83.txt",
+      "slug": "commercial_vehicle_restrictions",
+      "output": "extracted_data/83_commercial_vehicle_restrictions.tsv",
+      "schema": "schemas/83_commercial_vehicle_restrictions.json",
+      "spec": "specs/83_commercial_vehicle_restrictions.md"
+    },
+    {
+      "section": "84",
+      "title": "Speed zones designated",
+      "status": "planned",
+      "source": "sections/84.txt",
+      "slug": "speed_limits",
+      "output": "extracted_data/84_speed_limits.tsv",
+      "schema": "schemas/84_speed_limits.json",
+      "spec": "specs/84_speed_limits.md"
+    },
+    {
+      "section": "85",
+      "title": "One-way streets",
+      "status": "planned",
+      "source": "sections/85.txt",
+      "slug": "one_way_streets",
+      "output": "extracted_data/85_one_way_streets.tsv",
+      "schema": "schemas/85_one_way_streets.json",
+      "spec": "specs/85_one_way_streets.md"
+    },
+    {
+      "section": "86",
+      "title": "U-turns",
+      "status": "planned",
+      "source": "sections/86.txt",
+      "slug": "u_turns_prohibited",
+      "output": "extracted_data/86_u_turns_prohibited.tsv",
+      "schema": "schemas/86_u_turns_prohibited.json",
+      "spec": "specs/86_u_turns_prohibited.md"
+    },
+    {
+      "section": "87",
+      "title": "Left turns prohibited",
+      "status": "planned",
+      "source": "sections/87.txt",
+      "slug": "left_turns_prohibited",
+      "output": "extracted_data/87_left_turns_prohibited.tsv",
+      "schema": "schemas/87_left_turns_prohibited.json",
+      "spec": "specs/87_left_turns_prohibited.md"
+    },
+    {
+      "section": "88",
+      "title": "Right turn only",
+      "status": "planned",
+      "source": "sections/88.txt",
+      "slug": "right_turn_only",
+      "output": "extracted_data/88_right_turn_only.tsv",
+      "schema": "schemas/88_right_turn_only.json",
+      "spec": "specs/88_right_turn_only.md"
+    },
+    {
+      "section": "89",
+      "title": "Right turns prohibited",
+      "status": "planned",
+      "source": "sections/89.txt",
+      "slug": "right_turns_prohibited",
+      "output": "extracted_data/89_right_turns_prohibited.tsv",
+      "schema": "schemas/89_right_turns_prohibited.json",
+      "spec": "specs/89_right_turns_prohibited.md"
+    },
+    {
+      "section": "90",
+      "title": "Vehicle Restrictions on Public Ways., the following prohibitions apply:",
+      "status": "planned",
+      "source": "sections/90.txt",
+      "slug": "vehicle_restrictions",
+      "output": "extracted_data/90_vehicle_restrictions.tsv",
+      "schema": "schemas/90_vehicle_restrictions.json",
+      "spec": "specs/90_vehicle_restrictions.md"
+    },
+    {
+      "section": "95",
+      "title": "Thruways",
+      "status": "planned",
+      "source": "sections/95.txt",
+      "slug": "thruways",
+      "output": "extracted_data/95_thruways.tsv",
+      "schema": "schemas/95_thruways.json",
+      "spec": "specs/95_thruways.md"
+    },
+    {
+      "section": "96",
+      "title": "No Turn on Red signs",
+      "status": "planned",
+      "source": "sections/96.txt",
+      "slug": "no_turn_on_red",
+      "output": "extracted_data/96_no_turn_on_red.tsv",
+      "schema": "schemas/96_no_turn_on_red.json",
+      "spec": "specs/96_no_turn_on_red.md"
+    },
+    {
+      "section": "97",
+      "title": "Left lane must turn left",
+      "status": "planned",
+      "source": "sections/97.txt",
+      "slug": "left_lane_must_turn_left",
+      "output": "extracted_data/97_left_lane_must_turn_left.tsv",
+      "schema": "schemas/97_left_lane_must_turn_left.json",
+      "spec": "specs/97_left_lane_must_turn_left.md"
+    },
+    {
+      "section": "98",
+      "title": "Right lane must turn right",
+      "status": "planned",
+      "source": "sections/98.txt",
+      "slug": "right_lane_must_turn_right",
+      "output": "extracted_data/98_right_lane_must_turn_right.tsv",
+      "schema": "schemas/98_right_lane_must_turn_right.json",
+      "spec": "specs/98_right_lane_must_turn_right.md"
+    },
+    {
+      "section": "99",
+      "title": "Through travel prohibited",
+      "status": "planned",
+      "source": "sections/99.txt",
+      "slug": "through_travel_prohibited",
+      "output": "extracted_data/99_through_travel_prohibited.tsv",
+      "schema": "schemas/99_through_travel_prohibited.json",
+      "spec": "specs/99_through_travel_prohibited.md"
+    },
+    {
+      "section": "145",
+      "title": "Traffic-control signal locations",
+      "status": "planned",
+      "source": "sections/145.txt",
+      "slug": "traffic_control_signals",
+      "output": "extracted_data/145_traffic_control_signals.tsv",
+      "schema": "schemas/145_traffic_control_signals.json",
+      "spec": "specs/145_traffic_control_signals.md"
+    },
+    {
+      "section": "146",
+      "title": "Flashing warning light locations",
+      "status": "planned",
+      "source": "sections/146.txt",
+      "slug": "flashing_warning_lights",
+      "output": "extracted_data/146_flashing_warning_lights.tsv",
+      "schema": "schemas/146_flashing_warning_lights.json",
+      "spec": "specs/146_flashing_warning_lights.md"
+    },
+    {
+      "section": "147",
+      "title": "Obedience to isolated stop signs",
+      "status": "planned",
+      "source": "sections/147.txt",
+      "slug": "stop_signs",
+      "output": "extracted_data/147_stop_signs.tsv",
+      "schema": "schemas/147_stop_signs.json",
+      "spec": "specs/147_stop_signs.md"
+    },
+    {
+      "section": "148",
+      "title": "Obedience to yield signs",
+      "status": "active",
+      "source": "sections/148.txt",
+      "slug": "yield_signs",
+      "output": "extracted_data/148_yield_signs.tsv",
+      "schema": "schemas/148_yield_signs.json",
+      "spec": "specs/148_yield_signs.md",
+      "counting": {
+        "region_start": "following locations:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z]"
+      }
+    },
+    {
+      "section": "149",
+      "title": "School zones",
+      "status": "planned",
+      "source": "sections/149.txt",
+      "slug": "school_zones",
+      "output": "extracted_data/149_school_zones.tsv",
+      "schema": "schemas/149_school_zones.json",
+      "spec": "specs/149_school_zones.md"
+    },
+    {
+      "section": "150",
+      "title": "Safety Zones",
+      "status": "planned",
+      "source": "sections/150.txt",
+      "slug": "safety_zones",
+      "output": "extracted_data/150_safety_zones.tsv",
+      "schema": "schemas/150_safety_zones.json",
+      "spec": "specs/150_safety_zones.md"
+    },
+    {
+      "section": "168",
+      "title": "Parking limit in municipal off-street parking areas",
+      "status": "excluded",
+      "source": "sections/168.txt",
+      "slug": "municipal_lot_parking_limit",
+      "output": "extracted_data/168_municipal_lot_parking_limit.tsv",
+      "schema": "schemas/168_municipal_lot_parking_limit.json",
+      "spec": "specs/168_municipal_lot_parking_limit.md",
+      "reason": "Single citywide rule (3-hour limit); no per-location entries to tabulate."
+    },
+    {
+      "section": "169",
+      "title": "Times parking prohibited in Oak Hill off-street area",
+      "status": "excluded",
+      "source": "sections/169.txt",
+      "slug": "oak_hill_parking_prohibition",
+      "output": "extracted_data/169_oak_hill_parking_prohibition.tsv",
+      "schema": "schemas/169_oak_hill_parking_prohibition.json",
+      "spec": "specs/169_oak_hill_parking_prohibition.md",
+      "reason": "Single rule for one lot; no per-location entries to tabulate."
+    },
+    {
+      "section": "172",
+      "title": "Loading zones",
+      "status": "planned",
+      "source": "sections/172.txt",
+      "slug": "loading_zones",
+      "output": "extracted_data/172_loading_zones.tsv",
+      "schema": "schemas/172_loading_zones.json",
+      "spec": "specs/172_loading_zones.md"
+    },
+    {
+      "section": "176",
+      "title": "Parking regulations pertaining to particular streets.*",
+      "status": "planned",
+      "source": "sections/176.txt",
+      "slug": "street_parking_regulations",
+      "output": "extracted_data/176_street_parking_regulations.tsv",
+      "schema": "schemas/176_street_parking_regulations.json",
+      "spec": "specs/176_street_parking_regulations.md"
+    },
+    {
+      "section": "177",
+      "title": "Football game day parking regulations",
+      "status": "planned",
+      "source": "sections/177.txt",
+      "slug": "game_day_parking",
+      "output": "extracted_data/177_game_day_parking.tsv",
+      "schema": "schemas/177_game_day_parking.json",
+      "spec": "specs/177_game_day_parking.md"
+    },
+    {
+      "section": "178",
+      "title": "Reserved",
+      "status": "excluded",
+      "source": "sections/178.txt",
+      "reason": "Reserved."
+    },
+    {
+      "section": "179",
+      "title": "School drop off zones",
+      "status": "planned",
+      "source": "sections/179.txt",
+      "slug": "school_drop_off_zones",
+      "output": "extracted_data/179_school_drop_off_zones.tsv",
+      "schema": "schemas/179_school_drop_off_zones.json",
+      "spec": "specs/179_school_drop_off_zones.md"
+    },
+    {
+      "section": "180",
+      "title": "Stopping Prohibited on Particular Streets",
+      "status": "planned",
+      "source": "sections/180.txt",
+      "slug": "stopping_prohibited",
+      "output": "extracted_data/180_stopping_prohibited.tsv",
+      "schema": "schemas/180_stopping_prohibited.json",
+      "spec": "specs/180_stopping_prohibited.md"
+    },
+    {
+      "section": "194",
+      "title": "Time limits in municipal off-street parking areas",
+      "status": "planned",
+      "source": "sections/194.txt",
+      "slug": "municipal_parking_time_limits",
+      "output": "extracted_data/194_municipal_parking_time_limits.tsv",
+      "schema": "schemas/194_municipal_parking_time_limits.json",
+      "spec": "specs/194_municipal_parking_time_limits.md"
+    },
+    {
+      "section": "195",
+      "title": "Reserved",
+      "status": "review",
+      "source": "sections/195.txt",
+      "reason": "Marked Reserved, but sections/195.txt contains stray TPR-196 content (section-splitter artifact in process-tpr.py)."
+    },
+    {
+      "section": "199",
+      "title": "Fire Lanes",
+      "status": "planned",
+      "source": "sections/199.txt",
+      "slug": "fire_lanes",
+      "output": "extracted_data/199_fire_lanes.tsv",
+      "schema": "schemas/199_fire_lanes.json",
+      "spec": "specs/199_fire_lanes.md"
+    },
+    {
+      "section": "200",
+      "title": "Accessible Parking Spaces",
+      "status": "planned",
+      "source": "sections/200.txt",
+      "slug": "accessible_parking_spaces",
+      "output": "extracted_data/200_accessible_parking_spaces.tsv",
+      "schema": "schemas/200_accessible_parking_spaces.json",
+      "spec": "specs/200_accessible_parking_spaces.md"
+    },
+    {
+      "section": "201",
+      "title": "Overnight on-street angle parking areas",
+      "status": "planned",
+      "source": "sections/201.txt",
+      "slug": "overnight_angle_parking",
+      "output": "extracted_data/201_overnight_angle_parking.tsv",
+      "schema": "schemas/201_overnight_angle_parking.json",
+      "spec": "specs/201_overnight_angle_parking.md"
+    },
+    {
+      "section": "202",
+      "title": "Resident restricted areas",
+      "status": "planned",
+      "source": "sections/202.txt",
+      "slug": "resident_restricted_areas",
+      "output": "extracted_data/202_resident_restricted_areas.tsv",
+      "schema": "schemas/202_resident_restricted_areas.json",
+      "spec": "specs/202_resident_restricted_areas.md"
+    },
+    {
+      "section": "203",
+      "title": "Reserved",
+      "status": "excluded",
+      "source": "sections/203.txt",
+      "reason": "Reserved."
+    },
+    {
+      "section": "204",
+      "title": "Newton North High School Tiger Parking Permits",
+      "status": "planned",
+      "source": "sections/204.txt",
+      "slug": "tiger_parking_permits",
+      "output": "extracted_data/204_tiger_parking_permits.tsv",
+      "schema": "schemas/204_tiger_parking_permits.json",
+      "spec": "specs/204_tiger_parking_permits.md"
+    },
+    {
+      "section": "205",
+      "title": "Newtonville Neighborhood Parking District",
+      "status": "planned",
+      "source": "sections/205.txt",
+      "slug": "newtonville_parking_district",
+      "output": "extracted_data/205_newtonville_parking_district.tsv",
+      "schema": "schemas/205_newtonville_parking_district.json",
+      "spec": "specs/205_newtonville_parking_district.md"
+    },
+    {
+      "section": "206",
+      "title": "Auburndale Village Parking District",
+      "status": "planned",
+      "source": "sections/206.txt",
+      "slug": "auburndale_parking_district",
+      "output": "extracted_data/206_auburndale_parking_district.tsv",
+      "schema": "schemas/206_auburndale_parking_district.json",
+      "spec": "specs/206_auburndale_parking_district.md"
+    },
+    {
+      "section": "207",
+      "title": "Horace Mann Neighborhood Parking District",
+      "status": "planned",
+      "source": "sections/207.txt",
+      "slug": "horace_mann_parking_district",
+      "output": "extracted_data/207_horace_mann_parking_district.tsv",
+      "schema": "schemas/207_horace_mann_parking_district.json",
+      "spec": "specs/207_horace_mann_parking_district.md"
+    },
+    {
+      "section": "208",
+      "title": "Waban Village Parking District",
+      "status": "planned",
+      "source": "sections/208.txt",
+      "slug": "waban_parking_district",
+      "output": "extracted_data/208_waban_parking_district.tsv",
+      "schema": "schemas/208_waban_parking_district.json",
+      "spec": "specs/208_waban_parking_district.md"
+    },
+    {
+      "section": "209",
+      "title": "Newton Highlands Parking District",
+      "status": "planned",
+      "source": "sections/209.txt",
+      "slug": "newton_highlands_parking_district",
+      "output": "extracted_data/209_newton_highlands_parking_district.tsv",
+      "schema": "schemas/209_newton_highlands_parking_district.json",
+      "spec": "specs/209_newton_highlands_parking_district.md"
+    },
+    {
+      "section": "210",
+      "title": "Newton Corner Parking District",
+      "status": "planned",
+      "source": "sections/210.txt",
+      "slug": "newton_corner_parking_district",
+      "output": "extracted_data/210_newton_corner_parking_district.tsv",
+      "schema": "schemas/210_newton_corner_parking_district.json",
+      "spec": "specs/210_newton_corner_parking_district.md"
+    },
+    {
+      "section": "211",
+      "title": "Charlesbank Area Parking District",
+      "status": "planned",
+      "source": "sections/211.txt",
+      "slug": "charlesbank_parking_district",
+      "output": "extracted_data/211_charlesbank_parking_district.tsv",
+      "schema": "schemas/211_charlesbank_parking_district.json",
+      "spec": "specs/211_charlesbank_parking_district.md"
+    },
+    {
+      "section": "219",
+      "title": "Parking prohibitions in areas that previously allowed parking",
+      "status": "planned",
+      "source": "sections/219.txt",
+      "slug": "removed_parking_spaces",
+      "output": "extracted_data/219_removed_parking_spaces.tsv",
+      "schema": "schemas/219_removed_parking_spaces.json",
+      "spec": "specs/219_removed_parking_spaces.md"
+    },
+    {
+      "section": "220",
+      "title": "Parking prohibitions for tow zones.*",
+      "status": "planned",
+      "source": "sections/220.txt",
+      "slug": "tow_zones",
+      "output": "extracted_data/220_tow_zones.tsv",
+      "schema": "schemas/220_tow_zones.json",
+      "spec": "specs/220_tow_zones.md"
+    },
+    {
+      "section": "221",
+      "title": "Signs to be erected",
+      "status": "planned",
+      "source": "sections/221.txt",
+      "slug": "game_day_sign_locations",
+      "output": "extracted_data/221_game_day_sign_locations.tsv",
+      "schema": "schemas/221_game_day_sign_locations.json",
+      "spec": "specs/221_game_day_sign_locations.md"
+    },
+    {
+      "section": "222",
+      "title": "Reserved",
+      "status": "excluded",
+      "source": "sections/222.txt",
+      "reason": "Reserved."
+    },
+    {
+      "section": "223",
+      "title": "Reserved",
+      "status": "excluded",
+      "source": "sections/223.txt",
+      "reason": "Reserved."
+    }
+  ]
+}

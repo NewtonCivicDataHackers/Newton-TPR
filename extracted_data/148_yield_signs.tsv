@@ -1,0 +1,33 @@
+street	direction	yields_to	location_detail	notes	source_text
+Alderwood Road	eastbound	Burrage Road			Alderwood Road, eastbound at Burrage Road.
+Barnstable Road	northbound	Hampshire Street			Barnstable Road, northbound at Hampshire Street.
+Brookline Street	westbound	Dedham Street	from right turn lane		Brookline Street, westbound, from right turn lane onto Dedham Street.
+Burnham Road	southbound	Hampshire Street			Burnham Road, southbound at Hampshire Street.
+Centre Street	eastbound	Centre Street/Washington Street bridge over Massachusetts Turnpike	from left turn lane		Centre Street, eastbound from left turn lane onto Centre Street/Washington Street bridge over Massachusetts Turnpike.
+Centre Street	northbound	Beacon Street	right turn slip lane		Centre Street, northbound right turn slip lane onto Beacon Street.
+Centre Street	southbound	Washington Street	from right turn lane		Centre Street, southbound from right turn lane onto Washington Street.
+College Road	southwestbound	Beacon Street			College Road at Beacon Street, southwestbound.
+Collins Road	westbound	Waban Avenue	at the channelized traffic island		Collins Road, westbound at the channelized traffic island at Waban Avenue.
+Commonwealth Avenue	eastbound	Grant Avenue	at the channelized traffic island		Commonwealth Avenue, eastbound at the channelized traffic island at Grant Avenue.
+Commonwealth Avenue	westbound	Grant Avenue	at the channelized traffic island		Commonwealth Avenue, westbound at the channelized traffic island at Grant Avenue.
+Commonwealth Avenue	eastbound	Wachusett Road	at the channelized traffic island		Commonwealth Avenue, eastbound at the channelized traffic island at Wachusett Road.
+Commonwealth Avenue, North Drive	northbound		from Commonwealth Avenue, South Drive, opposite Central Street	movement ambiguous in source; see spec	Commonwealth Avenue, North Drive, from Commonwealth Avenue, South Drive, opposite Central Street, northbound.
+Commonwealth Avenue, North Drive	westbound	Commonwealth Avenue	just west of Oldham Road		Commonwealth Avenue, North Drive, westbound onto Commonwealth Avenue, just west of Oldham Road.
+Elliot Street	northeastbound	Boylston Street	from right turn lane		Elliot Street, northeastbound, from right turn lane onto Boylston Street.
+Fox Hill Road	westbound	Arnold Road			Fox Hill Road at Arnold Road, westbound.
+Gordon Road	northbound	Paulson Road			Gordon Road at Paulson Road, northbound.
+Grove Street to Route 16 Collector-Distributor Road		Washington Street	from the right turn lane		Grove Street to Route 16 Collector-Distributor Road from the right turn lane onto Washington Street.
+Hancock Avenue	westbound	Greenlawn Avenue			Hancock Avenue, westbound, at Greenlawn Avenue.
+Highland Street	eastbound	Highland Street	at the connector between Chestnut Street and Highland Street		Highland Street, at the connector between Chestnut Street and Highland Street, eastbound, at Highland Street.
+I-95/Massachusetts-128	northbound	Washington Street	from right turn lane		I-95/Massachusetts-128 Northbound, from right turn lane onto Washington Street.
+Islington Oval Road		Islington Road			Islington Oval Road at Islington Road.
+Larkspur Road	northbound	Devonshire Road			Larkspur Road, northbound at Devonshire Road.
+Old Colony Road	westbound		at the channelized traffic island south of Commonwealth Avenue		Old Colony Road, westbound at the channelized traffic island south of Commonwealth Avenue.
+Quinobequin Road	northbound	Washington Street	from right turn lane		Quinobequin Road, northbound from right turn lane onto Washington Street.
+Quinobequin Road	southbound	Washington Street	from right turn lane		Quinobequin Road, southbound from right turn lane onto Washington Street.
+Union Street	northeastbound	Beacon Street			Union Street at Beacon Street, northeastbound.
+Waban Avenue (one-way southbound portion)	southbound	Waban Avenue (two-way portion)	approximately 150 feet northeast of Annawan Road	unclosed parenthesis in source	Waban Avenue (one-way southbound portion) at Waban Avenue (two-way portion, approximately 150 feet northeast of Annawan Road.
+Waltham Street	southbound	Waltham Street (western leg)	at a point 240 feet south of Crafts Street		Waltham Street, southbound, at Waltham Street (western leg), at a point 240 feet south of Crafts Street.
+Washington Street	eastbound	Beacon Street	at merge		Washington Street, eastbound at Beacon Street merge.
+Washington Street	eastbound	Centre Avenue			Washington Street, eastbound onto Centre Avenue.
+Wells Avenue	westbound	Wells Avenue northbound	from right turn lane		Wells Avenue westbound from right turn lane onto Wells Avenue northbound.

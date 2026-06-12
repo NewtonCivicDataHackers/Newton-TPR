@@ -94,12 +94,17 @@
     {
       "section": "96",
       "title": "No Turn on Red signs",
-      "status": "planned",
+      "status": "active",
       "source": "sections/96.txt",
       "slug": "no_turn_on_red",
       "output": "extracted_data/96_no_turn_on_red.tsv",
       "schema": "schemas/96_no_turn_on_red.json",
-      "spec": "specs/96_no_turn_on_red.md"
+      "spec": "specs/96_no_turn_on_red.md",
+      "counting": {
+        "region_start": "Right turns on red signals are prohibited at the following intersections:",
+        "region_end": "\\(Ord No\\. R-33",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "97",

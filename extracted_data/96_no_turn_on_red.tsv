@@ -1,0 +1,77 @@
+street	direction	cross_street	turn	lane_detail	condition	days	times	location_detail	notes	source_text
+Angier School driveway	southbound	Beacon Street	right							Angier School driveway, southbound at Beacon Street.
+Beacon Street	westbound	Sumner Street	right							Beacon Street, westbound at Sumner Street.
+Beacon Street	eastbound	Beethoven Avenue	right							Beacon Street, eastbound at Beethoven Avenue.
+Beacon Street	westbound	Evelyn Road	right							Beacon Street, westbound at Evelyn Road.
+Beacon Street	eastbound	Langley Road	right							Beacon Street, eastbound at Langley Road.
+Beacon Street Extension	eastbound	Washington Street	right							Beacon Street Extension, eastbound at Washington Street.
+Beethoven Avenue	northbound	Beacon Street	right							Beethoven Avenue, northbound at Beacon Street.
+Cabot Street	westbound	Walnut Street	right							Cabot Street at Walnut Street, westbound.
+Centre Avenue	eastbound	Centre Street	right	left two lanes						Centre Avenue at Centre Street, eastbound (left two lanes).
+Centre Avenue	eastbound	Centre Street	right	right two lanes						Centre Avenue at Centre Street, eastbound (right two lanes).
+Centre Street	all	Commonwealth Avenue	right							Centre Street, all directions at Commonwealth Avenue.
+Centre Street	eastbound	Park Street	right							Centre Street, facing eastbound traffic at Park Street.
+Centre Street	all	Church Street	right							Centre Street at Church Street, all approaches.
+Charlesbank Road	eastbound	Nonantum Road	right							Charlesbank Road, eastbound, at Nonantum Road.
+Chestnut Street	all	Oak Street	right							Chestnut Street at Oak Street, all approaches.
+Chestnut Street	all	Woodward Street	right							Chestnut Street at Woodward Street, all directions.
+Church Street	northwestbound	Washington Street	right							Church Street, northwestbound, at Washington Street.
+Commonwealth Avenue	eastbound	Hammond Street	right							Commonwealth Avenue eastbound at Hammond Street.
+Commonwealth Avenue	westbound	Grant Avenue	right							Commonwealth Avenue, westbound at Grant Avenue.
+Commonwealth Avenue	westbound	Washington Street	right							Commonwealth Avenue westbound at Washington Street.
+Crafts Street	all	Linwood Avenue	right							Crafts Street at Linwood Avenue, all approaches.
+Crafts Street	northbound	North Street	right							Crafts Street at North Street, northbound.
+Crafts Street	all	Watertown Street	right							Crafts Street at Watertown Street, all directions.
+Dedham Street	westbound	Winchester Street	right							Dedham Street, westbound, onto Winchester Street.
+Edinboro Street, Walker Street, and Watertown Street	all		right							Edinboro Street, Walker Street, and Watertown Street, all directions.
+Elm Street	southbound	Washington Street	right		when illuminated					Elm Street at Washington Street, southbound (when illuminated).
+Evelyn Road	southbound	Beacon Street	right							Evelyn Road, southbound at Beacon Street.
+Grant Avenue	northbound	Commonwealth Avenue	right							Grant Avenue, northbound at Commonwealth Avenue.
+Grant Avenue	southbound	Commonwealth Avenue	right							Grant Avenue, southbound at Commonwealth Avenue.
+Grant Avenue	southbound	Carriage Road	right							Grant Avenue, southbound at Carriage Road.
+Hammond Street	northbound	Commonwealth Avenue	right							Hammond Street, northbound at Commonwealth Avenue.
+Hammond Street	southbound	Commonwealth Avenue	right							Hammond Street, southbound at Commonwealth Avenue.
+Hammond Street	southbound	Carriage Road	right							Hammond Street, southbound at Carriage Road.
+Harvard Street	northbound	Washington Street	right							Harvard Street, northbound, at Washington Street.
+Highland Street	northbound	Washington Street	right							Highland Street at Washington Street, northbound.
+Homer Street	westbound	Walnut Street	right							Homer Street, westbound at Walnut Street.
+Jefferson Street	westbound	Centre Street	right							Jefferson Street, westbound at Centre Street.
+Lowell Avenue	all	Washington Street	right							Lowell Avenue at Washington Street, all approaches.
+Manitoba Road	northbound	Beacon Street	right							Manitoba Road, northbound at Beacon Street.
+North Street	southbound	Crafts Street	right							North Street, southbound at Crafts Street.
+Park Street	northeastbound	Centre Street	right							Park Street, northeastbound at Centre Street.
+Park Street	northbound	Centre Street	right							Park Street, facing northbound traffic at Centre Street.
+Park Street	northbound	Tremont Street	right							Park Street at Tremont Street, northbound.
+Park Street	southbound	Tremont Street	right							Park Street at Tremont Street southbound.
+Parker Street	northbound	Wheeler Road	right							Parker Street, northbound at Wheeler Road.
+Pearl Street	eastbound	Centre Street	right							Pearl Street, eastbound at Centre Street.
+Perkins Street	northbound	Washington Street	right							Perkins Street, Northbound, at Washington Street.
+Stuart Road		Waverley Avenue	right							Stuart Road, at Waverley Avenue.
+Tremont Street	westbound	Park Street	right							Tremont Street, westbound at Park Street.
+Wachusett Road	northbound	Commonwealth Avenue	right							Wachusett Road, northbound at Commonwealth Avenue.
+Walnut Street	northbound	Commonwealth Avenue	right							Walnut Street at Commonwealth Avenue, northbound.
+Walnut Street	northbound	Centre Street	right							Walnut Street, northbound, onto Centre Street.
+Walnut Street	southbound	Centre Street	right							Walnut Street, southbound at Centre Street.
+Walnut Street	northbound,southbound	Washington Street	right							Walnut Street at Washington Street, northbound and southbound.
+Waltham Street	southbound	Washington Street	right							Waltham Street at Washington Street, southbound.
+Ward Street	northwestbound	Waverley Avenue	right							Ward Street, north-westbound at Waverley Avenue.
+Ward Street	northeastbound	Waverley Avenue	right					continuing onto Ward Street		Ward Street, north-eastbound, continuing onto Ward Street at Waverley Avenue.
+Washington Street	eastbound	Washington Street	right					continuing onto Washington Street; opposite Elm Street		Washington Street continuing onto Washington Street, eastbound (opposite Elm Street).
+Washington Street	eastbound	Harvard Street	right							Washington Street, eastbound, at Harvard Street.
+Washington Street	eastbound	Centre Avenue	right					merge in Newton Corner		Washington Street eastbound merge onto Centre Avenue in Newton Corner.
+Washington Street	eastbound	St. James Street	right							Washington Street, facing eastbound traffic towards St. James Street.
+Washington Street	northbound		right					bridge over turnpike		Washington Street, facing northbound traffic towards bridge over turnpike.
+Washington Street	westbound	Bacon Street	right							Washington Street, facing westbound traffic at Bacon Street.
+Washington Street	eastbound	Highland Street	right							Washington Street at Highland Street, eastbound.
+Washington Street	eastbound	Walnut Street	right		when illuminated					Washington Street at Walnut Street, eastbound (when illuminated).
+Washington Street	westbound	Walnut Street	right		when illuminated					Washington Street at Walnut Street, westbound (when illuminated).
+Massachusetts Turnpike off-ramp		Washington Street	right	left and center lane				at exit 125		Massachusetts Turnpike off-ramp, onto Washington Street at exit 125, left and center lane.
+Washington Street	westbound	Cherry Street	right							Washington Street onto Cherry Street, westbound.
+Watertown Street/Albemarle Road/ Brookside Avenue	all		right							Watertown Street/Albemarle Road/ Brookside Avenue, all approaches.
+Watertown Street	westbound	Washington Street	right							Watertown Street, westbound at Washington Street.
+Watertown Street/Walnut Street	all		right							Watertown Street/Walnut Street, all approaches.
+Waverley Avenue	southbound	Stuart Street	right							Waverley Avenue, southbound at Stuart Street.
+Wheeler Road	westbound	Parker Street	right							Wheeler Road, westbound at Parker Street.
+Winchester Street	southbound	Nahanton Street	right			mon,tue,wed,thu,fri	07:00-09:00,15:00-19:00			Winchester Street, southbound at Nahanton Street, Monday–Friday, 7:00 a.m. – 9:00 a.m. & 3:00 p.m. – 7:00 p.m.
+Washington Street	northbound	Massachusetts Turnpike entrance on-ramp	left	far left two lanes				one-way bridge; at exit 127		Washington Street northbound one-way bridge, onto the Massachusetts Turnpike entrance on-ramp at exit 127, far left two lanes.
+Washington Street	westbound	Centre Avenue	left					merge in Newton Corner		Washington Street westbound merge onto Centre Avenue in Newton Corner.

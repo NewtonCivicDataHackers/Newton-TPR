@@ -3,6 +3,9 @@
   "datasets": {
     "148_yield_signs": {
       "rows": 32
+    },
+    "96_no_turn_on_red": {
+      "rows": 76
     }
   }
 }

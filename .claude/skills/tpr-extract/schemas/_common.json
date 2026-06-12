@@ -18,9 +18,17 @@
       "description": "Side of street a regulation applies to",
       "enum": ["north", "south", "east", "west", "both", "odd", "even"]
     },
+    "direction_set": {
+      "description": "One or more comma-separated directions, or 'all' for all approaches",
+      "pattern": "(northbound|southbound|eastbound|westbound|northeastbound|northwestbound|southeastbound|southwestbound|all)(,(northbound|southbound|eastbound|westbound|northeastbound|northwestbound|southeastbound|southwestbound))*"
+    },
     "time_range": {
       "description": "Time window in 24-hour HH:MM-HH:MM form",
       "pattern": "([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d"
+    },
+    "time_ranges": {
+      "description": "One or more comma-separated 24-hour HH:MM-HH:MM time windows",
+      "pattern": "([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d(,([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d)*"
     },
     "days": {
       "description": "Comma-separated day tokens; school_days = Newton Public Schools in session",

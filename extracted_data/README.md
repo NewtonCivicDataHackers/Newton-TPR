@@ -10,6 +10,24 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 
 ## Datasets
 
+### 96 — No Turn on Red signs
+
+[96_no_turn_on_red.tsv](96_no_turn_on_red.tsv) — 76 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street or approach the restricted traffic is on; for intersection-wide entries, the full multi-street designation as written (whitespace-collapsed, not beautified) (required) |
+| `direction` | Direction(s) of travel the restriction applies to; 'all' for all-directions/all-approaches entries; empty when the source states none (vocabulary: `direction_set`) |
+| `cross_street` | Street at/onto/towards which the turn is prohibited; empty for intersection-wide entries or when not stated |
+| `turn` | Which turn is prohibited on red (required) |
+| `lane_detail` | Lane qualifier from the source (e.g. 'left two lanes', 'far left two lanes', 'left and center lane') |
+| `condition` | Operating condition of the sign, lowercase without parentheses (e.g. 'when illuminated') |
+| `days` | Days the restriction applies; empty means at all times (vocabulary: `days`) |
+| `times` | Time window(s) the restriction applies; empty means at all times (vocabulary: `time_ranges`) |
+| `location_detail` | Positional qualifier from the source (e.g. 'at exit 125', 'opposite Elm Street', 'in Newton Corner') |
+| `notes` | Extractor remarks about anomalies in the source text; never carries data |
+| `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
+
 ### 148 — Obedience to yield signs
 
 [148_yield_signs.tsv](148_yield_signs.tsv) — 32 rows
@@ -36,7 +54,6 @@ Sections with extraction coverage planned but not yet built:
 - **89** — Right turns prohibited → `89_right_turns_prohibited.tsv`
 - **90** — Vehicle Restrictions on Public Ways., the following prohibitions apply: → `90_vehicle_restrictions.tsv`
 - **95** — Thruways → `95_thruways.tsv`
-- **96** — No Turn on Red signs → `96_no_turn_on_red.tsv`
 - **97** — Left lane must turn left → `97_left_lane_must_turn_left.tsv`
 - **98** — Right lane must turn right → `98_right_lane_must_turn_right.tsv`
 - **99** — Through travel prohibited → `99_through_travel_prohibited.tsv`

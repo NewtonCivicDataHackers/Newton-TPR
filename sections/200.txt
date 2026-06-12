@@ -5,13 +5,13 @@ Sec. 19-178. Disabled persons and disabled veterans parking of Newton Revised Or
 
  Adams Street: north side, 220 feet from Centre Street, westerly 20 feet. 
 
-Albemarle Road: eastern roadway, east side, from a point 185 feet north of Watertown Street to a point 390 feet 
+Albemarle Road: eastern roadway, east side, from a point 185 feet north of Watertown Street to a point 390 feet north 
 
-north of Watertown Street (6 spaces). 
+of Watertown Street (6 spaces). 
 
-Albemarle Road: eastern roadway, east side, from a point 530 feet north of Watertown Street to a point 600 feet 
+Albemarle Road: eastern roadway, east side, from a point 530 feet north of Watertown Street to a point 600 feet north 
 
-north of Watertown Street (3 spaces). 
+of Watertown Street (3 spaces). 
 
 Albemarle Road: eastern roadway, east side, from a point 1355 feet north of Watertown Street to a point 1395 feet 
 
@@ -42,6 +42,8 @@ north of Watertown Street (2 spaces).
  Bowen Street: south side, 460 feet west of Centre Street, 20 feet westerly. 
 
  Centre Green: east side, from a point 95 feet south of Lyman Street, southerly 30 feet. 
+
+ Centre Green: From a point 40 feet north of Langley Road, 20 feet southerly. 
 
  Centre Street: west side, from a point 40 feet south of Pleasant Street, southerly 20 feet. 
 
@@ -83,7 +85,7 @@ Homer Street: north side, 40 feet west of Centre Street, westerly 40 feet. Homer
 
 of City Hall Drive, westerly 20 feet. 
 
- Homer Street: south side, 125 feet west of Walnut Street, westerly 20 feet. 
+ Homer Street: south side, 200 feet west of Walnut Street, easterly 20 feet. 
 
  Hull Street: Three (3) accessible parking spaces, north side, Hull Street, just to the west of the ramp. 
 
@@ -105,9 +107,11 @@ of City Hall Drive, westerly 20 feet.
 
  Nevada Street: in front of 262 Nevada Street. 
 
-Nevada Street: in front of the ramp leading to #538 California Street. 
+ Nevada Street: in front of the ramp leading to #538 California Street. 
 
  Newbury Street: east side, 60 feet south of Newbury Terrace, 20 feet southerly. 
+
+ North Street (Newtonville): east side, in front of #149. 
 
  Plymouth Road: in front of #212 Plymouth Road. 
 
@@ -156,7 +160,7 @@ Washington Street: from a point 400’ east of Highland Street, 20’ easterly, 
  Washington Street: southeast side, 730 feet north of Beacon Street, 20 feet northerly. 
 
  Watertown Street: in front of #468. 
-
+. 
  Watertown Street: in front of 851 Watertown Street. 
 
  Watertown Street: north side, 20 feet east of Bridge Street, easterly 22 feet. 
@@ -166,6 +170,8 @@ Watertown Street: north side, from a point 110 feet east of Waltham Street, west
  Watertown Street: south side, 46 feet east of Dunstan Street, easterly 20 feet. 
 
  Watertown Street: south side, 92 feet east of Chapel Street, easterly 20 feet. 
+
+ Watertown Street: From a point 170 feet east of Davis Avenue 20 feet westerly. 
 
  West Street: east side, 272 feet south of Watertown Street, southerly 22 feet. 
 
@@ -189,4 +195,5 @@ TPR-826, 07-21-22; TPR-842, 10-27-22; TRP-846, 11-17-22; TPR-849, 12-15-22; TPR-
 06-15-23; TPR-897, 09-28-23; TPR-898, 09-28-23; TPR-899, 09-28-23; TPR-904, 09-28-23; TPR-906, 10-26-23; 
 TPR-907, 10-26-23; TPR-908, 10-26-23; TPR-910, 10-26-23; TPR 921, 12-14-23; TPR 926, 02-15-24; TPR 929, 
 03-14-24; TPR 933, 06-13-24; TPR 946, 09-12-24; TPR 947, 09-12-24; TPR 948, 09-12-24; TPR 961, 12-19-24; 
-TPR 971, 01-30-25; TPR 973, 02-27-25; TPR 975, 03-13-25) 
+TPR 971, 01-30-25; TPR 973, 02-27-25; TPR 975, 03-13-25; TPR 991, 07-31-25; TPR 998, 09-11-25; TPR 1028, 
+01-15-26; TPR 1029, 01-15-26) 

@@ -20,12 +20,6 @@ Adams Street, southbound, beginning at the junction of California Street, thence
 
 ending at the junction of Washington Street; the total distance being 0.82 miles. 
 
-Algonquin Road, northbound, beginning at Commonwealth Avenue, thence northerly on Algonquin Road: 
-
-0.34 miles at 25 miles per hour 
-
-ending at Woodchester Drive; the total distance being 0.34 miles. 
-
 Auburn Street, westbound, beginning at Washington Street, thence westerly on Auburn Street: 
 
 0.84 miles at 25 miles per hour 
@@ -37,7 +31,6 @@ Auburn Street, eastbound, beginning at Commonwealth Avenue, thence easterly on A
 
 0.52 miles at 30 miles per hour 
 0.84 “ “ 25 “ “ “ 
-
 ending at Washington Street; the total distance being 1.36 miles. 
 
 Auburndale Avenue, eastbound, beginning at Lexington Street, thence easterly on Auburndale Avenue: 
@@ -51,6 +44,71 @@ Auburndale Avenue, westbound, beginning at River Street, thence westerly on Aubu
 0.91 miles at 25 miles per hour 
 
 ending at Lexington Street; the total distance being 0.91 miles. 
+
+Eastbound Beacon Street: 
+
+Start Point 
+Samoset Road 
+42.326424, -71.234588 
+Woodward Street 
+42.331057, -71.214135 
+Crescent Avenue 
+Chesley Road 
+Bishopsgate Road 
+
+End Point 
+42.326424, -71.234588 
+Woodward Street 
+Chestnut Street 
+Crescent Avenue 
+Chesley Road 
+Bishopsgate Road 
+Boston City Line 
+
+Speed Limit 
+30 miles per hour 
+25 miles per hour 
+30 miles per hour 
+30 miles per hour 
+25 miles per hour 
+35 miles per hour 
+30 miles per hour 
+
+ Westbound Beacon Street: 
+
+ Start Point 
+ Boston City Line 
+ Bishopsgate Road 
+ Grant Avenue 
+ Centre Street 
+ Ashmont Road 
+ Woodward Street 
+ 42.326376, -71.234314 
+ Agawam Road 
+
+ End Point 
+ Bishopsgate Road 
+ Grant Avenue 
+ Centre Street 
+
+42.331062, -71.210093 
+
+ Woodward Street 
+
+42.326376, -71.234314 
+
+ Agawam Road 
+ Washington Street 
+
+Speed Limit 
+30 miles per hour 
+35 miles per hour 
+25 miles per hour 
+30 miles per hour 
+30 miles per hour 
+25 miles per hour 
+30 miles per hour 
+25 miles per hour 
 
 Berkeley Street, eastbound, beginning 100 feet east of Temple Street, thence easterly on Berkeley Street: 
 
@@ -87,60 +145,122 @@ Brookline Street, westbound, beginning at the Newton-Brookline line, thence west
 
 ending at Dedham Street; the total distance being 1.12 miles. 
 
-Cabot Street, eastbound, beginning at Walnut Street, thence easterly on Cabot Street: 
+Eastbound Cabot Street: 
 
-0.27 miles at 30 miles per hour 
-0.39 “ “ 25 “ “ “ 
+Start Point 
+Walnut Street 
+Harvard Street 
+Langdon Street 
 
-0.25 “ “ 20 “ “ “ 
+Westbound Cabot Street: 
 
-ending at Centre Street, the total distance being 0.91 miles. 
+Start Point 
+Centre Street 
+Langdon Street 
+Harvard Street 
 
-Cabot Street, westbound, beginning at Centre Street, thence westerly on Cabot Street: 
+Eastbound California Street: 
 
-0.25 miles at 20 miles per hour 
-0.39 “ “ 25 “ “ “ 
-0.27 “ “ 30 “ “ “ 
+End Point 
+Harvard Street 
+Langdon Street 
+Centre Street 
 
-ending at Walnut Street; the total distance being 0.91 miles. 
+End Point 
+Langdon Street 
+Harvard Street 
+Walnut Street 
 
-California Street, northbound, beginning at Crafts Street, thence northerly on California Street: 
+Speed Limit 
+30 miles per hour 
+25 miles per hour 
+20 miles per hour 
 
-0.51 miles at 30 miles per hour 
-0.14 “ “ 20 “ “ “ 
-0.50 “ “ 30 “ “ “ 
+Speed Limit 
+20 miles per hour 
+25 miles per hour 
+30 miles per hour 
 
-ending at the Newton-Watertown line; the distance being 1.15 miles. 
+Start Point 
+Crafts Street 
+Melbourne Avenue 
+Chapel Street 
 
-California Street, southbound, beginning at the Newton-Watertown line, thence southerly on California Street: 
+End Point 
+Melbourne Avenue 
+Chapel Street 
+Watertown City Line 
 
-0.50 miles at 30 miles per hour 
-0.14 “ “ 20 “ “ “ 
-0.51 “ “ 30 “ “ “ 
+Speed Limit 
+30 miles per hour 
+20 miles per hour 
+30 miles per hour 
 
-ending at Crafts Street; the total distance being 1.15 miles. 
+ Westbound California Street: 
 
-Centre Street, northbound, beginning at a point 150 feet north of Route 9 overpass, thence northerly on Centre 
+Start Point 
+Watertown City Line 
+Chapel Street 
+Melbourne Avenue 
 
-Street: 
+End Point 
+Chapel Street 
+Melbourne Avenue 
+Crafts Street 
 
-0.14 miles at 25 miles per hour 
-0.49 “ ” 35 “ “ “ 
-0.59 “ “ 25 ” “ “ 
-1.18 ” “ 30 ” “ “ 
-0.43 ” “ 25 ” “ “ 
+Speed Limit 
+30 miles per hour 
+20 miles per hour 
+30 miles per hour 
 
-ending at Washington Street; the total distance being 2.83 miles. 
+ Northbound Centre Street: 
 
-Centre Street, southbound, beginning at Washington Street, thence southerly on Centre Street: 
+ Start Point 
+ 42.319725, -71.206248 
+ 42.320975, -71.204219 
+ Paul Street 
 
-0.43 miles at 25 miles per hour 
-1.18 ” “ 30 ” “ “ 
-0.59 ” “ 25 ” “ “ 
-0.49 “ “ 35 ” “ “ 
-0.17 ” “ 25 ” “ “ 
+End Point 
+42.320975, -71.204219 
+Paul Street 
+Homer Street 
 
-ending at Route 9 overpass; the total distance being 2.86 miles. 
+Speed Limit 
+25 miles per hour 
+35 miles per hour 
+25 miles per hour 
+
+ Homer Street 
+ Hyde Avenue 
+
+Hyde Avenue 
+42.355641, -71.186079 
+
+30 miles per hour 
+25 miles per hour 
+
+ Southbound Centre Street: 
+
+Start Point 
+42.355745, -71.186296 
+Bellevue Street 
+Homer Street 
+Paul Street 
+Aberdeen Street 
+
+End Point 
+Bellevue Street 
+Homer Street 
+Paul Street 
+Aberdeen Street 
+42.319738, -71.206332 
+
+Speed Limit 
+25 miles per hour 
+30 miles per hour 
+25 miles per hour 
+35 miles per hour 
+25 miles per hour 
 
 Chamberlain Road, eastbound, beginning at Farlow Road, thence easterly on Chamberlain Road: 
 
@@ -195,24 +315,45 @@ Cherry Street, southbound, beginning at the Newton-Waltham Line, thence southerl
 
 ending Watertown Street; the total distance being 1.03 miles. 
 
-Chestnut Street, northbound, beginning at Oak Street, thence northerly on Chestnut Street: 
+Northbound Chestnut Street: 
 
-0.74 miles at 25 miles per hour 
-0.74 “ “ 30 “ “ “ 
+Start Point 
+Oak Street 
+Anita Circle 
+Beacon Street 
+Caroline Park 
 
-0.32 “ “ 20 “ “ “ 
-1.18 “ “ 30 “ “ “ 
+Southbound Chestnut Street: 
 
-ending at Washington Street; the total distance being 2.98 miles. 
+Start Point 
+Washington Street 
+Byfield Road 
+Beacon Street 
+Anita Circle 
 
-Chestnut Street, southbound, beginning at Washington Street, thence southerly on Chestnut Street: 
+End Point 
+Anita Circle 
+Beacon Street 
+Caroline Park 
+Washington Street 
 
-1.18 miles at 30 miles per hour 
-0.32 “ “ 20 “ “ “ 
-0.74 “ “ 30 “ “ “ 
-0.74 “ “ 25 “ “ “ 
+End Point 
+Byfield Road 
+Beacon Street 
+Anita Circle 
+Oak Street 
 
-ending at Oak Street; the total distance being 2.98 miles. 
+Speed Limit 
+25 miles per hour 
+30 miles per hour 
+20 miles per hour 
+30 miles per hour 
+
+ Speed Limit 
+ 30 miles per hour 
+ 20 miles per hour 
+ 30 miles per hour 
+ 25 miles per hour 
 
 Christina Street, northbound, beginning at Wallace Street, thence northerly on Christina Street: 
 
@@ -289,6 +430,7 @@ Concord Street, southbound, beginning at a point 200 feet south of the Newton-We
 thence southerly on Concord Street: 
 
 0.44 miles at 30 miles per hour 
+
 0.16 “ “ 25 “ “ “ 
 
 ending at Washington Street; the total distance being 0.60 miles. 
@@ -344,20 +486,6 @@ Derby Street, southbound, beginning at the Newton-Waltham Line, thence southerly
 0.76 miles at 25 miles per hour 
 
 ending at Waltham Street; the total distance being 0.76 miles. 
-
-East Side Parkway, northbound, beginning at Cabot Street, thence northerly on East Side Parkway: 
-
-0.35 miles at 25 miles per hour 
-
-ending at Newtonville Avenue; the total distance being 0.35 miles. 
-
-East Side Parkway, southbound, beginning at a point 250 feet south of Newtonville Avenue, thence southerly 
-
-on East Side Parkway: 
-
-0.30 miles at 25 miles per hour 
-
-ending at Cabot Street; the total distance being 0.30 miles. 
 
 Elliot Street, eastbound, beginning at the Newton-Needham Line, thence easterly on Elliot Street: 
 
@@ -419,6 +547,7 @@ ending at Chamberlain Road; the total distance being 0.33 miles.
 Farlow Road, westbound, beginning at Chamberlain Road, thence westerly on Farlow Road: 
 
 0.10 miles at 15 miles per hour 
+
 0.23 “ “ 25 “ “ “ 
 
 ending at Waverley Avenue; the total distance being 0.33 miles. 
@@ -513,26 +642,44 @@ Grove Street, southbound, beginning at Central Street, thence southerly on Grove
 
 ending at Hagar Street; the total distance being 1.42 miles. 
 
-Hammond Street, northbound, beginning at the Brookline-Newton line, thence northerly on Hammond Street: 
+Northbound Hammond Street: 
 
-0.26 miles at 20 miles per hour 
-0.50 ” “ 25 ” “ “ 
+Start Point 
+Brookline Town Line 
+Suffolk Road 
+Priscilla Road 
 
-ending at Beacon Street; and beginning again at a point one hundred fifty (150) feet north of Priscilla Road, 
-thence northerly on Hammond Street. 
+End Point 
+Suffolk Road 
+Beacon Street 
+Ward Street 
 
-0.34 miles at 25 miles per hour 
+Speed Limit 
+20 miles per hour 
+25 miles per hour 
+25 miles per hour 
 
-ending at Ward Street, the total distance being one and ten hundredths (1.10) miles. 
+Southbound Hammond Street: 
 
-Hammond Street, southbound, beginning at Ward Street, thence southerly on Hammond Street: 
+Start Point 
 
-0.34 miles at 25 miles per hour 
-0.06 ” “ 20 ” “ “ 
-0.57 ” “ 25 ” “ “ 
-0.26 ” “ 20 ” “ “ 
+ Ward Street 
 
-ending at the Brookline-Newton line, the total distance being one and twenty-three hundredths (1.23) miles. 
+Crosby Road 
+42.334212, -71.174110 
+Suffolk Road 
+
+End Point 
+Crosby Road 
+42.334212, -71.174110 
+Suffolk Road 
+Brookline Town Line 
+
+Speed Limit 
+25 miles per hour 
+20 miles per hour 
+25 miles per hour 
+ 20 miles per hour 
 
 Hartman Road, eastbound, beginning at Meadowbrook Road, thence easterly on Hartman Road: 
 
@@ -575,7 +722,6 @@ ending at the Newton-Brookline Line the total distance being 0.39 miles.
 LaGrange Street, southbound, beginning at the Brookline-Newton Line, thence southerly on LaGrange Street: 
 
 0.39 miles at 30 miles per hour 
-
 ending at the Newton-Boston Line; the total distance being 0.39 miles. 
 
 Lake Avenue, northbound, beginning at Walnut Street, thence northerly on Lake Avenue: 
@@ -596,26 +742,41 @@ Lake Avenue, southbound, beginning at Beacon Street, thence southerly on Lake St
 
 ending at Walnut Street; the total distance being 0.80 miles. 
 
-Langley Road, northbound, beginning at a point 200 feet north of Route 9, thence northerly on Langley Road: 
+Northbound Langley Road: 
 
-0.14 miles at 25 miles per hour 
-0.61 “ “ 30 “ “ “ 
-0.16 “ “ 25 “ “ “ 
+Start Point 
+State Route 9 (Boylston Street) 
+Beecher Place 
+Glazer Road 
 
-ending at Beacon Street; the total distance being 0.91 miles. 
+End Point 
+Beecher Place 
+Glazer Road 
+Beacon Street 
 
-Langley Road, southbound, beginning at Centre Street, thence southerly on Langley Road: 
+Speed Limit 
+25 miles per hour 
+30 miles per hour 
+25 miles per hour 
 
-0.27 miles at 25 miles per hour 
-0.61 “ “ 30 “ “ “ 
-0.18 “ “ 25 “ “ “ 
+Southbound Langley Road: 
 
-ending at Route 9; the total distance being 1.06 miles. 
+Start Point 
+Centre Street 
+Glazer Road 
+Beecher Place 
+
+Speed Limit 
+End Point 
+25 miles per hour 
+Glazer Road 
+Beecher Place 
+30 miles per hour 
+State Route 9 (Boylston Street) 25 miles per hour 
 
 Lexington Street, northbound, beginning at Auburn Street, thence northerly on Lexington Street: 
 
 0.24 miles at 25 miles per hour 
-
 0.82 “ “ 30 “ “ “ 
 
 ending at the Newton-Waltham line; the total distance being 1.06 miles. 
@@ -648,19 +809,33 @@ westerly on Lion Drive and Brandeis Road:
 
 ending at Parker Terrace, the total distance being zero and eighty-three hundredths (0.83) miles. 
 
-Lowell Avenue, northbound, beginning at Commonwealth Avenue, thence northerly on Lowell Avenue: 
+Northbound Lowell Avenue: 
 
-0.73 miles at 30 miles per hour 
-0.58 “ “ 25 “ “ “ 
+Start Point 
+Commonwealth Avenue 
+Highland Avenue 
 
-ending at Crafts Street; the total distance being 1.31 miles. 
+End Point 
+Highland Avenue 
+Walnut Street 
 
-Lowell Avenue, southbound, beginning at Crafts Street, thence southerly on Lowell Avenue: 
+Speed Limit 
+30 miles per hour 
+25 miles per hour 
 
-0.58 miles at 25 miles per hour 
-0.73 “ “ 30 “ “ “ 
+Southbound Lowell Avenue: 
 
-ending at Commonwealth Avenue; the total distance being 1.31 miles. 
+Start Point 
+Walnut Street 
+Highland Avenue 
+
+End Point 
+Highland Avenue 
+Commonwealth Avenue 
+
+Speed Limit 
+25 miles per hour 
+30 miles per hour 
 
 Manemet Road, northbound, beginning at Homer Street, thence northerly on Manemet Road: 
 
@@ -684,6 +859,7 @@ ending at Centre Street; the total distance being 0.71 miles.
 Mill Street, westbound, beginning at Centre Street, thence westerly on Mill Street: 
 
 0.47 miles at 25 miles per hour 
+
 0.24 “ “ 30 “ “ “ 
 
 ending at Walnut Street; the total distance being 0.71 miles. 
@@ -703,17 +879,27 @@ Nahanton Street, westbound, beginning 450 feet west of Dedham Street, thence wes
 
 ending at the Newton-Needham Line; the total distance being 0.98 miles. 
 
-Newtonville Avenue, eastbound, beginning at Walnut Street, thence easterly on Newtonville Avenue: 
+Eastbound Newtonville Avenue: 
 
-1.13 miles at 25 miles per hour 
+Start Point 
+Walnut Street 
 
-ending at Centre Street; the total distance being 1.13 miles. 
+End Point 
+Centre Street 
 
-Newtonville Avenue, westbound, beginning at Centre Street, thence westerly on Newtonville Avenue: 
+Speed Limit 
+25 miles per hour 
 
-1.13 miles at 25 miles per hour 
+Westbound Newtonville Avenue: 
 
-ending at Walnut Street; the total distance being 1.13 miles. 
+Start Point 
+Centre Street 
+
+End Point 
+Walnut Street 
+
+Speed Limit 
+25 miles per hour 
 
 North Street, northbound, beginning at Crafts Street, thence northerly on North Street: 
 
@@ -805,19 +991,33 @@ Reservoir Avenue, northbound, beginning at Hammond Street, thence northerly on R
 
 ending at Beacon Street; the total distance being 0.26 miles. 
 
-River Street, northbound, beginning at Waltham Street, thence northerly on River Street: 
+Northbound River Street: 
 
-0.40 miles at 25 miles per hour 
-0.41 “ “ 30 “ “ “ 
+Start Point 
+Waltham Street 
+Mague Avenue 
 
-ending at Lexington Street; the total distance being 0.81 miles. 
+Southbound River Street: 
 
-River Street, southbound, beginning at Lexington Street, thence southerly on River Street: 
+Start Point 
+Lexington Street 
+Mague Avenue 
 
-0.41 miles at 30 miles per hour 
-0.40 “ “ 25 “ “ “ 
+End Point 
+Mague Avenue 
+Lexington Street 
 
-ending at Waltham Street; the total distance being 0.81 miles. 
+Speed Limit 
+25 miles per hour 
+30 miles per hour 
+
+End Point 
+Mague Avenue 
+Waltham Street 
+
+Speed Limit 
+30 miles per hour 
+25 miles per hour 
 
 Roosevelt Road, eastbound, beginning at Parker Street, thence easterly on Roosevelt Road: 
 
@@ -831,18 +1031,33 @@ Roosevelt Road, westbound, beginning at Brandeis Road, thence westerly on Roosev
 
 ending at Parker Street; the total distance being 0.17 miles. 
 
-Tremont Street, eastbound, beginning on Park Street, thence easterly on Tremont Street: 
+Eastbound Tremont Street: 
 
-0.15 miles at 25 miles per hour 
+Start Point 
+Park Street 
+42.354348, -71.179588 
 
-ending at point 0.30 miles west of the Boston Line; the total distance being 0.30 miles. 
+End Point 
+42.354348, -71.179588 
+Boston City Line 
 
-Tremont Street, westbound, beginning at a point 0.30 miles west of the Boston Line, thence westerly on Tremont 
-Street. 
+Speed Limit 
+25 miles per hour 
+35 miles per hour 
 
-0.15 miles at 25 miles per hour 
+Westbound Tremont Street: 
 
-ending at Park Street; the total distance being 0.15 miles. 
+Start Point 
+Boston City Line 
+42.354398, -71.179542 
+
+End Point 
+42.354398, -71.179542 
+Park Street 
+
+Speed Limit 
+35 miles per hour 
+25 miles per hour 
 
 Tyler Terrace, eastbound, beginning at Pleasant Street, thence easterly on Tyler Terrace: 
 
@@ -932,84 +1147,127 @@ Street:
 
 ending at Morseland Avenue; the total distance being 0.99 miles. 
 
-Washington Street, northbound, beginning at the Newton-Wellesley Line, thence northerly on Washington 
+Eastbound Washington Street: 
 
-Street: 
+Start Point 
+Wellesley Town Line 
+Belmore Park 
+42.330475, -71.248091 
+Prospect Street 
+Walnut Park 
+42.355673, -71.179439 
 
-0.30 miles at 25 miles per hour 
+ Westbound Washington Street: 
 
-ending at the beginning of the State Highway south of Route 128; and beginning again at the end of the 
-State Highway north of Route 128, thence northerly: 
+End Point 
+Quinobequin Road 
+42.330475, -71.248091 
+Prospect Street 
+42.349180, -71.223669 
+42.355673, -71.179439 
+Boston City Line 
 
-0.10 miles at 25 miles per hour 
-1.32 “ “ 35 “ “ “ 
+Speed Limit 
+25 miles per hour 
+25 miles per hour 
+35 miles per hour 
+25 miles per hour 
+25 miles per hour 
+35 miles per hour 
 
-0.36 “ “ 25 “ “ “ 
+Start Point 
+Boston City Line 
+Hunnewell Avenue 
+42.349243, -71.223712 
+Prospect Street 
+42.330721, -71.248037 
+Quinobequin Road 
 
-ending at Watertown Street; the total distance being 2.08 miles. 
+End Point 
+Hunnewell Avenue 
+Walnut Park 
+Prospect Street 
+42.330721, -71.248037 
+Belmore Park 
+Wellesley Town Line 
 
-Washington Street, southbound, beginning at Watertown Street, thence southerly on Washington Street: 
+Speed Limit 
+35 miles per hour 
+25 miles per hour 
+25 miles per hour 
+35 miles per hour 
+25 miles per hour 
+25 miles per hour 
 
-0.36 miles at 25 miles per hour 
-1.32 “ “ 35 “ “ “ 
-0.10 “ “ 25 “ “ “ 
+ Eastbound Watertown Street: 
 
-ending at the beginning of the State Highway north of Route 128; and beginning again at the end of the 
-State Highway south of Route 128, thence southerly: 
+Start Point 
+Washington Street 
+Davis Avenue 
+Crafts Street 
+2.359229, -71.203450 
 
-0.30 miles at 25 miles per hour 
+End Point 
+Davis Avenue 
+Crafts Street 
+2.359229, -71.203450 
+Watertown City Line 
 
-ending at the Newton-Wellesley Line; the total distance being 2.08 miles. 
+Speed Limit 
+25 miles per hour 
+35 miles per hour 
+30 miles per hour 
+25 miles per hour 
 
-Washington Street, eastbound, beginning at Watertown Street, thence easterly on Washington Street: 
+ Westbound Watertown Street: 
 
-1.79 miles at 35 miles per hour 
-0.63 “ “ at 25 “ “ “ 
+Start Point 
+Watertown City Line 
+42.359286, -71.203433 
+Walnut Street 
+Davis Avenue 
 
-ending at a point 0.35 miles west of the Newton-Brighton Line; the total distance being 2.42 miles. 
+ Northbound Waverly Avenue: 
 
-Washington Street, westbound, beginning at a point 0.35 miles west of the Brighton-Newton Line, thence 
-westerly on Washington Street: 
+ Speed Limit 
 
-0.63 miles at 25 miles per hour 
-1.79 “ “ 35 “ “ “ 
-0.05 “ “ 25 “ “ “ 
+End Point 
+42.359286, -71.203433 
+Walnut Street 
+Davis Avenue 
+Washington Street 
 
-ending at Watertown Street; the total distance being 2.47 miles. 
+ 25 miles per hour 
+ 30 miles per hour 
+ 35 miles per hour 
+ 25 miles per hour 
 
-Watertown Street, eastbound, beginning at Washington Street, thence easterly on Watertown Street: 
+Start Point 
+Gralynn Road 
+Church Street 
 
-0.18 miles at 25 miles per hour 
-0.85 “ “ 35 “ “ “ 
-0.34 “ “ 30 “ “ “ 
-0.51 “ “ 25 “ “ “ 
+End Point 
+Church Street 
+Washington Street 
 
-ending at the Newton-Watertown Line; the total distance being 1.88 miles. 
+Speed Limit 
+30 miles per hour 
+25 miles per hour 
 
-Watertown Street, westbound, beginning at the Watertown-Newton Line, thence westerly on Watertown Street: 
+Southbound Waverly Avenue: 
 
-0.51 miles at 25 miles per hour 
-0.34 “ “ 30 “ “ “ 
-0.85 “ “ 35 “ “ “ 
-0.18 “ “ 25 “ “ “ 
+Start Point 
+Washington Street 
 
-ending at Washington Street; the total distance being 1.88 miles. 
+ Church Street 
 
-Waverley Avenue, northbound, beginning at a point 200 feet north of Ward Street, thence northerly on Waverley 
+End Point 
+Church Street 
+Ward Street 
 
-Avenue: 
-
-0.77 miles at 30 miles per hour 
-0.35 “ “ 25 “ “ “ 
-
-ending at Washington Street; the total distance being 1.12 miles. 
-
-Waverley Avenue, southbound, beginning at Washington Street, thence southerly on Waverley Avenue: 
-
-0.35 miles at 25 miles per hour 
-0.81 “ “ 30 “ “ “ 
-
-ending at Ward Street; the total distance being 1.16 miles. 
+Speed Limit 
+25 miles per hour 
+30 miles per hour 
 
 Webster Street, eastbound, beginning at Rowe Street, thence easterly on Webster Street: 
 
@@ -1047,32 +1305,44 @@ Woodland Road, westbound, beginning at Washington Street, thence westerly on Woo
 
 0.71 miles at 30 miles per hour 
 
-ending at Central Street; the total distance being 71 miles. 
+ending at Central Street; the total distance being .71 miles. 
 
-Woodward Street, eastbound, beginning at a point 250 feet east of Beacon Street, thence easterly on Woodward 
+Eastbound Woodward Street: 
 
-Street: 
+Start Point 
+Pine Ridge Road 
+Plymouth Road 
 
-0.25 miles at 25 miles per hour 
-0.58 “ “ 35 “ “ “ 
-0.17 “ “ 25 “ “ “ 
+End Point 
+Homestead Street 
+State Route 9 (Boylston Street) 
 
-ending at Route 9; the total distance being 1.00 miles. 
+Speed Limit 
+25 miles per hour 
+25 miles per hour 
 
-Woodward Street, westbound, beginning at Route 9, thence westerly on Woodward Street: 
+Westbound Woodward Street: 
 
-0.17 miles at 25 miles per hour 
-0.58 “ “ 35 “ “ “ 
-0.30 “ “ 25 “ “ “ 
+Start Point 
+State Route 9 (Boylston Street) Plymouth Road 
+ Homestead Street Beacon Street 
 
-ending at Beacon Street; the total distance being 1.05 miles. 
+ End Point 
 
- (c) Operation of a motor vehicle at a rate of speed in excess of the limits set out in paragraph (b) shall be prima facie 
+Speed Limit 
+25 miles per hour 
+25 miles per hour 
+
+(c) Operation of a motor vehicle at a rate of speed in excess of the limits set out in paragraph (b) shall be prima facie 
 evidence that such speed is greater than is reasonable and proper. 
 
 (Rev. Ords. 1973, § 13-72; Ord. No. R-95, 11-17-80; Ord. No. S-257, 6-15-87; Ord. No. T-111, 10-15-90; Ord. No. 
 T-270, 5-3-93; Ord. No. T-272, 5-17-93; Ord.; Ord. No. V-219, 1-4-99; Ord. No. V-302, 6-5-00; Ord. X-23, 7-8-02; 
-Ord. No. X-151, 4-19-05; TPR-293, 05-13-17; TPR-443, 10-25-18; TPR-456, 12-13-18; TPR-752, 07-22-21) 
+Ord. No. X-151, 4-19-05; TPR-293, 05-13-17; TPR-443, 10-25-18; TPR-456, 12-13-18; TPR-752, 07-22-21; TPR- 
+1011, 12-11-25; TPR-1012, 12-11-25; TPR 1013, 12-11-25; TPR 1014, 12-11-25; TPR-1015, 12-11-25; TPR-1016, 
+12-11-25; TPR-1017, 12-11-25; TPR 1018-12-11-25; TPR-1019, 12-11-25; TPR-1020, 12-11-25; TPR-1021, 12-11-
+25; TPR-1022, 12-11-25; TPR-1023, 12-11-25; TPR-1024, 12-11-25; TPR-1025, 12-11-25; TPR-1026, 12-11-25; 
+TPR-1027, 12-11-25) 
 
  Editor's note—The board of aldermen has passed ordinances creating these additional speed zones. However, the 
 ordinances are not effective until approved by the commonwealth. As of the date of the 2007 Recodification, no 

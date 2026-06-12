@@ -18,11 +18,11 @@ Bonwood Street
 Bullough Park (Mill Street to Berkshire Road) 
 Calvin Road 
 Charlesden Park 
+
 Claflin Place 
 Clyde Street 
 Craigie Terrace 
 Dexter Road 
-
 Elmwood Park 
 Fairfield Street 
 Frederick Street 
@@ -72,11 +72,11 @@ place:
 dwelling unit. 
 
 A school day shall be considered a day in which students attend Newton North High School for regular instruction, 
+
 as detailed in the official Newton Public School Calendar, and does not include summer school days. 
 
 (f) Residents living in housing units on streets or street segments included in section TPR-205(c) which do not allow 
 for parking at any time, or which are on average less than 20 feet in width, may obtain Newtonville parking 
-
 permits and visitor passes as provided under this section for another street listed in Section TPR-205(c). 
 
 (g) Non-residents receiving a Newtonville parking permit must be employed at an establishment in Newtonville as 
@@ -86,12 +86,14 @@ determined by the Police Department, or must be a Newton North High School stude
 (h) The maximum number of Newtonville parking permits issued to a non-resident shall be as follows: 
 
 (1) One (1) per 250 feet of roadway, to be limited to one side only, for streets with one of the following 
-restrictions in place: Newtonville permit parking only, 8-4, school days, or Newtonville permit parking 
-only, all days, all times. 
+
+restrictions in place: Newtonville permit parking only, 8-4, school days, or Newtonville permit parking only, 
+all days, all times. 
 
 (2) Eight (8) Newtonville parking permits for Walnut Place shall be issued to the Newton Senior Center for 
 
-distribution to staff and shall be considered visitor permits according to section 19-202. 
+distribution to staff and shall be considered visitor permits according to section 19-202 and shall be issued free 
+of charge in accordance with section 19-202(c)(3). 
 
 (i) Regardless of street address or driveway location, residents living in housing units on streets or street segments 
 included in section TPR-205(c) which abut more than one street included in section TPR-205(c) and which allow 
@@ -100,4 +102,4 @@ resident parking permits and/or visitor parking permits shall be valid.
 
 (TPR-116zr, 04-04-13; TPR-130, 11-21-13; TPR-143, 02-27-14; TPR-234, 11-19-15; TPR-415, 06-14-18; TPR-
 416, 06-14-18; TPR-427, 07-26-18; TPR-428, 07-26-18; TPR-484, 05-16-19; TPR-490, 05-16-19; TPR-550, 02-
-27-20; TPR-796, 02-17-22; TPR 950, 09-12-24) 
+27-20; TPR-796, 02-17-22; TPR 950, 09-12-24; TPR 1001, 10-16-25; TPR 1009, 12-11-25) 

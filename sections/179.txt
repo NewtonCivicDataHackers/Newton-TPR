@@ -58,7 +58,7 @@ East Side Parkway, west side, from a point 260 feet south of Winchester Road, 18
 
  Meadowbrook Road, east side, from a point 94 feet north of Fox Hill Road, northerly 76 feet. 
 
- Nevada Street, west side, from a point 140 feet south of California Street to a point 160 feet southerly. 
+ Nevada Street, west side, from a point 140 feet south of California Street to a point 190 feet southerly. 
 
  Pearl Street, north side, from a point 35 feet west of Gardner Street to a point 40 feet east of Jackson Road. 
 
@@ -68,7 +68,7 @@ East Side Parkway, west side, from a point 260 feet south of Winchester Road, 18
 
 (2) West side, from a point 388 feet north of Washburn Avenue, northerly 251 feet. 
 
-Pleasant Street: 
+ Pleasant Street: 
 
 (1) East side, from a point 20 feet north of Tyler Terrace, northerly 230 feet. 
 
@@ -77,8 +77,6 @@ Pleasant Street:
  Stein Circle, north side, from a point 366 feet north of Saw Mill Brook Parkway, westerly 350 feet. 
 
  Walnut Street, west side, from Florence Court to a point 110 feet south of Minot Place. 
-
-§ 
 
 Ward Street, north side, 50 feet east of West Boulevard Street, westerly 100 feet. 
 
@@ -103,4 +101,4 @@ No. X-1, 01-22-02; Ord. X-13, 03-18-02; Ord. No. X-85, 03-15-04; Ord. No. X-158,
 10-06; TPR-19, 09-25-08; TPR-58, 04-27-10; TPR-77, 07-28-11; TPR-163, 04-17-14; TPR-259, 09-22-16; TPR-
 362, 09-14-17; TPR-426, 07-26-18; TPR-447, 11-29-18; TPR-485, 05-16-19; TPR-625, 05-07-20; TPR-705, 01-
 28-21; TPR-736, 04-29-21; TPR-755, 07-22-21; TPR-802, 03-17-22; TPR-821, 06-16-22; TPR-822, 06-16-22; 
-TPR-829, 07-21-22; TPR-904, 09-28-23) 
+TPR-829, 07-21-22; TPR-904, 09-28-23; TPR 995, 07-31-25) 

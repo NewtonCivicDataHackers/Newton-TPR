@@ -1,16 +1,14 @@
 Sec. TPR-96. No Turn on Red signs. 
 
- (a) Traffic facing a steady circular red signal alone shall stop at the clearly marked stop line or, if none, before 
-entering the crosswalk on the near side of the intersection, or if none, then before entering the intersection and shall 
-remain standing until an indication to proceed is shown, except as allowed by chapter 89, section 8 of the General 
-Laws. 
+(a) Traffic facing a steady circular red signal alone shall stop at the clearly marked stop line or, if none, before entering 
+the crosswalk on the near side of the intersection, or if none, then before entering the intersection and shall remain 
+standing until an indication to proceed is shown, except as allowed by chapter 89, section 8 of the General Laws. 
 
- (b) No driver of a vehicle facing a circular red signal indication shall make a right turn where official traffic signs 
-are installed and maintained prohibiting such turn at intersections which shall from time to time be designated by 
-
+(b) No driver of a vehicle facing a circular red signal indication shall make a right turn where official traffic signs are 
+installed and maintained prohibiting such turn at intersections which shall from time to time be designated by 
 ordinance amending this section. 
 
- (c) Right turns on red signals are prohibited at the following intersections: 
+(c) Right turns on red signals are prohibited at the following intersections: 
 
 Angier School driveway, southbound at Beacon Street. 
 
@@ -45,6 +43,8 @@ Chestnut Street at Oak Street, all approaches.
 Chestnut Street at Woodward Street, all directions. 
 
 Church Street, northwestbound, at Washington Street. 
+
+Commonwealth Avenue eastbound at Hammond Street. 
 
 Commonwealth Avenue, westbound at Grant Avenue. 
 
@@ -128,6 +128,8 @@ Washington Street continuing onto Washington Street, eastbound (opposite Elm Str
 
 Washington Street, eastbound, at Harvard Street. 
 
+Washington Street eastbound merge onto Centre Avenue in Newton Corner. 
+
 Washington Street, facing eastbound traffic towards St. James Street. 
 
 Washington Street, facing northbound traffic towards bridge over turnpike. 
@@ -164,9 +166,10 @@ Washington Street northbound one-way bridge, onto the Massachusetts Turnpike ent
 
 far left two lanes. 
 
+Washington Street westbound merge onto Centre Avenue in Newton Corner. 
+
 (Ord No. R-33, 11-5-79; Ord. No. R-44, 12-17-79; Ord. No. R-68, 6-16-80; Ord. No. R-94,11-17-80; Ord. No. 
 R-103,12-1-80; Ord. No. R-110, 1-19-81; Ord. No. S-67, 5-21-84; Ord. No. S-181, 3-17-86; Ord. No. S-267, 8-10-87; 
-
 Ord No. T-82, 3-19-90; Ord. No. U-8, 4-4-94; Ord. V-25, 6-19-95; Ord. V-59, 1-16-96; Ord. No. V-284, 3-6-00; Ord. 
 No. Y-6, 3-19-07; Ord. No. Z-1, 10-01-07. TPR-12, 05-22-08; TPR-43, 01-08-10; TPR-47, 04-29-10; TPR-70, 09-
 22-13; TPR-137, 12-19-13; TPR-138, 12-09-13; TPR-268, 10-20-16; TPR-389, 01-18-18; TPR-417, 06-14-18; TPR-
@@ -175,4 +178,4 @@ No. Y-6, 3-19-07; Ord. No. Z-1, 10-01-07. TPR-12, 05-22-08; TPR-43, 01-08-10; TP
 02-25-21; TPR-743, 06-24-21; TPR-755, 07-22-21; TPR-758, 07-22-21; TPR-766, 09-23-21; TPR-775, 10-21-21; 
 TPR-787, 12-16-21; TPR-789, 01-20-22; TPR-841, 09-15-22; TPR-847, 11-17-22; TPR-851, 12-15-22; TPR-864, 03-
 23-23; TPR-885, 07-13-23; TPR-886, 07-13-23; TPR 970, 01-30-25; TPR 972, 01-30-25; TPR 974, 02-27-25; TPR 
-982, 04-10-25) 
+982, 04-10-25; TPR 983, 04-10-25; TPR 988, 06-12-25) 

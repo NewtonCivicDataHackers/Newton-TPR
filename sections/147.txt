@@ -357,6 +357,10 @@ intersection.
 
  Cloverdale Road at Miller Road, northbound and westbound. 
 
+ Cobb Place at Dwhinda Road, eastbound. 
+
+ Cobb Place at Dwhinda Road, westbound. 
+
  Cochituate Road at Plymouth Road, westbound. 
 
  Colby Street at Centre Street, eastbound. 
@@ -442,7 +446,6 @@ southbound.
  Commonwealth Avenue, North Drive at Higgins Street, eastbound. 
 
  Commonwealth Avenue, North Drive at Higgins Street, westbound. 
-
  Commonwealth Avenue, North Drive at Irving Street, eastbound. 
 
  Commonwealth Avenue, North Drive at Irving Street, westerly. 
@@ -1085,7 +1088,7 @@ Grove Hill Avenue at Prospect Avenue, southbound.
 
  Islington Road at Commonwealth Avenue, North Drive, southbound. 
 
- Jackson Street at Langley Road, eastbound and westbound. 
+ Jacobs Terrace at Hartman Road, southbound. Jackson Street at Langley Road, eastbound and westbound. 
 
  James Street at River Street, southbound. 
 
@@ -1158,6 +1161,8 @@ John F. Kennedy Circle at Green Street, west end.
  Lawrence Road at Hammond Street, northbound. 
 
  Lee Road at Reservoir Avenue, eastbound. 
+
+ Leighton Road at Williston Road, eastbound. 
 
  Lenglen Road at Washington Street, southbound. 
 
@@ -1387,6 +1392,10 @@ Morseland Avenue at Commonwealth Avenue, North Drive, westbound.
 
 Oakwood Road at Upland Road, eastbound and westbound. 
 
+Old Colony Road at College Road, northbound. 
+
+Old Colony Road at Quincy Road, southbound. 
+
  Old Farm Road at Oak Hill Street, Ward 8, eastbound and westbound. 
 
  Old Orchard Road at Hammond Street, northbound. 
@@ -1529,6 +1538,8 @@ Prospect Avenue at Beaumont Avenue, westbound.
 
  Rachel Road at Winchester Street, westbound. 
 
+ Radcliff Road at Tamworth road, eastbound. 
+
  Randlett Park at Waltham Street, westbound. 
 
  Randlett Park at Watertown Street, southeastbound. 
@@ -1559,7 +1570,9 @@ Prospect Avenue at Beaumont Avenue, westbound.
 
  Risley Road at Commonwealth Avenue, North Drive, southbound. 
 
- River Street at Auburndale Avenue, eastbound and westbound. River Street at Waltham Street, eastbound. 
+ River Street at Auburndale Avenue, eastbound and westbound. 
+
+ River Street at Waltham Street, eastbound. 
 
  Robinhood Street at Commonwealth Avenue, North Drive, southbound. 
 
@@ -1708,6 +1721,8 @@ Silver Lake Avenue at Adams Street, westbound.
  Temple Street at Commonwealth Avenue, South Drive, southbound. 
 
  Temple Street at Highland Street, eastbound. 
+
+ Terrace Avenue at Duncklee Street, northbound. 
 
  Terrace Avenue at Hillside Road, southwestbound. 
 
@@ -1975,7 +1990,7 @@ Silver Lake Avenue at Adams Street, westbound.
 
  YMCA Driveway at Church Street, eastbound. 
 
- (Rev. Ords. 1973, § 13-124; Ord. No. 593, § 2, 11-5-73; Ord. No. 595, 11-5-73; Ord. No. 605, 11-5-73; Ord. No. 
+(Rev. Ords. 1973, § 13-124; Ord. No. 593, § 2, 11-5-73; Ord. No. 595, 11-5-73; Ord. No. 605, 11-5-73; Ord. No. 
 606, 11-5-73; Ord. No. 607, 11-5-73; Ord. No. 609, 12-3-73; Ord. No. 616, 12-3-73; Ord. No. 6, § 29, 2-19-74; 
 Ord. No. 637, 3-18-74; Ord. No. 643, 5-20-74; Ord. No. 4, 6-18-74; Ord. No. 16, 9-3-74; Ord. No. 45, 1-20-75; 
 Ord. No. 58, 2-18-75; Ord. No. 64, 3-17-75; Ord. No. 71, 5-19-75; Ord. No. 72, 5-19-75; Ord. No. 76, 6-10-75; 
@@ -1987,11 +2002,11 @@ No. 245, 11-21-77; Ord. No. 256, 12-19-77; Ord. No. 266, 3-6-78; Ord. No. 269, 3
 Ord. No. 291, 8-14-78; Ord. No. 296, 10-3-78; Ord. No. 319, 3-5-79; Ord. No. 323, 4-4-79; Ord. No. 327, 4-4-79; 
 Ord. No. 328, 4-4-79; Ord. No. 329, 4-4-79; Ord. Nos. R-17, 18, 19, 9-4-79; Ord. Nos. R-28, 29, 30, 31, 11-5-79; 
 Ord. Nos. R-34, 36, 12-3-79; Ord. No. R-70, 6-16-80; Ord. No. R-79, 8-11-80; Ord. No. R-88, 9-8-80; Ord. No. 
+
 R-108, 1-19-81; Ord. No. R-119, 2-2-81; Ord. No. R-125, 3-2-81; Ord. No. R-148, 6-1-81; Ord. Nos. R-161, 163, 
 7-13-81; Ord. No. R-169, 9-21-81; Ord. Nos. R-183, 184, 185, 11-2-81; Ord. Nos. R-193, 194, 196, 197, 198, 
 12-7-81; Ord. No. R-207, 12-21-81; Ord. Nos. S-9, 11, 9-6-83; Ord. No. S-101, 8-12-85; Ord. No. S-105, 7-8-85; 
 Ord. No. S-111, 1-21-85; Ord. No. S-114, 9-17-84; Ord. No. S-116, 9-17-84; Ord. No. S-117, 9-17-84; Ord. No. 
-
 S-135, 11-4-85; Ord. No. S-147, 12-2-85; Ord. No. S-150, 12-2-85; Ord. No. S-166, 2-18-86; Ord. No. S-213, 
 9-2-86; Ord. No. S-237, 11-3-86; Ord. No. S-285, 11-16-87; Ord. No. S-289, 12-7-87; Ord. No. S-307, 3-21-88; 
 Ord. No. S-339, 11-7-88; Ord. No. T-3, 1-3-89; Ord. No. T-4, 1-3-89; Ord. No. T-26, 6-5-89; Ord. No. T-32, 6-19-
@@ -2040,11 +2055,11 @@ TPR-483, 04-11-19; TPR-492, 06-13-19; TPR-505, 09-19-19; TPR-507, 09-19-19; TPR-
 TPR-549, 02-27-20; TPR-556, 05-04-20; TPR-557, 03-26-20; TPR-558, 03-26-20; TPR-559, 03-26-20; TPR-560, 
 03-26-20; TPR-561, 03-26-20; TPR-562, 03-26-20; TPR-563, 03-26-20; TPR-564, 03-26-20; TPR-565, 03-26-20; 
 TPR-568, 04-16-20; TPR-574, 04-23-20; TPR-576, 04-23-20; TPR-577, 04-23-20; TPR-578, 04-23-20; TPR-579, 
+
 04-23-20; TPR-581, 04-23-20; TPR-582, 04-23-20; TPR-583, 04-23-20; TPR-584, 04-23-20; TPR-585, 04-23-20; 
 TPR-586, 04-23-20; TPR-587, 04-23-20; TPR-588, 04-23-20; TPR-590, 04-23-20; TPR-591, 04-23-20; TPR-592, 
 04-23-20; TPR-593, 04-23-20; TPR 595 to 620, 04-23-20; TPR-622, 04-23-20; TPR-623, 05-07-20; TPR-637, 05-
 07-20; TPR-640, 05-18-20; TPR-644, 06-25-20; TPR-655, 06-25-20; TPR-658, 06-25-20; TPR-659, 06-25-20; 
-
 TPR-664, 07-30-20; TPR-669, 07-30-20; TPR-670, 07-30-20; TPR-672, 07-30-20; TPR-675, 07-30-20; TPR-678, 
 08-28-20; TPR-679, 08-28-20; TPR-680, 08-28-20; TPR-681, 08-28-20; TPR-684, 08-28-20; TPR-686, 08-28-20; 
 TPR-702, 01-28-21; TPR-703, 01-28-21; TPR-704, 01-28-21; TPR-707, 02-25-21; TPR-708, 02-25-21; TPR-709, 
@@ -2061,5 +2076,6 @@ TPR-889, 07-13-23; TPR-892, 07-13-23; TPR-902, 09-28-23; TPR-905, 09-28-23; TPR-
 12-14-23; TPR 920, 12-14-23; TPR 922, 01-18-24; TPR 927, 02-15-24; TPR 928, 02-15-24; TPR 932, 04-11-24; 
 TPR 935, 06-13-24; TPR 937, 06-13-24; TPR 939, 06-13-24; TPR 940, 06-13-24; TPR 941, 06-13-24; TPR 942, 
 06-13-24; TPR 949, 09-12-24; TPR 957, 11-21-24; TPR 958, 11-21-24; TPR 962, 12-19-24; TPR 963, 12-19-24; 
-TPR 964, 12-19-24; TPR 965, 01-30-25; TPR 966, 01-30-25; TPR 967; 01-30-25; TPR 976, 03-13-25; TPR 985, 
-04-10-25) 
+TPR 964, 12-19-24; TPR 965, 01-30-25; TPR 966, 01-30-25; TPR 967; 01-30-25; TPR 976, 03-13-25; TPR 980, 
+04-10-25; TPR 985, 04-10-25; TPR 997, 09-11-25; TPR 999, 09-11-25; TPR 1003, 11-20-25; TPR 1006,11-20-25; 
+TPR 1032, 01-15-26) 

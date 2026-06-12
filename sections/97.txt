@@ -120,6 +120,8 @@ Grove Street, northbound, into 267-287 Grove Street.
 
  Walnut Street, southbound, onto Cabot Street. 
 
+ Walnut Street, southbound onto Fenno Road and Homer Street. 
+
  Walnut Street, southbound, onto Newtonville Avenue. 
 
  Walnut Street, southbound onto Washington Street. 
@@ -130,7 +132,7 @@ Grove Street, northbound, into 267-287 Grove Street.
 
 Washington Street, eastbound, onto Watertown Street. 
 
- Washington Street, northbound two lanes on Washington Street Bridge over Mass. Turnpike, onto Washington 
+Washington Street, northbound two lanes on Washington Street Bridge over Mass. Turnpike, onto Washington 
 Street. 
 
 Washington Street, north-eastbound, continuing onto Washington Street (opposite Elm Street). 
@@ -165,4 +167,4 @@ Washington Street, westbound, onto Quinobequin Road or Wales Street.
 259, 10-4-99; Ord. No. V-292, 3-20-00; Ord. No. X-193, 2-6-06. TPR-8, 03-20-09; TPR-9, 03-20-08; TPR-12, 05-
 22-08; TPR-43, 01-08-10; TPR-51, 10-21-10; TPR-57, 04-27-10; TPR-97, 06-23-11; TPR-95, 05-03-12; TPR-96, 05-
 03-12; TPR-203, 05-28-15; TPR-642, 06-25-20; TPR-682, 08-28-20; TPR-775, 10-21-21; TPR-805, 3-17-22; TPR-
-847, 11-17-22; TPR-895, 07-13-23; TPR 984, 04-10-25) 
+847, 11-17-22; TPR-895, 07-13-23; TPR 982, 04-10-25; TPR 984, 04-10-25; TPR 989, 06-12-25) 

@@ -225,6 +225,10 @@ Avenue (south drive), at Rowe Street west intersection.
 
  Waban Avenue, southbound, from Beacon Street to Collins Road. 
 
+ Waban Park, loop portion, counterclockwise direction. 
+
+ Walnut Park, loop portion, counterclockwise direction. 
+
  Ward Street, from Hammond Street to Manet Road. 
 
  Warren Avenue, from Webster Street to River Street, Ward 3. 
@@ -261,5 +265,6 @@ Ord. No. S-182, 3-17-86; Ord. No. T-257, 1-19-93; Ord No. V-213, 12-7-98; Ord. N
 01-24-19; TPR-499, 07-25-19; TPR-500, 07-25-19; TPR-501, 07-25-19; TPR-630, 05-07-20; TPR-631, 05-07-20; 
 TPR-632, 05-07-20; TPR-633, 05-07-20; TPR-634, 05-07-20; TPR-635, 05-07-20; TPR-636, 05-07-20; TPR-638, 05-
 07-20; TPR-639, 05-07-20; TPR-673, 07-30-20; TPR-674, 07-30-20; TPR-723, 03-25-21; TPR-805, 03-17-22; TPR-
+
 809, 05-19-22; TPR-820, 06-16-22; TPR-822, 06-16-22; TPR-847, 11-17-22; TPR-856, 01-19-23; TPR 888, 07-13-
-23; TPR-889, 07-13-23; TPR 916, 11-16-23; TPR-924, 01-18-24; TPR 974, 02-27-25) 
+23; TPR-889, 07-13-23; TPR 916, 11-16-23; TPR-924, 01-18-24; TPR 974, 02-27-25; TPR 1002, 10-16-25) 

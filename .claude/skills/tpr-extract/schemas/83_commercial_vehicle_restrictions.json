@@ -1,0 +1,18 @@
+{
+  "title": "Heavy commercial vehicle restrictions (Sec. TPR-83)",
+  "columns": ["street", "locality", "weight_limit_tons", "from_point", "to_point", "extent", "times", "alternate_route", "status", "source_text", "notes"],
+  "fields": {
+    "street": {"description": "Street the truck restriction applies to", "required": true},
+    "locality": {"description": "Village qualifier when given (e.g. 'West Newton', 'Newtonville', 'Newton Centre')", "required": false},
+    "weight_limit_tons": {"description": "Carrying-capacity threshold in tons above which commercial vehicles are restricted (e.g. 5, 2.5); empty if unstated", "type": "number", "required": false},
+    "from_point": {"description": "Start of the restricted segment; empty if whole/unstated", "required": false},
+    "to_point": {"description": "End of the restricted segment", "required": false},
+    "extent": {"description": "'entire length' when stated", "required": false},
+    "times": {"description": "Hours the restriction applies (e.g. '8:00 p.m. to 7:00 a.m.'); empty = all times", "required": false},
+    "alternate_route": {"description": "Suggested alternate route when stated", "required": false},
+    "status": {"description": "Whether the exclusion is in effect or still pending Commonwealth approval (the 'Note to Sec TPR-83' list)", "required": true, "enum": ["in_effect", "pending_state_approval"]},
+    "source_text": {"description": "Verbatim entry, street-prefixed, whitespace-normalized", "required": true},
+    "notes": {"description": "Editor's-note markers or anomalies", "required": false}
+  },
+  "unique": ["source_text"]
+}

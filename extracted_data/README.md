@@ -10,6 +10,24 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 
 ## Datasets
 
+### 83 — Use and operation of heavy commercial vehicles restricted on certain streets
+
+[83_commercial_vehicle_restrictions.tsv](83_commercial_vehicle_restrictions.tsv) — 33 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street the truck restriction applies to (required) |
+| `locality` | Village qualifier when given (e.g. 'West Newton', 'Newtonville', 'Newton Centre') |
+| `weight_limit_tons` | Carrying-capacity threshold in tons above which commercial vehicles are restricted (e.g. 5, 2.5); empty if unstated |
+| `from_point` | Start of the restricted segment; empty if whole/unstated |
+| `to_point` | End of the restricted segment |
+| `extent` | 'entire length' when stated |
+| `times` | Hours the restriction applies (e.g. '8:00 p.m. to 7:00 a.m.'); empty = all times |
+| `alternate_route` | Suggested alternate route when stated |
+| `status` | Whether the exclusion is in effect or still pending Commonwealth approval (the 'Note to Sec TPR-83' list) (required) |
+| `source_text` | Verbatim entry, street-prefixed, whitespace-normalized (required) |
+| `notes` | Editor's-note markers or anomalies |
+
 ### 84 — Speed zones designated
 
 [84_speed_limits.tsv](84_speed_limits.tsv) — 275 rows
@@ -378,6 +396,21 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `notes` | Extractor remarks about anomalies in the source text; never carries data |
 | `source_text` | Verbatim source clause, whitespace-collapsed; for grouped sub-entries, prefixed with the parent street header (and side sub-header, if any) in document order; wrapped fragments rejoined (required; vocabulary: `source_text`) |
 
+### 180 — Stopping Prohibited on Particular Streets
+
+[180_stopping_prohibited.tsv](180_stopping_prohibited.tsv) — 4 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street the regulation applies to (required) |
+| `side` | Side(s) of street; common#side value or compound ('north and west'); empty if none |
+| `from_point` | Start of the segment (strip 'a point'); empty if whole/unstated |
+| `to_point` | End of the segment; 'end' for street's end |
+| `extent` | 'entire length' when stated |
+| `schedule` | Days/times the restriction applies; lettered a)/b)/c) sub-windows joined with '; ' |
+| `source_text` | Verbatim entry, street-prefixed, whitespace-normalized (required) |
+| `notes` | Sub-clause presence or anomalies |
+
 ### 194 — Time limits in municipal off-street parking areas
 
 [194_municipal_parking_time_limits.tsv](194_municipal_parking_time_limits.tsv) — 11 rows
@@ -470,6 +503,21 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `notes` | Sub-clause detail (e.g. drive/reservation qualifiers) or administrative provisions that are not a single mappable segment |
 | `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
 
+### 204 — Newton North High School Tiger Parking Permits
+
+[204_tiger_parking_permits.tsv](204_tiger_parking_permits.tsv) — 5 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street the regulation applies to (required) |
+| `side` | Side(s) of street; common#side value or compound ('north and west'); empty if none |
+| `from_point` | Start of the segment (strip 'a point'); empty if whole/unstated |
+| `to_point` | End of the segment; 'end' for street's end |
+| `extent` | 'entire length' when stated |
+| `schedule` | Days/times the restriction applies; lettered a)/b)/c) sub-windows joined with '; ' |
+| `source_text` | Verbatim entry, street-prefixed, whitespace-normalized (required) |
+| `notes` | Sub-clause presence or anomalies |
+
 ### 208 — Waban Village Parking District
 
 [208_waban_parking_district.tsv](208_waban_parking_district.tsv) — 7 rows
@@ -561,10 +609,7 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 
 Sections with extraction coverage planned but not yet built:
 
-- **83** — Use and operation of heavy commercial vehicles restricted on certain streets → `83_commercial_vehicle_restrictions.tsv`
 - **177** — Football game day parking regulations → `177_game_day_parking.tsv`
-- **180** — Stopping Prohibited on Particular Streets → `180_stopping_prohibited.tsv`
-- **204** — Newton North High School Tiger Parking Permits → `204_tiger_parking_permits.tsv`
 - **205** — Newtonville Neighborhood Parking District → `205_newtonville_parking_district.tsv`
 - **206** — Auburndale Village Parking District → `206_auburndale_parking_district.tsv`
 
@@ -581,8 +626,4 @@ Sections with extraction coverage planned but not yet built:
 | 223 | Reserved | excluded | Reserved. |
 | 195 | Reserved | review | Marked Reserved, but sections/195.txt contains stray TPR-196 content (section-splitter artifact in process-tpr.py). |
 | 220 | Parking prohibitions for tow zones.* | review | 176-class section: blanket preamble entries + street headers with numbered sub-clauses + em-dash inline forms. Both models produced malformed rows (inconsistent column counts); needs careful single-section pass. |
-
-## Legacy CSV files
-
-The remaining `*.csv` files are one-off extractions from March 2025 (two TPR revisions stale, no provenance, inconsistent schemas). Treat them as deprecated; they are removed as each section's TSV dataset goes active.
 

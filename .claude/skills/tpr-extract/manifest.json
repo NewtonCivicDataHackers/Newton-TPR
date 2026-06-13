@@ -4,12 +4,15 @@
     {
       "section": "83",
       "title": "Use and operation of heavy commercial vehicles restricted on certain streets",
-      "status": "planned",
+      "status": "active",
       "source": "sections/83.txt",
       "slug": "commercial_vehicle_restrictions",
       "output": "extracted_data/83_commercial_vehicle_restrictions.tsv",
       "schema": "schemas/83_commercial_vehicle_restrictions.json",
-      "spec": "specs/83_commercial_vehicle_restrictions.md"
+      "spec": "specs/83_commercial_vehicle_restrictions.md",
+      "counting": {
+        "verified_by": "11 in-effect + pending lists hand-extracted from text (cross-reference paragraphs interleave entries); 33 rows; source_text unique"
+      }
     },
     {
       "section": "84",
@@ -364,12 +367,15 @@
     {
       "section": "180",
       "title": "Stopping Prohibited on Particular Streets",
-      "status": "planned",
+      "status": "active",
       "source": "sections/180.txt",
       "slug": "stopping_prohibited",
       "output": "extracted_data/180_stopping_prohibited.tsv",
       "schema": "schemas/180_stopping_prohibited.json",
-      "spec": "specs/180_stopping_prohibited.md"
+      "spec": "specs/180_stopping_prohibited.md",
+      "counting": {
+        "verified_by": "4 entries (Hartman Road a/b/c folded); hand-extracted"
+      }
     },
     {
       "section": "194",
@@ -461,12 +467,15 @@
     {
       "section": "204",
       "title": "Newton North High School Tiger Parking Permits",
-      "status": "planned",
+      "status": "active",
       "source": "sections/204.txt",
       "slug": "tiger_parking_permits",
       "output": "extracted_data/204_tiger_parking_permits.tsv",
       "schema": "schemas/204_tiger_parking_permits.json",
-      "spec": "specs/204_tiger_parking_permits.md"
+      "spec": "specs/204_tiger_parking_permits.md",
+      "counting": {
+        "verified_by": "clause (h) reserved-street list; 5 segments; hand-extracted"
+      }
     },
     {
       "section": "205",

@@ -1,0 +1,15 @@
+{
+  "title": "Tiger parking district reserved streets (Sec. TPR-204(h))",
+  "columns": ["street", "side", "from_point", "to_point", "extent", "schedule", "source_text", "notes"],
+  "fields": {
+    "street": {"description": "Street the regulation applies to", "required": true},
+    "side": {"description": "Side(s) of street; common#side value or compound ('north and west'); empty if none", "required": false},
+    "from_point": {"description": "Start of the segment (strip 'a point'); empty if whole/unstated", "required": false},
+    "to_point": {"description": "End of the segment; 'end' for street's end", "required": false},
+    "extent": {"description": "'entire length' when stated", "required": false},
+    "schedule": {"description": "Days/times the restriction applies; lettered a)/b)/c) sub-windows joined with '; '", "required": false},
+    "source_text": {"description": "Verbatim entry, street-prefixed, whitespace-normalized", "required": true},
+    "notes": {"description": "Sub-clause presence or anomalies", "required": false}
+  },
+  "unique": ["source_text"]
+}

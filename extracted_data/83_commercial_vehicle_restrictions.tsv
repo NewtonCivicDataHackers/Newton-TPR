@@ -1,0 +1,34 @@
+street	locality	weight_limit_tons	from_point	to_point	extent	times	alternate_route	status	source_text	notes
+Albemarle Road		5	North Street	Crafts Street		10:00 p.m. to 8:00 a.m.		in_effect	Albemarle Road. Commercial motor vehicles in excess of five (5) tons carrying capacity between North Street and Crafts Street from 10:00 p.m. to 8:00 a.m.	
+Albemarle Road		5	Watertown Street	Crafts Street			via Watertown Street easterly to Walnut Street, and via Walnut Street northerly to Crafts Street	in_effect	Albemarle Road. Commercial motor vehicles in excess of five (5) tons carrying capacity between Watertown Street and Crafts Street. The alternative route shall be via Watertown Street easterly to Walnut Street, and via Walnut Street northerly to Crafts Street.	
+Bacon Street			Washington Street	Pearl Street		8:00 p.m. to 7:00 a.m.		in_effect	Bacon Street. From Washington Street to Pearl Street, between the hours of 8:00 p.m. and 7:00 a.m.	
+Charles Street			Auburn Street	Riverside Road				in_effect	Charles Street. From Auburn Street to Riverside Road.	
+Charlesbank Road			St. James Street	Nonantum Road				in_effect	Charlesbank Road from St. James Street to Nonantum Road. See Editor’s note at end of section. *	editor's note *: ordinance not effective until approved by the commonwealth (as of 2007)
+Chestnut Street			Washington Street	Boylston Street		12:00 midnight to 7:00 a.m.		in_effect	Chestnut Street. From Washington Street to Boylston Street, between the hours of 12:00 midnight and 7:00 a.m.	
+Commonwealth Avenue, North Drive			end of channelizing portion near Washington Street	Rowe Street				in_effect	Commonwealth Avenue, North Drive. From end of channelizing portion near Washington Street to Rowe Street.	
+Crescent Street	West Newton	5						in_effect	Crescent Street. West Newton. Commercial vehicles in excess of five (5) tons carrying capacity.	
+Cross Street	West Newton							in_effect	Cross Street. West Newton.	
+Dearborn Street		2.5			entire length		Adams Avenue	in_effect	Dearborn Street. Commercial vehicles in excess of 2½-ton carrying capacity, entire length. The alternative route shall be Adams Avenue.	
+Dudley Road			Boylston Street	Brookline Street				in_effect	Dudley Road. From Boylston Street to Brookline Street.	
+Grove Street		2.5	Washington Street	Route 128 southerly access ramp			I-95/Route 128 Southbound/Northbound	in_effect	Grove Street. Commercial vehicles in excess of 2½ ton carrying capacity from Washington Street to the Route 128 southerly access ramp. The alternate route shall be I-95/Route 128 Southbound/Northbound.	
+Hammond Street			Commonwealth Avenue	Newton/Brookline line				in_effect	Hammond Street. From Commonwealth Avenue to the Newton/Brookline line.	
+Hammondswood Road								in_effect	Hammondswood Road. See Editor’s note at end of section.**	editor's note **: if not MassDOT-approved, exclusion installed only on the private portion
+Linwood Avenue	Newtonville, Nonantum							in_effect	Linwood Avenue. Newtonville, Nonantum.	
+Middlesex Road								in_effect	Middlesex Road.	
+Norwood Avenue	Newtonville					8:00 p.m. to 7:00 a.m.		in_effect	Norwood Avenue. (Newtonville) Between the hours of 8:00 p.m. and 7:00 a.m.	
+Pearl Street							via Centre Street to Washington Street to Adams Street to Watertown Street	in_effect	Pearl Street. The alternative route shall be via Centre Street to Washington Street to Adams Street to Watertown Street.	
+Richmond Road			Centre Street	Academy Road				in_effect	Richmond Road. From Centre Street to Academy Road.	
+St. James Street			Washington Street	Nonantum Road				in_effect	St. James Street from Washington Street to Nonantum Road. See Editor’s note at end of section*	editor's note *: ordinance not effective until approved by the commonwealth (as of 2007)
+Watertown Street			Washington Street	Newton-Watertown line		8:00 p.m. to 7:00 a.m.		in_effect	Watertown Street. From Washington Street to the Newton-Watertown line, between the hours 8:00 p.m. to 7:00 a.m.	
+Winchester Street			Needham Street	Nahanton Street		8:00 p.m. to 7:00 a.m.		in_effect	Winchester Street: From Needham Street to Nahanton Street, between the hours of 8:00 p.m. to 7:00 a.m.	
+Bernard Street		2.5						pending_state_approval	Bernard Street. Commercial vehicles in excess of 2-1/2 tons carrying capacity.	
+Bridge Street								pending_state_approval	Bridge Street	
+Charlemont Street		2.5	Roland Street	Winchester Street				pending_state_approval	Charlemont Street. Commercial vehicles in excess of 2-1/2 tons carrying capacity from Roland Street to Winchester Street.	
+Christina Street		2.5	Needham Street	Wallace Street				pending_state_approval	Christina Street. Commercial vehicles in excess of 2-1/2 tons carrying capacity from Needham Street to Wallace Street.	
+Crescent Avenue			Centre Street	Beacon Street				pending_state_approval	Crescent Avenue. From Centre Street to Beacon Street.	
+Davis Avenue								pending_state_approval	Davis Avenue	
+Goddard Street		2.5						pending_state_approval	Goddard Street. Commercial vehicles in excess of 2-1/2 tons carrying capacity.	
+Norwood Avenue	Newton Centre		Centre Street	Crescent Avenue				pending_state_approval	Norwood Avenue (Newton Centre). Centre Street to Crescent Avenue.	
+Roland Street		2.5						pending_state_approval	Roland Street. Commercial vehicles in excess of 2-1/2 tons carrying capacity.	
+Wallace Street		2.5	Winchester Street	Bernard Street				pending_state_approval	Wallace Street. Commercial vehicles in excess of 2-1/2 tons carrying capacity from Winchester Street to Bernard Street.	
+Winchester Street					entire length	8:00 p.m. to 7:00 a.m.		pending_state_approval	Winchester Street. Entire length, between the hours of 8:00 p.m. and 7:00 a.m.	

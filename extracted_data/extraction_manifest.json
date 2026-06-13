@@ -96,6 +96,15 @@
     },
     "176_street_parking_regulations": {
       "rows": 1295
+    },
+    "83_commercial_vehicle_restrictions": {
+      "rows": 33
+    },
+    "180_stopping_prohibited": {
+      "rows": 4
+    },
+    "204_tiger_parking_permits": {
+      "rows": 5
     }
   }
 }

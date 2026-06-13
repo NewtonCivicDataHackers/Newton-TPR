@@ -415,22 +415,32 @@
     {
       "section": "201",
       "title": "Overnight on-street angle parking areas",
-      "status": "planned",
+      "status": "active",
       "source": "sections/201.txt",
       "slug": "overnight_angle_parking",
       "output": "extracted_data/201_overnight_angle_parking.tsv",
       "schema": "schemas/201_overnight_angle_parking.json",
-      "spec": "specs/201_overnight_angle_parking.md"
+      "spec": "specs/201_overnight_angle_parking.md",
+      "counting": {
+        "region_start": "Newton Revised Ordinances, 2012\\.",
+        "region_end": "\\(TPR-265",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "202",
       "title": "Resident restricted areas",
-      "status": "planned",
+      "status": "active",
       "source": "sections/202.txt",
       "slug": "resident_restricted_areas",
       "output": "extracted_data/202_resident_restricted_areas.tsv",
       "schema": "schemas/202_resident_restricted_areas.json",
-      "spec": "specs/202_resident_restricted_areas.md"
+      "spec": "specs/202_resident_restricted_areas.md",
+      "counting": {
+        "region_start": "otherwise noted\\.",
+        "region_end": "\\(Ord\\. No\\. S-227",
+        "entry_start": "^(\\(\\d+\\)|[A-Z][^:]*,|[A-Z].*:\\s*\\S)"
+      }
     },
     {
       "section": "203",
@@ -472,12 +482,9 @@
     {
       "section": "207",
       "title": "Horace Mann Neighborhood Parking District",
-      "status": "planned",
+      "status": "excluded",
       "source": "sections/207.txt",
-      "slug": "horace_mann_parking_district",
-      "output": "extracted_data/207_horace_mann_parking_district.tsv",
-      "schema": "schemas/207_horace_mann_parking_district.json",
-      "spec": "specs/207_horace_mann_parking_district.md"
+      "reason": "Header and ordinance history only; no parking-district streets enumerated in the source."
     },
     {
       "section": "208",

@@ -69,6 +69,12 @@
     },
     "221_game_day_sign_locations": {
       "rows": 7
+    },
+    "201_overnight_angle_parking": {
+      "rows": 1
+    },
+    "202_resident_restricted_areas": {
+      "rows": 28
     }
   }
 }

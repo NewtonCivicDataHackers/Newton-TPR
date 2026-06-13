@@ -1,0 +1,13 @@
+{
+  "title": "Overnight on-street angle parking areas (Sec. TPR-201)",
+  "columns": ["street", "from_point", "to_point", "spaces", "notes", "source_text"],
+  "fields": {
+    "street": {"description": "Street with the designated angle-parking area", "required": true},
+    "from_point": {"description": "Start of the segment", "required": false},
+    "to_point": {"description": "End of the segment", "required": false},
+    "spaces": {"description": "Maximum number of designated spaces", "type": "integer", "required": false},
+    "notes": {"description": "Extractor remarks about source anomalies; never carries data", "required": false},
+    "source_text": {"$ref": "common#source_text"}
+  },
+  "unique": ["source_text"]
+}

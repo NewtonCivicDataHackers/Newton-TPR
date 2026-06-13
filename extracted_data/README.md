@@ -383,6 +383,39 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `notes` | Extractor remarks about anomalies in the source text (typos, stray characters, ambiguity flags); never carries data |
 | `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
 
+### 201 — Overnight on-street angle parking areas
+
+[201_overnight_angle_parking.tsv](201_overnight_angle_parking.tsv) — 1 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street with the designated angle-parking area (required) |
+| `from_point` | Start of the segment |
+| `to_point` | End of the segment |
+| `spaces` | Maximum number of designated spaces |
+| `notes` | Extractor remarks about source anomalies; never carries data |
+| `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
+
+### 202 — Resident restricted areas
+
+[202_resident_restricted_areas.tsv](202_resident_restricted_areas.tsv) — 28 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street (or slash-joined street pair) the resident restriction applies to (required) |
+| `locality` | Village/neighborhood qualifier given in the source (e.g. 'Newton Upper Falls', 'Waban'); empty if none |
+| `side` | Side of street; empty when not stated (vocabulary: `side`) |
+| `from_point` | Reference street/landmark at the start of the segment |
+| `from_offset_feet` | Distance from from_point, in feet |
+| `from_offset_direction` | Compass direction of the from_point offset (vocabulary: `compass_point`) |
+| `to_point` | Reference street/landmark at the end of the segment; 'end' for the street's end |
+| `to_offset_feet` | Distance from to_point, in feet |
+| `to_offset_direction` | Compass direction of the to_point offset (vocabulary: `compass_point`) |
+| `extent` | 'entire length' when the restriction covers the whole street; empty otherwise |
+| `times` | Time window when the restriction applies; empty means at all times (vocabulary: `time_range`) |
+| `notes` | Sub-clause detail (e.g. drive/reservation qualifiers) or administrative provisions that are not a single mappable segment |
+| `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
+
 ### 219 — Parking prohibitions in areas that previously allowed parking
 
 [219_removed_parking_spaces.tsv](219_removed_parking_spaces.tsv) — 2 rows
@@ -424,12 +457,9 @@ Sections with extraction coverage planned but not yet built:
 - **177** — Football game day parking regulations → `177_game_day_parking.tsv`
 - **180** — Stopping Prohibited on Particular Streets → `180_stopping_prohibited.tsv`
 - **194** — Time limits in municipal off-street parking areas → `194_municipal_parking_time_limits.tsv`
-- **201** — Overnight on-street angle parking areas → `201_overnight_angle_parking.tsv`
-- **202** — Resident restricted areas → `202_resident_restricted_areas.tsv`
 - **204** — Newton North High School Tiger Parking Permits → `204_tiger_parking_permits.tsv`
 - **205** — Newtonville Neighborhood Parking District → `205_newtonville_parking_district.tsv`
 - **206** — Auburndale Village Parking District → `206_auburndale_parking_district.tsv`
-- **207** — Horace Mann Neighborhood Parking District → `207_horace_mann_parking_district.tsv`
 - **208** — Waban Village Parking District → `208_waban_parking_district.tsv`
 - **209** — Newton Highlands Parking District → `209_newton_highlands_parking_district.tsv`
 - **210** — Newton Corner Parking District → `210_newton_corner_parking_district.tsv`
@@ -443,6 +473,7 @@ Sections with extraction coverage planned but not yet built:
 | 169 | Times parking prohibited in Oak Hill off-street area | excluded | Single rule for one lot; no per-location entries to tabulate. |
 | 178 | Reserved | excluded | Reserved. |
 | 203 | Reserved | excluded | Reserved. |
+| 207 | Horace Mann Neighborhood Parking District | excluded | Header and ordinance history only; no parking-district streets enumerated in the source. |
 | 222 | Reserved | excluded | Reserved. |
 | 223 | Reserved | excluded | Reserved. |
 | 195 | Reserved | review | Marked Reserved, but sections/195.txt contains stray TPR-196 content (section-splitter artifact in process-tpr.py). |

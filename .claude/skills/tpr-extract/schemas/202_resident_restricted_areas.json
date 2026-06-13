@@ -1,0 +1,20 @@
+{
+  "title": "Resident restricted parking areas (Sec. TPR-202)",
+  "columns": ["street", "locality", "side", "from_point", "from_offset_feet", "from_offset_direction", "to_point", "to_offset_feet", "to_offset_direction", "extent", "times", "notes", "source_text"],
+  "fields": {
+    "street": {"description": "Street (or slash-joined street pair) the resident restriction applies to", "required": true},
+    "locality": {"description": "Village/neighborhood qualifier given in the source (e.g. 'Newton Upper Falls', 'Waban'); empty if none", "required": false},
+    "side": {"description": "Side of street; empty when not stated", "$ref": "common#side"},
+    "from_point": {"description": "Reference street/landmark at the start of the segment", "required": false},
+    "from_offset_feet": {"description": "Distance from from_point, in feet", "type": "integer", "required": false},
+    "from_offset_direction": {"$ref": "common#compass_point", "description": "Compass direction of the from_point offset"},
+    "to_point": {"description": "Reference street/landmark at the end of the segment; 'end' for the street's end", "required": false},
+    "to_offset_feet": {"description": "Distance from to_point, in feet", "type": "integer", "required": false},
+    "to_offset_direction": {"$ref": "common#compass_point", "description": "Compass direction of the to_point offset"},
+    "extent": {"description": "'entire length' when the restriction covers the whole street; empty otherwise", "required": false},
+    "times": {"description": "Time window when the restriction applies; empty means at all times", "$ref": "common#time_range"},
+    "notes": {"description": "Sub-clause detail (e.g. drive/reservation qualifiers) or administrative provisions that are not a single mappable segment", "required": false},
+    "source_text": {"$ref": "common#source_text"}
+  },
+  "unique": ["source_text"]
+}

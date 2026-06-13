@@ -1,0 +1,14 @@
+{
+  "title": "Newtonville Neighborhood Parking District (Sec. TPR-205)",
+  "columns": ["street", "district", "from_point", "to_point", "segment_note", "notes", "source_text"],
+  "fields": {
+    "street": {"description": "Street (or segment) belonging to the parking district", "required": true},
+    "district": {"description": "Parking district name (constant per file)", "required": true},
+    "from_point": {"description": "Range start when the parenthetical is 'X to Y'", "required": false},
+    "to_point": {"description": "Range end", "required": false},
+    "segment_note": {"description": "Non-range parenthetical qualifier ('including <addresses>', 'except ...')", "required": false},
+    "notes": {"description": "Sub-clause detail or anomalies (e.g. Woodbine Street's a)/b) segments)", "required": false},
+    "source_text": {"": "common#source_text"}
+  },
+  "unique": ["source_text"]
+}

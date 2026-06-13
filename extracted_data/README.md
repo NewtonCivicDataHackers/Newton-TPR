@@ -518,6 +518,34 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `source_text` | Verbatim entry, street-prefixed, whitespace-normalized (required) |
 | `notes` | Sub-clause presence or anomalies |
 
+### 205 — Newtonville Neighborhood Parking District
+
+[205_newtonville_parking_district.tsv](205_newtonville_parking_district.tsv) — 41 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street (or segment) belonging to the parking district (required) |
+| `district` | Parking district name (constant per file) (required) |
+| `from_point` | Range start when the parenthetical is 'X to Y' |
+| `to_point` | Range end |
+| `segment_note` | Non-range parenthetical qualifier ('including <addresses>', 'except ...') |
+| `notes` | Sub-clause detail or anomalies (e.g. Woodbine Street's a)/b) segments) |
+| `source_text` | None |
+
+### 206 — Auburndale Village Parking District
+
+[206_auburndale_parking_district.tsv](206_auburndale_parking_district.tsv) — 26 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street (or segment) belonging to the parking district (required) |
+| `district` | Parking district name (constant per file) (required) |
+| `from_point` | Range start when the parenthetical is 'X to Y' |
+| `to_point` | Range end |
+| `segment_note` | Non-range parenthetical qualifier ('including <addresses>', 'except ...') |
+| `notes` | Sub-clause detail or anomalies (e.g. Woodbine Street's a)/b) segments) |
+| `source_text` | None |
+
 ### 208 — Waban Village Parking District
 
 [208_waban_parking_district.tsv](208_waban_parking_district.tsv) — 7 rows
@@ -610,8 +638,6 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 Sections with extraction coverage planned but not yet built:
 
 - **177** — Football game day parking regulations → `177_game_day_parking.tsv`
-- **205** — Newtonville Neighborhood Parking District → `205_newtonville_parking_district.tsv`
-- **206** — Auburndale Village Parking District → `206_auburndale_parking_district.tsv`
 
 ## Not extracted
 

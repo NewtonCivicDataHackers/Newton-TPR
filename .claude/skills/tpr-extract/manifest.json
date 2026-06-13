@@ -480,22 +480,28 @@
     {
       "section": "205",
       "title": "Newtonville Neighborhood Parking District",
-      "status": "planned",
+      "status": "active",
       "source": "sections/205.txt",
       "slug": "newtonville_parking_district",
       "output": "extracted_data/205_newtonville_parking_district.tsv",
       "schema": "schemas/205_newtonville_parking_district.json",
-      "spec": "specs/205_newtonville_parking_district.md"
+      "spec": "specs/205_newtonville_parking_district.md",
+      "counting": {
+        "verified_by": "membership list disentangled from PDF pp.216-217 (split merged \"Pulsifer Street Russell Court\"); 41 streets"
+      }
     },
     {
       "section": "206",
       "title": "Auburndale Village Parking District",
-      "status": "planned",
+      "status": "active",
       "source": "sections/206.txt",
       "slug": "auburndale_parking_district",
       "output": "extracted_data/206_auburndale_parking_district.tsv",
       "schema": "schemas/206_auburndale_parking_district.json",
-      "spec": "specs/206_auburndale_parking_district.md"
+      "spec": "specs/206_auburndale_parking_district.md",
+      "counting": {
+        "verified_by": "membership list disentangled from PDF pp.218-219 (split column-merged lines, dedup Woodbine Street/Terrace); 26 streets"
+      }
     },
     {
       "section": "207",

@@ -1,0 +1,27 @@
+street	district	from_point	to_point	segment_note	notes	source_text
+Ash Street	Auburndale Village					Ash Street
+Aspen Avenue	Auburndale Village	Washington Street	Hawthorne Avenue			Aspen Avenue (Washington Street to Hawthorne Avenue)
+Auburn Street	Auburndale Village	Bourne Street	Lexington Street	including 271-289 Auburn Street		Auburn Street (Bourne Street to Lexington Street, including 271-289 Auburn Street)
+Bourne Street	Auburndale Village					Bourne Street
+Central Street	Auburndale Village					Central Street
+Central Terrace	Auburndale Village					Central Terrace
+Charles Street	Auburndale Village	Auburn Street	the I-90 Underpass			Charles Street (Auburn Street to the I-90 Underpass)
+Cheswick Road	Auburndale Village					Cheswick Road
+Fern Street	Auburndale Village					Fern Street
+Grove Street	Auburndale Village	Auburn Street	Hancock Street			Grove Street (Auburn Street to Hancock Street)
+Hancock Street	Auburndale Village					Hancock Street
+Hawthorne Avenue	Auburndale Village	Woodland Road	Aspen Avenue			Hawthorne Avenue (Woodland Road to Aspen Avenue)
+Johnson Place	Auburndale Village					Johnson Place
+Lasell Street	Auburndale Village					Lasell Street
+Leighton Road	Auburndale Village					Leighton Road
+Lexington Street	Auburndale Village	409 and 430 Lexington Street	Auburn Street			Lexington Street (409 and 430 Lexington Street to Auburn Street)
+Maple Street	Auburndale Village	Auburn Street	Central Street			Maple Street (Auburn Street to Central Street)
+Melrose Avenue	Auburndale Village					Melrose Avenue
+Melrose Street	Auburndale Village	Commonwealth Avenue	Auburn Street			Melrose Street (Commonwealth Avenue to Auburn Street)
+Studio Road	Auburndale Village					Studio Road
+Vista Avenue	Auburndale Village					Vista Avenue
+Williston Road	Auburndale Village	Leighton Road	Hancock Street			Williston Road (Leighton Road to Hancock Street)
+Windermere Road	Auburndale Village	Woodland Road	Commonwealth Avenue			Windermere Road (Woodland Road to Commonwealth Avenue)
+Woodbine Street	Auburndale Village				segments: a) Auburn Street to Commonwealth Avenue, both sides; b) from a point 140 feet north of Commonwealth Avenue South Roadway, northerly 100 feet, west side	Woodbine Street
+Woodbine Terrace	Auburndale Village					Woodbine Terrace
+Woodland Road	Auburndale Village					Woodland Road

@@ -105,6 +105,12 @@
     },
     "204_tiger_parking_permits": {
       "rows": 5
+    },
+    "205_newtonville_parking_district": {
+      "rows": 41
+    },
+    "206_auburndale_parking_district": {
+      "rows": 26
     }
   }
 }

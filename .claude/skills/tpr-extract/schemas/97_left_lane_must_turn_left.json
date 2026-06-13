@@ -1,0 +1,42 @@
+{
+  "title": "Left lane must turn left locations (Sec. TPR-97)",
+  "columns": ["street", "direction", "cross_street", "cross_street_direction", "destination", "lane_detail", "location_detail", "notes", "source_text"],
+  "fields": {
+    "street": {
+      "description": "Street or approach the left-lane traffic is on; for multi-street designations, the full phrase as written (whitespace-collapsed, not beautified, e.g. 'Winchester and Centre Streets', 'Commonwealth Avenue, North Drive')",
+      "required": true
+    },
+    "direction": {
+      "description": "Direction(s) of travel the requirement applies to; 'all' for all-directions entries; empty when the source states none (every entry as of 2025-04-11 states one)",
+      "$ref": "common#direction_set"
+    },
+    "cross_street": {
+      "description": "Named street or way (street, avenue, parkway, on-ramp, named driveway) onto/at which the left turn is made; multi-target entries keep the conjunction verbatim ('Wachusett Road or Hammond Street'); empty when the target is a property/lot/address (see destination)",
+      "required": false
+    },
+    "cross_street_direction": {
+      "description": "Carriageway direction of the target street when the source states a bare direction immediately after the cross street name ('onto Winchester Street southbound'); directions embedded in ramp designations stay in cross_street ('Route 9 eastbound on-ramp')",
+      "$ref": "common#direction"
+    },
+    "destination": {
+      "description": "Non-way turn target: property address, parking lot, or driveway-of-address introduced by 'into', or a street address following 'at' (e.g. '267-287 Grove Street', 'Trio Parking Lot', 'Driveway of 2150 Washington Street', '233 Needham Street'); empty when the target is a named street/way (see cross_street)",
+      "required": false
+    },
+    "lane_detail": {
+      "description": "Lane qualifier from the source (e.g. '2 left lanes', 'two lanes'); empty when only the section-wide left lane(s) rule applies",
+      "required": false
+    },
+    "location_detail": {
+      "description": "Positional or movement qualifier from the source (e.g. 'opposite Elm Street', 'on Washington Street Bridge over Mass. Turnpike', 'between Washington St and Foster St', 'continuing onto Washington Street'); multiple distinct qualifiers joined with '; ' in source order",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

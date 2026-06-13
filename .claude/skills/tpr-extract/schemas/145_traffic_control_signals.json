@@ -1,0 +1,84 @@
+{
+  "title": "Traffic-control signal locations (Sec. TPR-145)",
+  "columns": [
+    "street",
+    "cross_street",
+    "additional_streets",
+    "signal_type",
+    "direction",
+    "from_point",
+    "to_point",
+    "offset_feet",
+    "offset_direction",
+    "owner",
+    "location_detail",
+    "notes",
+    "source_text"
+  ],
+  "fields": {
+    "street": {
+      "description": "First-named street or way of the signalized location, exactly as written (whitespace-collapsed); ramp and carriageway designations stay whole (e.g. 'Boylston Street (Route 9) eastbound onramp and offramp')",
+      "required": true
+    },
+    "cross_street": {
+      "description": "Second-named street or way of the intersection; named driveways and ramp designations count as ways; empty for midblock, segment, and landmark entries",
+      "required": false
+    },
+    "additional_streets": {
+      "description": "Third and subsequent streets/ways of a multi-leg intersection, joined with '; ' in source order (semicolon because way names may contain commas); empty when the intersection has only two legs",
+      "required": false
+    },
+    "signal_type": {
+      "description": "Kind of device: subsections (a) and (c) are traffic_signal, subsection (b) is pedestrian_hybrid_beacon",
+      "required": true,
+      "enum": [
+        "traffic_signal",
+        "pedestrian_hybrid_beacon"
+      ]
+    },
+    "direction": {
+      "description": "Direction of travel the signal installation is designated for, when the entry states one as a standalone qualifier (e.g. 'Washington Street at Centre Avenue, eastbound.'); NOT filled from direction words embedded in ramp/carriageway names",
+      "$ref": "common#direction"
+    },
+    "from_point": {
+      "description": "Reference street for proximity and offset entries ('near X', 'N feet DIRECTION of X') or segment start for 'between X and Y' entries; empty for plain intersection entries",
+      "required": false
+    },
+    "to_point": {
+      "description": "Segment end for 'between X and Y' entries; empty otherwise",
+      "required": false
+    },
+    "offset_feet": {
+      "description": "Distance in feet from from_point when the source gives one (e.g. '70 feet east of Lawrence Avenue'); empty for 'near' entries with no stated distance",
+      "required": false,
+      "type": "integer"
+    },
+    "offset_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass direction of the offset from from_point (proposed common vocabulary: compass_point)"
+    },
+    "owner": {
+      "description": "Owning/operating jurisdiction when the source states one: 'state' for subsection (c) entries, 'shared with City of Boston' for the Commonwealth Avenue/Fr. Herlihy/Lake Street parenthetical; empty means not stated (city-maintained by default)",
+      "required": false,
+      "enum": [
+        "state",
+        "shared with City of Boston"
+      ]
+    },
+    "location_detail": {
+      "description": "Landmark or positional qualifier from the source that is not a named way (e.g. 'at Burr School', 'at the Fire Department Headquarters', 'at the staircase to the Waban train station')",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text",
+      "description": "Verbatim source clause, whitespace-collapsed, line-wrap fragments rejoined; the two subsection (c) entries that duplicate subsection (a) entries verbatim are prefixed '(c) ' to keep this column unique (see spec)"
+    }
+  },
+  "unique": [
+    "source_text"
+  ]
+}

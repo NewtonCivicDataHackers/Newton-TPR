@@ -1,0 +1,19 @@
+street	direction	cross_street	from_point	from_offset_feet	from_offset_direction	to_point	to_offset_feet	to_offset_direction	exception	location_detail	notes	source_text
+Beacon Street	all		Centre Street			Dalton Street						Beacon Street: (1) both directions, between Centre Street and Dalton Street.
+Beacon Street	all		Waban Avenue			Woodward Street						Beacon Street: (2) both directions, between Waban Avenue and Woodward Street.
+Brookline Street	all		Oak Hill Street			Hartman Road						Brookline Street, both directions, between Oak Hill Street and Hartman Road.
+Centre Street	all		Beacon Street			Lyman Street						Centre Street: (1) both directions, between Beacon Street and Lyman Street.
+Centre Street	all		Watertown line			Washington Street						Centre Street: (2) both directions, between the Watertown line and Washington Street.
+Cypress Street	all		Bow Street			Bowen School Bus and the Driveway Loop					endpoint text likely garbled in source (stray comma after Bow Street; reads as one bus-driveway-loop feature)	Cypress Street, both directions, between Bow Street, and the Bowen School Bus and the Driveway Loop.
+Derby Street	all		Cherry Street			Edward Road						Derby Street, both directions, between Cherry Street and Edward Road.
+Lincoln Street	all		Walnut Street			Columbus Street						Lincoln Street, both directions, between Walnut Street and Columbus Street.
+Pine Street	all		Washburn Avenue	225	northeast		385	northeast			to-endpoint anchor unstated in source; reads as 385 feet northeasterly beyond the from-point	Pine Street, both directions, between a point 225 feet northeast of Washburn Avenue and a point northeasterly 385 feet.
+Walnut Street	all		Otis Street			Foster Street						Walnut Street, both directions, between Otis Street and Foster Street.
+Washington Park	all		Walnut Street			Park Place						Washington Park, both directions, between Walnut Street and Park Place.
+Washington Street	all		Chestnut Street			westerly turnpike bridge at West Newton			seventy-five (75) feet in front of police headquarters for police and other emergency vehicles		entry split across a blank line in source; 'seventy-five' hyphen-wrapped	Washington Street: (1) both directions, between Chestnut Street and the westerly turnpike bridge at West Newton, except seventy- five (75) feet in front of police headquarters for police and other emergency vehicles.
+Washington Street	all		Crafts Street			Lowell Avenue						Washington Street: (2) both directions, between Crafts Street and Lowell Avenue.
+Washington Street	northbound	Centre Street										Washington Street: (3) for northbound vehicles on Washington Street at Centre Street.
+Washington Street	all		Newton-Wellesley Hospital's west driveway			Newton-Wellesley Hospital's east driveway						Washington Street: (4) both directions, between the Newton-Wellesley Hospital's west driveway and east driveway.
+Watertown Street	all		Albemarle Road			Edinboro Street						Watertown Street, both directions, between Albemarle Road and Edinboro Street.
+Watertown Street			Hawthorn Street			Pearl Street						Watertown Street, between Hawthorn Street and Pearl Street.
+Wheeler Road			Meadowbrook Road			Voss Terrace						Wheeler Road, between Meadowbrook Road and Voss Terrace.

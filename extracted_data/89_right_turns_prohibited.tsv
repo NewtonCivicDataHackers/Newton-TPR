@@ -1,0 +1,23 @@
+street	direction	cross_street	days	times	exemption	location_detail	notes	source_text
+Albemarle Road		Maynard Street		15:00-17:00				Albemarle Road onto Maynard Street, 3:00 p.m. to 5:00 p.m.
+Auburn Street		Curve Street		07:00-09:00				Auburn Street onto Curve Street, from 7:00 a.m. to 9:00 a.m.
+Beacon Street		Beethoven Avenue	mon,tue,thu,fri,school_days;wed,school_days	08:00-09:00,14:30-15:30;08:00-09:00,12:00-13:00				Beacon Street onto Beethoven Avenue, Mondays, Tuesdays, Thursdays, Fridays, school days, 8:00 a.m. to 9:00 a.m. and 2:30 p.m. to 3:30 p.m., Wednesdays, school days, 8:00 a.m. to 9:00 a.m. and 12:00 p.m. to 1:00 p.m.
+Bristol Road	southbound	Commonwealth Avenue, North Drive			bicycles			Bristol Road, southbound onto Commonwealth Avenue, North Drive (except bicycles).
+Commonwealth Avenue, South Drive		Phillips Street						Commonwealth Avenue, South Drive onto Phillips Street.
+Crafts Street	westbound	Albemarle Road			bicycles	eastern leg		Crafts Street, westbound onto Albemarle Road, eastern leg (except bicycles).
+Grove Street	southbound	Riverside Office Center southerly drive						Grove Street, southerly into the Riverside Office Center southerly drive.
+High Street		Elliot Street						High Street onto Elliot Street.
+Jefferson Street		Jefferson Street				from driveway of 2 Newton Place (255 Washington Street)		Jefferson Street, from driveway of 2 Newton Place (255 Washington Street) onto Jefferson Street.
+Lexington Street		Staniford Street		07:00-09:00			split from merged source line; see spec	Lexington Street onto Staniford Street, 7:00 a.m. to 9:00 a.m.
+Linden Street	southbound	Cliff Road					split from merged source line; see spec	Linden Street, southbound, onto Cliff Road.
+Morseland Avenue	northbound	Ward Street						Morseland Avenue, northbound onto Ward Street.
+North Street	southeastbound	Albemarle Road			bicycles	eastern leg	split from merged source paragraph; see spec	North Street, southeastbound onto Albemarle Road, eastern leg (except bicycles).
+Peirce Elementary School Parking Lot		Berkeley Street					split from merged source paragraph; see spec	Peirce Elementary School Parking Lot onto Berkeley Street.
+Ruane Road		Peirce Elementary School Parking Lot						Ruane Road into the Peirce Elementary School Parking Lot.
+Walnut Street	southbound	Elm Road	school_days	07:00-08:30,14:00-15:30				Walnut Street, southbound onto Elm Road, school days, 7:00 a.m. to 8:30 a.m. and 2:00 p.m. to 3:30 p.m.
+Washburn Street		Capital Street	school_days	08:00-08:45				Washburn Street onto Capital Street, school days, 8:00 a.m. to 8:45 a.m.
+Washington Street		Day Street	mon,tue,wed,thu,fri	07:00-09:00,16:00-18:00				Washington Street onto Day Street, weekdays, from 7:00 a.m. to 9:00 a.m. and 4:00 p.m. to 6:00 p.m.
+Washington Street		Hope Street	mon,tue,wed,thu,fri	07:00-09:00,16:00-18:00				Washington Street onto Hope Street, weekdays, from 7:00 a.m. to 9:00 a.m. and 4:00 p.m. to 6:00 p.m.
+Washington Street		Leslie Road	mon,tue,wed,thu,fri	07:00-09:00,16:00-18:00				Washington Street onto Leslie Road, weekdays, from 7:00 a.m. to 9:00 a.m. and 4:00 p.m. to 6:00 p.m.
+Washington Street	westbound	Watertown Street						Washington Street, westbound, onto Watertown Street.
+Woodland Road		Hancock Street	mon,tue,wed,thu,fri	07:00-16:00				Woodland Road onto Hancock Street, 7:00 a.m. to 4:00 p.m., Weekdays.

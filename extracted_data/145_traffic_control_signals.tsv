@@ -1,0 +1,125 @@
+street	cross_street	additional_streets	signal_type	direction	from_point	to_point	offset_feet	offset_direction	owner	location_detail	notes	source_text
+Auburndale Avenue	Freeman Street	Lexington Street	traffic_signal									Auburndale Avenue, Freeman Street and Lexington Street.
+Beacon Street	Beethoven Avenue	Evelyn Road	traffic_signal									Beacon Street, Beethoven Avenue and Evelyn Road.
+Beacon Street	Centre Street		traffic_signal									Beacon Street and Centre Street.
+Beacon Street	Chestnut Street		traffic_signal									Beacon Street and Chestnut Street.
+Beacon Street	Collins Road		traffic_signal									Beacon Street and Collins Road.
+Beacon Street	Grant Avenue		traffic_signal									Beacon Street and Grant Avenue.
+Beacon Street	Hammond Street		traffic_signal									Beacon Street and Hammond Street.
+Beacon Street	Langley Road	Sumner Street	traffic_signal									Beacon Street, Langley Road and Sumner Street.
+Beacon Street	Manitoba Road		traffic_signal									Beacon Street and Manitoba Road.
+Beacon Street	Waban Avenue		traffic_signal									Beacon Street and Waban Avenue.
+Beacon Street	Walnut Street		traffic_signal									Beacon Street and Walnut Street.
+Brookline Street	Oak Hill Street		traffic_signal									Brookline Street and Oak Hill Street.
+California Street	Bridge Street		traffic_signal									California Street and Bridge Street.
+California Street	Jasset Street		traffic_signal									California Street and Jasset Street.
+California Street	Nevada Street		traffic_signal									California Street and Nevada Street.
+Centre Street	Bowen Street	Gibbs Street	traffic_signal									Centre Street, Bowen Street and Gibbs Street.
+Centre Street	Cabot Street	Sargent Street	traffic_signal									Centre Street, Cabot Street and Sargent Street.
+Centre Street	Centre Avenue		traffic_signal									Centre Street and Centre Avenue.
+Centre Street	Charlesbank Road	Massachusetts Turnpike Interchange 17 WB On/Off-Ramp; Washington Street	traffic_signal									Centre Street, Charlesbank Road, Massachusetts Turnpike Interchange 17 WB On/Off-Ramp, and Washington Street.
+Centre Street	Church Street		traffic_signal									Centre Street and Church Street.
+Centre Street	Commonwealth Avenue		traffic_signal									Centre Street and Commonwealth Avenue.
+Centre Street	Jefferson Street	Pearl Street	traffic_signal									Centre Street, Jefferson Street and Pearl Street.
+Centre Street	Massachusetts Turnpike Interchange 17 Eastbound On-Ramp	Park Street; St. James Street; Washington Street	traffic_signal									Centre Street, Massachusetts Turnpike Interchange 17 Eastbound On-Ramp, Park Street, St. James Street, and Washington Street.
+Centre Street	Tyler Terrace		traffic_signal							at the Fire Department Headquarters		Centre Street and Tyler Terrace at the Fire Department Headquarters.
+Centre Street	Walnut Street		traffic_signal									Centre Street and Walnut Street.
+Centre Street	Ward Street		traffic_signal									Centre Street and Ward Street.
+Cherry Street	Derby Street		traffic_signal									Cherry Street and Derby Street.
+Cherry Street	River Street		traffic_signal									Cherry Street and River Street.
+Cherry Street	Webster Street		traffic_signal									Cherry Street and Webster Street.
+Chestnut Street	Berkeley Street	Hampshire Street	traffic_signal									Chestnut Street, Berkeley Street and Hampshire Street.
+Chestnut Street	Elliot Street		traffic_signal									Chestnut Street and Elliot Street.
+Chestnut Street	Oak Street		traffic_signal									Chestnut Street and Oak Street.
+Chestnut Street	Woodward Street		traffic_signal									Chestnut Street and Woodward Street.
+Commonwealth Avenue	Ash Street		traffic_signal									Commonwealth Avenue and Ash Street.
+Commonwealth Avenue	Auburn Street (east)		traffic_signal									Commonwealth Avenue and Auburn Street (east).
+Commonwealth Avenue	Auburn Street (west)		traffic_signal									Commonwealth Avenue and Auburn Street (west).
+Commonwealth Avenue	Chestnut Street		traffic_signal									Commonwealth Avenue and Chestnut Street.
+Commonwealth Avenue	Fr. Herlihy	Lake Street	traffic_signal						shared with City of Boston			Commonwealth Avenue, Fr. Herlihy and Lake Street (shared with City of Boston).
+Commonwealth Avenue	Grant Avenue		traffic_signal									Commonwealth Avenue and Grant Avenue.
+Commonwealth Avenue	Hammond Street	Wachusett Road	traffic_signal									Commonwealth Avenue, Hammond Street and Wachusett Road.
+Commonwealth Avenue	Homer Street	Lowell Avenue	traffic_signal									Commonwealth Avenue, Homer Street and Lowell Avenue.
+Commonwealth Avenue	Lexington Street		traffic_signal									Commonwealth Avenue and Lexington Street.
+Commonwealth Avenue	Melrose Street		traffic_signal									Commonwealth Avenue and Melrose Street.
+Commonwealth Avenue	Walnut Street		traffic_signal									Commonwealth Avenue and Walnut Street.
+Commonwealth Avenue	Washington Street		traffic_signal									Commonwealth Avenue and Washington Street.
+Crafts Street	North Street		traffic_signal									Crafts Street and North Street.
+Crafts Street	Linwood Avenue		traffic_signal									Crafts Street and Linwood Avenue.
+Dedham Street	Brookline Street	Carlson Avenue	traffic_signal									Dedham Street, Brookline Street and Carlson Avenue.
+Dedham Street	Nahanton Street		traffic_signal									Dedham Street and Nahanton Street.
+Dedham Street			traffic_signal		Oak Hill Street							Dedham Street near Oak Hill Street.
+Elliot Street	Circuit Avenue		traffic_signal									Elliot Street and Circuit Avenue.
+Grove Street	Auburn Street	Central Street	traffic_signal									Grove Street, Auburn Street, and Central Street.
+Grove Street	Riverside Center		traffic_signal									Grove Street and Riverside Center.
+Harvard Street	Newtonville Avenue		traffic_signal									Harvard Street and Newtonville Avenue.
+Harvard Street	Washington Street		traffic_signal									Harvard Street and Washington Street.
+Jackson Road	Pearl Street		traffic_signal									Jackson Road and Pearl Street.
+Lexington Street			traffic_signal							at Burr School		Lexington Street at Burr School.
+Lexington Street	River Street	Rumford Avenue	traffic_signal									Lexington Street, River Street and Rumford Avenue.
+Lexington Street	Wolcott Street		traffic_signal									Lexington Street and Wolcott Street.
+Lowell Avenue	Otis Street		traffic_signal									Lowell Avenue and Otis Street.
+Middlesex Road			traffic_signal							at Brimmer and May School		Middlesex Road at Brimmer and May School.
+Nahanton Street	Wells Avenue		traffic_signal									Nahanton Street and Wells Avenue.
+Nahanton Street	Winchester Street		traffic_signal									Nahanton Street and Winchester Street.
+Nonantum Road	Charlesbank Road		traffic_signal									Nonantum Road and Charlesbank Road.
+Park Street	Tremont Street		traffic_signal									Park Street and Tremont Street.
+Parker Street	Wheeler Road		traffic_signal									Parker Street and Wheeler Road.
+Pearl Street	Watertown Street		traffic_signal									Pearl Street and Watertown Street.
+Walnut Street	Cabot Street		traffic_signal									Walnut Street and Cabot Street.
+Walnut Street			traffic_signal		Trowbridge Avenue		100	north				Walnut Street, 100 feet north of Trowbridge Avenue.
+Walnut Street	Fenno Road	Homer Street	traffic_signal									Walnut Street, Fenno Road and Homer Street.
+Walnut Street	Lincoln Street		traffic_signal									Walnut Street and Lincoln Street.
+Walnut Street	Watertown Street		traffic_signal									Walnut Street and Watertown Street.
+Waltham Street	Crafts Street	Harding Street	traffic_signal									Waltham Street, Crafts Street and Harding Street.
+Waltham Street	Lodge Road		traffic_signal									Waltham Street and Lodge Road.
+Washington Street	Adams Street	Jackson Road; Lewis Terrace	traffic_signal									Washington Street, Adams Street, Jackson Road and Lewis Terrace.
+Washington Street	Auburn Street		traffic_signal									Washington Street and Auburn Street.
+Washington Street			traffic_signal		Bacon Street							Washington Street near Bacon Street
+Washington Street	Beacon Street		traffic_signal									Washington Street at Beacon Street.
+Washington Street	Cherry Street	Highland Street	traffic_signal									Washington Street, Cherry Street and Highland Street.
+Washington Street	Chestnut Street		traffic_signal									Washington Street and Chestnut Street.
+Washington Street	Church Street		traffic_signal									Washington Street and Church Street.
+Washington Street	Concord Street		traffic_signal									Washington Street and Concord Street.
+Washington Street	Crafts Street		traffic_signal									Washington Street and Crafts Street.
+Washington Street	Elm Street		traffic_signal									Washington Street and Elm Street.
+Washington Street	Centre Avenue		traffic_signal	eastbound							also listed in subsection (c)	Washington Street at Centre Avenue, eastbound.
+Washington Street	Centre Avenue		traffic_signal	westbound							also listed in subsection (c)	Washington Street at Centre Avenue, westbound.
+Washington Street			traffic_signal		Greenough Street							Washington Street near Greenough Street
+Washington Street	Lowell Avenue		traffic_signal									Washington Street and Lowell Avenue.
+Washington Street	Massachusetts Turnpike Interchange 16 Eastbound On-Ramp	Perkins Street	traffic_signal									Washington Street, Massachusetts Turnpike Interchange 16 Eastbound On-Ramp and Perkins Street.
+Washington Street	Massachusetts Turnpike Interchange 16 Westbound Off-Ramp		traffic_signal									Washington Street and Massachusetts Turnpike Interchange 16 Westbound Off-Ramp.
+Washington Street	Newton-Wellesley Hospital Driveway		traffic_signal									Washington Street and Newton-Wellesley Hospital Driveway.
+Washington Street			traffic_signal		Peabody Street							Washington Street near Peabody Street.
+Washington Street	Prospect Street		traffic_signal									Washington Street and Prospect Street.
+Washington Street	Walnut Street		traffic_signal									Washington Street and Walnut Street.
+Washington Street	Waltham Street	Watertown Street	traffic_signal									Washington Street, Waltham Street and Watertown Street.
+Washington Street	Woodland MBTA Station Driveway		traffic_signal									Washington Street and Woodland MBTA Station Driveway.
+Watertown Street	Adams Street		traffic_signal									Watertown Street and Adams Street.
+Watertown Street	Albemarle Road	Brookside Avenue	traffic_signal									Watertown Street, Albemarle Road and Brookside Avenue.
+Watertown Street	Chapel Street		traffic_signal									Watertown Street and Chapel Street.
+Watertown Street	Crafts Street	Lowell Avenue	traffic_signal									Watertown Street, Crafts Street and Lowell Avenue.
+Watertown Street	Edinboro Street	Page Road; Walker Street	traffic_signal									Watertown Street, Edinboro Street, Page Road and Walker Street.
+Waverley Avenue	Farlow Road	Kenrick Street; Sargent Street	traffic_signal									Waverley Avenue, Farlow Road, Kenrick Street, and Sargent Street.
+Waverley Avenue	Stuart Road	Ward Street	traffic_signal									Waverley Avenue, Stuart Road and Ward Street.
+Waverley Avenue	Tremont Street		traffic_signal									Waverley Avenue and Tremont Street.
+Beacon Street			pedestrian_hybrid_beacon		Lawrence Avenue		70	east				Beacon Street, 70 feet east of Lawrence Avenue.
+Beacon Street			pedestrian_hybrid_beacon		Collins Road	Windsor Road				at the staircase to the Waban train station		Beacon Street between Collins Road and Windsor Road, at the staircase to the Waban train station.
+Parker Street			pedestrian_hybrid_beacon		Daniel Street	Athelstane Road						Parker Street, between Daniel Street and Athelstane Road.
+Parker Street			pedestrian_hybrid_beacon		Truman Road	Roosevelt Road						Parker Street, between Truman Road and Roosevelt Road.
+Beacon Street	Hammond Pond Parkway	Hobart Road	traffic_signal						state			Beacon Street, Hammond Pond Parkway and Hobart Road.
+Boylston Street (Route 9)	Centre Street		traffic_signal						state			Boylston Street (Route 9) and Centre Street.
+Boylston Street (Route 9)	Langley Road		traffic_signal						state			Boylston Street (Route 9) and Langley Road.
+Boylston Street (Route 9) eastbound onramp and offramp	Parker Street		traffic_signal						state			Boylston Street (Route 9) eastbound onramp and offramp and Parker Street.
+Boylston Street (Route 9)	Winchester Street		traffic_signal						state			Boylston Street (Route 9) and Winchester Street.
+Boylston Street (Route 9)	Woodcliff Road		traffic_signal						state			Boylston Street (Route 9) and Woodcliff Road.
+Boylston Street (Route 9) westbound offramp	Parker Street	Clark Street Extension	traffic_signal						state			Boylston Street (Route 9) westbound offramp and Parker Street and Clark Street Extension.
+Boylston Street (Route 9)	Woodward Street	Elliot Street	traffic_signal						state			Boylston Street (Route 9), Woodward Street and Elliot Street.
+Hammond Pond Parkway	Chestnut Hill Mall Driveway		traffic_signal						state			Hammond Pond Parkway and Chestnut Hill Mall Driveway.
+Needham Street	Dedham Street	Winchester Street	traffic_signal						state			Needham Street, Dedham Street, and Winchester Street.
+Needham Street	Christina Street	Oak Street	traffic_signal						state			Needham Street, Christina Street and Oak Street.
+Needham Street	Charlemont Street		traffic_signal						state			Needham Street and Charlemont Street.
+Needham Street	Columbia Avenue		traffic_signal						state			Needham Street and Columbia Avenue.
+Washington Street	Centre Avenue		traffic_signal	eastbound					state		also listed in subsection (a)	(c) Washington Street at Centre Avenue, eastbound.
+Washington Street	Centre Avenue		traffic_signal	westbound					state		also listed in subsection (a)	(c) Washington Street at Centre Avenue, westbound.
+Washington Street (Route 16)	Grove Street to Route 16 Collector-Distributor Road	Quinobequin Road; Wales Street	traffic_signal						state			Washington Street (Route 16), Grove Street to Route 16 Collector-Distributor Road, Quinobequin Road and Wales Street.

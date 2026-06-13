@@ -1,0 +1,8 @@
+street	cross_street	city_line	street_2	cross_street_2	city_line_2	notes	source_text
+Beacon Street		boston	Beacon Street	Centre Street		PDF dropped the blank line; paragraph merges two sign locations — second in street_2	Beacon Street, at the Boston line. Beacon Street, at Centre Street.
+Centre Street	Beacon Street						Centre Street, at Beacon Street.
+Centre Street	Cabot Street						Centre Street, at Cabot Street.
+Commonwealth Avenue		boston					Commonwealth Avenue, at the Boston line.
+Commonwealth Avenue	Centre Street						Commonwealth Avenue, at Centre Street.
+Hammond Pond Parkway	Beacon Street						Hammond Pond Parkway, at Beacon Street.
+Hammond Street		brookline	Waverley Avenue	Kenrick Street		"PDF dropped period+line break after ""Brookline line""; paragraph merges two sign locations — second in street_2"	Hammond Street, at the Brookline line Waverley Avenue, at Kenrick Street.

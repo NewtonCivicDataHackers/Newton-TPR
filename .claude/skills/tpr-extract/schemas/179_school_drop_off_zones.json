@@ -1,0 +1,79 @@
+{
+  "title": "School drop off zones (Sec. TPR-179)",
+  "columns": [
+    "street",
+    "side",
+    "from_point",
+    "from_offset_feet",
+    "from_offset_direction",
+    "extent_direction",
+    "length_feet",
+    "to_point",
+    "to_offset_feet",
+    "to_offset_direction",
+    "location_detail",
+    "notes",
+    "source_text"
+  ],
+  "fields": {
+    "street": {
+      "description": "Street or way the drop off zone is on; for grouped entries, taken from the parent street-header paragraph",
+      "required": true
+    },
+    "side": {
+      "description": "Side of the street the zone occupies; every entry in this section states one",
+      "$ref": "common#side",
+      "required": true
+    },
+    "from_point": {
+      "description": "Cross street, way, or landmark from which the zone's start is measured or at which it begins (e.g. 'Beacon Street', 'Pearl Street', 'the driveway of 125 Wells Avenue'); empty for whole-side designations",
+      "required": false
+    },
+    "from_offset_feet": {
+      "description": "Distance in feet from from_point to the zone's start, measured along from_offset_direction; empty when the zone begins at from_point itself",
+      "type": "integer",
+      "required": false
+    },
+    "from_offset_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass direction from from_point to the zone's start ('a point 275 feet south of Beacon Street' -> south). Proposed for _common.json as compass_point; inlined here because _common.json may not be edited concurrently"
+    },
+    "extent_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass direction the zone runs from its start point; '-erly' adverbs normalize to compass points ('southerly 275 feet' -> south). Same proposed compass_point vocabulary as from_offset_direction"
+    },
+    "length_feet": {
+      "description": "Running length of the zone in feet, when the source states the extent as a distance; empty when the extent is given only as an endpoint",
+      "type": "integer",
+      "required": false
+    },
+    "to_point": {
+      "description": "Cross street, way, or landmark at or near which the zone ends ('to Fellsmere Road' -> 'Fellsmere Road'; 'to the intersection of Dedham Street and Walnut Street' -> 'Walnut Street'); empty when the extent is given only as a length",
+      "required": false
+    },
+    "to_offset_feet": {
+      "description": "Distance in feet from to_point to the zone's end, measured along to_offset_direction; empty when the zone ends at to_point itself",
+      "type": "integer",
+      "required": false
+    },
+    "to_offset_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass direction from to_point to the zone's end ('to a point 110 feet south of Minot Place' -> south). Same proposed compass_point vocabulary as from_offset_direction"
+    },
+    "location_detail": {
+      "description": "Segment or position qualifier that cannot be decomposed into the structured columns (e.g. Nevada Street's 'to a point 190 feet southerly'); never invented, never duplicated from structured columns",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "description": "Verbatim source clause, whitespace-collapsed; for grouped sub-entries, prefixed with the parent street header (and side sub-header, if any) in document order; wrapped fragments rejoined",
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": [
+    "source_text"
+  ]
+}

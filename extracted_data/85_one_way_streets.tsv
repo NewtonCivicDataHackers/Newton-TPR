@@ -1,0 +1,111 @@
+street	roadway	direction	from_point	from_offset_feet	from_offset_direction	to_point	to_offset_feet	to_offset_direction	length_feet	exception	location_detail	notes	source_text
+Acacia Avenue			Beacon Street			Lee Road							Acacia Avenue, from Beacon Street to Lee Road.
+Albemarle Road	Southern roadway		Eddy Street			Brookside Avenue							Albemarle Road: (1) Southern roadway, from Eddy Street to Brookside Avenue.
+Albemarle Road	Eastern roadway		Watertown Street			Crafts Street							Albemarle Road: (2) Eastern roadway, from Watertown Street to Crafts Street.
+Albemarle Road	Western and northern roadway		North Street			Eddy Street							Albemarle Road: (3) Western and northern roadway, from North Street to Eddy Street.
+Arlington Street			Waverley Avenue			Park Street							Arlington Street, from Waverley Avenue to Park Street.
+Ash Street			Auburn Street			Commonwealth Avenue							Ash Street, from Auburn Street to Commonwealth Avenue.
+Bacon Street			Washington Street			Pearl Street							Bacon Street, from Washington Street to Pearl Street.
+Baldpate Hill Road		northeastbound	Brookline Street	450	west				50		on the southwest leg	source repeats '50 feet' and states 'one way' redundantly; 'north eastbound' split in source	Baldpate Hill Road, from a point 450 feet west of Brookline Street continuing 50 feet on the southwest leg, one way, north eastbound, 50 feet.
+Baldwin Street		southbound	Elmwood Street			Vernon Street							Baldwin Street, from Elmwood Street southerly to Vernon Street.
+Bowen Street		westbound	Centre Street			Homer Street							Bowen Street, from Centre Street westerly to Homer Street.
+Braeland Avenue		westbound	Langley Road			Herrick Road							Braeland Avenue, from Langley Road westerly to Herrick Road.
+Bridges Avenue			Norwood Avenue			Cabot Street							Bridges Avenue, from Norwood Avenue to Cabot Street.
+Brookside Avenue			Albemarle Road			Watertown Street							Brookside Avenue, from Albemarle Road to Watertown Street.
+Cabot School Bridges-to-Parkview Connector Roadway			Bridges Avenue			Parkview Avenue							Cabot School Bridges-to-Parkview Connector Roadway, from Bridges Avenue to Parkview Avenue.
+Carleton Street			Pearl Street			Centre Street							Carleton Street, from Pearl Street to Centre Street.
+Centre Avenue		eastbound	Massachusetts Turnpike ramp			Centre Street							Centre Avenue, from the Massachusetts Turnpike ramp easterly to Centre Street.
+Centre Green		southbound	Lyman Street			Langley Road							Centre Green, from Lyman Street southerly to Langley Road.
+Centre Street			Langley Road			Lyman Street					on that part of Centre Street known as Centre Green		Centre Street: (1) from Langley Road to Lyman Street on that part of Centre Street known as Centre Green.
+Centre Street		eastbound	Centre Avenue			Washington Street							Centre Street: (2) from Centre Avenue easterly to Washington Street.
+Channing Street			Washington Street			Pearl Street							Channing Street, from Washington Street to Pearl Street.
+Charlesbank Road		westbound	St. James Street			Centre Street							Charlesbank Road, westerly from St. James Street to Centre Street.
+Chestnut Terrace			Marshall Street			Commonwealth Avenue							Chestnut Terrace, from Marshall Street to Commonwealth Avenue.
+College Road			Hammond Street			Beacon Street							College Road: (1) from Hammond Street to Beacon Street.
+College Road			Hammond Street			Commonwealth Avenue							College Road: (2) from Hammond Street to Commonwealth Avenue.
+Collins Road		northbound	Collins Road/Collins Road intersection			Beacon Street						self-intersection as written in source	Collins Road, northbound, from the Collins Road/Collins Road intersection to Beacon Street.
+Columbia Avenue			Winchester Street			Kenneth Street				non-motorized vehicles			Columbia Avenue, from Winchester Street to Kenneth Street, except non-motorized vehicles.
+Commonwealth Avenue	North Drive	westbound	Boston line						215				Commonwealth Avenue: (1) North Drive from the Boston line two hundred fifteen (215) feet westerly.
+Commonwealth Avenue	North Drive	westbound	Boston line	215	west	Mt. Alvernia Road							Commonwealth Avenue: (2) North Drive, from a point 215 ft west of the Boston line westerly to Mt. Alvernia Road.
+Commonwealth Avenue	North Drive	westbound	Mt. Alvernia Road			Bullough Park				non-motorized vehicles			Commonwealth Avenue: (3) North Drive, from Mt. Alvernia Road westerly to Bullough Park, except non-motorized vehicles.
+Commonwealth Avenue	crossover		main portion of Commonwealth Avenue (south drive)			Commonwealth Avenue Carriage Lane (north drive)					opposite Water Street	from/to assigned by the 'from'/'to' words, not text order	Commonwealth Avenue: (4) Crossing over to Commonwealth Avenue Carriage Lane (north drive) from the main portion of Commonwealth Avenue (south drive), opposite Water Street.
+Commonwealth Avenue	North Drive	westbound	Beaumont Avenue			Windermere Road	165	east		non-motorized vehicles			Commonwealth Avenue: (5) North Drive, from Beaumont Avenue westerly to a point 165 feet east of Windermere Road, except non-motorized vehicles.
+Commonwealth Avenue	North Drive	westbound	Windermere Road			Robinhood Street				non-motorized vehicles			Commonwealth Avenue: (6) North Drive, from Windermere Road westerly to Robinhood Street, except non-motorized vehicles.
+Commonwealth Avenue	North Drive	westbound	Rowe Street			Ash Street				non-motorized vehicles			Commonwealth Avenue: (7) North Drive, from Rowe Street westerly to Ash Street, except non-motorized vehicles.
+Commonwealth Avenue	North Drive	eastbound	Islington Road			Ash Street				non-motorized vehicles			Commonwealth Avenue: (8) North Drive, from Islington Road easterly to Ash Street, except non-motorized vehicles.
+Commonwealth Avenue	North Drive	westbound	Islington Road			Woodbine Street				non-motorized vehicles			Commonwealth Avenue: (9) North Drive, from Islington Road westerly to Woodbine Street, except non-motorized vehicles.
+Commonwealth Avenue	North Drive		Woodbine Street			west end of the median strip near the Weston line							Commonwealth Avenue: (10) North Drive, from Woodbine Street to the west end of the median strip near the Weston line.
+Commonwealth Avenue	South Drive	eastbound	Windermere Street	100	southeast	Day Street							Commonwealth Avenue: (11) South Drive from a point one hundred (100) feet southeast of Windermere Street easterly to Day Street.
+Commonwealth Avenue	South Drive	eastbound	Boston line	187.5	west	Boston line							Commonwealth Avenue: (12) South Drive, from a point one hundred eighty-seven and five-tenths (187.5) feet west of the Boston line, easterly to the Boston line.
+Commonwealth Avenue	crossover		Commonwealth Avenue Carriage Lane (north drive)			main portion of Commonwealth Avenue (south drive)					at Rowe Street west intersection		Commonwealth Avenue: (13) Crossing over the Commonwealth Avenue Carriage Lane (north drive) to the main portion of Commonwealth Avenue (south drive), at Rowe Street west intersection.
+Commonwealth Avenue	South Drive	eastbound	near Auburn Street			Woodbine Street							Commonwealth Avenue: (14) South Drive, from near Auburn Street easterly to Woodbine Street.
+Court Street			Central Avenue			No. 22						'No. 22' is a street number on Court Street	Court Street, from Central Avenue to No. 22.
+Crescent Avenue			Centre Street			Norwood Avenue							Crescent Avenue, from Centre Street to Norwood Avenue.
+Crescent Square		southwestbound,southeastbound	Thornton Street			Waban Street							Crescent Square, from Thornton Street southwesterly and southeasterly to Waban Street.
+Crescent Street			Webster Street			Rowe Street Extension							Crescent Street, from Webster Street to Rowe Street Extension.
+David Road		westbound	Parker Street			Theodore Road							David Road, from Parker Street westerly to Theodore Road.
+Devon Street		northbound	Brookline border			Middlesex Road							Devon Street, from Brookline border northerly to Middlesex Road.
+Dolphin Road			Mandalay Road			Fellsmere Road							Dolphin Road, from Mandalay Road to Fellsmere Road.
+Eldredge Street		southbound	Elmwood Street			Vernon Street							Eldredge Street, from Elmwood Street southerly to Vernon Street.
+Ellison Road		southbound	Bothfeld Road			Fenno Road							Ellison Road, from Bothfeld Road southerly to Fenno Road.
+Elm Road			Lowell Avenue			end of the public way portion							Elm Road, from Lowell Avenue to the end of the public way portion.
+Erie Avenue		westbound	Bowdoin Street			Woodward Street							Erie Avenue, from Bowdoin Street westerly to Woodward Street.
+Faxon Street			California Street			Jasset Street							Faxon Street, from California Street to Jasset Street.
+Fellsmere Road			Dolphin Street			Mandalay Road							Fellsmere Road, from Dolphin Street to Mandalay Road.
+Floral Street		westbound	Walnut Street			Boylston Street							Floral Street, from Walnut Street westerly to Boylston Street.
+Foster Street		westbound	Walnut Street			Lowell Avenue							Foster Street, from Walnut Street westerly to Lowell Avenue.
+Furber Lane		northbound	Homer Street			Commonwealth Avenue							Furber Lane, from Homer Street northerly to Commonwealth Avenue.
+Gibbs Street			Centre Street			Summer Street							Gibbs Street, from Centre Street to Summer Street.
+Grafton Street			Centre Street			Commonwealth Avenue							Grafton Street: (1) from Centre Street to Commonwealth Avenue.
+Grafton Street	north fork	westbound				Homer Street					at triangle	no start point stated	Grafton Street: (2) on north fork at triangle westerly to Homer Street.
+Great Meadow Road		eastbound	Hagen Road			Brandeis Road							Great Meadow Road, from Hagen Road easterly to Brandeis Road.
+Green Street			West Street			Chapel Street							Green Street, from West Street to Chapel Street.
+Grove Street			Washington Street			Colgate Road							Grove Street, from Washington Street to Colgate Road.
+Hagen Road		westbound	Olde Field Road			Sheldon Road				non-motorized vehicles			Hagen Road, from Olde Field Road westerly to Sheldon Road, except non-motorized vehicles.
+Hagen Road		westbound	Sheldon Road			Great Meadow Road							Hagen Road, from Sheldon Road westerly to Great Meadow Road.
+Hammond Street			Priscilla Road			College Road							Hammond Street, from Priscilla Road to College Road.
+Heatherland Road			Winchester Street			Upland Avenue				non-motorized vehicles			Heatherland Road, from Winchester Street to Upland Avenue, except non-motorized vehicles.
+Herrick Road		southeastbound	Beacon Street			Union Street							Herrick Road, from Beacon Street southeasterly to Union Street.
+Hobart Road			Commonwealth Avenue			Beacon Street							Hobart Road, from Commonwealth Avenue to Beacon Street.
+Hull Street		westbound											Hull Street, westerly.
+Irving Street			Commonwealth Avenue North Drive			Ward Street							Irving Street, from Commonwealth Avenue North Drive to Ward Street.
+Jasset Street			Faxon Street			California Street							Jasset Street, from Faxon Street to California Street.
+Jefferson Street			Centre Street	205	east	Williams Street							Jefferson Street, from a point 205 feet east of Centre Street to Williams Street.
+Jewett Street			Washington Street			Pearl Street							Jewett Street, from Washington Street to Pearl Street.
+Langley Road			Centre Street			Sumner Street							Langley Road, from Centre Street to Sumner Street.
+Melrose Avenue			Lexington Street			Melrose Street							Melrose Avenue, from Lexington Street to Melrose Street.
+Murphy Court		westbound	Adams Street			Hawthorn Street							Murphy Court, from Adams Street westerly to Hawthorn Street.
+Neshobe Road			Samoset Road			Washington Street							Neshobe Road, from Samoset Road to Washington Street.
+Nonantum Street			Shornecliffe Road			Waverley Avenue							Nonantum Street, from Shornecliffe Road to Waverley Avenue.
+Page Road		westbound	Lowell Avenue			Walker Street							Page Road: (1) from Lowell Avenue westerly to Walker Street.
+Page Road		eastbound	Lowell Avenue			Walnut Street							Page Road: (2) from Lowell Avenue easterly to Walnut Street.
+Park Place			Cabot Street			Washington Park							Park Place, from Cabot Street to Washington Park.
+Park Street	east roadway		Franklin Street			Church Street					at Kenrick Park		Park Street: (1) east roadway at Kenrick Park from Franklin Street to Church Street.
+Park Street	west roadway		Church Street			Franklin Street					at Kenrick Park		Park Street: (2) west roadway at Kenrick Park from Church Street to Franklin Street.
+Park Street			Church Street			Vernon Street							Park Street: (3) from Church Street to Vernon Street.
+Pelham Street			Centre Street			Crescent Avenue							Pelham Street, from Centre Street to Crescent Avenue.
+Pleasant Street			Crescent Avenue			Centre Street							Pleasant Street, from Crescent Avenue to Centre Street.
+Reservoir Avenue			Hammond Street			Beacon Street							Reservoir Avenue, from Hammond Street to Beacon Street.
+Roslyn Road		southeastbound	Gammons Road			Beacon Street							Roslyn Road, from Gammons Road southeasterly to Beacon Street.
+Short Street			Chestnut Street			Beacon Street							Short Street, from Chestnut Street to Beacon Street.
+Station Avenue			Walnut Street			Lake Avenue							Station Avenue, from Walnut Street to Lake Avenue.
+Stein Circle	loop portion	counterclockwise											Stein Circle, loop portion, counterclockwise direction.
+Sumner Street			Ward Street			Commonwealth Avenue							Sumner Street: (1) from Ward Street to Commonwealth Avenue.
+Sumner Street			Beacon Street			Willow Street							Sumner Street: (2) from Beacon Street to Willow Street.
+Sumner Street			Willow Street	50	north	Willow Street							Sumner Street: (3) from a point 50 feet north of Willow Street, to Willow Street.
+Union Street		eastbound	Herrick Road			Beacon Street							Union Street, from Herrick Road easterly to Beacon Street.
+Vernon Street			Baldwin Street			Centre Street	325	east					Vernon Street: (1) from Baldwin Street to a point 325 feet east of Centre Street.
+Vernon Street			Park Street			Waverley Avenue							Vernon Street: (2) from Park Street to Waverley Avenue.
+Waban Avenue		southbound	Beacon Street			Collins Road							Waban Avenue, southbound, from Beacon Street to Collins Road.
+Waban Park	loop portion	counterclockwise											Waban Park, loop portion, counterclockwise direction.
+Walnut Park	loop portion	counterclockwise											Walnut Park, loop portion, counterclockwise direction.
+Ward Street			Hammond Street			Manet Road							Ward Street, from Hammond Street to Manet Road.
+Warren Avenue			Webster Street			River Street					Ward 3		Warren Avenue, from Webster Street to River Street, Ward 3.
+Warren Street		westbound	Glen Avenue			Langley Road							Warren Street, from Glen Avenue westerly to Langley Road.
+Washington Park	North Drive		Harvard Street			Park Place							Washington Park: (1) North Drive from Harvard Street to Park Place.
+Washington Park	South Drive		Park Place			Harvard Street							Washington Park: (2) South Drive from Park Place to Harvard Street.
+Washington Street			Centre Street			westerly end of the loop at Newton Corner							Washington Street: (1) from Centre Street to the westerly end of the loop at Newton Corner.
+Washington Street		northbound	Centre Street	100	south	Centre Street							Washington Street: (2) northerly from a point 100 feet south of Centre Street to Centre Street.
+Washington Street		northbound	Centre Street			Charlesbank Road					bridge over Turnpike		Washington Street: (3) northerly from Centre Street to Charlesbank Road (bridge over Turnpike).
+Washington Street		westbound	Elm Street			Simms Court							Washington Street: (4) from Elm Street westerly to Simms Court.
+Washington Street		eastbound	Perkins Street			opposite Elm Street							Washington Street: (5) from Perkins Street easterly to opposite Elm Street.

@@ -1,0 +1,55 @@
+{
+  "title": "Left turn prohibitions (Sec. TPR-87)",
+  "columns": ["street", "direction", "cross_street", "cross_street_direction", "destination", "days", "times", "schedule_detail", "exceptions", "location_detail", "notes", "source_text"],
+  "fields": {
+    "street": {
+      "description": "Street or way the turning traffic is on; may be a named driveway or parking-lot way (e.g. 'Peirce Elementary School Parking Lot', 'Williams School driveway')",
+      "required": true
+    },
+    "direction": {
+      "description": "Approach direction of travel on `street`; empty when the source states none. Normalize 'easterly'/'northerly' etc. to the vocabulary; 'for Xbound vehicles' supplies X",
+      "$ref": "common#direction"
+    },
+    "cross_street": {
+      "description": "Named street or way the prohibited left turn would enter ('onto X'), or the street at which the turn is prohibited in the restatement grammar ('at X'). Named streets/ways only — driveways and parking facilities go in `destination`. Carriageway designations stay intact (e.g. 'Commonwealth Avenue, North Drive')",
+      "required": false
+    },
+    "cross_street_direction": {
+      "description": "Direction of travel onto the receiving street when the source states one, whether inline ('onto Watertown Street eastbound') or trailing ('onto Waltham Street, eastbound.'); empty when not stated",
+      "$ref": "common#direction"
+    },
+    "destination": {
+      "description": "Non-street destination the prohibited turn would enter ('into X'): a driveway, parking area, or parking lot, as named in the source with leading article dropped (e.g. 'driveway of 1900 Commonwealth Avenue', 'Newton Centre municipal parking area'); empty when the turn target is a named street",
+      "required": false
+    },
+    "days": {
+      "description": "Days the prohibition applies; empty means at all times (or see schedule_detail)",
+      "$ref": "common#days"
+    },
+    "times": {
+      "description": "Time window(s) the prohibition applies; empty means at all times (or see schedule_detail)",
+      "$ref": "common#time_ranges"
+    },
+    "schedule_detail": {
+      "description": "Compound schedule with different times on different days, which one days+times pair cannot express. Semicolon-joined clauses of 'DAYS TIMES' using the common day tokens and 24-hour ranges. When used, days and times stay empty",
+      "required": false,
+      "pattern": "(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all)(,(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all))* ([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d(,([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d)*(; (mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all)(,(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all))* ([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d(,([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d)*)*"
+    },
+    "exceptions": {
+      "description": "Vehicles exempt from the prohibition, lowercase without parentheses (e.g. 'bicycles' from '(except bicycles)')",
+      "required": false
+    },
+    "location_detail": {
+      "description": "Positional qualifier from the source (e.g. 'opposite Elm Street', 'eastern leg', 'at the entrance to the Massachusetts Turnpike', 'at the southernmost intersection of Nahanton Street and Dedham Street')",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

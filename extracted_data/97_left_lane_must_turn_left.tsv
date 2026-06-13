@@ -1,0 +1,80 @@
+street	direction	cross_street	cross_street_direction	destination	lane_detail	location_detail	notes	source_text
+Beacon Street	eastbound,westbound	Centre Street						Beacon Street at Centre Street, eastbound and westbound.
+Beacon Street	eastbound	Angier School Driveway						Beacon Street, eastbound, at Angier School Driveway.
+Beacon Street	eastbound	Grant Avenue						Beacon Street, eastbound onto Grant Avenue.
+Beacon Street	westbound	Hammond Pond Parkway						Beacon Street, westbound onto Hammond Pond Parkway.
+Beacon Street	eastbound	Hammond Street						Beacon Street, eastbound at Hammond Street.
+Beacon Street	westbound	Hammond Street						Beacon Street, westbound at Hammond Street.
+Beacon Street	westbound	Waban Avenue						Beacon Street, westbound, at Waban Avenue.
+Boylston Street	westbound	Winchester Street	southbound					Boylston Street, westbound onto Winchester Street southbound.
+Centre Street	northbound	Beacon Street						Centre Street, northbound onto Beacon Street.
+Centre Street	northbound	Cabot Street						Centre Street, northbound onto Cabot Street.
+Centre Street	northbound	Church Street						Centre Street, northbound onto Church Street.
+Centre Street	southbound	Route 9 eastbound on-ramp						Centre Street, southbound onto the Route 9 eastbound on-ramp.
+Centre Street	southbound	Church Street						Centre Street, southbound onto Church Street.
+Centre Street	southbound	Cypress Street						Centre Street, southbound onto Cypress Street.
+Centre Street	northbound	Homer Street						Centre Street, northbound onto Homer Street.
+Cherry Street	southbound	Washington Street						Cherry Street, southbound, onto Washington Street.
+Chestnut Street	northbound	Washington Street						Chestnut Street, northbound, onto Washington Street.
+Christina Street	eastbound	Needham Street						Christina Street, eastbound onto Needham Street.
+Collins Road	northbound	Beacon Street						Collins Road, northbound, at Beacon Street.
+Commonwealth Avenue	all	Walnut Street						Commonwealth Avenue at Walnut Street, all directions.
+Commonwealth Avenue	eastbound	Grant Avenue						Commonwealth Avenue, eastbound onto Grant Avenue.
+Commonwealth Avenue	eastbound	Hammond Street						Commonwealth Avenue, eastbound onto Hammond Street.
+Commonwealth Avenue	westbound	Grant Avenue						Commonwealth Avenue, westbound onto Grant Avenue.
+Commonwealth Avenue	westbound	Wachusett Road or Hammond Street						Commonwealth Avenue, westbound onto Wachusett Road or Hammond Street.
+Commonwealth Avenue, North Drive	westbound	Washington Street						Commonwealth Avenue, North Drive, westbound onto Washington Street.
+Commonwealth Avenue, South Drive	eastbound	Lowell Avenue						Commonwealth Avenue, South Drive, eastbound, onto Lowell Avenue.
+Commonwealth Avenue, South Drive	eastbound	Washington Street						Commonwealth Avenue, South Drive, eastbound onto Washington Street.
+Crafts Street	westbound	Waltham Street						Crafts Street, westbound, onto Waltham Street.
+Dedham Street	northbound	Nahanton Street	westbound			at the southernmost intersection of Dedham Street and Nahanton Street	entry wraps across a blank line in source; rejoined	Dedham Street, northbound onto Nahanton Street westbound at the southernmost intersection of Dedham Street and Nahanton Street.
+Elm Road	eastbound	Walnut Street						Elm Road, eastbound, onto Walnut Street.
+Grant Avenue	northbound	Commonwealth Avenue						Grant Avenue, northbound onto Commonwealth Avenue.
+Grant Avenue	southbound	Commonwealth Avenue						Grant Avenue, southbound onto Commonwealth Avenue.
+Grove Street	northbound			267-287 Grove Street				Grove Street, northbound, into 267-287 Grove Street.
+Hammond Street	northbound	Commonwealth Avenue						Hammond Street, northbound onto Commonwealth Avenue.
+Hammond Street	southbound	Commonwealth Avenue						Hammond Street, southbound onto Commonwealth Avenue.
+Homer Street	northbound	Commonwealth Avenue, South Drive						Homer Street, northbound, onto Commonwealth Avenue, South Drive.
+Jackson Road	southbound	Washington Street						Jackson Road, southbound onto Washington Street.
+Langley Road	northbound	Beacon Street						Langley Road, northbound onto Beacon Street.
+Langley Road	southbound	Beacon Street and Sumner Street						Langley Road, southbound onto Beacon Street and Sumner Street.
+Lowell Avenue	southbound	Commonwealth Avenue South Drive						Lowell Avenue, southbound, onto Commonwealth Avenue South Drive.
+Nahanton Street	eastbound	Jewish Community Center Drive						Nahanton Street, eastbound onto the Jewish Community Center Drive.
+Nahanton Street	westbound	Wells Avenue						Nahanton Street, westbound onto Wells Avenue.
+Needham Street	northbound	Winchester Street			2 left lanes			Needham Street, northbound onto Winchester Street (2 left lanes).
+Needham Street	southbound	Columbia Avenue						Needham Street, southbound onto Columbia Avenue.
+Needham Street	northbound	Columbia Avenue						Needham Street, northbound onto Columbia Avenue.
+Needham Street	southbound	Charlemont Street						Needham Street, southbound onto Charlemont Street.
+Needham Street	northbound			233 Needham Street				Needham Street, northbound at 233 Needham Street.
+Needham Street	northbound	Charlemont Street						Needham Street, northbound onto Charlemont Street.
+Needham Street	southbound	Christina Street						Needham Street, southbound onto Christina Street.
+Needham Street	northbound	Oak Street						Needham Street, northbound onto Oak Street.
+Oak Street	westbound	Needham Street						Oak Street, westbound onto Needham Street.
+Walnut Street	all	Beacon Street						Walnut Street at Beacon Street, all directions.
+Walnut Street	northbound			Trio Parking Lot		between Washington St and Foster St		Walnut Street, northbound, into Trio Parking Lot (between Washington St and Foster St).
+Walnut Street	northbound	Austin Street						Walnut Street, northbound, onto Austin Street.
+Walnut Street	northbound	Elm Road						Walnut Street, northbound, onto Elm Road.
+Walnut Street	northbound	Washington Street						Walnut Street, northbound, onto Washington Street.
+Walnut Street	northbound	Watertown Street						Walnut Street, northbound onto Watertown Street.
+Walnut Street	southbound	Cabot Street						Walnut Street, southbound, onto Cabot Street.
+Walnut Street	southbound	Fenno Road and Homer Street						Walnut Street, southbound onto Fenno Road and Homer Street.
+Walnut Street	southbound	Newtonville Avenue						Walnut Street, southbound, onto Newtonville Avenue.
+Walnut Street	southbound	Washington Street						Walnut Street, southbound onto Washington Street.
+Walnut Street	southbound	Watertown Street						Walnut Street, southbound onto Watertown Street.
+Washington Street	eastbound	Concord Street						Washington Street, eastbound onto Concord Street.
+Washington Street	eastbound	Watertown Street						Washington Street, eastbound, onto Watertown Street.
+Washington Street	northbound	Washington Street			two lanes	on Washington Street Bridge over Mass. Turnpike		Washington Street, northbound two lanes on Washington Street Bridge over Mass. Turnpike, onto Washington Street.
+Washington Street	northeastbound	Washington Street				continuing onto Washington Street; opposite Elm Street		Washington Street, north-eastbound, continuing onto Washington Street (opposite Elm Street).
+Washington Street	westbound			Driveway of 2150 Washington Street				Washington Street, westbound, into Driveway of 2150 Washington Street.
+Washington Street	westbound	Beacon Street						Washington Street, westbound onto Beacon Street.
+Washington Street	westbound	Lewis Terrace						Washington Street, westbound onto Lewis Terrace.
+Washington Street	westbound	Newton-Wellesley Hospital east driveway					hyphen split artifact in source ('Newton- Wellesley'); repaired	Washington Street, westbound onto Newton- Wellesley Hospital east driveway.
+Washington Street	westbound	Newton-Wellesley Hospital west driveway						Washington Street, westbound onto Newton-Wellesley Hospital west driveway.
+Washington Street	westbound	Quinobequin Road or Wales Street						Washington Street, westbound, onto Quinobequin Road or Wales Street.
+Watertown Street	eastbound	Crafts Street						Watertown Street, eastbound onto Crafts Street.
+Watertown Street	westbound	Crafts Street						Watertown Street, westbound onto Crafts Street.
+Watertown Street	eastbound	Walnut Street						Watertown Street, eastbound onto Walnut Street.
+Watertown Street	westbound	Walnut Street						Watertown Street, westbound onto Walnut Street.
+Winchester Street	northbound	Needham Street	northbound					Winchester Street, northbound onto Needham Street northbound.
+Winchester Street	southbound	Needham Street						Winchester Street, southbound, onto Needham Street.
+Winchester and Centre Streets	northbound	Route 9 westbound on-ramp						Winchester and Centre Streets, northbound onto the Route 9 westbound on-ramp.

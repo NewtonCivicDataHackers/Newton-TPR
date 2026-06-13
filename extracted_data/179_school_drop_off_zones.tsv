@@ -1,0 +1,31 @@
+street	side	from_point	from_offset_feet	from_offset_direction	extent_direction	length_feet	to_point	to_offset_feet	to_offset_direction	location_detail	notes	source_text
+Beethoven Avenue	east	Beacon Street	275	south	south	275						Beethoven Avenue, east side, from a point 275 feet south of Beacon Street, southerly 275 feet.
+Brookline Street	north	Hartman	55	west	west	87					source omits street-type suffix for Hartman	Brookline Street: North side: a) from a point 55' west of Hartman, 87' westerly.
+Brookline Street	north	Hartman	157	west	west	140					source omits street-type suffix for Hartman	Brookline Street: North side: b) from a point 157' west of Hartman, 140' westerly.
+Brookline Street	south	Oak Hill Street	50	west	west	75						Brookline Street: South side: a) from a point 50 feet west of Oak Hill Street, 75 feet westerly.
+Cabot School Bridges-to-Parkview Connector Roadway	south											Cabot School Bridges-to-Parkview Connector Roadway, south side.
+Cypress Street	east	Jackson Street	420	north	north	165						Cypress Street, east side, from a point 420 feet north of Jackson Street, 165 feet northerly.
+Dedham Street	east	Woodcliff Road	40	south	south	120						Dedham Street: (1) East side, from a point 40 feet south of Woodcliff road, 120 feet southerly.
+Dedham Street	west	Woodcliff Road	140	north	north		Walnut Street				entry wrapped across blank line in source; rejoined	Dedham Street: (2) West side, from a point 140 feet north of Woodcliff Road, northerly to the intersection of Dedham Street and Walnut Street.
+Derby Street	north	Cherry Street	165	west	west	245						Derby Street, north side, from a point 165 feet west of Cherry Street, westerly 245 feet.
+Dolphin Road	south	Mandalay Road	566	east	east	128						Dolphin Road: (1) South side, from a point 566 feet east of Mandalay Road, easterly 128 feet.
+Dolphin Road	east	Mandalay Road	575	north			Fellsmere Road					Dolphin Road: (2) East side, from a point 575 feet north of Mandalay Road to Fellsmere Road.
+East Side Parkway	west	Winchester Road	260	south	south	180						East Side Parkway, west side, from a point 260 feet south of Winchester Road, 180 feet southerly.
+Grove Street	west	Woodland Road	300	south	south	100						Grove Street: (1) West side, from a point 300 feet south of Woodland Road, southerly 100 feet.
+Grove Street	east	Myrtle Avenue	30	south	south	90						Grove Street: (2) East side, from a point 30 feet south of Myrtle Avenue, southerly 90 feet.
+Hancock Street	east	Lasell Street	75	south			Lasell Street					Hancock Street, east side, from a point 75 feet south of Lasell Street to Lasell Street.
+Jackson Road	east	Pearl Street			north	190						Jackson Road, east side, from Pearl Street 190 feet northerly.
+Meadowbrook Road	east	Fox Hill Road	94	north	north	76						Meadowbrook Road, east side, from a point 94 feet north of Fox Hill Road, northerly 76 feet.
+Nevada Street	west	California Street	140	south						to a point 190 feet southerly	extent ambiguous: 190 feet of zone or a point 190 feet from California Street; not decomposed	Nevada Street, west side, from a point 140 feet south of California Street to a point 190 feet southerly.
+Pearl Street	north	Gardner Street	35	west			Jackson Road	40	east			Pearl Street, north side, from a point 35 feet west of Gardner Street to a point 40 feet east of Jackson Road.
+Pine Street	east	Washburn Avenue	388	north	north	62						Pine Street: (1) East side, from a point 388 feet north of Washburn Avenue, northerly 62 feet.
+Pine Street	west	Washburn Avenue	388	north	north	251						Pine Street: (2) West side, from a point 388 feet north of Washburn Avenue, northerly 251 feet.
+Pleasant Street	east	Tyler Terrace	20	north	north	230						Pleasant Street: (1) East side, from a point 20 feet north of Tyler Terrace, northerly 230 feet.
+Pleasant Street	west	Bracebridge Road	55	south	south	78						Pleasant Street: (2) West side, from a point 55 feet south of Bracebridge Road, southerly 78 feet.
+Stein Circle	north	Saw Mill Brook Parkway	366	north	west	350						Stein Circle, north side, from a point 366 feet north of Saw Mill Brook Parkway, westerly 350 feet.
+Walnut Street	west	Florence Court					Minot Place	110	south			Walnut Street, west side, from Florence Court to a point 110 feet south of Minot Place.
+Ward Street	north	West Boulevard Street	50	east	west	100						Ward Street, north side, 50 feet east of West Boulevard Street, westerly 100 feet.
+Wells Avenue	odd	the driveway of 125 Wells Avenue			north	260	the driveway of 135 Wells Avenue	20	south			Wells Avenue, odd side, from the driveway of 125 Wells Avenue, northerly 260 feet to a point 20 feet south of the driveway of 135 Wells Avenue.
+Wheeler Road	south	Meadowbrook Road	274	west	west	240						Wheeler Road (1) South side, from a point 274 feet west of Meadowbrook Road, westerly 240 feet.
+Wheeler Road	north	Meadowbrook Road	105	west	west	89						Wheeler Road (2) North side, from a point 105 feet west of Meadowbrook Road, westerly 89 feet.
+Wheeler Road	north	Sharpe Road	147	east	east	200						Wheeler Road (3) North side, from a point 147 feet east of Sharpe Road, easterly 200 feet.

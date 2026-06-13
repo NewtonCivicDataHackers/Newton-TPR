@@ -1,0 +1,91 @@
+{
+  "title": "Accessible parking space locations (Sec. TPR-200)",
+  "columns": [
+    "street",
+    "side",
+    "cross_street",
+    "offset_feet",
+    "offset_direction",
+    "to_offset_feet",
+    "length_feet",
+    "extent_direction",
+    "spaces",
+    "address_number",
+    "location_detail",
+    "notes",
+    "source_text"
+  ],
+  "fields": {
+    "street": {
+      "description": "Street the space is on \u2014 the designation header before the colon/comma, as written (including parenthetical village qualifiers like 'North Street (Newtonville)' and carriageway designations like 'Commonwealth Avenue, South Drive')",
+      "required": true
+    },
+    "side": {
+      "description": "Side of street the space is on; inline enum extends common#side with intercardinal values ('southeast side', 'northeast side' appear in this section) \u2014 see spec's Proposed common vocabulary",
+      "enum": [
+        "north",
+        "south",
+        "east",
+        "west",
+        "both",
+        "odd",
+        "even",
+        "northeast",
+        "northwest",
+        "southeast",
+        "southwest"
+      ]
+    },
+    "cross_street": {
+      "description": "Reference street or way from which offsets are measured, or the cross street of a corner entry; only named streets/ways, as written; empty for frontage and landmark-only entries",
+      "required": false
+    },
+    "offset_feet": {
+      "description": "Distance in feet from cross_street to the (start) point of the space ('220 feet from Centre Street', 'from a point 290\u2019 east of Oak Street'); feet symbol \u2019 normalizes to the bare integer",
+      "type": "integer",
+      "required": false
+    },
+    "offset_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass bearing from cross_street to the measured point(s) ('185 feet north of Watertown Street' \u2192 north); empty when the source gives none ('220 feet from Centre Street'); inline compass-point enum \u2014 see spec's Proposed common vocabulary"
+    },
+    "to_offset_feet": {
+      "description": "End-point offset in feet for two-point segments ('from a point 185 feet north of Watertown Street to a point 390 feet north of Watertown Street'); shares cross_street and offset_direction with offset_feet; empty for single-point entries",
+      "type": "integer",
+      "required": false
+    },
+    "length_feet": {
+      "description": "Stated linear extent of the space(s) in feet ('westerly 20 feet', '20 feet easterly', '20\u2019 easterly'); empty for two-point segments, point-only entries, and 'to end' extents",
+      "type": "integer",
+      "required": false
+    },
+    "extent_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass bearing the space extends from the start point ('westerly' \u2192 west, 'northerly to end' \u2192 north); same inline compass-point enum as offset_direction"
+    },
+    "spaces": {
+      "description": "Number of designated spaces when the source states one ('(6 spaces)' \u2192 6, 'Two spaces' \u2192 2, 'Three (3) accessible parking spaces' \u2192 3, 'one accessible space' \u2192 1); empty when unstated (a single space is implied but never recorded)",
+      "type": "integer",
+      "required": false
+    },
+    "address_number": {
+      "description": "House number(s) the space fronts, digits as written without the '#' ('16', '18-20', '38 or 42'); only when the address is on the same street as `street` \u2014 numbers on other streets stay in location_detail",
+      "pattern": "\\d+(-\\d+)?( or \\d+)?",
+      "required": false
+    },
+    "location_detail": {
+      "description": "Positional qualifiers that are not offsets: carriageway ('eastern roadway', 'south Drive'), landmark phrases ('opposite Auburndale Brach library', 'just to the west of the ramp'), corner designations ('NW corner'), open-ended extents ('to end'); multiple distinct qualifiers joined with '; ' in source order",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text (typos, stray characters, ambiguity flags); never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": [
+    "source_text"
+  ]
+}

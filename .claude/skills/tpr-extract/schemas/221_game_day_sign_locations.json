@@ -1,0 +1,40 @@
+{
+  "title": "Football game day temporary sign locations (Sec. TPR-221)",
+  "columns": ["street", "cross_street", "city_line", "street_2", "cross_street_2", "city_line_2", "notes", "source_text"],
+  "fields": {
+    "street": {
+      "description": "Street on which the temporary game-time sign is placed",
+      "required": true
+    },
+    "cross_street": {
+      "description": "Named street at which the sign is placed; empty when the reference point is a municipal boundary (see city_line). A row geocodes from street + cross_street or street + city_line",
+      "required": false
+    },
+    "city_line": {
+      "description": "Adjacent municipality whose Newton boundary line is the sign's reference point ('at the Boston line' -> boston); lowercase token; empty when the reference point is a named street. Proposed shared vocabulary (municipal_boundary) defined inline pending adoption into _common.json",
+      "required": false,
+      "enum": ["boston", "brookline", "needham", "waltham", "watertown", "wellesley", "weston"]
+    },
+    "street_2": {
+      "description": "Second sign location's street, used ONLY when a PDF line-wrap jams two 'STREET, at TARGET.' sign locations into one blank-line paragraph; empty otherwise. Lets one paragraph-row carry both geocodable sign locations without dropping either",
+      "required": false
+    },
+    "cross_street_2": {
+      "description": "Second merged sign location's named cross street; empty when that location's reference point is a municipal boundary (see city_line_2) or when there is no second location",
+      "required": false
+    },
+    "city_line_2": {
+      "description": "Second merged sign location's municipal boundary token (same vocabulary as city_line); empty when that location's reference point is a named street or when there is no second location",
+      "required": false,
+      "enum": ["boston", "brookline", "needham", "waltham", "watertown", "wellesley", "weston"]
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text (e.g. the PDF merge of two sign locations into one paragraph); never carries geocodable data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

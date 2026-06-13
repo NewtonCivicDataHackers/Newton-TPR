@@ -1,0 +1,78 @@
+{
+  "title": "Fire lane designations (Sec. TPR-199)",
+  "columns": [
+    "street",
+    "street_number",
+    "property_name",
+    "lane_type",
+    "side",
+    "from_point",
+    "to_point",
+    "extent_direction",
+    "length_feet",
+    "location_detail",
+    "notes",
+    "source_text"
+  ],
+  "fields": {
+    "street": {
+      "description": "Public street the fire lane is on or that the host property fronts on; always a bare street name, never with a house number",
+      "required": true
+    },
+    "street_number": {
+      "description": "House number or number range from the entry heading, digits and hyphen only (e.g. '740', '31-49'); empty for entries on public ways or properties identified only by name",
+      "required": false,
+      "pattern": "\\d+(-\\d+)?"
+    },
+    "property_name": {
+      "description": "Named property, business, or facility hosting the fire lane, verbatim as written including parentheticals (e.g. 'Crystal Lake Bathhouse Parking Lot', 'Heartland Plaza (Stop & Shop on Watertown Street)'); empty when the entry names only an address or public way",
+      "required": false
+    },
+    "lane_type": {
+      "description": "Kind of way designated: 'street' when the fire lane is the named public way itself; otherwise the facility noun from the source",
+      "required": true,
+      "enum": ["street", "driveway", "roadway", "drive aisle"]
+    },
+    "side": {
+      "description": "Side of the designated way the fire lane occupies — street side for public-way entries ('both sides'), or side of a driveway ('The east side of the driveway')",
+      "$ref": "common#side"
+    },
+    "from_point": {
+      "description": "Segment start point as stated, leading article stripped; a street name for public-way entries, possibly a non-street anchor (sidewalk, city line) for property entries",
+      "required": false
+    },
+    "to_point": {
+      "description": "Segment end point as stated, leading article stripped; empty when the extent is given as direction + length instead",
+      "required": false
+    },
+    "extent_direction": {
+      "description": "Compass bearing the segment extends from from_point, in '-erly' form; proposed common#bearing (see spec)",
+      "enum": [
+        "northerly",
+        "southerly",
+        "easterly",
+        "westerly",
+        "northeasterly",
+        "northwesterly",
+        "southeasterly",
+        "southwesterly"
+      ]
+    },
+    "length_feet": {
+      "description": "Stated segment length in feet (source marks feet with a curly apostrophe, e.g. 60’); all lengths in this section are prefixed 'approximately' — the qualifier is implied and not recorded",
+      "type": "integer"
+    },
+    "location_detail": {
+      "description": "Positional qualifier from the source, kept whole even when its object repeats a captured field (e.g. 'in front of the Marshall's Mall', 'between the marked parking areas and immediately in front of the YMCA building', 'to the left of two accessible parking spaces')",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies or interpretation flags in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

@@ -1,0 +1,990 @@
+street	direction	cross_street	offset_feet	offset_direction	offset_from	location_detail	notes	source_text
+Acacia Avenue	southbound	Lee Road						Acacia Avenue at Lee Road, southbound.
+Adams Avenue	eastbound	Cherry Street						Adams Avenue at Cherry Street, eastbound.
+Adams Avenue	eastbound,westbound	Sheridan Street						Adams Avenue at Sheridan Street, eastbound and westbound.
+Adams Street	northbound	California Street						Adams Street at California Street, northbound.
+Adams Street	northbound,southbound	Linwood Avenue						Adams Street at Linwood Avenue, northbound and southbound.
+Adeline Road	southbound	Brandeis Road						Adeline Road at Brandeis Road, southbound.
+Adeline Road	northbound	Hagen Road						Adeline Road at Hagen Road, northbound.
+Adella Avenue	westbound	Orchard Avenue						Adella Avenue at Orchard Avenue, westbound.
+Adena Road	northbound	Derby Street						Adena Road at Derby Street, northbound.
+Adena Road	southbound	Derby Street						Adena Road at Derby Street, southbound.
+Albemarle Road	eastbound	Brookside Avenue				southern roadway		Albemarle Road, southern roadway, at Brookside Avenue, eastbound.
+Albemarle Road	northbound	Crafts Street				eastern roadway		Albemarle Road, eastern roadway, at Crafts Street, northbound.
+Albemarle Road	northbound,southbound	North Street				eastern roadway		Albemarle Road, eastern roadway, at North Street, northbound and southbound.
+Albemarle Road	southbound	North Street				western roadway		Albemarle Road, western roadway, at North Street, southbound.
+Albemarle Road	southbound	Crafts Street				western roadway		Albemarle Road, western roadway, at Crafts Street, southbound.
+Albemarle Road	westbound	Eddy Street				northern roadway		Albemarle Road, northern roadway, at Eddy Street, westbound.
+Alderwood Road	westbound	Centre Street						Alderwood Road at Centre Street, westbound
+Alexander Road	northbound	Walnut Hill Road						Alexander Road at Walnut Hill Road, northbound.
+Algonquin Road	southbound	Waban Hill Road						Algonquin Road at Waban Hill Road, southbound.
+Allen Avenue	northbound	Beacon Street						Allen Avenue at Beacon Street, northbound.
+Allen Avenue	southbound	Woodward Street						Allen Avenue at Woodward Street, southbound.
+Allerton Road	eastbound,westbound	Centre Street						Allerton Road at Centre Street, eastbound and westbound.
+Allerton Road	westbound	Hyde Street						Allerton Road at Hyde Street, westbound.
+Allerton Road	southbound	Rowena Road						Allerton Road at Rowena Road, southbound.
+Allston Street	northbound,southbound	Mt. Vernon Street						Allston Street at Mt. Vernon Street, northbound and southbound.
+Amherst Road	westbound	Chestnut Street						Amherst Road at Chestnut Street, westbound.
+Andrew Street	northbound	Dedham Street						Andrew Street at Dedham Street, northbound.
+Angier Circle	westbound	Washington Street						Angier Circle at Washington Street, westbound
+Annawan Road	northbound	Waban Avenue						Annawan Road at Waban Avenue, northbound.
+Arapahoe Road	southbound	Commonwealth Avenue, North Drive						Arapahoe Road at Commonwealth Avenue, North Drive, southbound.
+Arapahoe Road	northeastbound	Greenough Street						Arapahoe Road at Greenough Street, northeastbound.
+Arlington Street	southbound	Nonantum Road						Arlington Street at Nonantum Road, southbound.
+Arlington Street	westbound	Park Street						Arlington Street at Park Street, westbound.
+Arlington Street	eastbound,westbound	Pembroke Street						Arlington Street at Pembroke Street, eastbound and westbound.
+Arlington Street	westbound	Waverley Avenue						Arlington Street at Waverley Avenue, westbound.
+Armory Street	southbound	Washington Street						Armory Street at Washington Street, southbound.
+Arnold Road	northbound,southbound	Country Club Road						Arnold Road at Country Club Road, northbound and southbound.
+Arnold Road	eastbound	Greenwood Street						Arnold Road at Greenwood Street, eastbound.
+Arnold Road	westbound	Greenwood Street						Arnold Road at Greenwood Street, westbound.
+Arnold Road	northwestbound,southeastbound	Meadowbrook Road						Arnold Road at Meadowbrook Road, northwestbound and southeastbound.
+Asheville Road	northwestbound	Crehore Drive						Asheville Road at Crehore Drive, northwestbound.
+Ashton Avenue	southbound	Homer Street						Ashton Avenue at Homer Street, southbound.
+Ashton Avenue	eastbound	Manor House Road						Ashton Avenue at Manor House Road, eastbound.
+Ashton Avenue	eastbound,westbound	Morton Street						Ashton Avenue at Morton Street, eastbound and westbound.
+Aspen Street	southbound	Washington Street						Aspen Street at Washington Street, southbound.
+Athelstane Road	southbound	Clark Street						Athelstane Road at Clark Street, southbound.
+Athelstane Road	eastbound	Parker Street						Athelstane Road at Parker Street, eastbound.
+Auburn Street	eastbound	Lexington Street						Auburn Street at Lexington Street, eastbound.
+Auburndale Avenue	eastbound	River Street						Auburndale Avenue at River Street, eastbound.
+Austin Street	westbound	Chestnut Street						Austin Street at Chestnut Street, westbound.
+Austin Street	eastbound,westbound	Lowell Avenue						Austin Street at Lowell Avenue, eastbound and westbound.
+Austin Street	eastbound	Walnut Street						Austin Street at Walnut Street, eastbound.
+Avalon Road	eastbound	Allen Avenue						Avalon Road at Allen Avenue, eastbound.
+Avalon Road	eastbound,westbound	Upland Avenue						Avalon Road at Upland Avenue, eastbound and westbound.
+Avondale Road	southbound	Commonwealth Avenue, North Drive						Avondale Road at Commonwealth Avenue, North Drive, southbound.
+Bacon Street	northbound	Pearl Street						Bacon Street at Pearl Street, northbound.
+Baldpate Hill Road	eastbound	Brookline Street						Baldpate Hill Road at Brookline Street, eastbound.
+Baldpate Hill Road	southeastbound	Dudley Road				on traffic island		Baldpate Hill Road at Dudley Road, southeastbound, on traffic island.
+Beach Street	northbound	Court Street						Beach Street at Court Street, northbound.
+Beach Street	southbound	Washington Street						Beach Street at Washington Street, southbound.
+Beaconwood Road	northbound	Beacon Street						Beaconwood Road at Beacon Street, northbound.
+Beaumont Avenue	southbound	Commonwealth Avenue, South Drive						Beaumont Avenue at Commonwealth Avenue, South Drive, southbound.
+Beethoven Avenue	southbound	Woodward Street						Beethoven Avenue at Woodward Street, southbound.
+Bellevue Street	eastbound	Centre Street						Bellevue Street at Centre Street, eastbound.
+Bellevue Street	northbound	Newtonville Avenue						Bellevue Street at Newtonville Avenue, northbound.
+Belmore Park	eastbound	Washington Street						Belmore Park at Washington Street, eastbound.
+Bencliffe Circle	southbound	Chaske Avenue						Bencliffe Circle at Chaske Avenue, southbound.
+Bennington Street	eastbound	Centre Street						Bennington Street at Centre Street, eastbound.
+Berkeley Place	westbound	Maple Street						Berkeley Place at Maple Street, westbound.
+Berkeley Street	eastbound,westbound	Prince Street						Berkeley Street and Prince Street, eastbound and westbound.
+Berkeley Street	northbound	Temple Street						Berkeley Street at Temple Street, northbound.
+Bernard Street	northbound	Christina Street						Bernard Street at Christina Street, northbound.
+Berwick Road	eastbound	Lake Avenue						Berwick Road at Lake Avenue, eastbound.
+Berwick Road	westbound	Walnut Street						Berwick Road at Walnut Street, westbound.
+Bishopsgate Road	southbound	Beacon Street						Bishopsgate Road at Beacon Street, southbound.
+Blake Street	northbound	Cabot Street						Blake Street at Cabot Street, northbound.
+Blake Street	southbound	Mill Street						Blake Street at Mill Street, southbound.
+Bonmar Circle	eastbound	Washington Street						Bonmar Circle at Washington Street, eastbound.
+Border Street	eastbound	Elm Street						Border Street at Elm Street, eastbound.
+Botsford Road	southbound	Vine Street						Botsford Road at Vine Street, southbound.
+Boulder Road	northbound,southbound	Wendall Road						Boulder Road at Wendall Road, northbound and southbound.
+Bow Road	eastbound	Cypress Street						Bow Road at Cypress Street, eastbound.
+Bowdoin Street	southbound	Erie Avenue						Bowdoin Street, southbound at Erie Avenue.
+Bowdoin Street	northbound,southbound	Forest Street						Bowdoin Street at Forest Street, northbound and southbound.
+Bowdoin Street	northbound,southbound	Lincoln Street						Bowdoin Street at Lincoln Street, northbound and southbound.
+Brackett Road (northern intersection)	eastbound,westbound	Park Avenue						Brackett Road (northern intersection) at Park Avenue, eastbound and westbound.
+Brackett Road (southern intersection)	eastbound	Park Avenue						Brackett Road (southern intersection) at Park Avenue, eastbound.
+Brackett Road	eastbound	Waverley Avenue						Brackett Road at Waverley Avenue, eastbound.
+Braeburn Road	southbound	Commonwealth Avenue, North Drive						Braeburn Road at Commonwealth Avenue, North Drive, southbound.
+Braeland Avenue	westbound	Cypress Street						Braeland Avenue at Cypress Street, westbound.
+Braeland Avenue	eastbound,westbound	Herrick Road						Braeland Avenue at Herrick Road, eastbound and westbound.
+Braeland Avenue	eastbound,westbound	Institution Avenue						Braeland Avenue at Institution Avenue, eastbound and westbound.
+Brentwood Avenue	eastbound,westbound	Garland Road						Brentwood Avenue at Garland Road, eastbound and westbound.
+Brentwood Avenue	eastbound	Greenlawn Avenue						Brentwood Avenue at Greenlawn Avenue, eastbound.
+Brentwood Avenue	westbound	Walnut Street						Brentwood Avenue at Walnut Street, westbound.
+Bridge Street	eastbound	Watertown Street						Bridge Street at Watertown Street, eastbound.
+Bridges Avenue	southbound	Cabot Street						Bridges Avenue at Cabot Street, southbound.
+Bristol Road	southbound	Commonwealth Avenue, North Drive						Bristol Road at Commonwealth Avenue, North Drive, southbound.
+Bristol Road	southbound	Commonwealth Avenue, South Drive						Bristol Road at Commonwealth Avenue, South Drive, southbound.
+Broadway	northbound,southbound	Churchill Street						Broadway at Churchill Street, northbound and southbound.
+Broadway	southeastbound	Watertown Street						Broadway at Watertown Street, southeastbound.
+Broadway	northbound	Linwood Avenue						Broadway at Linwood Avenue, northbound.
+Broken Tree Road	northbound,southbound	Old Farm Road						Broken Tree Road at Old Farm Road, northbound and southbound.
+Brooks Avenue	southbound	Washington Street						Brooks Avenue at Washington Street, southbound.
+Brookside Avenue	southbound	Washington Street						Brookside Avenue at Washington Street, southbound.
+Browning Road	eastbound	Parker Street						Browning Road at Parker Street, eastbound.
+Bullough Park	southbound	Commonwealth Avenue, South Drive						Bullough Park at Commonwealth Avenue, South Drive, southbound.
+Bullough Park	northbound	Mill Street						Bullough Park at Mill Street, northbound.
+Bunker Lane	northbound,southbound	Fairway Drive						Bunker Lane at Fairway Drive, northbound and southbound.
+Burnham Road	northbound	Valentine Street						Burnham Road at Valentine Street, northbound.
+Buswell Park	westbound	Centre Street						Buswell Park at Centre Street, westbound.
+Byfield Road	westbound	Chestnut Street						Byfield Road at Chestnut Street, westbound.
+Cabot Street	eastbound,westbound	East Side Parkway						Cabot Street at East Side Parkway, eastbound and westbound.
+Cabot Street	eastbound,westbound	Harvard Street						Cabot Street at Harvard Street, eastbound and westbound.
+California Street	southwestbound	Crafts Street						California Street at Crafts Street, southwestbound.
+Capital Street	southeastbound	Jackson Street						Capital Street at Jackson Street, southeastbound.
+Capital Street		Watertown Street						Capital Street at Watertown Street.
+Carlton Road	northbound	Beacon Street						Carlton Road at Beacon Street, northbound.
+Carlton Road	northbound,southbound	Waban Avenue						Carlton Road at Waban Avenue, northbound and southbound.
+Carleton Street	eastbound	Centre Street						Carleton Street at Centre Street, eastbound.
+Caroline Park	southeastbound	Moffat Road						Caroline Park at Moffat Road, southeastbound.
+Carthay Circle	eastbound	Walnut Street						Carthay Circle at Walnut Street, eastbound.
+Carver Street	northbound	Woodward Street						Carver Street at Woodward Street, northbound.
+Carver Street	southbound	Woodward Street						Carver Street at Woodward Street, southbound.
+Cedar Street	southbound	Commonwealth Avenue, North Drive						Cedar Street at Commonwealth Avenue, North Drive, southbound.
+Cedar Street	northbound	Commonwealth Avenue, South Drive						Cedar Street at Commonwealth Avenue, South Drive, northbound.
+Cedar Street	southbound	Commonwealth Avenue South Drive						Cedar Street at Commonwealth Avenue South Drive, southbound.
+Cedar Street	northbound	Mill Street						Cedar Street at Mill Street, northbound.
+Central Avenue	northbound	Crafts Street						Central Avenue at Crafts Street, northbound.
+Central Avenue	southbound	Washington Street						Central Avenue at Washington Street, southbound.
+Central Street	northbound	Commonwealth Avenue, South Drive						Central Street at Commonwealth Avenue, South Drive, northbound.
+Central Street	southbound	Commonwealth Avenue, South Drive						Central Street at Commonwealth Avenue, South Drive, southbound.
+Central Street	westbound	Grove Street						Central Street at Grove Street, westbound.
+Central Street	eastbound,westbound	Maple Street						Central Street at Maple Street, eastbound and westbound.
+Central Street	northeastbound,southwestbound	Woodland Road						Central Street at Woodland Road, northeastbound and southwestbound.
+Centre Street	southeastbound					at connector spur from Sargent Street; east of the traffic island		Centre Street at connector spur from Sargent Street (east of the traffic island), southeastbound.
+Centre Street	northbound	Cypress Street						Centre Street at Cypress Street, northbound.
+Channing Road	eastbound,westbound	Morseland Avenue						Channing Road at Morseland Avenue, eastbound and westbound.
+Channing Street	northbound	Pearl Street						Channing Street at Pearl Street, northbound.
+Chapel Street	northbound	California Street						Chapel Street at California Street, northbound.
+Chapel Street	northbound,southbound	Green Street						Chapel Street at Green Street, northbound and southbound.
+Chase Street	all	Herrick Road						Chase Street at Herrick Road, all directions.
+Chase Street	eastbound	Langley Road						Chase Street at Langley Road, eastbound.
+Chaske Avenue	eastbound	Melrose Street						Chaske Avenue at the intersection of Melrose Street, eastbound.
+Cherry Place	southeastbound	Cherry Street						Cherry Place at Cherry Street, southeastbound.
+Chesley Road	northbound	Everett Street						Chesley Road at Everett Street, northbound.
+Chester Street	northbound,southbound	Forest Street				Ward 5		Chester Street at Forest Street, Ward 5, northbound and southbound.
+Chesterfield Road	southbound	Commonwealth Avenue, North Drive						Chesterfield Road at Commonwealth Avenue, North Drive, southbound.
+Chesterfield Road	southbound	Commonwealth Avenue, South Drive						Chesterfield Road at Commonwealth Avenue, South Drive, southbound.
+Chestnut Hill Road	southwestbound	Hammond Street						Chestnut Hill Road at Hammond Street, southwestbound.
+Chestnut Street	northbound,southbound	Boylston Street				northbound at the eastbound ramp and southbound at the westbound ramp		Chestnut Street at Boylston Street, northbound at the eastbound ramp and southbound at the westbound ramp.
+Chestnut Street	northbound,southbound	Highland Street						Chestnut Street at Highland Street, northbound and southbound.
+Chestnut Terrace	northbound	Commonwealth Avenue, South Drive						Chestnut Terrace at Commonwealth Avenue, South Drive, northbound.
+Cheswick Road	northbound	Commonwealth Avenue, South Drive						Cheswick Road at Commonwealth Avenue, South Drive, northbound.
+Cheswick Road	southbound	Woodland Road						Cheswick Road at Woodland Road, southbound.
+Church Street	eastbound,westbound	Eldredge Street						Church Street at Eldredge Street, eastbound and westbound.
+Church Street	eastbound,westbound	Park Street						Church Street at Park Street, eastbound and westbound.
+Churchill Street	eastbound,westbound	Broadway						Churchill Street at Broadway, eastbound and westbound.
+Churchill Street	eastbound	Nevada Street						Churchill Street at Nevada Street, eastbound.
+Claflin Place	westbound	Walnut Street						Claflin Place at Walnut Street, westbound.
+Clarendon Street	southbound	Cabot Street						Clarendon Street at Cabot Street, southbound.
+Clarendon Street	northbound	Norwood Avenue						Clarendon Street at Norwood Avenue, northbound.
+Clark Street	northbound	Centre Street						Clark Street at Centre Street, northbound.
+Clark Street	southbound	Rowena Road				on the traffic island at the northwest corner of the intersection		Clark Street southbound on the traffic island at the northwest corner of the Clark Street and Rowena Road intersection.
+Clark Street	eastbound	westbound entrance ramp of Route 9						Clark Street at the westbound entrance ramp of Route 9, eastbound.
+Clements Road	westbound	Cotton Street						Clements Road at Cotton Street, westbound.
+Clements Road	eastbound	Waverley Avenue						Clements Road at Waverley Avenue, eastbound.
+Clifton Road	southwestbound	Redwood Road						Clifton Road at Redwood Road, southwestbound.
+Clifton Road	northbound	Hartman Road						Clifton Road northbound at Hartman Road.
+Clinton Street	eastbound	Adams Street						Clinton Street at Adams Street, eastbound.
+Clinton Street	westbound	Crafts Street						Clinton Street at Crafts Street, westbound.
+Clinton Street	eastbound,westbound	Hawthorn Street						Clinton Street at Hawthorn Street, eastbound and westbound.
+Cloverdale Road	northbound	Clark Street						Cloverdale Road at Clark Street, northbound.
+Cloverdale Road	northbound,westbound	Miller Road						Cloverdale Road at Miller Road, northbound and westbound.
+Cobb Place	eastbound	Dwhinda Road						Cobb Place at Dwhinda Road, eastbound.
+Cobb Place	westbound	Dwhinda Road						Cobb Place at Dwhinda Road, westbound.
+Cochituate Road	westbound	Plymouth Road						Cochituate Road at Plymouth Road, westbound.
+Colby Street	eastbound	Centre Street						Colby Street at Centre Street, eastbound.
+Colby Street	westbound	Rochester Road and Westchester Road						Colby Street at Rochester Road and Westchester Road, westbound.
+Colgate Road	westbound	Grove Street						Colgate Road at Grove Street, westbound.
+College Road	northbound	Commonwealth Avenue, South Drive						College Road at Commonwealth Avenue, South Drive, northbound.
+Collins Road	northbound	Chestnut Street						Collins Road at Chestnut Street, northbound.
+Collins Road	westbound	Devonshire Road						Collins Road at Devonshire Road, westbound.
+Collins Road	westbound	Fenwick Road						Collins Road at Fenwick Road, westbound.
+Collins Road	northbound	Waban Avenue						Collins Road at Waban Avenue, northbound.
+Columbia Avenue	eastbound	Winchester Street						Columbia Avenue at Winchester Street eastbound.
+Columbus Street	northbound,southbound	Forest Street						Columbus Street at Forest Street, northbound and southbound.
+Columbus Street	northbound	Hillside Road						Columbus Street at Hillside Road, northbound.
+Columbus Street	eastbound	Lincoln Street						Columbus Street at Lincoln Street, eastbound.
+Commonwealth Avenue, North Drive	eastbound		100	east	Irving Street			Commonwealth Avenue, North Drive at a point 100 feet east of Irving Street, eastbound.
+Commonwealth Avenue, North Drive	eastbound		165	east	Windermere Road			Commonwealth Avenue, North Drive at a point 165 feet east of Windermere Road, eastbound.
+Commonwealth Avenue, North Drive	eastbound	Auburn Street				east intersection		Commonwealth Avenue, North Drive at Auburn Street (east intersection), eastbound.
+Commonwealth Avenue, North Drive	eastbound	Beaumont Avenue						Commonwealth Avenue, North Drive at Beaumont Avenue, eastbound.
+Commonwealth Avenue, North Drive	eastbound	Bristol Road						Commonwealth Avenue, North Drive at Bristol Road, eastbound.
+Commonwealth Avenue, North Drive	westbound	Bristol Road						Commonwealth Avenue, North Drive, at Bristol Road, westbound.
+Commonwealth Avenue, North Drive	eastbound	Bullough Park						Commonwealth Avenue, North Drive at Bullough Park, eastbound.
+Commonwealth Avenue, North Drive	westbound	Bullough Park						Commonwealth Avenue, North Drive at Bullough Park, westerly.
+Commonwealth Avenue, North Drive	eastbound	Cedar Street						Commonwealth Avenue, North Drive at Cedar Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Cedar Street						Commonwealth Avenue, North Drive at Cedar Street westerly.
+Commonwealth Avenue, North Drive	eastbound	Chesterfield Road						Commonwealth Avenue, North Drive at Chesterfield Road, eastbound.
+Commonwealth Avenue, North Drive	westbound	Chesterfield Road						Commonwealth Avenue, North Drive at Chesterfield Road, westbound.
+Commonwealth Avenue, North Drive	eastbound	Chestnut Street						Commonwealth Avenue, North Drive at Chestnut Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Chestnut Street						Commonwealth Avenue, North Drive at Chestnut Street, westbound.
+Commonwealth Avenue, North Drive	southbound	Commonwealth Avenue South Drive	97	east	Centre Street			Commonwealth Avenue, North Drive at Commonwealth Avenue South Drive, 97 feet east of Centre Street, southbound.
+Commonwealth Avenue, North Drive	eastbound	Commonwealth Park						Commonwealth Avenue, North Drive at Commonwealth Park, eastbound.
+Commonwealth Avenue, North Drive	westbound	Commonwealth Park						Commonwealth Avenue, North Drive at Commonwealth Park, westerly.
+Commonwealth Avenue, North Drive	eastbound	Dartmouth Street						Commonwealth Avenue, North Drive at Dartmouth Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Dartmouth Street						Commonwealth Avenue, North Drive at Dartmouth Street, westbound.
+Commonwealth Avenue, North Drive	eastbound	Elberta Terrace						Commonwealth Avenue, North Drive at Elberta Terrace, eastbound.
+Commonwealth Avenue, North Drive	westbound	Elberta Terrace						Commonwealth Avenue, North Drive at Elberta Terrace, westbound.
+Commonwealth Avenue, North Drive	eastbound	Exeter Street						Commonwealth Avenue, North Drive at Exeter Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Exeter Street						Commonwealth Avenue, North Drive at Exeter Street, westerly.
+Commonwealth Avenue, North Drive	eastbound	Grafton Street						Commonwealth Avenue, North Drive at Grafton Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Grafton Street						Commonwealth Avenue, North Drive at Grafton Street, westbound.
+Commonwealth Avenue, North Drive	eastbound	Grant Avenue						Commonwealth Avenue, North Drive at Grant Avenue, eastbound.
+Commonwealth Avenue, North Drive	eastbound	Hammond Street						Commonwealth Avenue, North Drive at Hammond Street, eastbound.
+Commonwealth Avenue, North Drive	eastbound	Higgins Street						Commonwealth Avenue, North Drive at Higgins Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Higgins Street					source paragraph merges a second entry (at Irving Street, eastbound; missing blank line); one row per counting contract — see spec	Commonwealth Avenue, North Drive at Higgins Street, westbound. Commonwealth Avenue, North Drive at Irving Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Irving Street						Commonwealth Avenue, North Drive at Irving Street, westerly.
+Commonwealth Avenue, North Drive	eastbound	Lowell Avenue						Commonwealth Avenue, North Drive at Lowell Avenue, eastbound.
+Commonwealth Avenue, North Drive	westbound	Lowell Avenue						Commonwealth Avenue, North Drive at Lowell Avenue, westerly.
+Commonwealth Avenue, North Drive	eastbound	Manet Road						Commonwealth Avenue, North Drive at Manet Road, eastbound.
+Commonwealth Avenue, North Drive	westbound	Manet Road						Commonwealth Avenue, North Drive at Manet Road, westerly.
+Commonwealth Avenue, North Drive	eastbound	Melrose Street						Commonwealth Avenue, North Drive at Melrose Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Melrose Street						Commonwealth Avenue, North Drive at Melrose Street, westerly.
+Commonwealth Avenue, North Drive	eastbound	Morseland Avenue						Commonwealth Avenue, North Drive at Morseland Avenue, eastbound.
+Commonwealth Avenue, North Drive	westbound	Morseland Avenue						Commonwealth Avenue, North Drive at Morseland Avenue, westerly.
+Commonwealth Avenue, North Drive	eastbound	Morton Street						Commonwealth Avenue, North Drive at Morton Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Morton Street						Commonwealth Avenue, North Drive at Morton Street, westerly.
+Commonwealth Avenue, North Drive	eastbound	Mt. Alvernia Road						Commonwealth Avenue, North Drive at Mt. Alvernia Road, eastbound.
+Commonwealth Avenue, North Drive	westbound	Mt. Alvernia Road						Commonwealth Avenue, North Drive at Mt. Alvernia Road, westbound.
+Commonwealth Avenue, North Drive	eastbound	Oldham Road						Commonwealth Avenue, North Drive at Oldham Road, eastbound.
+Commonwealth Avenue, North Drive	westbound	Oldham Road						Commonwealth Avenue, North Drive at Oldham Road, westerly.
+Commonwealth Avenue, North Drive	eastbound	Pamela Court						Commonwealth Avenue, North Drive at Pamela Court, eastbound.
+Commonwealth Avenue, North Drive	westbound	Pamela Court						Commonwealth Avenue, North Drive at Pamela Court, westbound.
+Commonwealth Avenue, North Drive	eastbound	Prince Street						Commonwealth Avenue, North Drive at Prince Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Prince Street						Commonwealth Avenue, North Drive at Prince Street, westbound.
+Commonwealth Avenue, North Drive	eastbound	Robinhood Street						Commonwealth Avenue, North Drive at Robinhood Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Robinhood Street						Commonwealth Avenue, North Drive at Robinhood Street, westbound.
+Commonwealth Avenue, North Drive	eastbound	Rowe Street						Commonwealth Avenue, North Drive at Rowe Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Rowe Street						Commonwealth Avenue, North Drive at Rowe Street, westbound.
+Commonwealth Avenue, North Drive	eastbound	Sumner Street						Commonwealth Avenue, North Drive at Sumner Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Sumner Street						Commonwealth Avenue, North Drive at Sumner Street, westerly.
+Commonwealth Avenue, North Drive	eastbound	Temple Street						Commonwealth Avenue, North Drive at Temple Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Temple Street						Commonwealth Avenue, North Drive at Temple Street, westbound.
+Commonwealth Avenue, North Drive	eastbound	Valentine Street						Commonwealth Avenue, North Drive at Valentine Street, eastbound.
+Commonwealth Avenue, North Drive	westbound	Valentine Street						Commonwealth Avenue, North Drive at Valentine Street, westerly.
+Commonwealth Avenue, North Drive	eastbound	Wauwinet Road						Commonwealth Avenue, North Drive at Wauwinet Road, eastbound.
+Commonwealth Avenue, North Drive	westbound	Wauwinet Road						Commonwealth Avenue, North Drive at Wauwinet Road, westbound.
+Commonwealth Avenue, North Drive	westbound		382	west	Westbourne Road			Commonwealth Avenue, North Drive at a point 382 feet west of Westbourne Road, westerly.
+Commonwealth Avenue, North Drive	eastbound	Westbourne Road						Commonwealth Avenue, North Drive at Westbourne Road, eastbound.
+Commonwealth Avenue, North Drive	westbound	Westbourne Road						Commonwealth Avenue, North Drive at Westbourne Road, westerly.
+Commonwealth Avenue, North Drive	eastbound	Wimbledon Circle						Commonwealth Avenue, North Drive at Wimbledon Circle, eastbound.
+Commonwealth Avenue, North Drive	westbound	Wimbledon Circle						Commonwealth Avenue, North Drive at Wimbledon Circle, westbound.
+Commonwealth Avenue, North Drive	eastbound	Windermere Road						Commonwealth Avenue, North Drive at Windermere Road, eastbound.
+Commonwealth Avenue, North Drive	westbound	Windermere Road						Commonwealth Avenue, North Drive at Windermere Road, westbound.
+Commonwealth Avenue, North Drive	westbound	Woodbine Street						Commonwealth Avenue, North Drive at Woodbine Street, westbound.
+Commonwealth Avenue	northbound		253	west	Ransom Road	crossover from South Drive to North Drive		Commonwealth Avenue, northbound crossover from South Drive to North Drive, 253 feet west of Ransom Road.
+Commonwealth Park	southbound	Commonwealth Avenue, South Drive						Commonwealth Park at Commonwealth Avenue, South Drive, southbound.
+Commonwealth Park West	southbound	Commonwealth Avenue, North Drive						Commonwealth Park West at Commonwealth Avenue, North Drive, southbound.
+Converse Avenue	eastbound	Centre Street						Converse Avenue at Centre Street, eastbound.
+Cook Street	southbound	Green Street						Cook Street at Green Street, southbound.
+Cook Street	northbound	Watertown Street						Cook Street at Watertown Street, northbound.
+Coolidge Road	southbound	Ward Street						Coolidge Road at Ward Street, southbound.
+Copley Street	southbound	Washington Street						Copley Street at Washington Street, southbound.
+Corey Street	northbound	LaGrange Street						Corey Street and LaGrange Street, northbound.
+Cornell Street	eastbound,westbound	Grove Street						Cornell Street at Grove Street, eastbound and westbound.
+Cottage Street	eastbound	Elliot Street						Cottage Street at Elliot Street, eastbound.
+Cotton Street	westbound	Centre Street						Cotton Street at Centre Street, westbound.
+Cotton Street	eastbound,westbound	Park Avenue						Cotton Street at Park Avenue, eastbound and westbound.
+Country Club Road	southbound	Dedham Street						Country Club Road at Dedham Street, southbound.
+Country Club Road	northwestbound,southeastbound	Meadow Road						Country Club Road at Meadow Road, northwestbound and southeastbound.
+Country Club Road	northbound,southeastbound	Rosalie Road						Country Club Road at Rosalie Road, northbound and southeastbound.
+Countryside Road	eastbound	Dedham Street						Countryside Road at Dedham Street, eastbound.
+Court Street	southbound	Washington Street						Court Street at Washington Street, southbound.
+Crehore Drive	eastbound,westbound	Pierrepont Road					source reads 'to' where the list grammar elsewhere uses 'at'	Crehore Drive to Pierrepont Road, eastbound and westbound.
+Crescent Avenue	northbound,southbound	Beacon Street						Crescent Avenue at Beacon Street, northbound and southbound.
+Crescent Avenue	northbound,southbound	Norwood Avenue						Crescent Avenue at Norwood Avenue, northbound and southbound.
+Crescent Avenue	northbound	Pleasant Street						Crescent Avenue at Pleasant Street, northbound.
+Crescent Street	northbound	Robinhood Street						Crescent Street at Robinhood Street, northbound.
+Crofton Road	northbound,southbound	Waban Avenue (both roadways)						Crofton Road at Waban Avenue (both roadways), northbound and southbound.
+Crosby Road	northbound	Commonwealth Avenue						Crosby Road at Commonwealth Avenue, northbound.
+Crosby Road	southbound	Hammond Street						Crosby Road at Hammond Street, southbound.
+Cross Hill Road	northbound	Rosalie Road						Cross Hill Road at Rosalie Road, northbound.
+Cross Street	southbound	Washington Street						Cross Street at Washington Street, southbound.
+Curve Street	southbound	Auburn Street						Curve Street at Auburn Street, southbound.
+Cushing Street	northbound	Allerton Road						Cushing Street at Allerton Road, northbound.
+Cushing Street	southbound	Centre Street						Cushing Street at Centre Street, southbound.
+Cypress Street	southbound	Jackson Street						Cypress Street at Jackson Street, southbound.
+Cypress Street	northbound	Parker Street						Cypress Street at Parker Street, northbound.
+Dalby Street	southbound	Watertown Street						Dalby Street at Watertown Street, southbound.
+Dalton Road	northbound	Everett Street						Dalton Road at Everett Street, northbound.
+Dana Road	westbound	Parmenter Road						Dana Road at Parmenter Road, westbound.
+Daniel Street	eastbound	Jackson Street						Daniel Street at Jackson Street, eastbound.
+Daniel Street	westbound	Parker Street						Daniel Street at Parker Street, westbound.
+Dartmouth Street	southbound	Commonwealth Avenue, North Drive						Dartmouth Street at Commonwealth Avenue, North Drive, southbound.
+Dartmouth Street	northbound	Commonwealth Avenue, South Drive						Dartmouth Street at Commonwealth Avenue, South Drive, northbound.
+Dartmouth Street	southbound	Commonwealth Avenue, South Drive						Dartmouth Street at Commonwealth Avenue, South Drive, southbound.
+Dartmouth Street	northbound,southbound	Fuller Street						Dartmouth Street at Fuller Street, northbound and southbound.
+Dartmouth Street	northbound	Prince Street						Dartmouth Street at Prince Street, northbound.
+David Road	southbound	Theodore Road						David Road at Theodore Road, southbound.
+Davis Avenue	westbound	Furbush Avenue						Davis Avenue at Furbush Avenue, westbound.
+Davis Avenue	eastbound	Stoneleigh Road						Davis Avenue at Stoneleigh Road, eastbound.
+Davis Avenue	southbound	Watertown Street						Davis Avenue at Watertown Street, southbound.
+Davis Street	eastbound	Chestnut Street						Davis Street at Chestnut Street, eastbound.
+Davis Street	westbound	Highland Street						Davis Street at Highland Street, westbound.
+Day Street	northbound	Commonwealth Avenue, South Drive						Day Street at Commonwealth Avenue, South Drive, northbound.
+Day Street	eastbound	Washington Street						Day Street at Washington Street, eastbound.
+Dedham Street	eastbound,westbound	Walnut Street						Dedham Street at Walnut Street, eastbound and westbound.
+Derby Street	eastbound	Waltham Street						Derby Street at Waltham Street, eastbound.
+Devon Street	northbound	Middlesex Road						Devon Street at Middlesex Road, northbound.
+Devonshire Road	northbound	Collins Road						Devonshire Road at Collins Road, northbound.
+Dexter Road	northbound,southbound	Walnut Street						Dexter Road at Walnut Street, northbound and southbound.
+Dickerman Road	southbound	Boylston Street						Dickerman Road at Boylston Street, southbound.
+Dickerman Road	southbound,northbound	Lincoln Street						Dickerman Road at Lincoln Street, southbound and northbound.
+Dorcar Road	northbound	Vine Street						Dorcar Road at Vine Street, northbound.
+Druid Hill Road	southbound	Upland Avenue						Druid Hill Road at Upland Avenue, southbound.
+Drumlin Road	northbound	Dudley Road						Drumlin Road at Dudley Road, northbound.
+Drumlin Road	southbound	Hartman Road						Drumlin Road at Hartman Road, southbound.
+Dudley Road	northbound	Boylston Street						Dudley Road at Boylston Street, northbound.
+Dudley Road	southbound	Brookline Street						Dudley Road at Brookline Street, southbound.
+Dudley Road	northbound,southbound	Greenwood Street						Dudley Road at Greenwood Street, northbound and southbound.
+Duncklee Street	eastbound,westbound	Manchester Road						Duncklee Street at Manchester Road, eastbound and westbound.
+Duncklee Street	eastbound	Walnut Street						Duncklee Street at Walnut Street, eastbound.
+Dunstan Street	southbound	Washington Street						Dunstan Street at Washington Street, southbound.
+Dunstan Street	northbound	Watertown Street						Dunstan Street at Watertown Street, northbound.
+East Side Parkway	southbound	Cabot Street						East Side Parkway at Cabot Street, southbound.
+East Side Parkway	northbound	Newtonville Avenue						East Side Parkway at Newtonville Avenue, northbound.
+East Side Parkway	southbound		76	south	Newtonville Avenue	east side of the channelized island		East Side Parkway on the east side of the channelized island 76 feet south of Newtonville Avenue, southbound.
+Eddy Street	southbound	Washington Street						Eddy Street at Washington Street, southbound.
+Edward Road	southbound	Derby Street						Edward Road at Derby Street, southbound.
+Eldredge Street	northeastbound,southwestbound	Church Street						Eldredge Street at Church Street, northeastbound and southwestbound.
+Eldredge Street	northbound,southbound	Vernon Street						Eldredge Street at Vernon Street, northbound and southbound.
+Elgin Street	eastbound,westbound	Glen Avenue						Elgin Street at Glen Avenue, eastbound and westbound.
+Elgin Street	westbound	Langley Road						Elgin Street at Langley Road, westbound.
+Elinor Road	westbound	Walnut Street						Elinor Road at Walnut Street, westbound.
+Elinor Road	eastbound,westbound	Woodcliff Road						Elinor Road at Woodcliff Road, eastbound and westbound.
+Elliot Street	eastbound,westbound	Oak Street						Elliot Street at Oak Street, eastbound and westbound.
+Ellis Road	eastbound	Valentine Street						Ellis Road at Valentine Street, eastbound.
+Ellis Road	westbound	Wauwinet Road						Ellis Road at Wauwinet Road, westbound.
+Ellis Street	eastbound	Chestnut Street						Ellis Street at Chestnut Street, eastbound.
+Ellis Street	northbound	Route 9 eastbound ramp						Ellis Street at Route 9 eastbound ramp, northbound.
+Ellison Road	northbound	Commonwealth Avenue, South Drive						Ellison Road at Commonwealth Avenue, South Drive, northbound.
+Elm Street	northbound	River Street						Elm Street at River Street, northbound.
+Elm Street	northbound,southbound	Webster Street						Elm Street at Webster Street, northbound and southbound.
+Elmhurst Road	southbound	Washington Street						Elmhurst Road at Washington Street, southbound.
+Elmwood Street	eastbound	Park Street						Elmwood Street at Park Street, eastbound.
+Elsworth Road	westbound	Parmenter Road						Elsworth Road at Parmenter Road, westbound.
+Emerson Street	southbound	Pearl Street						Emerson Street at Pearl Street, southbound.
+Endicott Street	eastbound	Plymouth Road						Endicott Street at Plymouth Road, eastbound.
+Erie Avenue	eastbound	Hartford Street						Erie Avenue at Hartford Street, eastbound.
+Erie Avenue	westbound	Woodward Street						Erie Avenue at Woodward Street, westbound.
+Evelyn Road	northbound,southbound	Paulson Road						Evelyn Road at Paulson Road, northbound and southbound.
+Everett Street	westbound	Summer Street						Everett Street at Summer Street, westbound.
+Executive Park Drive	southbound	Washington Street						Executive Park Drive at Washington Street, southbound.
+Exeter Street	northbound	Commonwealth Avenue, South Drive						Exeter Street at Commonwealth Avenue, South Drive, northbound.
+Exeter Street	southbound	Commonwealth Avenue, South Drive						Exeter Street at Commonwealth Avenue, South Drive, southbound.
+Exeter Street	southbound	Commonwealth Avenue, North Drive						Exeter Street at Commonwealth Avenue, North Drive, southbound.
+Fair Oaks Avenue	northbound,southbound	California Street						Fair Oaks Avenue at California Street, northbound and southbound.
+Fair Oaks Avenue	westbound	Fessenden Street						Fair Oaks Avenue at Fessenden Street, westbound.
+Fairfield Street	southbound,northbound	Bolton Road						Fairfield Street at Bolton Road, southbound and northbound.
+Fairlee Road	northbound	Woodward Street						Fairlee Road at Woodward Street, northbound.
+Fairmont Avenue	eastbound	Centre Street						Fairmont Avenue at Centre Street, eastbound.
+Fairway Drive	eastbound,westbound	Bunker Lane						Fairway Drive at Bunker Lane, eastbound and westbound.
+Fairway Drive	westbound	Waltham Street						Fairway Drive at Waltham Street, westbound.
+Fairway Drive	southbound	Watertown Street						Fairway Drive at Watertown Street, southbound.
+Falmouth Road	westbound	Parmenter Road						Falmouth Road at Parmenter Road, westbound.
+Farlow Road	westbound	Waverley Avenue						Farlow Road at Waverley Avenue, westbound.
+Farwell Street	southbound	North Street				southern intersection		Farwell Street at North Street, southbound (southern intersection).
+Faxon Street	southbound	Watertown Street						Faxon Street at Watertown Street, southbound.
+Fellsmere Road	northeastbound,southwestbound	Mandalay Road						Fellsmere Road at Mandalay Road, northeastbound and southwestbound.
+Fenwick Road	eastbound	Chestnut Street						Fenwick Road at Chestnut Street, eastbound.
+Fenwick Road	northwestbound	Collins Road						Fenwick Road at Collins Road, northwestbound.
+Fern Street	eastbound	Hancock Street						Fern Street at Hancock Street, eastbound.
+Ferncroft Road	southbound	Beacon Street						Ferncroft Road at Beacon Street, southbound.
+Ferncroft Road	northbound	Paulson Road						Ferncroft Road at Paulson Road, northbound.
+Fessenden Street	southwestbound	Crafts Street						Fessenden Street at Crafts Street, southwestbound.
+Fessenden Street	northeastbound	Nevada Street						Fessenden Street at Nevada Street, northeastbound.
+Fessenden Street	southwestbound	Nevada Street						Fessenden Street at Nevada Street, southwestbound.
+Fisher Avenue	eastbound	Walnut Street						Fisher Avenue at Walnut Street, eastbound.
+Floral Street	northeastbound	Hyde Street						Floral Street at Hyde Street, northeastbound.
+Floral Street	westbound	Walnut Street						Floral Street at Walnut Street, westbound.
+Forest Avenue	northbound,southbound	Highland Street						Forest Avenue at Highland Street, northbound and southbound.
+Forest Avenue	northbound,southbound	Otis Street						Forest Avenue at Otis Street, northbound and southbound.
+Forest Avenue	northbound	Woodland Road						Forest Avenue at Woodland Road, northbound.
+Forest Street	eastbound,westbound	Chester Street						Forest Street at Chester Street, eastbound and westbound.
+Forest Street	eastbound,westbound	Columbus Street						Forest Street at Columbus Street, eastbound and westbound.
+Foster Street	eastbound,westbound	Chester Street						Foster Street at Chester Street, eastbound and westbound.
+Fountain Street	southbound,northbound	Highland Street						Fountain Street at Highland Street, southbound and northbound.
+Fountain Street	westbound	Valentine Street						Fountain Street at Valentine Street, westbound.
+Fox Lane	westbound	Arnold Road						Fox Lane at Arnold Road, westbound.
+Fox Lane	eastbound	Meadowbrook Road						Fox Lane at Meadowbrook Road, eastbound.
+Fox Place	eastbound	Arnold Road						Fox Place at Arnold Road, eastbound.
+Franklin Street	westbound	Centre Street						Franklin Street at Centre Street, westbound.
+Franklin Street	eastbound,westbound	Waverley Avenue						Franklin Street at Waverley Avenue, eastbound and westbound.
+Franklin Street	all	Park Street						Franklin Street at Park Street, all directions.
+Franklin Street	eastbound,westbound	Park Street				eastern intersection		Franklin Street at Park Street, eastbound and westbound (eastern intersection).
+Fredette Road	northwestbound	Sawmill Brook Parkway						Fredette Road at Sawmill Brook Parkway, northwestbound.
+Fredette Road	southeastbound	Spiers Road						Fredette Road at Spiers Road, southeastbound.
+Freeman Street	northbound	Staniford Street						Freeman Street at Staniford Street, northbound.
+Fuller Street	eastbound,westbound	Chestnut Street						Fuller Street at Chestnut Street, eastbound and westbound.
+Fuller Street	northbound	Commonwealth Avenue, South Drive				eastern intersection		Fuller Street at Commonwealth Avenue, South Drive, northbound (eastern intersection).
+Fuller Street	northwestbound	Commonwealth Avenue, South Drive				western intersection		Fuller Street at Commonwealth Avenue, South Drive, northwestbound (western intersection).
+Fuller Street	eastbound	Evelyn Road						Fuller Street at Evelyn Road, eastbound.
+Fuller Street	eastbound	Parmenter Road						Fuller Street at Parmenter Road, eastbound.
+Furber Lane	northbound	Commonwealth Avenue, South Drive						Furber Lane at Commonwealth Avenue, South Drive, northbound.
+Furbush Avenue	eastbound	Adella Avenue and Orchard Avenue						Furbush Avenue at Adella Avenue and Orchard Avenue, eastbound.
+Furbush Avenue	westbound	Davis Avenue and Stoneleigh Road						Furbush Avenue at Davis Avenue and Stoneleigh Road, westbound.
+Garden Road	westbound	Centre Street						Garden Road at Centre Street, westbound.
+Gardner Street	southbound	Pearl Street						Gardner Street at Pearl Street, southbound.
+Gardner Street	eastbound	School Street						Gardner Street at School Street, eastbound.
+Garland Road	northbound,southbound	Brentwood Avenue						Garland Road at Brentwood Avenue, northbound and southbound.
+Garrison Street	southbound	Commonwealth Avenue, North Drive						Garrison Street at Commonwealth Avenue, North Drive southbound.
+Garrison Street	northbound	Ward Street						Garrison Street at Ward Street, northbound.
+Gay Street	northbound	Cabot Street						Gay Street at Cabot Street, northbound.
+George Street	westbound	Centre Street						George Street at Centre Street, westbound.
+Gibbs Street	southbound	Everett Street						Gibbs Street at Everett Street, southbound.
+Gibbs Street	eastbound,westbound	Summer Street						Gibbs Street at Summer Street, eastbound and westbound.
+Gilbert Street	northbound	Auburn Street						Gilbert Street at Auburn Street, northbound.
+Gilbert Street	southwestbound	Greenough Street						Gilbert Street at Greenough Street, southwestbound.
+Glen Avenue	southbound	Langley Road						Glen Avenue at Langley Road, southbound.
+Glenwood Avenue	westbound	Parker Street						Glenwood Avenue at Parker Street, westbound.
+Goddard Street	westbound	Christina Street						Goddard Street at Christina Street, westbound.
+Goddard Street	eastbound	Winchester Street						Goddard Street at Winchester Street, eastbound.
+Gordon Road	southbound	Beacon Street						Gordon Road at Beacon Street, southbound.
+Gordon Road	westbound	Chestnut Street						Gordon Road at Chestnut Street, westbound.
+Gordon Road	northbound	Paulson Road						Gordon Road at Paulson Road, northbound.
+Grafton Street	southbound	Commonwealth Avenue, North Drive						Grafton Street at Commonwealth Avenue, North Drive, southbound.
+Grafton Street	northbound	Commonwealth Avenue, South Drive						Grafton Street at Commonwealth Avenue, South Drive, northbound.
+Grafton Street	southbound	Commonwealth Avenue South Drive						Grafton Street at Commonwealth Avenue South Drive, southbound.
+Grafton Street	westbound	Homer and Water Streets						Grafton Street at Homer and Water Streets, westbound.
+Gralynn Road	northbound,southbound	Mandalay Road						Gralynn Road at Mandalay Road, northbound and southbound.
+Grant Avenue	northbound	Ward Street						Grant Avenue at Ward Street, northbound.
+Grasmere Street	northbound,southbound	Hunnewell Avenue						Grasmere Street at Hunnewell Avenue, northbound and southbound.
+Grasmere Street	southbound	Washington Street						Grasmere Street at Washington Street, southbound.
+Graycliff Road	southbound	Beacon Street						Graycliff Road at Beacon Street, southbound.
+Great Meadow Road	southeastbound	Brandeis Road						Great Meadow Road at Brandeis Road, southeastbound.
+Green Street	northeastbound,southwestbound	Chapel Street						Green Street at Chapel Street, northeastbound and southwestbound.
+Green Street	northeastbound	Pearl Street						Green Street at Pearl Street, northeastbound.
+Greenlawn Avenue	northbound	Homer Street						Greenlawn Avenue at Homer Street, northbound.
+Greenough Street	northbound	Auburn Street						Greenough Street at Auburn Street, northbound.
+Greenough Street	southeastbound	Washington Street						Greenough Street at Washington Street, southeastbound.
+Greenwood Street	all	Country Club Road						Greenwood Street at Country Club Road, all directions.
+Greenwood Street	southbound	Dedham Street						Greenwood Street at Dedham Street, southbound.
+Greenwood Street	eastbound	Dudley Road						Greenwood Street at Dudley Road, eastbound.
+Greenwood Street	northeastbound,southwestbound	Hartman Road						Greenwood Street at Hartman Road, northeastbound and southwestbound.
+Grove Hill Avenue	southbound	Lakeview Avenue						Grove Hill Avenue at Lakeview Avenue, southbound.
+Grove Hill Avenue	northbound	Prospect Avenue						Grove Hill Avenue at Prospect Avenue, northbound.
+Grove Hill Avenue	southbound	Prospect Avenue						Grove Hill Avenue at Prospect Avenue, southbound.
+Grove Street	northbound,southbound	Hagar Street						Grove Street at Hagar Street, northbound and southbound.
+Grove Street	southbound,northbound	Woodland Road						Grove Street at Woodland Road, southbound and northbound.
+Hagar Street	southwestbound	Concord Street						Hagar Street at Concord Street, southwestbound.
+Hagar Street	eastbound	Grove Street						Hagar Street at Grove Street, eastbound.
+Hagen Road	eastbound	Adeline Road						Hagen Road at Adeline Road, eastbound.
+Hagen Road	eastbound,westbound	Olde Field Road						Hagen Road at Olde Field Road, eastbound and westbound.
+Hagen Road	westbound	Parker Street						Hagen Road at Parker Street, westbound.
+Halcyon Road	eastbound	Parker Street						Halcyon Road at Parker Street, eastbound.
+Hammond Pond Parkway	northbound	Beacon Street				from right turn lane		Hammond Pond Parkway, northbound, from right turn lane onto Beacon Street.
+Hammond Street	northbound	Middlesex Road						Hammond Street at Middlesex Road, northbound.
+Hammond Street	southbound	Middlesex Road						Hammond Street at Middlesex Road, southbound.
+Hammond Street	northbound	Suffolk Road						Hammond Street at Suffolk Road, northbound.
+Hammond Street	southbound	Suffolk Road						Hammond Street at Suffolk Road, southbound.
+Hammond Street	northbound	Ward Street						Hammond Street at Ward Street, northbound.
+Hammondswood Road	northbound	Commonwealth Avenue, South Drive						Hammondswood Road at Commonwealth Avenue, South Drive, northbound.
+Hammondswood Road	southbound,northbound	Hammond Street						Hammondswood Road at Hammond Street, southbound and northbound.
+Hammondswood Road	northbound,southbound	Monadnock Road						Hammondswood Road at Monadnock Road, northbound and southbound.
+Hampshire Street	eastbound	Valentine Street						Hampshire Street and Valentine Street, eastbound.
+Hancock Avenue	southbound	Beacon Street				easterly intersection		Hancock Avenue at Beacon Street (easterly intersection), southbound.
+Hancock Street	northwestbound,southeastbound	Woodland Road						Hancock Street at Woodland Road, northwestbound and southeastbound.
+Hancock Street	southbound	Grove Street						Hancock Street and Grove Street, southbound.
+Hanson Road	southeastbound	Saw Mill Brook Parkway						Hanson Road at Saw Mill Brook Parkway, southeastbound.
+Hanson Road	northwestbound	Wiswall Road						Hanson Road at Wiswall Road, northwestbound.
+Harrington Street	northbound	Albemarle Road						Harrington Street at Albemarle Road, northbound.
+Harrington Street	southbound	Washington Street						Harrington Street at Washington Street, southbound.
+Harris Road	westbound	Cherry Street						Harris Road at Cherry Street, westbound.
+Hartford Street	northbound	Lincoln Street						Hartford Street at Lincoln Street, northbound.
+Hartman Road	southbound	Brookline Street						Hartman Road at Brookline Street, southbound.
+Hartman Road	eastbound,westbound	Greenwood Avenue						Hartman Road at Greenwood Avenue, eastbound and westbound.
+Hartman Road	westbound	Meadowbrook Road						Hartman Road at Meadowbrook Road, westbound.
+Harvard Street	northbound,southbound	Cabot Street						Harvard Street at Cabot Street, northbound and southbound.
+Hatfield Road	eastbound,westbound	Fuller Terrace				northern intersection		Hatfield Road at Fuller Terrace, eastbound and westbound (northern intersection).
+Hawthorn Street	northbound,southbound	Clinton Street						Hawthorn Street at Clinton Street, northbound and southbound.
+Hawthorn Street	northbound	Watertown Street						Hawthorn Street at Watertown Street, northbound.
+Hawthorne Avenue	northbound	Woodland Road						Hawthorne Avenue at Woodland Road, northbound.
+Haynes Road	eastbound,westbound	Olde Field Road						Haynes Road at Olde Field Road, eastbound and westbound.
+Hazelton Road	southbound	Commonwealth Avenue, North Drive						Hazelton Road at Commonwealth Avenue, North Drive, southbound.
+Heatherland Road	eastbound,westbound	Upland Avenue						Heatherland Road at Upland Avenue, eastbound and westbound.
+Heatherland Road	westbound	Winchester Street						Heatherland Road at Winchester Street, westbound.
+Henshaw Place	westbound	Kilburn Road						Henshaw Place at Kilburn Road, westbound.
+Henshaw Street	northbound	Henshaw Street, Henshaw Place and Kilburn Road						Henshaw Street at Henshaw Street, Henshaw Place and Kilburn Road, northbound.
+Henshaw Street	eastbound	Kilburn Road						Henshaw Street at Kilburn Road, eastbound.
+Henshaw Street	southbound	River Street						Henshaw Street at River Street, southbound.
+Herrick Road	northbound,southbound	Braeland Avenue						Herrick Road at Braeland Avenue, northbound and southbound.
+Herrick Road	northbound	Union Street						Herrick Road at Union Street, northbound.
+Hibbard Road	northbound	Washington Street						Hibbard Road at Washington Street, northbound.
+Hibbard Road	southbound	Tremont Street						Hibbard Road southbound at Tremont Street.
+Higgins Street	southbound	Commonwealth Avenue, North Drive						Higgins Street at Commonwealth Avenue, North Drive, southbound.
+Higgins Street	southbound	Commonwealth Avenue, South Drive						Higgins Street at Commonwealth Avenue, South Drive, southbound.
+High Street	northbound	Boylston Street						High Street at Boylston Street, northbound.
+High Street	eastbound	Elliot Street						High Street at Elliot Street, eastbound.
+Highland Avenue	eastbound,westbound	Lowell Avenue						Highland Avenue at Lowell Avenue, eastbound and westbound.
+Highland Avenue	eastbound	Walnut Street						Highland Avenue at Walnut Street, eastbound.
+Highland Street	southeastbound,northwestbound	Chestnut Street						Highland Street at Chestnut Street, southeastbound and northwestbound.
+Highland Street	westbound	Chestnut Street				at the connector between Highland Street and Chestnut Street		Highland Street, at the connector between Highland Street and Chestnut Street, westbound, at Chestnut Street.
+Highland Street	eastbound	Lowell Avenue						Highland Street at Lowell Avenue, eastbound.
+Highland Street	westbound	Valentine Street						Highland Street at Valentine Street, westbound.
+Hillside Avenue	northbound	Austin Street						Hillside Avenue at Austin Street, northbound.
+Hillside Road	eastbound	Columbus Street						Hillside Road at Columbus Street, eastbound.
+Hillside Road	westbound	Raeburn Terrace						Hillside Road at Raeburn Terrace, westbound.
+Hillside Road	eastbound	Walnut Street						Hillside Road at Walnut Street, eastbound.
+Hobart Road	southeastbound	Beacon Street				west side of triangle at intersection		Hobart Road at Beacon Street, west side of triangle at intersection, southeastbound.
+Hobart Road	southbound	Commonwealth Avenue, North Drive						Hobart Road at Commonwealth Avenue, North Drive southbound.
+Hobart Road	northbound	Ward Street						Hobart Road at Ward Street, northbound.
+Hollis Street	westbound	Centre Street				north		Hollis Street, north, at Centre Street, westbound.
+Hollis Street	westbound	Centre Street				south		Hollis Street, south, at Centre Street, westbound.
+Homer Street	eastbound	Centre Street						Homer Street at Centre Street, eastbound.
+Homer Street	northbound	Commonwealth Avenue, South Drive				right turn lane	direction stated twice in source	Homer Street, northbound, right turn lane at Commonwealth Avenue, South Drive, northbound.
+Hood Street	northbound	Nonantum Street						Hood Street at Nonantum Street, northbound.
+Hope Street	westbound	Washington Street						Hope Street at Washington Street, westbound.
+Hovey Street	northbound	Waban Street						Hovey Street at Waban Street, northbound.
+Hovey Street	southbound	Washington Street						Hovey Street at Washington Street, southbound.
+Howe Road	westbound	Parker Street						Howe Road at Parker Street, westbound.
+Howley Avenue	eastbound	Parker Street						Howley Avenue at Parker Street, eastbound.
+Hull Street	westbound	Lowell Avenue						Hull Street at Lowell Avenue, westbound.
+Hunnewell Avenue	southbound	Washington Street						Hunnewell Avenue at Washington Street, southbound.
+Hunnewell Circle	southbound	Washington Street						Hunnewell Circle at Washington Street, southbound.
+Huntington Road	westbound	Chamberlain Road						Huntington Road at Chamberlain Road, westbound.
+Huntington Road	westbound	Farlow Road						Huntington Road at Farlow Road, westbound.
+Hyde Avenue	westbound	Centre Street						Hyde Avenue at Centre Street, westbound.
+Hyde Street	southeastbound	Centre Street						Hyde Street at Centre Street, southeastbound.
+Hyde Street	northbound,southbound	Lake Avenue						Hyde Street at Lake Avenue, northbound and southbound.
+Hyde Street	westbound	Walnut Street						Hyde Street at Walnut Street, westbound.
+I-95 North	northwestbound	Washington Street				exit 21; dedicated left turn lane		I-95 North, exit 21, dedicated left turn lane at Washington Street, northwestbound.
+Intervale Road	eastbound,westbound	Hobart Road						Intervale Road at Hobart Road, eastbound and westbound.
+Irving Street	southbound	Commonwealth Avenue, South Drive						Irving Street at Commonwealth Avenue, South Drive southbound.
+Irvington Street	northbound	Beacon Street						Irvington Street at Beacon Street, northbound.
+Islington Road	southbound	Commonwealth Avenue, South Drive						Islington Road at Commonwealth Avenue, South Drive, southbound.
+Islington Road	southbound	Commonwealth Avenue, North Drive						Islington Road at Commonwealth Avenue, North Drive, southbound.
+Jacobs Terrace	southbound	Hartman Road					source paragraph merges a second entry (Jackson Street at Langley Road, eastbound and westbound); one row per counting contract — see spec	Jacobs Terrace at Hartman Road, southbound. Jackson Street at Langley Road, eastbound and westbound.
+James Street	southbound	River Street						James Street at River Street, southbound.
+Jasset Street	northbound	California Street						Jasset Street at California Street, northbound.
+Jefferson Street	northbound	Maple Street						Jefferson Street at Maple Street, northbound.
+Jewett Street	northbound,southbound	Boyd Street						Jewett Street at Boyd Street, northbound and southbound.
+Jewett Street	northbound,southbound	Gardner Street						Jewett Street at Gardner Street, northbound and southbound.
+Jewett Street	northbound,southbound	Pearl Street						Jewett Street at Pearl Street, northbound and southbound.
+Jewett Street	northbound	Waban Park						Jewett Street at Waban Park, northbound.
+John F. Kennedy Circle		Green Street				east end		John F. Kennedy Circle at Green Street, east end.
+John F. Kennedy Circle		Green Street				west end		John F. Kennedy Circle at Green Street, west end.
+Judith Road	westbound	Walnut Street						Judith Road at Walnut Street, westbound.
+June Lane	southbound	Spiers Road				Ward 8		June Lane at Spiers Road, Ward 8, southbound.
+Kendall Road	eastbound	Parker Street						Kendall Road at Parker Street, eastbound.
+Kendall Road	westbound	Walnut Hill Road						Kendall Road at Walnut Hill Road, westbound.
+Kenmore Street	eastbound	Lake Avenue						Kenmore Street at Lake Avenue, eastbound.
+Kenrick Terrace	southbound	Kenrick Street						Kenrick Terrace at Kenrick Street, southbound.
+Kenwood Avenue	northbound	Commonwealth Avenue, South Drive						Kenwood Avenue at Commonwealth Avenue, South Drive, northbound.
+Kilburn Road	southbound	Henshaw Street and Henshaw Place						Kilburn Road at Henshaw Street and Henshaw Place, southbound.
+Kingman Road	westbound	Manchester Road						Kingman Road at Manchester Road, westbound.
+Kirkstall Road	westbound	Walnut Street						Kirkstall Road at Walnut Street, westbound.
+Lake Avenue	northbound,southbound	Beacon Street						Lake Avenue at Beacon Street, northbound and southbound.
+Lake Avenue	eastbound,westbound	Hyde Street						Lake Avenue at Hyde Street, eastbound and westbound.
+Lake Avenue	northbound	Pleasant Street						Lake Avenue at Pleasant Street, northbound.
+Lake Avenue	northbound,southbound	Rogers Street						Lake Avenue at Rogers Street, northbound and southbound.
+Lake Avenue	northbound	Woodland Road						Lake Avenue at Woodland Road, northbound.
+Lakewood Road	eastbound,westbound	Walnut Street						Lakewood Road at Walnut Street, eastbound and westbound.
+Lakewood Road	eastbound	Lake Avenue						Lakewood Road eastbound at Lake Avenue.
+Lancaster Road	eastbound	Cotton Street						Lancaster Road at Cotton Street, eastbound.
+Langdon Street	northbound	Bellevue Street						Langdon Street at Bellevue Street, northbound.
+Langdon Street	northbound,southbound	Cabot Street						Langdon Street at Cabot Street, northbound and southbound.
+Laurel Street	northbound	Beacon Street						Laurel Street at Beacon Street, northbound.
+Lasell Street	westbound	Hancock Street						Lasell Street at Hancock Street, westbound.
+Lawmarissa Road	northbound,southbound	Fredana Road and Oakvale Road						Lawmarissa Road at Fredana Road and Oakvale Road, northbound and southbound.
+Lawmarissa Road	northbound	Moffat Road						Lawmarissa Road at Moffat Road, northbound.
+Lawrence Avenue	northbound	Beacon Street						Lawrence Avenue at Beacon Street, northbound.
+Lawrence Road	northbound	Hammond Street						Lawrence Road at Hammond Street, northbound.
+Lee Road	eastbound	Reservoir Avenue						Lee Road at Reservoir Avenue, eastbound.
+Leighton Road	eastbound	Williston Road						Leighton Road at Williston Road, eastbound.
+Lenglen Road	southbound	Washington Street						Lenglen Road at Washington Street, southbound.
+Lenox Street	northbound,southbound	Highland Street						Lenox Street at Highland Street, northbound and southbound.
+Lenox Street	southbound	Sylvan Avenue						Lenox Street at Sylvan Avenue, southbound.
+Leslie Road	eastbound	Day Street						Leslie Road and Day Street, eastbound.
+Leslie Road	westbound	Washington Street						Leslie Road at Washington Street, westbound.
+Lewis Street	northbound	Newtonville Avenue						Lewis Street at Newtonville Avenue, northbound.
+Lewis Terrace	northbound	Newtonville Avenue				east side of triangle		Lewis Terrace at Newtonville Avenue, northbound, east side of triangle.
+Lewis Terrace	southbound	Newtonville Avenue						Lewis Terrace at Newtonville Avenue, southbound.
+Lincoln Road	eastbound	Adams Street						Lincoln Road at Adams Street, eastbound.
+Lincoln Road	southwestbound	Crafts Street						Lincoln Road at Crafts Street, southwestbound.
+Lincoln Street	eastbound,westbound	Woodward Street						Lincoln Street at Woodward Street, eastbound and westbound.
+Linwood Avenue	eastbound,westbound	Adams Street						Linwood Avenue at Adams Street, eastbound and westbound.
+Linwood Avenue	eastbound,westbound	Nevada Street						Linwood Avenue at Nevada Street, eastbound and westbound.
+Linwood Avenue	eastbound,westbound	Walnut Street						Linwood Avenue at Walnut Street, eastbound and westbound.
+Linwood Avenue	southbound	Watertown Street						Linwood Avenue at Watertown Street, southbound.
+Lion Drive	southbound	Greenwood Street						Lion Drive at Greenwood Street, southbound.
+Littlefield Road	southbound	Greenwood Street						Littlefield Road at Greenwood Street, southbound.
+Locksley Road	southeastbound	Hereward Road						Locksley Road at Hereward Road, southeastbound.
+Lombard Street	eastbound	Centre Street						Lombard Street at Centre Street, eastbound.
+Longfellow Road	westbound	Washington Street						Longfellow Road at Washington Street, westbound.
+Long Meadow Road	northbound	Old Farm Road						Long Meadow Road at Old Farm Road, northbound.
+Los Angeles Street	northbound	California Street						Los Angeles Street at California Street, northbound.
+Los Angeles Street	southbound	California Street						Los Angeles Street at California Street, southbound.
+Louise Road	northbound	Florence Street						Louise Road at Florence Street, northbound.
+Lowell Avenue	northbound,southbound	Walnut Street						Lowell Avenue at Walnut Street, northbound and southbound.
+Lyman Street	eastbound	Summer Street						Lyman Street at Summer Street, eastbound.
+Madison Avenue	westbound	Walnut Street						Madison Avenue at Walnut Street, westbound.
+Mandalay Road	northwestbound,southeastbound	Fellsmere Road						Mandalay Road at Fellsmere Road, northwestbound and southeastbound.
+Mandalay Road	eastbound,westbound	Gralynn Road						Mandalay Road at Gralynn Road, eastbound and westbound.
+Mandalay Road	westbound	Waverley Avenue						Mandalay Road at Waverley Avenue, westbound.
+Mandalay Road	eastbound	Woodchester Road						Mandalay Road at Woodchester Road, eastbound.
+Manemet Road	northbound	Commonwealth Avenue, South Drive						Manemet Road at Commonwealth Avenue, South Drive, northbound.
+Manet Road	northbound	Commonwealth Avenue						Manet Road at Commonwealth Avenue, northbound.
+Manet Road	southbound	Commonwealth Avenue						Manet Road at Commonwealth Avenue, southbound.
+Manet Road	southbound	Commonwealth Avenue, North Drive						Manet Road at Commonwealth Avenue, North Drive, southbound.
+Manitoba Road	southbound	Nehoiden Road						Manitoba Road at Nehoiden Road, southbound.
+Maple Street	southbound,northbound	Central Street						Maple Street at Central Street, southbound and northbound.
+Maple Street	eastbound	Nonantum Road						Maple Street at Nonantum Road, eastbound.
+Maple Street	southbound	Woodland Road						Maple Street at Woodland Road, southbound.
+Marcellus Drive	eastbound	Parker Street						Marcellus Drive at Parker Street, eastbound.
+Marlboro Street	northbound,southbound	Arlington Street						Marlboro Street at Arlington Street, northbound and southbound.
+Marriott Hotel Driveway	southbound	Commonwealth Avenue North Drive						Marriott Hotel Driveway at Commonwealth Avenue North Drive, southerly.
+Marriott Hotel Driveway	southbound	Commonwealth Avenue, South Drive						Marriott Hotel Driveway at Commonwealth Avenue, South Drive, southbound.
+Marshall Street	westbound	Sumner Street						Marshall Street, westbound, at Sumner Street.
+Marshfield Road	northwestbound	Jackson Street						Marshfield Road at Jackson Street, northwestbound.
+Mary Mount Road	eastbound	Washington Street						Mary Mount Road at Washington Street, eastbound.
+Mason Road	eastbound	Commonwealth Avenue, South Drive						Mason Road at Commonwealth Avenue, South Drive, eastbound.
+Maynard Street	westbound	Morrill Street						Maynard Street westbound at Morrill Street.
+McCarthy Road	southeastbound	Saw Mill Brook Parkway						McCarthy Road at Saw Mill Brook Parkway, southeastbound.
+McCarthy Road	northwestbound	Wiswall Road						McCarthy Road at Wiswall Road, northwestbound.
+Meadowbrook Road	southwestbound	Dedham Street						Meadowbrook Road at Dedham Street, southwestbound.
+Meadowbrook Road	all	Wheeler Road						Meadowbrook Road at Wheeler Road, all directions.
+Mechanic Street	northbound	Elliot Street						Mechanic Street at Elliot Street, northbound.
+Melina Road	westbound	Parker Street						Melina Road at Parker Street, westbound.
+Melrose Street	southbound	Ash Street						Melrose Street and Ash Street, southbound.
+Melrose Street	southbound	Auburn Street						Melrose Street at Auburn Street, southbound.
+Melrose Street, Staniford Street and West Pine Street	all							Melrose Street, Staniford Street and West Pine Street, all directions.
+Metacomet Road	northbound	Dorset Road						Metacomet Road at Dorset Road, northbound.
+Middle Street	westbound	Adams Street						Middle Street at Adams Street, westbound.
+Middlesex Road	westbound	Hammond Street						Middlesex Road at Hammond Street, westbound.
+Mildred Road	northwestbound	Elinor Road						Mildred Road at Elinor Road, northwestbound.
+Mildred Road	southbound	Truman Road						Mildred Road at Truman Road, southbound.
+Mill Street	eastbound	Centre Street						Mill Street at Centre Street, eastbound.
+Mill Street	westbound	Walnut Street						Mill Street at Walnut Street, westbound.
+Miller Road	eastbound	Cloverdale Road						Miller Road at Cloverdale Road, eastbound.
+Milo Street	southbound	Derby Street						Milo Street at Derby Street, southbound.
+Moffat Road	eastbound	Chestnut Street						Moffat Road at Chestnut Street, eastbound.
+Moffat Road	westbound	Windsor Road						Moffat Road at Windsor Road, westbound.
+Monadnock Road	eastbound,westbound	Hammondswood Road						Monadnock Road at Hammondswood Road, eastbound and westbound.
+Monadnock Road	northwestbound,southeastbound	Wachusett Road						Monadnock Road at Wachusett Road, northwestbound and southeastbound.
+Montclair Road		Short Street and Beacon Street						Montclair Road at the intersection with Short Street and Beacon Street.
+Montrose Street	westbound	Waverley Avenue						Montrose Street at Waverley Avenue, westbound.
+Moreland Avenue	eastbound	Pine Crest Road						Moreland Avenue at Pine Crest Road, eastbound.
+Morseland Avenue	westbound	Commonwealth Avenue, North Drive						Morseland Avenue at Commonwealth Avenue, North Drive, westbound.
+Morseland Avenue	southbound	Commonwealth Avenue, South Drive						Morseland Avenue at Commonwealth Avenue, South Drive, southbound.
+Morton Street	southbound	Commonwealth Avenue, North Drive						Morton Street at Commonwealth Avenue, North Drive, southbound.
+Morton Street	southbound	Commonwealth Avenue South Drive						Morton Street at Commonwealth Avenue South Drive, southbound.
+Morton Street	northbound	Commonwealth Avenue, South Drive						Morton Street at Commonwealth Avenue, South Drive, northbound.
+Morton Street	southbound	Homer Street						Morton Street at Homer Street, southbound.
+Morton Street	northwestbound	Mill Street						Morton Street at Mill Street, northwestbound.
+Mountfort Road	southbound	Lincoln Street						Mountfort Road at Lincoln Street, southbound.
+Mt. Ida Street	eastbound	Centre Street						Mt. Ida Street at Centre Street, eastbound.
+Mt. Ida Street	southbound	Newtonville Avenue						Mt. Ida Street at Newtonville Avenue, southbound.
+Mt. Vernon Street	eastbound,westbound	Allston Street						Mt. Vernon Street at Allston Street, eastbound and westbound.
+Mt. Vernon Street	northeastbound	Austin Street				Ward 2		Mt. Vernon Street at Austin Street, Ward 2, northeastbound.
+Munroe Street	northwestbound	Newtonville Avenue						Munroe Street at Newtonville Avenue, northwestbound.
+Murray Road	southbound	Webster Street						Murray Road at Webster Street, southbound.
+Myrtle Street	southeastbound	Temple Street						Myrtle Street at Temple Street, southeastbound.
+Myrtle Street	northwestbound	Washington Street						Myrtle Street at Washington Street, northwestbound.
+Nardone Road	westbound	Great Meadow Road						Nardone Road at Great Meadow Road, westbound.
+Nathan Road	eastbound	Centre Street						Nathan Road at Centre Street, eastbound.
+Nathan Road	westbound	Commonwealth Avenue, North Drive						Nathan Road at Commonwealth Avenue, North Drive, westbound.
+Nehoiden Road	northbound	Beacon Street						Nehoiden Road at Beacon Street, northbound.
+Nehoiden Road	eastbound,westbound	Carlton Road						Nehoiden Road at Carlton Road, eastbound and westbound.
+Nehoiden Road	southbound	Waban Avenue						Nehoiden Road at Waban Avenue, southbound.
+Nevada Street	northbound	Albemarle Road						Nevada Street at Albemarle Road, northbound.
+Nevada Street	northbound,southbound	Linwood Avenue						Nevada Street at Linwood Avenue, northbound and southbound.
+Nevada Street	southbound	Watertown Street						Nevada Street at Watertown Street, southbound.
+Newell Road	southeastbound	Auburndale Avenue						Newell Road at Auburndale Avenue, southeastbound.
+Newtonville Avenue	southeastbound	Centre Street						Newtonville Avenue at Centre Street, southeastbound.
+Newtonville Avenue	westbound	Walnut Street						Newtonville Avenue at Walnut Street, westbound.
+Nobscot Road	southbound	Commonwealth Avenue, North Drive						Nobscot Road at Commonwealth Avenue, North Drive, southbound.
+Nonantum Street	westbound	Waverley Avenue						Nonantum Street at Waverley Avenue, westbound.
+North Street	northbound	Commonwealth Avenue, South Drive						North Street at Commonwealth Avenue, South Drive, northbound.
+Norwood Avenue	eastbound	Crescent Avenue						Norwood Avenue at Crescent Avenue, eastbound.
+Oak Street	northbound	Elliot Street						Oak Street at Elliot Street, northbound.
+Oak Cliff Road	westbound	Valentine Street						Oak Cliff Road at Valentine Street, westbound.
+Oak Hill Street	southwestbound	Dedham Street						Oak Hill Street at Dedham Street, southwestbound.
+Oak Hill Street	northbound,southbound	Old Farm Road						Oak Hill Street at Old Farm Road, northbound and southbound.
+Oak Vale	eastbound	Chestnut Street						Oak Vale at Chestnut Street, eastbound.
+Oakland Avenue	northbound	Commonwealth Avenue, South Drive						Oakland Avenue at Commonwealth Avenue, South Drive, northbound.
+Oakland Street	northbound	Church Street						Oakland Street at Church Street, northbound.
+Oakland Street	southbound	Newtonville Avenue						Oakland Street at Newtonville Avenue, southbound.
+Oakwood Road	eastbound,westbound	Upland Road						Oakwood Road at Upland Road, eastbound and westbound.
+Old Colony Road	northbound	College Road						Old Colony Road at College Road, northbound.
+Old Colony Road	southbound	Quincy Road						Old Colony Road at Quincy Road, southbound.
+Old Farm Road	eastbound,westbound	Oak Hill Street				Ward 8		Old Farm Road at Oak Hill Street, Ward 8, eastbound and westbound.
+Old Orchard Road	northbound	Hammond Street						Old Orchard Road at Hammond Street, northbound.
+Olde Field Road	northbound	Boylston Street						Olde Field Road at Boylston Street, northbound.
+Olde Field Road	southbound	Brandeis Road				Ward 8		Olde Field Road at Brandeis Road, Ward 8, southbound.
+Olde Field Road	northbound,southbound	Hagen Road						Olde Field Road at Hagen Road, northbound and southbound.
+Olde Field Road	northbound,southbound	Haynes Road						Olde Field Road at Haynes Road, northbound and southbound.
+Oldham Road	southbound	Commonwealth Avenue, North Drive						Oldham Road at Commonwealth Avenue, North Drive, southbound.
+Oldham Road	southbound	Commonwealth Avenue, South Drive						Oldham Road at Commonwealth Avenue, South Drive, southbound
+Orris Street	eastbound	Newell Road						Orris Street at Newell Road, eastbound.
+Ossippee Road	eastbound,westbound	Linden Street						Ossippee Road at Linden Street, eastbound and westbound.
+Otis Street	westbound	Chestnut Street						Otis Street at Chestnut Street, westbound.
+Otis Street	eastbound	Walnut Street						Otis Street at Walnut Street, eastbound.
+Owatonna Street	northbound	Chaske Avenue						Owatonna Street at Chaske Avenue, northbound.
+Park Avenue	northbound,southbound	Cotton Street						Park Avenue at Cotton Street, northbound and southbound.
+Park Avenue	northbound	Sargent Street						Park Avenue at Sargent Street, northbound.
+Park Lane	westbound	Greenlawn Avenue						Park Lane at Greenlawn Avenue, westbound.
+Park Lane	eastbound	Pleasant Street						Park Lane at Pleasant Street, eastbound.
+Park Street	northbound	Church Street						Park Street at Church Street, northbound.
+Park Street	northbound	Franklin Street				eastern intersection		Park Street at Franklin Street, northbound (eastern intersection).
+Park Street	southbound	Franklin Street				western intersection		Park Street at Franklin Street, southbound (western intersection).
+Park Street	southbound	Vernon Street						Park Street at Vernon Street, southbound.
+Parker Avenue	eastbound	Parker Street						Parker Avenue at Parker Street, eastbound.
+Parker Road	eastbound	Parker Street						Parker Road at Parker Street, eastbound.
+Parker Street	southbound	Dedham Street						Parker Street at Dedham Street, southbound.
+Parker Terrace	westbound	Parker Street						Parker Terrace at Parker Street, westbound.
+Parmenter Road	southbound	Derby Street						Parmenter Road at Derby Street, southbound.
+Parsons Street	southbound	Washington Street						Parsons Street at Washington Street, southbound.
+Paul Street	westbound	Centre Street						Paul Street at Centre Street, westbound.
+Paul Street	eastbound	Cypress Street						Paul Street at Cypress Street, eastbound.
+Paulson Road	northwestbound,southeastbound	Evelyn Road						Paulson Road at Evelyn Road, northwestbound and southeastbound.
+Peabody Street	northbound	Pearl Street						Peabody Street at Pearl Street, northbound.
+Peabody Street	southbound	Washington Street						Peabody Street at Washington Street, southbound.
+Pearl Street	eastbound,westbound	Jewett Street						Pearl Street at Jewett Street, eastbound and westbound.
+Peirce Elementary School parking lot	southbound	Ruane Road						Peirce Elementary School parking lot, southbound at Ruane Road.
+Pelham Street	northwestbound	Crescent Avenue				Ward 6		Pelham Street at Crescent Avenue, Ward 6, northwestbound.
+Pembroke Street	northeastbound,southwestbound	Arlington Street						Pembroke Street at Arlington Street, northeastbound and southwestbound.
+Pershing Road	southbound	Adams Avenue						Pershing Road at Adams Avenue, southbound.
+Pettee Street	southbound	High Street						Pettee Street at High Street, southbound.
+Philip Bram Way	northbound	Austin Street						Philip Bram Way at Austin Street, northbound.
+Philip Bram Way	southbound	Highland Avenue						Philip Bram Way at Highland Avenue, southbound.
+Pine Ridge Road	eastbound	Allen Avenue						Pine Ridge Road at Allen Avenue, eastbound.
+Pine Ridge Road	eastbound,westbound	Chestnut Street						Pine Ridge Road at Chestnut Street, eastbound and westbound.
+Pine Ridge Road	eastbound,westbound	Upland Road						Pine Ridge Road at Upland Road, eastbound and westbound.
+Pine Ridge Road	westbound	Woodward Street						Pine Ridge Road at Woodward Street, westbound.
+Pine Street	northbound	River Street						Pine Street at River Street, northbound.
+Pine Street	southwestbound	Washburn Avenue						Pine Street at Washburn Avenue, southwestbound.
+Plainfield Street	eastbound	Allen Avenue						Plainfield Street at Allen Avenue, eastbound.
+Plainfield Street	eastbound,westbound	Upland Road						Plainfield Street at Upland Road, eastbound and westbound.
+Pleasant Street	eastbound	Centre Street						Pleasant Street at Centre Street, eastbound.
+Pleasant Street	northbound	Homer Street						Pleasant Street at Homer Street, northbound.
+Pleasant Street	southbound,westbound	Lake Avenue						Pleasant Street at Lake Avenue, southbound and westbound.
+Plymouth Road	southbound	Woodward Street						Plymouth Road at Woodward Street, southbound.
+Pond Brook Road	northbound,southbound	Brookline Street						Pond Brook Road at Brookline Street, northbound and southbound.
+Prairie Avenue	northbound,southbound	Auburndale Avenue						Prairie Avenue at Auburndale Avenue, northbound and southbound.
+Prentice Road	southbound	Commonwealth Avenue, North Drive						Prentice Road at Commonwealth Avenue, North Drive, southbound.
+Prescott Street	eastbound,westbound	Central Avenue						Prescott Street at Central Avenue, eastbound and westbound.
+Prince Street	northbound,southbound	Berkeley Street						Prince Street at Berkeley Street, northbound and southbound.
+Prince Street	eastbound,westbound	Chestnut Street						Prince Street at Chestnut Street, eastbound and westbound.
+Prince Street	southbound	Commonwealth Avenue, North Drive						Prince Street at Commonwealth Avenue, North Drive, southbound.
+Prince Street	southbound	Commonwealth Avenue, South Drive						Prince Street at Commonwealth Avenue, South Drive, southbound.
+Prince Street	northbound	Temple Street						Prince Street northbound at Temple Street.
+Priscilla Road	southbound	Hammond Street						Priscilla Road at Hammond Street, southbound.
+Priscilla Road	eastbound	Old Colony Road						Priscilla Road at Old Colony Road, eastbound.
+Proctor Street	westbound	Walker Street						Proctor Street at Walker Street, westbound.
+Prospect Avenue	westbound	Beaumont Avenue						Prospect Avenue at Beaumont Avenue, westbound.
+Prospect Street	southbound	Temple Street						Prospect Street at Temple Street, southbound.
+Puritan Road	westbound	Beethoven Avenue						Puritan Road at Beethoven Avenue, westbound.
+Putnam Street	southbound	Temple Street						Putnam Street at Temple Street, southbound.
+Quincy Road	westbound	Priscilla Road						Quincy Road at Priscilla Road, westbound.
+Rachel Road	eastbound	Dedham Street						Rachel Road at Dedham Street, eastbound.
+Rachel Road	westbound	Winchester Street						Rachel Road at Winchester Street, westbound.
+Radcliff Road	eastbound	Tamworth road						Radcliff Road at Tamworth road, eastbound.
+Randlett Park	westbound	Waltham Street						Randlett Park at Waltham Street, westbound.
+Randlett Park	southeastbound	Watertown Street						Randlett Park at Watertown Street, southeastbound.
+Randolph Street	eastbound	Woodward Street						Randolph Street at Woodward Street, eastbound.
+Ransom Road	southbound	Commonwealth Avenue, North Drive						Ransom Road at Commonwealth Avenue, North Drive, southbound.
+Read Court	northbound	Commonwealth Avenue, South Drive						Read Court at Commonwealth Avenue, South Drive, northbound.
+Redwood Road	southbound	Brookline Street						Redwood Road at Brookline Street, southbound.
+Redwood Road	northbound	Hartman Road						Redwood Road at Hartman Road, northbound.
+Reservoir Avenue	northbound	Beacon Street						Reservoir Avenue at Beacon Street, northbound.
+Reservoir Avenue	northbound	Lee Road						Reservoir Avenue at Lee Road, northbound.
+Reservoir Drive	westbound	Woodlawn Drive						Reservoir Drive at Woodlawn Drive, westbound.
+Richardson Street	eastbound	Centre Street						Richardson Street at Centre Street, eastbound.
+Richardson Street	westbound	Church Street						Richardson Street, at Church Street, westbound.
+Richmond Road	eastbound	Centre Street						Richmond Road at Centre Street, eastbound.
+Ridge Avenue	westbound	Parker Street						Ridge Avenue at Parker Street, westbound.
+Risley Road	southbound	Commonwealth Avenue, North Drive						Risley Road at Commonwealth Avenue, North Drive, southbound.
+River Street	eastbound,westbound	Auburndale Avenue						River Street at Auburndale Avenue, eastbound and westbound.
+River Street	eastbound	Waltham Street						River Street at Waltham Street, eastbound.
+Robinhood Street	southbound	Commonwealth Avenue, North Drive						Robinhood Street at Commonwealth Avenue, North Drive, southbound.
+Robinhood Street	southbound	Commonwealth Avenue, South Drive						Robinhood Street at Commonwealth Avenue, South Drive, southbound.
+Rogers Street	eastbound	Allerton Road						Rogers Street at Allerton Road, eastbound.
+Rogers Street	northbound	Lake Avenue						Rogers Street at Lake Avenue, northbound.
+Roland Street	northeastbound	Charlemont Street						Roland Street and Charlemont Street, northeastbound.
+Roland Street	westbound	Christina Street						Roland Street at Christina Street, westbound.
+Roosevelt Road	southeastbound	Brandeis Road						Roosevelt Road at Brandeis Road, southeastbound.
+Roosevelt Road	westbound	Parker Street						Roosevelt Road at Parker Street, westbound.
+Rosalie Road	eastbound,westbound	Country Club Road						Rosalie Road at Country Club Road, eastbound and westbound.
+Rosalie Road	southbound	Dedham Street						Rosalie Road at Dedham Street, southbound.
+Rosalie Road	northbound	Hartman Road						Rosalie Road at Hartman Road, northbound.
+Rowe Street	northbound	Auburndale Avenue						Rowe Street at Auburndale Avenue, northbound.
+Rowe Street	southbound	Commonwealth Avenue, North Drive						Rowe Street at Commonwealth Avenue, North Drive, southbound.
+Rowe Street	southbound	Commonwealth Avenue, South Drive				easterly intersection		Rowe Street at Commonwealth Avenue, South Drive, southbound (easterly intersection).
+Rowe Street	southbound	Commonwealth Avenue, South Drive				westerly intersection		Rowe Street at Commonwealth Avenue, South Drive, southbound (westerly intersection).
+Rowe Street	all	Rowe Street						Rowe Street at Rowe Street, all directions.
+Rowe Street	northbound,southbound	Webster Street						Rowe Street at Webster Street, northbound and southbound.
+Rowena Road	eastbound	Clark Street						Rowena Road at Clark Street, eastbound.
+Ruane Road	southbound	Commonwealth Avenue, North Drive						Ruane Road at Commonwealth Avenue, North Drive, southbound.
+Sargent Street	westbound	Park Street						Sargent Street at Park Street, westbound.
+School Street	southbound	Pearl Street						School Street at Pearl Street, southbound.
+Scotney Road	eastbound	Dorcar Road						Scotney Road at Dorcar Road, eastbound.
+Selwyn Road	northbound,southbound	Mildred Road						Selwyn Road at Mildred Road, northbound and southbound.
+Seminary Avenue	northbound	Woodland Road						Seminary Avenue at Woodland Road, northbound.
+Seton Hill Road	eastbound	Washington Street						Seton Hill Road at Washington Street, eastbound.
+Shady Hill Road	northbound,southbound	Stony Brae Road						Shady Hill Road at Stony Brae Road, northbound and southbound.
+Shamrock Street	northbound,southbound	Clinton Street						Shamrock Street at Clinton Street, northbound and southbound.
+Sheffield Road	northbound	Highland Street				easterly approach		Sheffield Road at Highland Street, easterly approach, northbound.
+Sheffield Road	northbound	Highland Street				westerly approach		Sheffield Road at Highland Street, westerly approach, northbound.
+Sheridan Street	northbound,southbound	Adams Avenue						Sheridan Street at Adams Avenue, northbound and southbound.
+Sheridan Street	northbound	Derby Street						Sheridan Street at Derby Street, northbound.
+Sheridan Street	southbound	River Street						Sheridan Street at River Street, southbound.
+Shornecliffe Road	northbound,southwestbound	Franklin Street						Shornecliffe Road at Franklin Street, northbound and southwestbound.
+Shornecliffe Road	northbound	Nonantum Street						Shornecliffe Road at Nonantum Street, northbound.
+Short Street	southbound	Beacon Street						Short Street at Beacon Street, southbound.
+Silver Lake Avenue	eastbound	Adams Street						Silver Lake Avenue at Adams Street, eastbound.
+Silver Lake Avenue	westbound	Adams Street						Silver Lake Avenue at Adams Street, westbound.
+Smith Avenue	southbound	River Street						Smith Avenue at River Street, southbound.
+Solon Street	westbound	Walnut Street				northern intersection		Solon Street, westbound at Walnut Street (northern intersection).
+Spaulding Lane	westbound	Brookline Street						Spaulding Lane at Brookline Street, westbound.
+Spiers Road	northeastbound	Dedham Street						Spiers Road at Dedham Street, northeastbound.
+St. James Terrace	southbound	Charlesbank Road						St. James Terrace at Charlesbank Road, southbound.
+Staniford Street	eastbound	Lexington Street						Staniford Street at Lexington Street, eastbound.
+Stanley Road	westbound	Chestnut Street						Stanley Road at Chestnut Street, westbound.
+Stanton Avenue	northwestbound	Washington Street				northern intersection		Stanton Avenue at Washington Street, northwestbound (northern intersection).
+Stanton Avenue	westbound	Washington Street				southern intersection		Stanton Avenue at Washington Street, westbound (southern intersection).
+Station Avenue	northbound	Lake Avenue						Station Avenue northbound at Lake Avenue.
+Stearns Street	eastbound	Parker Street						Stearns Street at Parker Street, eastbound.
+Stein Circle	southbound	Saw Mill Brook Parkway						Stein Circle at Saw Mill Brook Parkway, southbound.
+Sterling Street	southbound	Berkeley Street						Sterling Street at Berkeley Street, southbound.
+Stone Avenue	southwestbound	Hammond Street				Ward 6		Stone Avenue at Hammond Street, Ward 6, southwestbound.
+Stoneleigh Road	southbound	Furbush Avenue						Stoneleigh Road at Furbush Avenue, southbound.
+Stony Brae Road	eastbound	Walnut Street						Stony Brae Road, eastbound at Walnut Street.
+Stony Brae Road	southbound	Dedham Street						Stony Brae Road at Dedham Street, southbound.
+Stony Brae Road	northbound,southbound	Shady Hill Road						Stony Brae Road at Shady Hill Road, northbound and southbound.
+Stuart Road	northbound	Cotton Street						Stuart Road at Cotton Street, northbound.
+Studio Road	northbound	Woodland Road						Studio Road at Woodland Road, northbound.
+Suffolk Road	eastbound	Hammond Street						Suffolk Road at Hammond Street, eastbound.
+Summer Street	westbound	Chestnut Street						Summer Street at Chestnut Street, westbound.
+Summit Street	southbound	Bellevue Street						Summit Street at Bellevue Street, southbound.
+Summit Street	eastbound	Newtonville Avenue						Summit Street at Newtonville Avenue, eastbound.
+Sumner Street	southbound	Commonwealth Avenue, North Drive						Sumner Street at Commonwealth Avenue, North Drive, southbound.
+Sumner Street	northbound	Commonwealth Avenue, South Drive						Sumner Street at Commonwealth Avenue, South Drive, northbound.
+Sumner Street	southbound	Commonwealth Avenue, South Drive						Sumner Street at Commonwealth Avenue, South Drive, southbound.
+Sumner Street	southbound	Willow Street						Sumner Street at Willow Street, southbound.
+Swallow Drive	westbound	Baker Place						Swallow Drive at Baker Place, westbound.
+Sylvan Avenue	southbound	Bigelow Road						Sylvan Avenue at Bigelow Road, southbound.
+Sylvan Avenue	westbound	Lenox Street						Sylvan Avenue at Lenox Street, westbound.
+Tamworth Road	eastbound	Chestnut Street						Tamworth Road at Chestnut Street, eastbound.
+Temple Street	southbound	Fuller Street						Temple Street southbound at Fuller Street.
+Temple Street	southbound	Commonwealth Avenue, North Drive						Temple Street at Commonwealth Avenue, North Drive, southbound.
+Temple Street	northbound	Commonwealth Avenue, South Drive						Temple Street at Commonwealth Avenue, South Drive, northbound.
+Temple Street	southbound	Commonwealth Avenue, South Drive						Temple Street at Commonwealth Avenue, South Drive, southbound.
+Temple Street	eastbound	Highland Street						Temple Street at Highland Street, eastbound.
+Terrace Avenue	northbound	Duncklee Street						Terrace Avenue at Duncklee Street, northbound.
+Terrace Avenue	southwestbound	Hillside Road						Terrace Avenue at Hillside Road, southwestbound.
+Theodore Road	westbound	Parker Street						Theodore Road at Parker Street, westbound.
+Theodore Road	northbound,southbound	Roosevelt Road						Theodore Road at Roosevelt Road, northbound and southbound.
+Thornton Street	northbound	Pearl Street						Thornton Street at Pearl Street, northbound.
+Thornton Street	southbound	Washington Street						Thornton Street at Washington Street, southbound.
+Thurston Road	eastbound	Circuit Avenue						Thurston Road at Circuit Avenue, eastbound.
+Tirrell Crescent	westbound	Dorcar Road						Tirrell Crescent at Dorcar Road, westbound.
+Tolman Street	northbound,southbound	Derby Street						Tolman Street at Derby Street, northbound and southbound.
+Trowbridge Street	westbound	Norwood Avenue						Trowbridge Street at Norwood Avenue, westbound.
+Truman Road	northbound,westbound	Mildred Road						Truman Road at Mildred Road, northbound and westbound.
+Truman Road	eastbound	Parker Street						Truman Road at Parker Street, eastbound.
+Tudor Road	southbound	Beacon Street						Tudor Road at Beacon Street, southbound.
+Tudor Road	northbound	Hammond Street						Tudor Road at Hammond Street, northbound.
+Turner Street	eastbound	Central Avenue						Turner Street at Central Avenue, eastbound.
+Turner Terrace	westbound	Central Avenue						Turner Terrace at Central Avenue, westbound.
+Tyler Terrace	westbound	Pleasant Street						Tyler Terrace at Pleasant Street, westbound.
+Union Street	eastbound	Langley Road						Union Street at Langley Road, eastbound.
+Upland Avenue	northbound	Dedham Street						Upland Avenue at Dedham Street, northbound.
+Upland Avenue	northbound,southbound	Heatherland Road						Upland Avenue at Heatherland Road, northbound and southbound.
+Upland Avenue	southbound	Rachel Road						Upland Avenue at Rachel Road, southbound.
+Upland Road	southwestbound	Mill Street						Upland Road at Mill Street, southwestbound.
+Upland Road	southbound	Woodward Street						Upland Road at Woodward Street, southbound.
+Valentine Park	northbound	Valentine Street						Valentine Park at Valentine Street, northbound.
+Valentine Street	southbound	Commonwealth Avenue, North Drive						Valentine Street at Commonwealth Avenue, North Drive, southbound.
+Valentine Street	southbound	Commonwealth Avenue, South Drive						Valentine Street at Commonwealth Avenue, South Drive, southbound.
+Varick Road	northbound	Beacon Street						Varick Road at Beacon Street, northbound.
+Vernon Street	westbound	Centre Street						Vernon Street at Centre Street, westbound.
+Vernon Street	westbound	Eldredge Street						Vernon Street at Eldredge Street, westbound.
+Vernon Street	eastbound	Park Street						Vernon Street at Park Street, eastbound.
+Vernon Street	westbound	Waverley Avenue						Vernon Street at Waverley Avenue, westbound.
+Vine Street	northbound	Brookline Street						Vine Street at Brookline Street, northbound.
+Vine Street	eastbound	Lagrange Street						Vine Street at Lagrange Street, eastbound.
+Vista Avenue	northbound	Woodland Road						Vista Avenue at Woodland Road, northbound.
+Waban Avenue	eastbound,westbound	Crofton Road (both roadways)						Waban Avenue at Crofton Road (both roadways), eastbound and westbound.
+Waban Avenue (two-way portion, westbound direction)	westbound	Waban Avenue (one-way southbound portion)						Waban Avenue (two-way portion, westbound direction) at Waban Avenue (one-way southbound portion).
+Waban Avenue	southbound	Waban Avenue	120	south	Manitoba Road		offset approximate in source; unclosed parenthesis in source	Waban Avenue at Waban Avenue, southbound (approximately 120 feet south of Manitoba Road.
+Waban Hill Road	southbound	Commonwealth Avenue, North Drive						Waban Hill Road at Commonwealth Avenue, North Drive, southbound.
+Waban Street	eastbound,westbound	Jewett Street						Waban Street at Jewett Street, eastbound and westbound.
+Waban Street	northbound	Pearl Street						Waban Street at Pearl Street, northbound.
+Waban Street	eastbound	Thornton Street						Waban Street at Thornton Street, eastbound.
+Wachusett Road	westbound	Hobart Road						Wachusett Road at Hobart Road, westbound.
+Wachusett Road	northeastbound	Monadnock Road						Wachusett Road at Monadnock Road, northeastbound.
+Wachusett Road	southwestbound	Monadnock Road						Wachusett Road at Monadnock Road, southwestbound.
+Walden Street	southbound	Highland Street						Walden Street at Highland Street, southbound.
+Walker Street	northbound	Page Road						Walker Street at Page Road, northbound.
+Walker Street	southbound	Washington Street						Walker Street at Washington Street, southbound.
+Wallace Street	eastbound	Winchester Street						Wallace Street at Winchester Street, eastbound.
+Walnut Hill Road	eastbound	Elinor Road						Walnut Hill Road at Elinor Road, eastbound.
+Walnut Hill Road	northbound,southbound	Parker Avenue						Walnut Hill Road at Parker Avenue, northbound and southbound.
+Walnut Hill Road	westbound	Woodcliff Road						Walnut Hill Road at Woodcliff Road, westbound.
+Walnut Park	southbound	Washington Street						Walnut Park at Washington Street, southbound.
+Walnut Place	eastbound	Walnut Street				Ward 2		Walnut Place at Walnut Street, eastbound (Ward 2).
+Walnut Place	westbound,eastbound	Walnut Street				Ward 5		Walnut Place at Walnut Street, westbound and eastbound (Ward 5).
+Walnut Street	southbound	Boylston Street (westbound roadway)						Walnut Street at Boylston Street (westbound roadway), southbound.
+Walnut Street	northbound	Boylston Street (eastbound roadway)						Walnut Street at Boylston Street (eastbound roadway), northbound.
+Walnut Street	northbound	Crafts Street						Walnut Street at Crafts Street, northbound.
+Walnut Street	southbound	Dedham Street						Walnut Street at Dedham Street, southbound.
+Walnut Street	southeastbound	Newtonville Avenue						Walnut Street at Newtonville Avenue, southeastbound.
+Walsingham Street	eastbound	Washington Street						Walsingham Street at Washington Street, eastbound.
+Walter Street	southeastbound	Jackson Street						Walter Street at Jackson Street, southeastbound.
+Walter Street	westbound	Parker Street						Walter Street at Parker Street, westbound.
+Waltham Street	northwestbound					at triangle facing Waltham; opposite Lyme Road		Waltham Street at triangle facing Waltham, opposite Lyme Road, northwestbound.
+Ward Street	eastbound	Hammond Street/Woodchester Drive						Ward Street at Hammond Street/Woodchester Drive, eastbound.
+Ward Street	eastbound	Manet Road						Ward Street at Manet Road, eastbound.
+Ward Street	westbound	Morseland Avenue						Ward Street at Morseland Avenue, westbound.
+Ware Road	eastbound	Melrose Street						Ware Road at Melrose Street, eastbound.
+Warren Street	westbound	Glen Avenue						Warren Street at Glen Avenue, westbound.
+Warren Street	westbound	Langley Road						Warren Street at Langley Road, westbound.
+Washburn Avenue	southbound	Auburndale Avenue						Washburn Avenue at Auburndale Avenue, southbound.
+Washburn Street	northeastbound,southwestbound	Capital Street						Washburn Street at Capital Street, northeastbound and southwestbound.
+Washburn Street	southwestbound	Pearl Street						Washburn Street at Pearl Street, southwestbound.
+Washington Avenue	eastbound	Parmenter Road						Washington Avenue at Parmenter Road, eastbound.
+Washington Park	westbound	Walnut Street						Washington Park at Walnut Street, westbound.
+Washington Terrace	southbound	Washington Street						Washington Terrace and Washington Street, southbound.
+Water Street	northbound	Commonwealth Avenue, South Drive						Water Street at Commonwealth Avenue, South Drive, northbound.
+Water Street	southbound	Homer Street						Water Street at Homer Street, southbound.
+Watertown Street	all	Eddy Street/Eliot Avenue						Watertown Street at Eddy Street/Eliot Avenue, all directions.
+Wauwinet Road	southbound	Commonwealth Avenue, North Drive						Wauwinet Road at Commonwealth Avenue, North Drive, southbound.
+Wauwinet Road	southbound	Commonwealth Avenue, South Drive						Wauwinet Road at Commonwealth Avenue, South Drive, southbound.
+Waverley Avenue	northbound	Washington Street						Waverley Avenue at Washington Street, northbound.
+Webster Street	eastbound,westbound	Elm Street						Webster Street at Elm Street, eastbound and westbound.
+Webster Street	westbound	Rowe Street						Webster Street at Rowe Street, westbound.
+Webster Street	eastbound	Waltham Street						Webster Street at Waltham Street, eastbound.
+Wells Avenue	westbound	Wells Avenue				from left-turn lane		Wells Avenue westbound from left-turn lane at Wells Avenue.
+Wendell Road	eastbound	Parker Street						Wendell Road at Parker Street, eastbound.
+Wesley Street	eastbound	Centre Street				north		Wesley Street, north, at Centre Street, eastbound.
+Wesley Street	eastbound	Centre Street				south		Wesley Street, south, at Centre Street, eastbound.
+Westbourne Road	southbound	Commonwealth Avenue, North Drive						Westbourne Road at Commonwealth Avenue, North Drive, southbound.
+Westbourne Road	southbound	Commonwealth Avenue, South Drive						Westbourne Road at Commonwealth Avenue, South Drive, southbound.
+West Street	eastbound	Middle Street						West Street at Middle Street, eastbound.
+West Street	northbound	Watertown Street						West Street at Watertown Street, northbound
+West Pine Street	eastbound	Freeman Street						West Pine Street at Freeman Street, eastbound.
+Westchester Road	northbound	Cabot Street						Westchester Road at Cabot Street, northbound.
+Westwood Street	southbound	Webster Street						Westwood Street at Webster Street, southbound.
+Whittlesey Road	westbound	Parker Street						Whittlesey Road at Parker Street, westbound.
+Williston Road	eastbound	Hancock Street						Williston Road at Hancock Street, eastbound.
+Willow Street	westbound	Centre Street						Willow Street at Centre Street, westbound.
+Wiltshire Road	westbound	Adams Street						Wiltshire Road at Adams Street, westbound.
+Wiltshire Road	eastbound	Jackson Road						Wiltshire Road at Jackson Road, eastbound.
+Wimbledon Circle	southbound	Commonwealth Avenue, North Drive						Wimbledon Circle at Commonwealth Avenue, North Drive, southbound.
+Wimbledon Circle	southbound	Commonwealth Avenue, South Drive						Wimbledon Circle at Commonwealth Avenue, South Drive, southbound.
+Winchester Road	westbound	East Side Parkway						Winchester Road at East Side Parkway, westbound.
+Winchester Street	southbound,northbound	Rachel Road/Goddard Street						Winchester Street at Rachel Road/Goddard Street, southbound and northbound.
+Windermere Road	southbound	Commonwealth Avenue, North Drive						Windermere Road at Commonwealth Avenue, North Drive, southbound.
+Windermere Road	northbound	Commonwealth Avenue, South Drive						Windermere Road at Commonwealth Avenue, South Drive, northbound.
+Windermere Road	southbound	Commonwealth Avenue, South Drive						Windermere Road at Commonwealth Avenue, South Drive, southbound.
+Windermere Road	southbound	Woodland Road						Windermere Road at Woodland Road, southbound.
+Windsor Road	southeastbound	Beacon Street						Windsor Road at Beacon Street, southeastbound.
+Winter Street	westbound	Chestnut Street						Winter Street at Chestnut Street, westbound.
+Winthrop Street	eastbound	Putnam Street						Winthrop Street at Putnam Street, eastbound.
+Wiswall Road	northbound	Dedham Street						Wiswall Road at Dedham Street, northbound.
+Withington Road	northbound	Cabot Street						Withington Road at Cabot Street, northbound.
+Wolcott Street	eastbound	Rowe Street						Wolcott Street at Rowe Street, eastbound.
+Wolcott Street Extension	westbound	Wolcott Street				near 432 Wolcott Street		Wolcott Street Extension at Wolcott Street, westbound, near 432 Wolcott Street.
+Woodbine Street	southbound	Commonwealth Avenue, South Drive						Woodbine Street at Commonwealth Avenue, South Drive, southbound.
+Woodchester Drive	southbound	Ward Street						Woodchester Drive at Ward Street, southbound.
+Woodcliff Road	northbound	Centre Street						Woodcliff Road at Centre Street, northbound.
+Woodcliff Road	northbound,southbound	Elinor Road						Woodcliff Road at Elinor Road, northbound and southbound.
+Woodcliff Road	southbound	Walnut Hill Road						Woodcliff Road at Walnut Hill Road, southbound.
+Woodend Road	northeastbound	Bowdoin Street						Woodend Road at Bowdoin Street, northeastbound.
+Woodhaven Road	eastbound	Allen Avenue						Woodhaven Road at Allen Avenue, eastbound.
+Woodland Road	northbound	Auburn Street						Woodland Road at Auburn Street, northbound.
+Woodland Road	northwestbound,southeastbound	Central Street						Woodland Road at Central Street, northwestbound and southeastbound.
+Woodland Road	eastbound,westbound	Grove Street						Woodland Road at Grove Street, eastbound and westbound.
+Woodland Road	northeastbound,southwestbound	Hancock Street						Woodland Road at Hancock Street, northeastbound and southwestbound.
+Woodland Road	eastbound	Washington Street						Woodland Road at Washington Street, eastbound.
+Woodlawn Drive	southbound	Ward Street						Woodlawn Drive at Ward Street, southbound.
+Woodman Road	northbound	Hammond Street						Woodman Road at Hammond Street, northbound.
+Woodward Street	westbound	Beacon Street						Woodward Street at Beacon Street, westbound.
+Woodward Street	northbound,southbound	Lincoln Street						Woodward Street at Lincoln Street, northbound and southbound.
+Wyman Street	eastbound	Chestnut Street						Wyman Street at Chestnut Street, eastbound.
+Wyoming Road	northbound,southbound	Nevada Street						Wyoming Road at Nevada Street, northbound and southbound.
+YMCA Driveway	eastbound	Church Street						YMCA Driveway at Church Street, eastbound.

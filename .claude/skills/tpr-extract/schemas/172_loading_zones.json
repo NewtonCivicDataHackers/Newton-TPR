@@ -1,0 +1,87 @@
+{
+  "title": "Loading zones (Sec. TPR-172)",
+  "columns": [
+    "street",
+    "side",
+    "from_point",
+    "from_offset_feet",
+    "from_offset_direction",
+    "extent_direction",
+    "length_feet",
+    "to_point",
+    "time_limit_minutes",
+    "location_detail",
+    "notes",
+    "source_text"
+  ],
+  "fields": {
+    "street": {
+      "description": "Street or way on which the loading zone lies",
+      "required": true
+    },
+    "side": {
+      "description": "Side of street the zone occupies; '-erly' source forms normalize to compass points ('southeasterly side' -> southeast); empty when the source states none. Extends common#side with intercardinal values pending their addition to _common.json",
+      "$ref": "common#side",
+      "enum": [
+        "north",
+        "south",
+        "east",
+        "west",
+        "northeast",
+        "northwest",
+        "southeast",
+        "southwest",
+        "both",
+        "odd",
+        "even"
+      ]
+    },
+    "from_point": {
+      "description": "Named street or way anchoring the start of the zone (the X in 'from X' or 'from a point N feet DIR of X'); holds only the street name, never offset text",
+      "required": true
+    },
+    "from_offset_feet": {
+      "description": "Distance in feet from from_point to where the zone begins; empty when the zone begins at from_point itself",
+      "type": "integer"
+    },
+    "from_offset_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass direction from from_point to the zone's start ('140 feet south of Beacon Street' -> south); empty when there is no offset. Proposed common#compass_point vocabulary, defined inline pending its addition to _common.json"
+    },
+    "extent_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass direction the zone runs from its start point; '-erly' source forms normalize ('southerly' -> south, 'northeasterly' -> northeast); empty for from/to endpoint entries. Proposed common#compass_point vocabulary, defined inline pending its addition to _common.json"
+    },
+    "length_feet": {
+      "description": "Length of the zone in feet along extent_direction; empty for from/to endpoint entries",
+      "type": "integer"
+    },
+    "to_point": {
+      "description": "Named street or way ending the zone, only for 'from X to Y' entries; empty when the extent is given as direction + length",
+      "required": false
+    },
+    "time_limit_minutes": {
+      "description": "Loading time limit in minutes: 30 for entries under paragraph (a), 10 for entries under paragraph (b)",
+      "required": true,
+      "type": "integer",
+      "enum": [
+        "10",
+        "30"
+      ]
+    },
+    "location_detail": {
+      "description": "Positional qualifier from the source not captured by the segment atoms (e.g. 'at the existing crosswalk', 'west drive of the Walnut Hill School')",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": [
+    "source_text"
+  ]
+}

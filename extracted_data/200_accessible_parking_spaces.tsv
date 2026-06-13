@@ -1,0 +1,88 @@
+street	side	cross_street	offset_feet	offset_direction	to_offset_feet	length_feet	extent_direction	spaces	address_number	location_detail	notes	source_text
+Adams Street	north	Centre Street	220			20	west					Adams Street: north side, 220 feet from Centre Street, westerly 20 feet.
+Albemarle Road	east	Watertown Street	185	north	390			6		eastern roadway		Albemarle Road: eastern roadway, east side, from a point 185 feet north of Watertown Street to a point 390 feet north of Watertown Street (6 spaces).
+Albemarle Road	east	Watertown Street	530	north	600			3		eastern roadway		Albemarle Road: eastern roadway, east side, from a point 530 feet north of Watertown Street to a point 600 feet north of Watertown Street (3 spaces).
+Albemarle Road	east	Watertown Street	1355	north	1395			3		eastern roadway		Albemarle Road: eastern roadway, east side, from a point 1355 feet north of Watertown Street to a point 1395 feet north of Watertown Street (3 spaces).
+Albemarle Road	east	Watertown Street	1545	north	1575			2		eastern roadway		Albemarle Road: eastern roadway, east side, from a point 1545 feet north of Watertown Street to a point 1575 feet north of Watertown Street (2 spaces).
+Armory Street	west	Washington Street	300	north								Armory Street: west side, 300 feet north of Washington Street.
+Armory Street	west	Washington Street	320	north								Armory Street: west side, 320 feet north of Washington Street.
+Armory Street	west	Washington Street	230	north			north			to end		Armory Street: west side, 230 feet north of Washington Street, northerly to end.
+Ash Street	north									opposite Auburndale Brach library	'Brach' sic in source (Branch)	Ash Street: north side, opposite Auburndale Brach library.
+Aspen Avenue	north	Forest Avenue	130	west		28	west					Aspen Avenue: north side, 130 feet west of Forest Avenue, westerly 28 feet.
+Auburn Street	north	Lexington Street	248	west		32	west					Auburn Street: north side, 248 feet west of Lexington Street, westerly 32 feet.
+Beacon Street	north	Centre Street	60	west		20	west					Beacon Street, north side, from a point 60 feet west of Centre Street, 20 feet westerly.
+Beech Street								16				Beech Street: in front of 16 Beech Street.
+Bowen Street	south	Centre Street	435	west		20	west					Bowen Street: south side, 435 feet west of Centre Street, 20 feet westerly.
+Bowen Street	south	Centre Street	460	west		20	west					Bowen Street: south side, 460 feet west of Centre Street, 20 feet westerly.
+Centre Green	east	Lyman Street	95	south		30	south					Centre Green: east side, from a point 95 feet south of Lyman Street, southerly 30 feet.
+Centre Green		Langley Road	40	north		20	south					Centre Green: From a point 40 feet north of Langley Road, 20 feet southerly.
+Centre Street	west	Pleasant Street	40	south		20	south					Centre Street: west side, from a point 40 feet south of Pleasant Street, southerly 20 feet.
+Chapel Street								154				Chapel Street, in front of 154 Chapel Street.
+Chestnut Street	north	Oak Street	290	east		20	east					Chestnut Street, north side, from a point 290' east of Oak Street, 20' easterly.
+Chestnut Street	north	Oak Street	320	east		20	east					Chestnut Street, north side, from a point 320' east of Oak Street, 20' easterly.
+Chestnut Street	south	Oak Street	110	east	135							Chestnut Street, south side, from a point 110' east of Oak Street to a point 135' east of Oak Street.
+Commonwealth Avenue										on either side of the front pathway to Street Ignatius Church	'Street Ignatius' sic in source (St. Ignatius)	Commonwealth Avenue: On either side of the front pathway to Street Ignatius Church.
+Commonwealth Avenue	south	Melrose Street	231	east		22	east			south Drive		Commonwealth Avenue: south side, south Drive, 231 feet east of Melrose Street, easterly 22 feet.
+Commonwealth Avenue, South Drive	south	Chestnut Terrace	125	east		20	east					Commonwealth Avenue, South Drive, South Side, from a point 125 feet east of Chestnut Terrace, 20 feet easterly.
+Coyne Road									18-20	in front of 18-20 Coyne Road		Coyne Road: in front of 18-20 Coyne Road.
+Crescent Avenue	east	Norwood Avenue	105	south		22	south					Crescent Avenue: east side, 105 feet south of Norwood Avenue, southerly 22 feet.
+Crystal Street	west	Beacon Street	155	south		20	south					Crystal Street: west side, 155 feet south of Beacon Street, 20 feet southerly.
+Curve Street								2	21	Myrtle Baptist Church		Curve Street: Two spaces in front of #21 Curve Street (Myrtle Baptist Church).
+Curve Street	west	Prospect Street	240	south		40	south					Curve Street, west side, from a point 240 feet south of Prospect Street, 40 feet southerly.
+Curve Street	west	Prospect Street	150	south		20	south					Curve Street, west side, from a point 150 feet south of Prospect Street, 20 feet southerly.
+Dalby Street	east	Watertown Street	140	north		20	north					Dalby Street: east side, from a point 140 feet north of Watertown Street, 20 feet northerly.
+Elliot Street	south	Chestnut Street	195	east		25	east					Elliot Street: south side, 195 feet east of Chestnut Street, easterly 25 feet.
+Elm Street	west	Border Street	50	north		20	north					Elm Street, west side, from a point 50 feet north of Border Street, northerly 20 feet.
+Hawthorn Street	east	Burton Avenue	60	north								Hawthorn Street: east side, 60 feet north of Burton Avenue.
+Homer Street	north	Centre Street	40	west		40	west					Homer Street: north side, 40 feet west of Centre Street, westerly 40 feet.
+Homer Street	north	City Hall Drive	40	west		20	west				second entry in merged paragraph; tail fragment rejoined	Homer Street: north side, 40 feet west of City Hall Drive, westerly 20 feet.
+Homer Street	south	Walnut Street	200	west		20	east					Homer Street: south side, 200 feet west of Walnut Street, easterly 20 feet.
+Hull Street	north							3		just to the west of the ramp	street name repeated mid-entry in source	Hull Street: Three (3) accessible parking spaces, north side, Hull Street, just to the west of the ramp.
+Langley Road	east	John Street	45	north		20	north					Langley Road, east side, from a point 45 feet north of John Street, 20 feet northerly.
+Lincoln Road								68				Lincoln Road: in front of #68.
+Lincoln Road	north	Hawthorn Street	55	east		20	east					Lincoln Road: north side, 55 feet east of Hawthorn Street, 20 feet easterly.
+Lincoln Street										opposite the hp ramp at the Newton Highlands Congregational Church on Lincoln Street	'hp' sic in source (handicap)	Lincoln Street: opposite the hp ramp at the Newton Highlands Congregational Church on Lincoln Street.
+Linwood Avenue	north	Nevada Street	250	west								Linwood Avenue: north side, 250 feet west of Nevada Street.
+Madison Avenue		Walnut Street								east side of Walnut Street; immediately north of the crosswalk	'east side' modifies Walnut Street, not Madison Avenue — side left empty	Madison Avenue: east side of Walnut Street, immediately north of the crosswalk.
+Mechanic Street	east	Elliot Street	65	south		20	south					Mechanic Street, east side, from a point 65 feet south of Elliot Street, southerly 20 feet.
+Murphy Court	north	Adams Street	70	west		20	west					Murphy Court: north side, from a point 70 feet west of Adams Street westerly 20 feet.
+Nevada Street								262				Nevada Street: in front of 262 Nevada Street.
+Nevada Street										in front of the ramp leading to #538 California Street		Nevada Street: in front of the ramp leading to #538 California Street.
+Newbury Street	east	Newbury Terrace	60	south		20	south					Newbury Street: east side, 60 feet south of Newbury Terrace, 20 feet southerly.
+North Street (Newtonville)	east							149				North Street (Newtonville): east side, in front of #149.
+Plymouth Road								212				Plymouth Road: in front of #212 Plymouth Road.
+Suffolk Road	south	Woodman Road	27	east		20	west					Suffolk Road: south side, 27 feet east of Woodman Road, westerly 20 feet.
+Temple Street								1		near the entrance to the Temple Shalom Parking Lot		Temple Street: one accessible space, near the entrance to the Temple Shalom Parking Lot.
+Trowbridge Street								20				Trowbridge Street: in front of 20 Trowbridge Street.
+Union Street		Herrick Road								corner	street name repeated mid-entry in source	Union Street: Corner of Union Street and Herrick Road.
+Walnut Street	east	Foster Street	20	north								Walnut Street: east side, 20 feet north of Foster Street.
+Walnut Street	east	Madison Avenue	150	north		20	north					Walnut Street: east side, 150 feet north of Madison Avenue, northerly 20 feet.
+Walnut Street	east	Washington Street	270	north		20	north					Walnut Street: east side, 270 feet north of Washington Street, 20 feet northerly.
+Walnut Street	west	Austin Street	225	south		20	south					Walnut Street: west side, 225 feet south of Austin Street, southerly 20 feet.
+Ward Street	north	West Boulevard Street	150	east		60	west					Ward Street: north side, 150 feet east of West Boulevard Street, westerly 60 feet.
+Ward Street	north	Morseland Avenue	40	east		20	east					Ward Street: north side, 40 feet east of Morseland Avenue, easterly 20 feet.
+Washington Park	north	Park Place	130	east		25	east					Washington Park: north side, 130 feet east of Park Place, easterly 25 feet.
+Washington Street	north	Armory Street	290	west		20	west					Washington Street: from a point 290' west of Armory Street, 20' westerly, north side.
+Washington Street	north	Kempton Place	25	west	45							Washington Street: from a point 25' west of Kempton Place to a point 45' west of Kempton Place, north side.
+Washington Street	north	Waltham Street	155	west		20	west					Washington Street: from a point 155' west of Waltham Street, 20' westerly, north side.
+Washington Street	north	Elm Street	100	west		20	west					Washington Street: from a point 100' west of Elm Street, 20' westerly, north side.
+Washington Street	south	Highland Street	220	east		20	east					Washington Street: from a point 220' east of Highland Street, 20' easterly, south side.
+Washington Street	south	Highland Street	400	east		20	east					Washington Street: from a point 400' east of Highland Street, 20' easterly, south side.
+Washington Street	north	Central Avenue	180	west		20	east					Washington Street: north side, 180' west of Central Avenue, easterly 20 feet.
+Washington Street	north	Lowell Avenue	240	east		20	west					Washington Street, north side, from a point 240 feet east of Lowell Avenue, 20 feet westerly.
+Washington Street	south	Crafts Street	380	east		20	east					Washington Street, south side, from a point 380 feet east of Crafts Street, 20 feet easterly.
+Washington Street	southeast	Beacon Street	710	north		20	north					Washington Street: southeast side, 710 feet north of Beacon Street, 20 feet northerly.
+Washington Street	southeast	Beacon Street	730	north		20	north					Washington Street: southeast side, 730 feet north of Beacon Street, 20 feet northerly.
+Watertown Street								468			stray period artifact in source; paragraph merged with the 851 Watertown Street entry	Watertown Street: in front of #468. .
+Watertown Street								851				Watertown Street: in front of 851 Watertown Street.
+Watertown Street	north	Bridge Street	20	east		22	east					Watertown Street: north side, 20 feet east of Bridge Street, easterly 22 feet.
+Watertown Street	north	Waltham Street	110	east		20	west					Watertown Street: north side, from a point 110 feet east of Waltham Street, westerly 20 feet.
+Watertown Street	south	Dunstan Street	46	east		20	east					Watertown Street: south side, 46 feet east of Dunstan Street, easterly 20 feet.
+Watertown Street	south	Chapel Street	92	east		20	east					Watertown Street: south side, 92 feet east of Chapel Street, easterly 20 feet.
+Watertown Street		Davis Avenue	170	east		20	west					Watertown Street: From a point 170 feet east of Davis Avenue 20 feet westerly.
+West Street	east	Watertown Street	272	south		22	south					West Street: east side, 272 feet south of Watertown Street, southerly 22 feet.
+West Street								20				West Street: in front of #20.
+West Street									38 or 42		source offers alternative house numbers	West Street: in front of #38 or #42.
+Windsor Road		Beacon								NW corner	cross street written as 'Beacon/Windsor' shorthand	Windsor Road: NW corner of Beacon/Windsor.
+Wyman Street	east	Woodward Street	150	south		22	west					Wyman Street: east side, 150 feet south of Woodward Street, westerly 22 feet.
+Wyman Street	northeast	Woodward Street	320	southwest		20	west					Wyman Street, northeast side, 320 feet southwest of Woodward Street, westerly 20 feet.

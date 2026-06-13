@@ -1,0 +1,33 @@
+school	street	from_point	from_offset_feet	from_offset_direction	to_point	to_offset_feet	to_offset_direction	extent_direction	extent_length_feet	directions	location_detail	notes	source_text
+Angier School	Beacon Street	Manitoba Road	25	east				east	575				Angier School: Beacon Street, from a point 25 feet east of Manitoba Road, easterly 575 feet.
+Bigelow Middle School/Underwood School	Park Street	Arlington Street	112	south	Elmwood Street	68	south			all			(1) Park Street, from a point 112 feet south of Arlington Street to a point 68 feet south of Elmwood Street, both directions.
+Bigelow Middle School/Underwood School	Tremont Street	Park Street			Hibbard Road	85	east			all			(2) Tremont Street, from Park Street to a point 85 feet east of Hibbard Road, both directions.
+Bigelow Middle School/Underwood School	Vernon Street	Eldredge Street			Park Street	500	east			all			(3) Vernon Street, from Eldredge Street to a point 500 feet easterly of Park Street, both directions.
+Bigelow Middle School/Underwood School	Eldredge Street	Vernon Street	68	south	Vernon Street	220	north			all			(4) Eldredge Street, from a point 68 feet south of Vernon Street to a point 220 feet north of Vernon Street, both directions.
+Bowen School	Cypress Street	Jackson Street	200	north	Bow Road	105	north						Bowen School: Cypress Street, from a point 200 feet north of Jackson Street to a point 105 feet north of Bow Road.
+Brimmer-May School	Middlesex Road	Dunster Road			the Brookline town line								(1) Middlesex Road, from Dunster Road to the Brookline town line.
+Brown Middle School	Meadowbrook Road												Brown Middle School: Meadowbrook Road.
+Burr School	Pine Street	Washburn Avenue	225	northeast				northeast	385				Burr School: Pine Street, from a point 225 feet northeast of Washburn Avenue, northeasterly 385 feet.
+Burr School	Lexington Street	Staniford Street			Staniford Street	450	north						Burr School: Lexington Street, from Staniford Street to a point 450 feet north of Staniford Street.
+Cabot School	Cabot Street	Withington Road	115	east	East Side Parkway	15	west						Cabot School: Cabot Street, from a point 115 feet east of Withington Road to a point 15 feet west of East Side Parkway.
+Country Side School	Dedham Street	Walnut Street	100	south	Cannon Street	25	north						Country Side School: Dedham Street, from a point 100 feet south of Walnut Street to a point 25 feet north of Cannon Street.
+Education Center	Walnut Street	Watertown Street			Linwood Avenue	100	south						Education Center: Walnut Street, from Watertown Street to 100 feet south of Linwood Avenue.
+Franklin School	Derby Street	Pershing Road	135	west	Cherry Street	130	west			all			Franklin School: Derby Street, from a point 135 feet west of Pershing Road to a point 130 feet west of Cherry Street, both directions.
+Horace Mann School	Nevada Street	California Street			Linwood Avenue								Horace Mann School: Nevada Street from California Street to Linwood Avenue.
+Horace Mann School	Linwood Avenue	Nevada Street			Crafts Street								(1) Linwood Avenue from Nevada Street to Crafts Street.
+Horace Mann School	Linwood Avenue	Nevada Street			Crafts Street							duplicate of (1) in source	(2) Linwood Avenue from Nevada Street to Crafts Street.
+Lincoln Eliot School	Jackson Road	Jackson Terrace			Capital Street	370	north			all			(1) Jackson Road, from Jackson Terrace to a point 370 feet north of Capital Street, both directions.
+Lincoln Eliot School	Pearl Street	Jackson Road	200	west	Gardner Street	88	east			all			(2) Pearl Street, from a point 200 feet west of Jackson Road to a point 88 feet east of Gardner Street, both directions.
+Little People's School/Learning Prep School	Washington Street	Prospect Street	400	north	Prospect Street	200	south						(1) Washington Street from a point 400 feet north of Prospect Street to a point 200 feet South of Prospect Street;
+Little People's School/Learning Prep School	Prospect Street	Washington Street	50	east	the street's end								(2) Prospect Street from a point 50 feet east of Washington Street to the street's end.
+Mason-Rice School	Pleasant Street	Bracebridge Road	150	north	Tyler Terrace	100	south						Mason-Rice School: Pleasant Street, from a point 150 feet north of Bracebridge Road to a point 100 feet south of Tyler Terrace.
+Memorial-Spaulding School	Brookline Street	Hartman Road	250	north	Oak Hill Street	320	west						Memorial-Spaulding School: Brookline Street, from a point 250 feet north of Hartman Road to a point 320 feet west of Oak Hill Street.
+Newton Montessori School	Crescent Avenue	Centre Street			Norwood Avenue								Newton Montessori School: Crescent Avenue, Centre Street to Norwood Avenue.
+Oak Hill Middle School/Brown Middle School	Wheeler Road	Sharpe Road	190	east	Meadowbrook Road								(1) Wheeler Road, from a point 190 feet east of Sharpe Road to Meadowbrook Road.
+Oak Hill Middle School/Brown Middle School	Meadowbrook Road	Wheeler Road			Hartman Road	35	north						(2) Meadowbrook Road, from Wheeler Road to a point 35 feet north of Hartman Road.
+Peirce School	Temple Street	Mignon Road	270	north	Berkeley Street								(1) Temple Street, from a point 270 feet north of Mignon Road to Berkeley Street.
+Peirce School	Berkeley Street	Temple Street			Sterling Street	90	west						(2) Berkeley Street, from Temple Street to a point 90 feet west of Sterling Street.
+Williams School	Grove Street	Hancock Street	80	north	Woodland Road	255	south					unit missing in source ('255 south'); feet per section grammar	(1) Grove Street, from a point 80 feet north of Hancock Street to a point 255 south of Woodland Road.
+Williams School	Hancock Street	Williston Road			Lasell Street	120	north						(2) Hancock Street, from Williston Road to a point 120 feet north of Lasell Street.
+Zervas School	Beethoven Avenue	Beacon Street	60	south	Puritan Road	330	north						(1) Beethoven Avenue, from a point 60 feet south of Beacon Street to a point 330 feet north of Puritan Road;
+Zervas School	Beacon Street	Beethoven Road	180	west	Amy Circle	150	east					missing 'to' between endpoints in source; 'Beethoven Road' as written (cf. Beethoven Avenue in (1))	(2) Beacon Street, from a point 180 feet west of Beethoven Road a point 150 feet east of Amy Circle.

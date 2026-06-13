@@ -1,0 +1,42 @@
+{
+  "title": "Removed parking spaces (Sec. TPR-219)",
+  "columns": ["street", "side", "within_feet", "reference_point", "near_address", "meter_number", "location_detail", "notes", "source_text"],
+  "fields": {
+    "street": {
+      "description": "Street on which the removed parking space was located",
+      "required": true
+    },
+    "side": {
+      "description": "Side of the street the space was on; empty when the source does not state one",
+      "$ref": "common#side"
+    },
+    "within_feet": {
+      "description": "Distance in feet of the prohibition zone around the reference point, from 'within N feet of ...'; empty when the source gives no distance",
+      "type": "integer"
+    },
+    "reference_point": {
+      "description": "Physical feature the distance is measured from, lowercase without leading article (e.g. 'marked crosswalk'); empty when none stated",
+      "required": false
+    },
+    "near_address": {
+      "description": "Street address anchoring the reference point, exactly as written (e.g. '26 Lincoln Street', '39A Lincoln Street'); the geocodable anchor for the row",
+      "required": false
+    },
+    "meter_number": {
+      "description": "Former parking meter number, digits only with the '#' stripped; empty when the space was not described as metered",
+      "pattern": "[0-9]+"
+    },
+    "location_detail": {
+      "description": "Positional qualifier from the source that does not fit the structured columns; empty for all current entries",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

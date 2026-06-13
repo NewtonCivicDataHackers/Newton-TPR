@@ -1,0 +1,20 @@
+street	side	from_point	from_offset_feet	from_offset_direction	extent_direction	length_feet	to_point	time_limit_minutes	location_detail	notes	source_text
+Beethoven Avenue	east	Beacon Street	140	south	south	340		30			Beethoven Avenue, east side, from a point one hundred forty (140) feet south of Beacon Street, southerly three hundred forty (340) feet.
+Border Street	north	Elm Street	211	west	west	20		30			Border Street, north side from a point 211 feet west of Elm Street, westerly 20 feet.
+Border Street	north	Elm Street	500	west	west	53		30			Border Street, north side from a point 500 feet west of Elm Street, westerly 53 feet.
+Charlesbank Road	north	Centre Street	166	east	east	21		30			Charlesbank Road, north side, from a point 166 feet east of Centre Street easterly 21 feet.
+Columbus Street		Lincoln Street	150	north	north	80		30			Columbus Street, from a point 150 feet north of Lincoln Street, northerly 80 feet.
+Commonwealth Avenue	south	Lexington Street	800	east	east	100		30			Commonwealth Avenue, south side, from a point 800 feet east of Lexington Street, easterly 100 feet.
+Elm Road	south	Lowell Avenue					Blithdale Street	30			Elm Road, south side, from Lowell Avenue to Blithdale Street.
+Gardner Street	northwest	Pearl Street			northeast	210		30			Gardner Street, northwest side from Pearl Street, northeasterly 210 feet.
+Grove Street	north	Woodland Road	150	west	west	150		30			Grove Street, north side from a point 150 feet west of Woodland Road, westerly 150 feet.
+Herrick Road		Braeland Road	210	north	north	15		30	at the existing crosswalk		Herrick Road, from a point 210 feet north of Braeland Road, northerly 15 feet at the existing crosswalk.
+Highland Avenue	north	Walnut Street	40	west	west	40		30			Highland Avenue, from a point 40 feet west of Walnut Street, 40 feet westerly, north side.
+Jackson Road	southeast	Pearl Street			northeast	130		30			Jackson Road, from Pearl Street northeasterly 130 feet on southeasterly side.
+Langley Road	west	Jackson Street	20	south	south	27		30			Langley Road, west side, from a point 20 feet south of Jackson Street southerly 27 feet.
+Pearl Street	northeast	Gardner Street					Jackson Road	30			Pearl Street, northeast side, from Gardner Street to Jackson Road.
+Station Avenue	south	Walnut Street	250	east	east	20		30			Station Avenue, south side, from a point 250 feet east of Walnut Street easterly 20 feet.
+Sumner Street	west	Langley Road			north	50		30			Sumner Street, west side, from Langley Road, northerly 50 feet.
+Union Street	north	Langley Road			west	25		30			Union Street, north side, from Langley Road westerly 25 feet.
+Walnut Park	west	Washington Street	600	north	north	80		30	west drive of the Walnut Hill School		Walnut Park, west side of west drive of the Walnut Hill School from a point 600 feet north of Washington Street, northerly 80 feet.
+Lake Avenue	south	Laurel Street	520	east	east	60		10			Lake Avenue, south side, from a point 520 feet east of Laurel Street, easterly 60 feet.

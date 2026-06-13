@@ -1,0 +1,54 @@
+{
+  "title": "Through travel prohibited locations (Sec. TPR-99)",
+  "columns": ["street", "direction", "cross_street", "onto_street", "location_detail", "exception", "days", "times", "days_2", "times_2", "notes", "source_text"],
+  "fields": {
+    "street": {
+      "description": "Street the restricted traffic approaches on, name only — leg/drive qualifiers like 'eastern leg' go in location_detail, but named carriageways ('Commonwealth Avenue, North Drive') stay whole",
+      "required": true
+    },
+    "direction": {
+      "description": "Direction of travel the prohibition applies to; empty when the source states none",
+      "$ref": "common#direction"
+    },
+    "cross_street": {
+      "description": "Street being crossed or at which the prohibition applies ('crossing X', 'at X'); empty when the source states none",
+      "required": false
+    },
+    "onto_street": {
+      "description": "Street the prohibited through movement would continue onto ('onto X', 'continuing onto X'); often the same name as street — keep it anyway, that repetition is the through movement; empty when the source states none",
+      "required": false
+    },
+    "location_detail": {
+      "description": "Leg or positional qualifier from the source (e.g. 'eastern leg')",
+      "required": false
+    },
+    "exception": {
+      "description": "Exempted traffic, lowercase, without parentheses or the word 'except' (e.g. 'bicycles'); empty when no exemption",
+      "required": false
+    },
+    "days": {
+      "description": "Days of the first (or only) schedule; empty (with times empty) means at all times",
+      "$ref": "common#days"
+    },
+    "times": {
+      "description": "Time window(s) of the first (or only) schedule; empty means at all times",
+      "$ref": "common#time_ranges"
+    },
+    "days_2": {
+      "description": "Days of a second schedule when the source states a distinct day set with its own times; empty otherwise",
+      "$ref": "common#days"
+    },
+    "times_2": {
+      "description": "Time window(s) paired with days_2; empty when there is no second schedule",
+      "$ref": "common#time_ranges"
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

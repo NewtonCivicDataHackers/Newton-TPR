@@ -1,0 +1,5 @@
+street	from_point	to_point	excluded_intersection	remark	notes	source_text
+Boylston Street	Newton-Boston line	Newton-Wellesley line		This street being a state highway is covered by state highway regulations.		Boylston Street, from the Newton-Boston line to the Newton-Wellesley line. This street being a state highway is covered by state highway regulations.
+Centre Street	Winchester Street	Newton-Watertown line				Centre Street, from Winchester Street to Newton-Watertown line.
+Commonwealth Avenue	Newton-Boston line	Newton-Weston line	Washington Street			Commonwealth Avenue, from the Newton-Boston line to the junction of Washington Street not including the intersection, then, beginning again at the westerly limits of such intersection to the Newton-Weston line.
+Washington Street	Newton-Wellesley line	Newton-Boston line				Washington Street, from Newton-Wellesley line to Newton-Boston line.

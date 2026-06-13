@@ -1,0 +1,26 @@
+street	direction	cross_street	onto_direction	location_detail	notes	source_text
+Beacon Street	eastbound	Hammond Pond Parkway				Beacon Street, eastbound onto Hammond Pond Parkway.
+Beacon Street	northbound	Washington Street				Beacon Street, northbound onto Washington Street.
+Brookline Street	westbound	Dedham Street				Brookline Street, westbound onto Dedham Street.
+Centre Street	northbound	Beacon Street				Centre Street, northbound onto Beacon Street.
+Centre Street	eastbound	Park Street				Centre Street, eastbound onto Park Street.
+Cherry Street	southbound	Washington Street				Cherry Street, southbound onto Washington Street.
+Chestnut Street	northbound	Washington Street				Chestnut Street, northbound, onto Washington Street.
+Collins Road	northbound	Beacon Street				Collins Road, northbound, at Beacon Street.
+Commonwealth Avenue	eastbound	Day Street and Fuller Street				Commonwealth Avenue, eastbound, onto Day Street and Fuller Street.
+Dedham Street	southbound	Nahanton Street				Dedham Street, southbound onto Nahanton Street.
+Dedham Street	southbound	Nahanton Street	westbound	at the southernmost intersection of Nahanton Street and Dedham Street		Dedham Street, southbound onto Nahanton Street westbound at the southernmost intersection of Nahanton Street and Dedham Street.
+Elm Road	eastbound	Walnut Street				Elm Road, eastbound, onto Walnut Street.
+Homer Street	eastbound	Walnut Street				Homer Street, eastbound onto Walnut Street.
+Jackson Road	southbound	Washington Street				Jackson Road, southbound onto Washington Street.
+Walnut Street	northbound	Watertown Street				Walnut Street, northbound onto Watertown Street.
+Walnut Street	northbound	Washington Street				Walnut Street, northbound, onto Washington Street.
+Walnut Street	southbound	Homer Street				Walnut Street, southbound onto Homer Street.
+Washington Street	westbound	Jackson Road				Washington Street, westbound onto Jackson Road.
+Washington Street	eastbound	Chestnut Street				Washington Street, eastbound, onto Chestnut Street.
+Washington Street	eastbound	Commonwealth Avenue				Washington Street, eastbound onto Commonwealth Avenue.
+Washington Street	eastbound	Highland Street				Washington Street, eastbound, onto Highland Street.
+Washington Street	eastbound	Putnam Street				Washington Street, eastbound, onto Putnam Street.
+Washington Street	eastbound	Woodland MBTA driveway				Washington Street, eastbound onto Woodland MBTA driveway.
+Washington Street	northeastbound	Washington Street		continuing onto Washington Street; opposite Elm Street		Washington Street, north-eastbound, continuing onto Washington Street (opposite Elm Street).
+Winchester Street	southbound	Needham Street				Winchester Street, southbound, onto Needham Street.

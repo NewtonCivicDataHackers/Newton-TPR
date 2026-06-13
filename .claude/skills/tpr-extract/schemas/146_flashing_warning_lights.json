@@ -1,0 +1,70 @@
+{
+  "title": "Flashing warning light locations (Sec. TPR-146)",
+  "columns": [
+    "street",
+    "direction",
+    "cross_street",
+    "landmark",
+    "offset_feet",
+    "offset_direction",
+    "signal_type",
+    "pedestrian_activated",
+    "location_detail",
+    "notes",
+    "source_text"
+  ],
+  "fields": {
+    "street": {
+      "description": "Street on which the flashing warning light is located, as written in the source (suspected typos kept verbatim and flagged in notes)",
+      "required": true
+    },
+    "direction": {
+      "description": "Direction of travel the light governs; empty when the source states none (most entries)",
+      "$ref": "common#direction"
+    },
+    "cross_street": {
+      "description": "Named public street/way locating the light: the 'at'/'and' street for intersection entries, or the reference way for offset entries; slash-joined dual designations kept as written; empty when the reference is a landmark",
+      "required": false
+    },
+    "landmark": {
+      "description": "Non-street reference feature anchoring the location (park, greenway, driveway, parking area, town line), leading article 'the' dropped; empty when the reference is a named street",
+      "required": false
+    },
+    "offset_feet": {
+      "description": "Distance in feet from the reference point, for 'N feet DIRECTION of REF' entries; empty for plain intersection entries",
+      "type": "integer"
+    },
+    "offset_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass bearing of the offset from the reference point; set iff offset_feet is set"
+    },
+    "signal_type": {
+      "description": "Type of flashing device from the trailing descriptor: rrfb (rectangular rapid flashing beacon), flashing_yellow, or flashing_red; empty when the source states none",
+      "enum": [
+        "rrfb",
+        "flashing_yellow",
+        "flashing_red"
+      ]
+    },
+    "pedestrian_activated": {
+      "description": "'yes' when the source says the device is pedestrian activated; empty when activation is not stated",
+      "enum": [
+        "yes"
+      ]
+    },
+    "location_detail": {
+      "description": "Positional qualifier from the source not captured by the other columns (e.g. 'eastern leg', 'between the entrance and exit'); never carries the signal descriptor",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text (suspected typos, missing signal type); never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": [
+    "source_text"
+  ]
+}

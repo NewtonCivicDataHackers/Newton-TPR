@@ -6,6 +6,69 @@
     },
     "96_no_turn_on_red": {
       "rows": 76
+    },
+    "85_one_way_streets": {
+      "rows": 110
+    },
+    "86_u_turns_prohibited": {
+      "rows": 18
+    },
+    "87_left_turns_prohibited": {
+      "rows": 40
+    },
+    "88_right_turn_only": {
+      "rows": 13
+    },
+    "89_right_turns_prohibited": {
+      "rows": 22
+    },
+    "90_vehicle_restrictions": {
+      "rows": 5
+    },
+    "95_thruways": {
+      "rows": 4
+    },
+    "97_left_lane_must_turn_left": {
+      "rows": 79
+    },
+    "98_right_lane_must_turn_right": {
+      "rows": 25
+    },
+    "99_through_travel_prohibited": {
+      "rows": 11
+    },
+    "145_traffic_control_signals": {
+      "rows": 124
+    },
+    "146_flashing_warning_lights": {
+      "rows": 63
+    },
+    "147_stop_signs": {
+      "rows": 989
+    },
+    "149_school_zones": {
+      "rows": 32
+    },
+    "150_safety_zones": {
+      "rows": 17
+    },
+    "172_loading_zones": {
+      "rows": 19
+    },
+    "179_school_drop_off_zones": {
+      "rows": 30
+    },
+    "199_fire_lanes": {
+      "rows": 12
+    },
+    "200_accessible_parking_spaces": {
+      "rows": 87
+    },
+    "219_removed_parking_spaces": {
+      "rows": 2
+    },
+    "221_game_day_sign_locations": {
+      "rows": 7
     }
   }
 }

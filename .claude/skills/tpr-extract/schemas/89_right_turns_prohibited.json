@@ -1,0 +1,44 @@
+{
+  "title": "Right turn prohibitions (Sec. TPR-89)",
+  "columns": ["street", "direction", "cross_street", "days", "times", "exemption", "location_detail", "notes", "source_text"],
+  "fields": {
+    "street": {
+      "description": "Street, way, or facility the restricted traffic is on; the first-named way exactly as listed (whitespace-collapsed, not beautified); carriageway designations like ', South Drive' stay in the name",
+      "required": true
+    },
+    "direction": {
+      "description": "Direction of travel the prohibition applies to; 'southerly' normalizes to southbound (see spec); empty when the source states none",
+      "$ref": "common#direction"
+    },
+    "cross_street": {
+      "description": "Street, way, or facility onto/into which the right turn is prohibited; leading article 'the' dropped; leg qualifiers (e.g. 'eastern leg') go to location_detail. Every entry as of revision 2026-01-16 names a target, so an empty cell signals a parse problem",
+      "required": false
+    },
+    "days": {
+      "description": "Days the prohibition applies; empty means every day. Semicolon separates paired schedule groups: the i-th days group pairs with the i-th times group (see spec, Beacon Street gold row)",
+      "$ref": "common#days",
+      "pattern": "(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all)(,(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all))*(;(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all)(,(mon|tue|wed|thu|fri|sat|sun|school_days|holidays|all))*)*"
+    },
+    "times": {
+      "description": "Time window(s) the prohibition applies; empty means at all times. Semicolon separates paired schedule groups: the i-th times group pairs with the i-th days group (see spec, Beacon Street gold row)",
+      "$ref": "common#time_ranges",
+      "pattern": "([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d(,([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d)*(;([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d(,([01]?\\d|2[0-3]):[0-5]\\d-([01]?\\d|2[0-3]):[0-5]\\d)*)*"
+    },
+    "exemption": {
+      "description": "Vehicle class exempt from the prohibition, lowercase without 'except' or parentheses (e.g. 'bicycles'); empty when none",
+      "required": false
+    },
+    "location_detail": {
+      "description": "Approach or leg qualifier from the source (e.g. 'eastern leg', 'from driveway of 2 Newton Place (255 Washington Street)')",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

@@ -1,0 +1,41 @@
+street	direction	cross_street	cross_street_direction	destination	days	times	schedule_detail	exceptions	location_detail	notes	source_text
+Auburn Street	eastbound			driveway of 1900 Commonwealth Avenue							Auburn Street, eastbound into driveway of 1900 Commonwealth Avenue.
+Auburn Street		Curve Street				07:00-09:00					Auburn Street onto Curve Street, from 7:00 a.m. to 9:00 a.m.
+Beacon Street	eastbound			Newton Centre municipal parking area							Beacon Street, eastbound, into Newton Centre municipal parking area.
+Beacon Place		Centre Street									Beacon Place onto Centre Street.
+Beacon Street		Beethoven Avenue					mon,tue,thu,fri,school_days 08:00-09:00,14:30-15:30; wed,school_days 08:00-09:00,12:00-13:00				Beacon Street onto Beethoven Avenue, Mondays, Tuesdays, Thursdays, Fridays, school days, 8:00 a.m. to 9:00 a.m. and 2:30 p.m. to 3:30 p.m., Wednesdays, school days, 8:00 a.m. to 9:00 a.m. and 12:00 p.m. to 1:00 p.m.
+Beacon Street		Hammondswood Road				07:00-09:00					Beacon Street onto Hammondswood Road, from 7:00 a.m. to 9:00 a.m.
+Bridge Street	southbound	Watertown Street	eastbound			16:00-18:00					Bridge Street southbound onto Watertown Street eastbound between 4 p.m. and 6 p.m.
+Bristol Road	northbound	Commonwealth Avenue, North Drive						bicycles			Bristol Road, northbound onto Commonwealth Avenue, North Drive (except bicycles).
+Centre Street	southbound	Rice Street									Centre Street southbound onto Rice Street.
+Charlesbank Road	westbound	Centre Street									Charlesbank Road, for westbound vehicles on Charlesbank Road at Centre Street.
+Commonwealth Avenue	eastbound	Woodbine Street									Commonwealth Avenue, eastbound onto Woodbine Street.
+Crafts Street	eastbound	Albemarle Road						bicycles			Crafts Street, eastbound onto Albemarle Road (except bicycles).
+Cypress Street	eastbound	Centre Street									Cypress Street, easterly onto Centre Street.
+Davis Street		Highland Street									Davis Street onto Highland Street.
+Elliot Street	eastbound	High Street									Elliot Street, eastbound onto High Street.
+Forest Street		Walnut Street	northbound								Forest Street onto Walnut Street, northbound.
+Grove Street	northbound			Williams School driveway							Grove Street, northbound into Williams School driveway.
+Grove Street	northbound			Riverside Office Center northerly drive							Grove Street, northerly into the Riverside Office Center northerly drive.
+Grove Street	northbound			Riverside Office Center southerly drive							Grove Street, northerly into the Riverside Office Center southerly drive.
+Grove Street	southbound	Central Street	eastbound								Grove Street, southbound, onto Central Street eastbound.
+Linden Street	northbound	Cliff Road									Linden Street, northbound, onto Cliff Road.
+Morseland Avenue	southbound	Ward Street									Morseland Avenue, southbound onto Ward Street.
+Nahanton Street	eastbound	Dedham Street	northbound						at the southernmost intersection of Nahanton Street and Dedham Street	source entry wraps across a blank line; rejoined	Nahanton Street, eastbound, onto Dedham Street northbound at the southernmost intersection of Nahanton Street and Dedham Street.
+North Street	northwestbound	Albemarle Road						bicycles	eastern leg		North Street, northwestbound onto Albemarle Road, eastern leg (except bicycles).
+Park Street	northbound	Centre Street									Park Street, for northbound vehicles on Park Street at Centre Street.
+Peirce Elementary School Parking Lot		Berkeley Street									Peirce Elementary School Parking Lot onto Berkeley Street.
+Ruane Road				Peirce Elementary School Parking Lot							Ruane Road into the Peirce Elementary School Parking Lot.
+Short Street		Beacon Street									Short Street onto Beacon Street.
+Walnut Street	northbound	Elm Road			school_days	08:00-09:30,15:00-16:30					Walnut Street, northbound onto Elm Road, school days, 8:00 a.m. to 9:30 a.m. and 3:00 p.m. to 4:30 p.m.
+Walnut Street	northbound	Lowell Avenue									Walnut Street, northbound onto Lowell Avenue.
+Walnut Street	northbound	Tiger Drive									Walnut Street, northbound, onto Tiger Drive.
+Washburn Street		Capital Street			school_days	08:00-08:45					Washburn Street onto Capital Street, school days, 8:00 a.m. to 8:45 a.m.
+Washington Street		Waltham Street	eastbound							near-duplicate of the adjacent 'Washington Street, eastbound, onto Waltham Street.' entry	Washington Street onto Waltham Street, eastbound.
+Washington Street	eastbound	Waltham Street								near-duplicate of the adjacent 'Washington Street onto Waltham Street, eastbound.' entry	Washington Street, eastbound, onto Waltham Street.
+Washington Street	northbound	Centre Street									Washington Street, for northbound vehicles on Washington Street at Centre Street.
+Washington Street	westbound	Washington Street							opposite Elm Street		Washington Street, westbound, onto Washington Street (opposite Elm Street).
+Washington Street	westbound								at the entrance to the Massachusetts Turnpike		Washington Street, for westbound vehicles on Washington Street at the entrance to the Massachusetts Turnpike.
+Watertown Street		Washington Street									Watertown Street onto Washington Street.
+Williams School driveway		Grove Street	northbound							appositive 'Grove Street' after the driveway name locates the driveway; redundant with cross_street	Williams School driveway, Grove Street, onto Grove Street northbound.
+Woodland Road		Hancock Street			mon,tue,wed,thu,fri	07:00-16:00				double period after 'p.m.' in source	Woodland Road onto Hancock Street, 7:00 a.m. to 4:00 p.m.., weekdays.

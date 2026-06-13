@@ -24,72 +24,107 @@
     {
       "section": "85",
       "title": "One-way streets",
-      "status": "planned",
+      "status": "active",
       "source": "sections/85.txt",
       "slug": "one_way_streets",
       "output": "extracted_data/85_one_way_streets.tsv",
       "schema": "schemas/85_one_way_streets.json",
-      "spec": "specs/85_one_way_streets.md"
+      "spec": "specs/85_one_way_streets.md",
+      "counting": {
+        "region_start": "direction indicated below:",
+        "region_end": "\\(Rev \\. Ords\\.",
+        "entry_start": "^(\\(\\d+\\)|[A-Z][^():]*,)"
+      }
     },
     {
       "section": "86",
       "title": "U-turns",
-      "status": "planned",
+      "status": "active",
       "source": "sections/86.txt",
       "slug": "u_turns_prohibited",
       "output": "extracted_data/86_u_turns_prohibited.tsv",
       "schema": "schemas/86_u_turns_prohibited.json",
-      "spec": "specs/86_u_turns_prohibited.md"
+      "spec": "specs/86_u_turns_prohibited.md",
+      "counting": {
+        "region_start": "U-turn on the following streets:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^(\\(\\d+\\)|[A-Z]).*[^:]$"
+      }
     },
     {
       "section": "87",
       "title": "Left turns prohibited",
-      "status": "planned",
+      "status": "active",
       "source": "sections/87.txt",
       "slug": "left_turns_prohibited",
       "output": "extracted_data/87_left_turns_prohibited.tsv",
       "schema": "schemas/87_left_turns_prohibited.json",
-      "spec": "specs/87_left_turns_prohibited.md"
+      "spec": "specs/87_left_turns_prohibited.md",
+      "counting": {
+        "region_start": "following intersections:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "88",
       "title": "Right turn only",
-      "status": "planned",
+      "status": "active",
       "source": "sections/88.txt",
       "slug": "right_turn_only",
       "output": "extracted_data/88_right_turn_only.tsv",
       "schema": "schemas/88_right_turn_only.json",
-      "spec": "specs/88_right_turn_only.md"
+      "spec": "specs/88_right_turn_only.md",
+      "counting": {
+        "region_start": "following intersections:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "89",
       "title": "Right turns prohibited",
-      "status": "planned",
+      "status": "active",
       "source": "sections/89.txt",
       "slug": "right_turns_prohibited",
       "output": "extracted_data/89_right_turns_prohibited.tsv",
       "schema": "schemas/89_right_turns_prohibited.json",
-      "spec": "specs/89_right_turns_prohibited.md"
+      "spec": "specs/89_right_turns_prohibited.md",
+      "counting": {
+        "region_start": "\\A",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "90",
       "title": "Vehicle Restrictions on Public Ways., the following prohibitions apply:",
-      "status": "planned",
+      "status": "active",
       "source": "sections/90.txt",
       "slug": "vehicle_restrictions",
       "output": "extracted_data/90_vehicle_restrictions.tsv",
       "schema": "schemas/90_vehicle_restrictions.json",
-      "spec": "specs/90_vehicle_restrictions.md"
+      "spec": "specs/90_vehicle_restrictions.md",
+      "counting": {
+        "region_start": "the following prohibitions apply:",
+        "region_end": "\\(TPR-360",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "95",
       "title": "Thruways",
-      "status": "planned",
+      "status": "active",
       "source": "sections/95.txt",
       "slug": "thruways",
       "output": "extracted_data/95_thruways.tsv",
       "schema": "schemas/95_thruways.json",
-      "spec": "specs/95_thruways.md"
+      "spec": "specs/95_thruways.md",
+      "counting": {
+        "region_start": "General Laws:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "96",
@@ -109,62 +144,92 @@
     {
       "section": "97",
       "title": "Left lane must turn left",
-      "status": "planned",
+      "status": "active",
       "source": "sections/97.txt",
       "slug": "left_lane_must_turn_left",
       "output": "extracted_data/97_left_lane_must_turn_left.tsv",
       "schema": "schemas/97_left_lane_must_turn_left.json",
-      "spec": "specs/97_left_lane_must_turn_left.md"
+      "spec": "specs/97_left_lane_must_turn_left.md",
+      "counting": {
+        "region_start": "following intersections:",
+        "region_end": "\\(Ord\\. No\\.",
+        "entry_start": "^[A-Z].*(bound|all directions)"
+      }
     },
     {
       "section": "98",
       "title": "Right lane must turn right",
-      "status": "planned",
+      "status": "active",
       "source": "sections/98.txt",
       "slug": "right_lane_must_turn_right",
       "output": "extracted_data/98_right_lane_must_turn_right.tsv",
       "schema": "schemas/98_right_lane_must_turn_right.json",
-      "spec": "specs/98_right_lane_must_turn_right.md"
+      "spec": "specs/98_right_lane_must_turn_right.md",
+      "counting": {
+        "region_start": "at the following intersections:",
+        "region_end": "\\(Ord\\. No\\. S-65",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "99",
       "title": "Through travel prohibited",
-      "status": "planned",
+      "status": "active",
       "source": "sections/99.txt",
       "slug": "through_travel_prohibited",
       "output": "extracted_data/99_through_travel_prohibited.tsv",
       "schema": "schemas/99_through_travel_prohibited.json",
-      "spec": "specs/99_through_travel_prohibited.md"
+      "spec": "specs/99_through_travel_prohibited.md",
+      "counting": {
+        "region_start": "Through travel prohibited",
+        "region_end": "\\(TPR-\\d+,",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "145",
       "title": "Traffic-control signal locations",
-      "status": "planned",
+      "status": "active",
       "source": "sections/145.txt",
       "slug": "traffic_control_signals",
       "output": "extracted_data/145_traffic_control_signals.tsv",
       "schema": "schemas/145_traffic_control_signals.json",
-      "spec": "specs/145_traffic_control_signals.md"
+      "spec": "specs/145_traffic_control_signals.md",
+      "counting": {
+        "region_start": "Traffic control signals shall be placed at the following locations:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z].*(,| and | at | near )"
+      }
     },
     {
       "section": "146",
       "title": "Flashing warning light locations",
-      "status": "planned",
+      "status": "active",
       "source": "sections/146.txt",
       "slug": "flashing_warning_lights",
       "output": "extracted_data/146_flashing_warning_lights.tsv",
       "schema": "schemas/146_flashing_warning_lights.json",
-      "spec": "specs/146_flashing_warning_lights.md"
+      "spec": "specs/146_flashing_warning_lights.md",
+      "counting": {
+        "region_start": "following locations:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "147",
       "title": "Obedience to isolated stop signs",
-      "status": "planned",
+      "status": "active",
       "source": "sections/147.txt",
       "slug": "stop_signs",
       "output": "extracted_data/147_stop_signs.tsv",
       "schema": "schemas/147_stop_signs.json",
-      "spec": "specs/147_stop_signs.md"
+      "spec": "specs/147_stop_signs.md",
+      "counting": {
+        "region_start": "unless otherwise indicated:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "148",
@@ -184,22 +249,32 @@
     {
       "section": "149",
       "title": "School zones",
-      "status": "planned",
+      "status": "active",
       "source": "sections/149.txt",
       "slug": "school_zones",
       "output": "extracted_data/149_school_zones.tsv",
       "schema": "schemas/149_school_zones.json",
-      "spec": "specs/149_school_zones.md"
+      "spec": "specs/149_school_zones.md",
+      "counting": {
+        "region_start": "established as school zones:",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^(\\(\\d+\\)|[A-Z][^:]*:\\s*\\S)"
+      }
     },
     {
       "section": "150",
       "title": "Safety Zones",
-      "status": "planned",
+      "status": "active",
       "source": "sections/150.txt",
       "slug": "safety_zones",
       "output": "extracted_data/150_safety_zones.tsv",
       "schema": "schemas/150_safety_zones.json",
-      "spec": "specs/150_safety_zones.md"
+      "spec": "specs/150_safety_zones.md",
+      "counting": {
+        "region_start": "Sec\\. TPR-150\\. Safety Zones\\.",
+        "region_end": "\\(TPR-752",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "168",
@@ -226,12 +301,17 @@
     {
       "section": "172",
       "title": "Loading zones",
-      "status": "planned",
+      "status": "active",
       "source": "sections/172.txt",
       "slug": "loading_zones",
       "output": "extracted_data/172_loading_zones.tsv",
       "schema": "schemas/172_loading_zones.json",
-      "spec": "specs/172_loading_zones.md"
+      "spec": "specs/172_loading_zones.md",
+      "counting": {
+        "region_start": "designated as loading zones which have a thirty minute time limit:",
+        "region_end": "\\(Ord\\. No\\. Z-19",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "176",
@@ -263,12 +343,17 @@
     {
       "section": "179",
       "title": "School drop off zones",
-      "status": "planned",
+      "status": "active",
       "source": "sections/179.txt",
       "slug": "school_drop_off_zones",
       "output": "extracted_data/179_school_drop_off_zones.tsv",
       "schema": "schemas/179_school_drop_off_zones.json",
-      "spec": "specs/179_school_drop_off_zones.md"
+      "spec": "specs/179_school_drop_off_zones.md",
+      "counting": {
+        "region_start": "until one-half hour after the scheduled end of school\\.",
+        "region_end": "\\(c\\) The commissioner",
+        "entry_start": "^(\\(\\d+\\) |[a-z]\\) |[A-Z].*\\bside\\b[^:]*$)"
+      }
     },
     {
       "section": "180",
@@ -300,22 +385,32 @@
     {
       "section": "199",
       "title": "Fire Lanes",
-      "status": "planned",
+      "status": "active",
       "source": "sections/199.txt",
       "slug": "fire_lanes",
       "output": "extracted_data/199_fire_lanes.tsv",
       "schema": "schemas/199_fire_lanes.json",
-      "spec": "specs/199_fire_lanes.md"
+      "spec": "specs/199_fire_lanes.md",
+      "counting": {
+        "region_start": "hereby designated as Fire Lanes",
+        "region_end": "\\(TPR-\\d+,",
+        "entry_start": "^\\(\\d+\\)"
+      }
     },
     {
       "section": "200",
       "title": "Accessible Parking Spaces",
-      "status": "planned",
+      "status": "active",
       "source": "sections/200.txt",
       "slug": "accessible_parking_spaces",
       "output": "extracted_data/200_accessible_parking_spaces.tsv",
       "schema": "schemas/200_accessible_parking_spaces.json",
-      "spec": "specs/200_accessible_parking_spaces.md"
+      "spec": "specs/200_accessible_parking_spaces.md",
+      "counting": {
+        "region_start": "Newton Revised Ordinances, 2017\\.",
+        "region_end": "\\(TPR-275,",
+        "entry_start": "^[A-Z]|^of City Hall Drive|^of Watertown Street \\(6 spaces\\)"
+      }
     },
     {
       "section": "201",
@@ -427,32 +522,43 @@
     {
       "section": "219",
       "title": "Parking prohibitions in areas that previously allowed parking",
-      "status": "planned",
+      "status": "active",
       "source": "sections/219.txt",
       "slug": "removed_parking_spaces",
       "output": "extracted_data/219_removed_parking_spaces.tsv",
       "schema": "schemas/219_removed_parking_spaces.json",
-      "spec": "specs/219_removed_parking_spaces.md"
+      "spec": "specs/219_removed_parking_spaces.md",
+      "counting": {
+        "region_start": "parking spaces were removed in compliance with Sec\\. 19-166 \\(p\\):",
+        "region_end": "\\(Rev\\. Ords\\.",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "220",
       "title": "Parking prohibitions for tow zones.*",
-      "status": "planned",
+      "status": "review",
       "source": "sections/220.txt",
       "slug": "tow_zones",
       "output": "extracted_data/220_tow_zones.tsv",
       "schema": "schemas/220_tow_zones.json",
-      "spec": "specs/220_tow_zones.md"
+      "spec": "specs/220_tow_zones.md",
+      "reason": "176-class section: blanket preamble entries + street headers with numbered sub-clauses + em-dash inline forms. Both models produced malformed rows (inconsistent column counts); needs careful single-section pass."
     },
     {
       "section": "221",
       "title": "Signs to be erected",
-      "status": "planned",
+      "status": "active",
       "source": "sections/221.txt",
       "slug": "game_day_sign_locations",
       "output": "extracted_data/221_game_day_sign_locations.tsv",
       "schema": "schemas/221_game_day_sign_locations.json",
-      "spec": "specs/221_game_day_sign_locations.md"
+      "spec": "specs/221_game_day_sign_locations.md",
+      "counting": {
+        "region_start": "restrictions are in effect:",
+        "region_end": "\\(Ord\\. No\\. Z-19",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "222",

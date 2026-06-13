@@ -1,0 +1,12 @@
+street	direction	cross_street	onto_street	location_detail	exception	days	times	days_2	times_2	notes	source_text
+Albemarle Road	northbound	Crafts Street	Albemarle Road	eastern leg	bicycles						Albemarle Road, eastern leg, crossing Crafts Street, continuing onto Albemarle Road, northbound (except bicycles).
+Albemarle Road	southbound	North Street	Albemarle Road	eastern leg	bicycles						Albemarle Road, eastern leg, crossing North Street, continuing onto Albemarle Road, southbound (except bicycles).
+Beacon Street			Beethoven Avenue			mon,tue,thu,fri,school_days	08:00-09:00,14:30-15:30	wed,school_days	08:00-09:00,12:00-13:00		Beacon Street onto Beethoven Avenue, Mondays, Tuesdays, Thursdays, Fridays, school days, 8:00 a.m. to 9:00 a.m. and 2:30 p.m. to 3:30 p.m., Wednesdays, school days, 8:00 a.m. to 9:00 a.m. and 12:00 p.m. to 1:00 p.m.
+Capital Street	eastbound	Washburn Street	Capital Street			school_days	08:00-08:45				Capital Street eastbound at Washburn Street, onto Capital Street, school days, 8:00 a.m. to 8:45 a.m.
+Commonwealth Avenue, North Drive	eastbound	Bristol Road			bicycles						Commonwealth Avenue, North Drive, at Bristol Road, eastbound (except bicycles).
+Evelyn Road			Beethoven Avenue			mon,tue,thu,fri,school_days	08:00-09:00,14:30-15:30	wed,school_days	08:00-09:00,12:00-13:00		Evelyn Road onto Beethoven Avenue, Mondays, Tuesdays, Thursdays, Fridays, school days, 8:00 a.m. to 9:00 a.m. and 2:30 p.m. to 3:30 p.m., Wednesdays, school days, 8:00 a.m. to 9:00 a.m. and 12:00 p.m. to 1:00 p.m.
+Gilbert Street			Curve Street				07:00-09:00				Gilbert Street onto Curve Street, from 7:00 a.m. to 9:00 a.m.
+Hancock Street		Woodland Road	Hancock Street			mon,tue,wed,thu,fri	07:00-16:00				Hancock Street, crossing Woodland Road onto Hancock Street, 7:00 a.m.to 4:00 p.m., Weekdays.
+Lowell Avenue	southbound	Walnut Street	Lowell Avenue								Lowell Avenue, southbound, at Walnut Street, onto Lowell Avenue.
+Trowbridge Avenue			Tiger Drive								Trowbridge Avenue, onto Tiger Drive.
+Tiger Drive			Trowbridge Avenue								Tiger Drive onto Trowbridge Avenue.

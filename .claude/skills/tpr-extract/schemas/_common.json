@@ -1,6 +1,19 @@
 {
   "comment": "Shared vocabulary for all TPR datasets. Reference from dataset schemas as {\"$ref\": \"common#<name>\"}. Extend here first; never inline new vocabulary in a single dataset schema.",
   "defs": {
+    "compass_point": {
+      "description": "Bare compass point for offsets and relative positions (e.g. '100 feet north of X'); distinct from direction (travel-bound: northbound) and side (north/both/odd/even)",
+      "enum": [
+        "north",
+        "south",
+        "east",
+        "west",
+        "northeast",
+        "northwest",
+        "southeast",
+        "southwest"
+      ]
+    },
     "direction": {
       "description": "Compass-bound direction of travel",
       "enum": [

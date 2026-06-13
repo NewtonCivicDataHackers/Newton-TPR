@@ -1,0 +1,64 @@
+street	direction	cross_street	landmark	offset_feet	offset_direction	signal_type	pedestrian_activated	location_detail	notes	source_text
+Adams Street		Middle Street				rrfb	yes			Adams Street at Middle Street (pedestrian activated RRFB).
+Auburn Street		Woodland Road				rrfb	yes			Auburn Street at Woodland Road (pedestrian activated RRFB).
+Beacon Street			Cold Springs Park			rrfb	yes			Beacon Street at Cold Springs Park (pedestrian activated RRFB).
+Beacon Street		Newbury Street				rrfb	yes			Beacon Street at Newbury Street (pedestrian activated RRFB).
+Beacon Street		Dalton Road				rrfb	yes			Beacon Street at Dalton Road (pedestrian activated RRFB).
+Beacon Street		Herrick Road		20	east	rrfb	yes			Beacon Street, 20 feet east of Herrick Road (pedestrian activated RRFB).
+Beacon Street		Lake Avenue				rrfb	yes			Beacon Street at Lake Avenue (pedestrian activated RRFB).
+Brookline Street		Hartman Road/Spaulding Lane				rrfb	yes			Brookline Street at Hartman Road/Spaulding Lane (pedestrian activated RRFB).
+Cabot Street		Blake Street		30	west	rrfb	yes			Cabot Street, 30 feet west of Blake Street (pedestrian activated RRFB).
+Centre Street		Allerton Road				rrfb	yes			Centre Street at Allerton Road (pedestrian activated RRFB).
+Centre Street		Newtonville Avenue				rrfb	yes			Centre Street at Newtonville Avenue (pedestrian activated RRFB).
+Centre Street		Cushing Street				rrfb	yes			Centre Street at Cushing Street (pedestrian activated RRFB).
+Centre Street		Hyde Street/Woodcliff Road							signal type not stated in source	Centre Street at Hyde Street/Woodcliff Road.
+Centre Street		Paul Street				rrfb	yes			Centre Street at Paul Street (pedestrian activated RRFB).
+Centre Street		Pleasant Street		5	north	rrfb	yes			Centre Street, 5 feet north of Pleasant Street (pedestrian activated RRFB).
+Centre Street		Crescent Avenue		115	north	rrfb	yes			Centre Street, 115 feet north of Crescent Avenue (pedestrian activated RRFB).
+Centre Street		Pelham Street		14	south	rrfb	yes			Centre Street, 14 feet south of Pelham Street (pedestrian activated RRFB).
+Charlesbank Road	westbound	St. James Street				flashing_yellow				Charlesbank Road, westbound, at St. James Street (flashing yellow).
+Chestnut Street		Amherst Road				rrfb	yes			Chestnut Street at Amherst Road (pedestrian activated RRFB).
+Christina Street		Needham Street		230	east	rrfb	yes			Christina Street, 230 feet east of Needham Street (pedestrian activated RRFB).
+Commonwealth Avenue		Oldham Road				flashing_yellow				Commonwealth Avenue and Oldham Road (flashing yellow).
+Commonwealth Avenue		Pamela Court		20	west	rrfb	yes			Commonwealth Avenue, 20 feet west of Pamela Court (pedestrian activated RRFB).
+Commonwealth Avenue		Irving Street		40	west	rrfb	yes			Commonwealth Avenue, 40 feet west of Irving Street (pedestrian activated RRFB).
+Commonwealth Avenue		Manet Road		40	east	rrfb	yes			Commonwealth Avenue, 40 feet east of Manet Road. (pedestrian activated RRFB).
+Commonwealth Avenue		Windermere Road				flashing_yellow				Commonwealth Avenue and Windermere Road (flashing yellow).
+Crafts Street		Albemarle Road				rrfb	yes	eastern leg		Crafts Street at Albemarle Road, eastern leg (pedestrian activated RRFB).
+Cypress Street		Braeland Avenue				rrfb	yes			Cypress Street at Braeland Avenue (pedestrian activated RRFB).
+Cypress Street			Cypress Street Parking Area			rrfb	yes	between the entrance and exit		Cypress Street, between the Cypress Street Parking Area entrance and exit (pedestrian activated RRFB).
+East Side Parkway		Winchester Road		10	south	rrfb	yes			East Side Parkway, 10 feet south of Winchester Road (pedestrian activated RRFB).
+Elliot Street		Wetherell Street		35	northeast	rrfb	yes			Elliot Street, 35 feet northeast of Wetherell Street (pedestrian activated RRFB).
+Elliott Street		Cottage Street		35	east	rrfb	yes			Elliott Street, 35 feet east of Cottage Street (pedestrian activated RRFB).
+Grove Street		Woodland Road				flashing_red				Grove Street at Woodland Road (flashing red).
+Hammond Pond Parkway			Boston College Driveway	700	north	rrfb	yes			Hammond Pond Parkway, 700 feet north of the Boston College Driveway (pedestrian activated RRFB).
+Homer Street		Pleasant Street				rrfb	yes			Homer Street at Pleasant Street (pedestrian activated RRFB).
+Homer Street		Walnut Street		375	west	flashing_yellow	yes			Homer Street at a point 375 feet west of Walnut Street: (flashing yellow pedestrian activated).
+Homer Street		Walnut Street		500	west	flashing_yellow	yes			Homer Street at a point 500 feet west of Walnut Street (flashing yellow pedestrian activated).
+Lagrange Street			Brookline town line	60	south	rrfb	yes			Lagrange Street, 60 feet south of the Brookline town line (pedestrian activated RRFB).
+Langley Road		Langley Path				flashing_yellow	yes			Langley Road at Langley Path (flashing yellow pedestrian activated).
+Lexington Street		Auburn Street				rrfb	yes			Lexington Street at Auburn Street (pedestrian activated RRFB).
+Lincoln Street		Chester Street		10	east	rrfb	yes			Lincoln Street, 10 feet east of Chester Street (pedestrian activated RRFB).
+Lowell Avenue		Austin Street		30	south	rrfb	yes			Lowell Avenue, 30 feet south of Austin Street (pedestrian activated RRFB).
+Lowell Avenue		Page Road		10	south	rrfb	yes			Lowell Avenue, 10 feet south of Page Road (pedestrian activated RRFB).
+Needham Street		Industrial Place		25	southwest	rrfb	yes			Needham Street, 25 feet southwest of Industrial Place (pedestrian activated RRFB).
+Needham Street		Jaconnet Street		160	northeast	rrfb	yes			Needham Street, 160 feet northeast of Jaconnet Street (pedestrian activated RRFB).
+Neeham Street		Easy Street		185	southwest	rrfb	yes		street as written; likely 'Needham Street' (adjacent entries)	Neeham Street, 185 feet southwest of Easy Street (pedestrian activated RRFB).
+Oak Street			Upper Falls Greenway			rrfb	yes			Oak Street at the Upper Falls Greenway (pedestrian activated RRFB).
+Parker Street		Browning Road				rrfb	yes			Parker Street at Browning Road (pedestrian activated RRFB).
+Pearl Street		Thornton Street				flashing_yellow				Pearl Street and Thornton Street (flashing yellow).
+River Street		Elm Court		20	west	rrfb	yes			River Street, 20 feet west of Elm Court (pedestrian activated RRFB).
+St. James Street	northbound	Charlesbank Road				flashing_yellow				St. James Street, northbound, at Charlesbank Road (flashing yellow).
+St. James Terrace	southbound	Charlesbank Road				flashing_red				St. James Terrace, southbound at Charlesbank Road (flashing red).
+Tremont Street		Hibbard Road				rrfb	yes			Tremont Street at Hibbard Road (pedestrian activated RRFB).
+Walnut Street		Duncklee Street		40	south	rrfb	yes			Walnut Street, 40 feet south of Duncklee Street (pedestrian activated RRFB).
+Walnut Street		Carthay Circle				rrfb	yes			Walnut Street at Carthay Circle (pedestrian activated RRFB).
+Walnut Street		Lakewood Road				rrfb	yes			Walnut Street at Lakewood Road (pedestrian activated RRFB).
+Walnut Street		Linwood Avenue		10	north	rrfb	yes			Walnut Street, 10 feet north of Linwood Avenue (pedestrian activated RRFB).
+Waltham Street		Fairway Drive		20	north	rrfb	yes			Waltham Street, 20 feet north of Fairway Drive (pedestrian activated RRFB).
+Washington Street		Centre Avenue				flashing_yellow				Washington Street and Centre Avenue (flashing yellow).
+Washington Street		Shaw Street				flashing_yellow				Washington Street and Shaw Street (flashing yellow).
+Washington Street		Thornton Street				flashing_yellow				Washington Street and Thornton Street (flashing yellow).
+Waverley Avenue		Franklin Street				flashing_yellow	yes			Waverley Avenue and Franklin Street: Flashing yellow (pedestrian activated).
+Waverley Avenue		Arlington Street				rrfb	yes		descriptor names both flashing yellow and RRFB; see spec	Waverley Avenue and Arlington Street: Flashing yellow (pedestrian activated RRFB).
+Waverley Avenue		Sherbrooke Road				rrfb	yes			Waverley Avenue at Sherbrooke Road (pedestrian activated RRFB).

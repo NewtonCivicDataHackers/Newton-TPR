@@ -1,0 +1,83 @@
+{
+  "title": "One-way streets (Sec. TPR-85)",
+  "columns": [
+    "street",
+    "roadway",
+    "direction",
+    "from_point",
+    "from_offset_feet",
+    "from_offset_direction",
+    "to_point",
+    "to_offset_feet",
+    "to_offset_direction",
+    "length_feet",
+    "exception",
+    "location_detail",
+    "notes",
+    "source_text"
+  ],
+  "fields": {
+    "street": {
+      "description": "Street or way the one-way restriction applies to; for numbered sub-entries, the street named in the group-header paragraph",
+      "required": true
+    },
+    "roadway": {
+      "description": "Carriageway or portion designator from the source (e.g. 'North Drive', 'Southern roadway', 'east roadway', 'loop portion', 'north fork', 'crossover'); empty when the restriction covers the whole street",
+      "required": false
+    },
+    "direction": {
+      "description": "Direction(s) of travel, only when the source states one explicitly ('-erly' adverbs normalize to '-bound'; 'counterclockwise direction' to 'counterclockwise'; 'X and Y' to a comma-joined set); empty when the from/to order alone carries the direction \u2014 never inferred from street geography. Inline pattern is common#direction_set plus 'counterclockwise' (see spec, Proposed common vocabulary)",
+      "required": false,
+      "pattern": "(northbound|southbound|eastbound|westbound|northeastbound|northwestbound|southeastbound|southwestbound|counterclockwise)(,(northbound|southbound|eastbound|westbound|northeastbound|northwestbound|southeastbound|southwestbound|counterclockwise))*"
+    },
+    "from_point": {
+      "description": "Named street, municipal line, or feature where the one-way segment begins (leading articles dropped); when the source says 'a point N feet DIR of X', the anchor X alone \u2014 the offset goes in from_offset_feet/from_offset_direction. Qualifier words like 'near' or 'opposite' stay in the cell verbatim. Empty when the entry names no start point",
+      "required": false
+    },
+    "from_offset_feet": {
+      "description": "Distance in feet from from_point to the actual segment start, when the source gives 'a point N feet DIR of X'; numerals win over spelled-out numbers",
+      "required": false,
+      "type": "number"
+    },
+    "from_offset_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass bearing of the offset from from_point (the DIR in 'a point N feet DIR of X'). Inline enum; proposed for _common.json as compass_point (see spec)"
+    },
+    "to_point": {
+      "description": "Named street, municipal line, or feature where the one-way segment ends, same conventions as from_point; empty when the entry names no end point (e.g. an extent given as a length, or a whole-street entry)",
+      "required": false
+    },
+    "to_offset_feet": {
+      "description": "Distance in feet from to_point to the actual segment end, when the source gives 'a point N feet DIR of X'",
+      "required": false,
+      "type": "number"
+    },
+    "to_offset_direction": {
+      "$ref": "common#compass_point",
+      "description": "Compass bearing of the offset from to_point. Same inline enum as from_offset_direction"
+    },
+    "length_feet": {
+      "description": "Stated length of the one-way segment in feet, when the source gives an extent instead of (or in addition to) a second endpoint (e.g. 'two hundred fifteen (215) feet westerly', 'continuing 50 feet')",
+      "required": false,
+      "type": "number"
+    },
+    "exception": {
+      "description": "Vehicles exempted from the one-way restriction, without the leading 'except' (e.g. 'non-motorized vehicles'); empty when the restriction applies to all vehicular traffic",
+      "required": false
+    },
+    "location_detail": {
+      "description": "Positional or portion qualifier from the source that is not a segment endpoint (e.g. 'at Kenrick Park', 'on the southwest leg', 'on that part of Centre Street known as Centre Green', 'Ward 3', 'bridge over Turnpike', 'at triangle')",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": [
+    "source_text"
+  ]
+}

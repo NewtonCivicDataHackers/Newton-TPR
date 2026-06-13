@@ -1,0 +1,34 @@
+{
+  "title": "Thruway designations (Sec. TPR-95)",
+  "columns": ["street", "from_point", "to_point", "excluded_intersection", "remark", "notes", "source_text"],
+  "fields": {
+    "street": {
+      "description": "Street or way designated a thruway under M.G.L. c. 89 s. 9",
+      "required": true
+    },
+    "from_point": {
+      "description": "Segment start point: a cross street or municipal boundary line, article-stripped (e.g. 'Newton-Boston line', 'Winchester Street'); kept in source order, never reordered",
+      "required": true
+    },
+    "to_point": {
+      "description": "Segment end point: a cross street or municipal boundary line, article-stripped (e.g. 'Newton-Wellesley line'); kept in source order, never reordered",
+      "required": true
+    },
+    "excluded_intersection": {
+      "description": "Cross street whose intersection is carved out of the designation ('... not including the intersection, then, beginning again at the ... limits of such intersection ...'); empty when the segment is continuous",
+      "required": false
+    },
+    "remark": {
+      "description": "Trailing source sentence(s) qualifying the designation (e.g. the state-highway jurisdiction note), verbatim and whitespace-collapsed; source content only, never extractor commentary",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about anomalies in the source text; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": ["source_text"]
+}

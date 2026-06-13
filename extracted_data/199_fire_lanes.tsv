@@ -1,0 +1,13 @@
+street	street_number	property_name	lane_type	side	from_point	to_point	extent_direction	length_feet	location_detail	notes	source_text
+Beacon Street	740		driveway	east	edge of the sidewalk		southerly	60			(1)740 Beacon Street. The east side of the driveway at 740 Beacon Street from the edge of the sidewalk southerly for approximately 60'.
+Boylston Street	31-49		roadway						against the building in the rear of 31,37,43,47, and 49 Boylston Street	heading range 31-49 is canonical; body enumerates individual numbers	(2) 31-49 Boylston Street. The roadway against the building in the rear of 31,37,43,47, and 49 Boylston Street.
+Cabot School Bridges-to-Parkview Connector Roadway			street	south							(3) Cabot School Bridges-to-Parkview Connector Roadway, south side.
+Rogers Street	30	Crystal Lake Bathhouse Parking Lot	drive aisle						center	'Center Drive aisle' capitalization ambiguous; read as the central drive aisle of the lot, not a way named Center Drive	(4) Center Drive aisle of the Crystal Lake Bathhouse Parking Lot at 30 Rogers Street.
+Cherry Street	390-398		driveway		sidewalk		easterly	50			(5) 390-398 Cherry Street. The driveway of 390-398 Cherry Street from the sidewalk easterly approximately 50'.
+Church Street	276	YMCA	driveway						between the marked parking areas and immediately in front of the YMCA building		(6) 276 Church Street (YMCA). The driveway at 276 Church Street between the marked parking areas and immediately in front of the YMCA building.
+Elm Road			street	both	Walnut Street		westerly	74			(7) Elm Road, both sides, from Walnut Street westerly for approximately 74'.
+Hammond Pond Parkway	2		driveway		sidewalk	rear of the building		200	to the left of two accessible parking spaces		(8) 2 Hammond Pond Parkway. The driveway to the left of two accessible parking spaces commencing from the sidewalk to the rear of the building approximately 200'.
+Watertown Street		Heartland Plaza (Stop & Shop on Watertown Street)	roadway		Watertown line		westerly	200	in front of the Heartland Plaza	from_point is the Watertown city line, not a street	(9) Heartland Plaza (Stop & Shop on Watertown Street). The roadway in front of the Heartland Plaza from the Watertown line in a westerly direction for approximately 200'.
+Kempton Place			street	both	Washington Street		northerly	170			(10) Kempton Place, both sides, from Washington Street northerly for approximately 170'.
+Melrose Avenue			street	both	Lexington Street	Melrose Street					(11) Melrose Avenue, both sides, from Lexington Street to Melrose Street.
+Needham Street	275	Marshall's Mall	roadway		Needham Street		northerly	500	in front of the Marshall's Mall		(12) 275 Needham Street. The roadway in front of the Marshall's Mall from Needham Street northerly for approximately 500'.

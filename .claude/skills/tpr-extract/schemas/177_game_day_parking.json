@@ -1,0 +1,15 @@
+{
+  "title": "Football game day parking regulations (Sec. TPR-177)",
+  "columns": ["street", "side", "from_point", "to_point", "segment_detail", "enforcement_window", "source_text", "notes"],
+  "fields": {
+    "street": {"description": "Street the game-day restriction applies to", "required": true},
+    "side": {"description": "Side(s): both/north/south/east/west; empty if unstated", "required": false},
+    "from_point": {"description": "Segment start when 'from X ...' is given", "required": false},
+    "to_point": {"description": "Segment end when 'to Y' is given", "required": false},
+    "segment_detail": {"description": "Non-pair segment phrasing (e.g. 'from Centre Street easterly 100 feet'); empty for whole-street", "required": false},
+    "enforcement_window": {"description": "Which game-day window applies", "required": true, "enum": ["2h before to 2h after", "7:00 a.m. to 5h after"]},
+    "source_text": {"description": "Verbatim entry, street-prefixed, whitespace-normalized", "required": true},
+    "notes": {"description": "Sub-clause origin or anomalies", "required": false}
+  },
+  "unique": ["source_text"]
+}

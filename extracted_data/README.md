@@ -376,6 +376,21 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `source_text` | The full numbered clause verbatim (wrapped lines rejoined, whitespace/quotes normalized), prefixed with the street name to be unique (required) |
 | `notes` | Cross-references (e.g. 'see TPR-202'), lettered-sub-clause presence, or anomalies |
 
+### 177 — Football game day parking regulations
+
+[177_game_day_parking.tsv](177_game_day_parking.tsv) — 102 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street the game-day restriction applies to (required) |
+| `side` | Side(s): both/north/south/east/west; empty if unstated |
+| `from_point` | Segment start when 'from X ...' is given |
+| `to_point` | Segment end when 'to Y' is given |
+| `segment_detail` | Non-pair segment phrasing (e.g. 'from Centre Street easterly 100 feet'); empty for whole-street |
+| `enforcement_window` | Which game-day window applies (required) |
+| `source_text` | Verbatim entry, street-prefixed, whitespace-normalized (required) |
+| `notes` | Sub-clause origin or anomalies |
+
 ### 179 — School drop off zones
 
 [179_school_drop_off_zones.tsv](179_school_drop_off_zones.tsv) — 30 rows
@@ -632,12 +647,6 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `city_line_2` | Second merged sign location's municipal boundary token (same vocabulary as city_line); empty when that location's reference point is a named street or when there is no second location |
 | `notes` | Extractor remarks about anomalies in the source text (e.g. the PDF merge of two sign locations into one paragraph); never carries geocodable data |
 | `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
-
-## Planned
-
-Sections with extraction coverage planned but not yet built:
-
-- **177** — Football game day parking regulations → `177_game_day_parking.tsv`
 
 ## Not extracted
 

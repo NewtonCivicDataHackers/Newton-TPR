@@ -335,12 +335,15 @@
     {
       "section": "177",
       "title": "Football game day parking regulations",
-      "status": "planned",
+      "status": "active",
       "source": "sections/177.txt",
       "slug": "game_day_parking",
       "output": "extracted_data/177_game_day_parking.tsv",
       "schema": "schemas/177_game_day_parking.json",
-      "spec": "specs/177_game_day_parking.md"
+      "spec": "specs/177_game_day_parking.md",
+      "counting": {
+        "verified_by": "deterministic parse of (d)+(e) lists; 102 rows (99+3); Commonwealth Ave sub-clauses one row each; source_text unique"
+      }
     },
     {
       "section": "178",

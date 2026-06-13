@@ -401,6 +401,20 @@
       "reason": "Marked Reserved, but sections/195.txt contains stray TPR-196 content (section-splitter artifact in process-tpr.py)."
     },
     {
+      "section": "196",
+      "title": "Time limits in other municipal off-street parking areas",
+      "status": "active",
+      "source": "sections/195.txt",
+      "slug": "unmetered_parking_time_limits",
+      "output": "extracted_data/196_unmetered_parking_time_limits.tsv",
+      "schema": "schemas/196_unmetered_parking_time_limits.json",
+      "spec": "specs/196_unmetered_parking_time_limits.md",
+      "reason": "Not a separate section in index.json \u2014 process-tpr.py splitter merges 196 into sections/195.txt; table extracted from PDF page 209.",
+      "counting": {
+        "verified_by": "PDF-page read of the Unmetered Parking Lot table (page 209); 2 lots; identical layout to TPR-194"
+      }
+    },
+    {
       "section": "199",
       "title": "Fire Lanes",
       "status": "active",

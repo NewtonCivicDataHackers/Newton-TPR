@@ -1,0 +1,3 @@
+village	lot_name	spaces_1hr	spaces_2hr	spaces_3hr	spaces_6hr	spaces_no_time_limit	accessible_spaces	ev_spaces	reserved_by_permit	enforcement_hours	source_text	notes
+Nonantum	Adams St	0	0	23	0	0	2	2	0	8AM-6PM Mon-Sat	Nonantum / Adams St: 1hr=0 2hr=0 3hr=23 6hr=0 no-limit=0 accessible=2 EV=2 reserved=0; 8AM-6PM Mon-Sat	
+Nonantum	Chapel St	0	0	23	0	0	1	1	0	8AM-6PM Mon-Sat	Nonantum / Chapel St: 1hr=0 2hr=0 3hr=23 6hr=0 no-limit=0 accessible=1 EV=1 reserved=0; 8AM-6PM Mon-Sat	

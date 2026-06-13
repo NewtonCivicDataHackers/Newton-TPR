@@ -446,6 +446,26 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `source_text` | Readable rendering of the lot's table row (required) |
 | `notes` | Permit-code exceptions on count cells, or other remarks |
 
+### 196 — Time limits in other municipal off-street parking areas
+
+[196_unmetered_parking_time_limits.tsv](196_unmetered_parking_time_limits.tsv) — 2 rows
+
+| Column | Description |
+|--------|-------------|
+| `village` | Village grouping the lot falls under (table sub-heading) (required) |
+| `lot_name` | Metered parking lot name (required) |
+| `spaces_1hr` | Number of 1-hour-limit spaces (required) |
+| `spaces_2hr` | Number of 2-hour-limit spaces (required) |
+| `spaces_3hr` | Number of 3-hour-limit spaces (required) |
+| `spaces_6hr` | Number of 6-hour-limit spaces (required) |
+| `spaces_no_time_limit` | Number of no-time-limit spaces (required) |
+| `accessible_spaces` | Number of accessible parking spaces (required) |
+| `ev_spaces` | Number of EV charging spaces (required) |
+| `reserved_by_permit` | Reserved-by-permit-or-other cell, verbatim, in count(code) form (codes decoded in the spec legend; e.g. '2(ZC) & 12(NC)'); '0' if none (required) |
+| `enforcement_hours` | Which enforcement window applies (required) |
+| `source_text` | Readable rendering of the lot's table row (required) |
+| `notes` | Permit-code exceptions on count cells, or other remarks |
+
 ### 199 — Fire Lanes
 
 [199_fire_lanes.tsv](199_fire_lanes.tsv) — 12 rows

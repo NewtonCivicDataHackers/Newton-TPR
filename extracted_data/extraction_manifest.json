@@ -117,6 +117,9 @@
     },
     "220_tow_zones": {
       "rows": 62
+    },
+    "196_unmetered_parking_time_limits": {
+      "rows": 2
     }
   }
 }

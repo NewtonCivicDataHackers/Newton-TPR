@@ -75,6 +75,18 @@
     },
     "202_resident_restricted_areas": {
       "rows": 28
+    },
+    "208_waban_parking_district": {
+      "rows": 7
+    },
+    "209_newton_highlands_parking_district": {
+      "rows": 8
+    },
+    "210_newton_corner_parking_district": {
+      "rows": 7
+    },
+    "211_charlesbank_parking_district": {
+      "rows": 6
     }
   }
 }

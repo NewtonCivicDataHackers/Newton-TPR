@@ -63,7 +63,13 @@ def count_entries(source_text, counting):
     if m_end:
         region = region[: m_end.start()]
     entry_re = re.compile(counting.get("entry_start", "^[A-Z]"))
-    return sum(1 for p in split_paragraphs(region) if entry_re.search(p))
+    # "paragraph" (default): entries are blank-line-separated, possibly multi-line.
+    # "line": entries are one-per-line (lists with no blank lines between them).
+    if counting.get("unit") == "line":
+        units = [ln.strip() for ln in region.splitlines() if ln.strip()]
+    else:
+        units = split_paragraphs(region)
+    return sum(1 for u in units if entry_re.search(u))
 
 
 def check_cell(value, spec, loc, errors):

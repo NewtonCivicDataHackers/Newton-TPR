@@ -1,0 +1,44 @@
+{
+  "title": "Newton Corner Parking District (Sec. TPR-210)",
+  "columns": [
+    "street",
+    "district",
+    "from_point",
+    "to_point",
+    "segment_note",
+    "notes",
+    "source_text"
+  ],
+  "fields": {
+    "street": {
+      "description": "Street (or street segment) belonging to the parking district",
+      "required": true
+    },
+    "district": {
+      "description": "Name of the parking district (constant per file)",
+      "required": true
+    },
+    "from_point": {
+      "description": "Start of the segment range when the source gives a parenthetical 'X to Y'",
+      "required": false
+    },
+    "to_point": {
+      "description": "End of the segment range",
+      "required": false
+    },
+    "segment_note": {
+      "description": "Non-range parenthetical qualifier (locality disambiguator like 'Newton Corner', or 'including <addresses>')",
+      "required": false
+    },
+    "notes": {
+      "description": "Extractor remarks about source anomalies; never carries data",
+      "required": false
+    },
+    "source_text": {
+      "$ref": "common#source_text"
+    }
+  },
+  "unique": [
+    "source_text"
+  ]
+}

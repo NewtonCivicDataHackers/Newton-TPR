@@ -1,0 +1,9 @@
+street	district	from_point	to_point	segment_note	notes	source_text
+Bowdoin Street	Newton Highlands	Erie Street	Lincoln Street			Bowdoin Street (Erie Street to Lincoln Street)
+Chester Street	Newton Highlands	Forest	Lincoln			Chester Street (Forest to Lincoln)
+Columbus Street	Newton Highlands	Forest Street	Lincoln Street			Columbus Street (Forest Street to Lincoln Street)
+Erie Avenue	Newton Highlands					Erie Avenue
+Hartford Street	Newton Highlands					Hartford Street
+Lincoln Street	Newton Highlands					Lincoln Street
+Standish Street	Newton Highlands					Standish Street
+Woodward Street	Newton Highlands	Lincoln Street	Boylston Street	including 991-1005 Boylston Street		Woodward Street (Lincoln Street to Boylston Street, including 991-1005 Boylston Street)

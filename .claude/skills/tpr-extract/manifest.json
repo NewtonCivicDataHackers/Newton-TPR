@@ -489,42 +489,63 @@
     {
       "section": "208",
       "title": "Waban Village Parking District",
-      "status": "planned",
+      "status": "active",
       "source": "sections/208.txt",
       "slug": "waban_parking_district",
       "output": "extracted_data/208_waban_parking_district.tsv",
       "schema": "schemas/208_waban_parking_district.json",
-      "spec": "specs/208_waban_parking_district.md"
+      "spec": "specs/208_waban_parking_district.md",
+      "counting": {
+        "region_start": "Waban Village Parking\\s+District:",
+        "region_end": "\\(d\\) The public streets",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "209",
       "title": "Newton Highlands Parking District",
-      "status": "planned",
+      "status": "active",
       "source": "sections/209.txt",
       "slug": "newton_highlands_parking_district",
       "output": "extracted_data/209_newton_highlands_parking_district.tsv",
       "schema": "schemas/209_newton_highlands_parking_district.json",
-      "spec": "specs/209_newton_highlands_parking_district.md"
+      "spec": "specs/209_newton_highlands_parking_district.md",
+      "counting": {
+        "region_start": "Newton Highlands parking\\s+district:",
+        "region_end": "\\(d\\) The public streets",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "210",
       "title": "Newton Corner Parking District",
-      "status": "planned",
+      "status": "active",
       "source": "sections/210.txt",
       "slug": "newton_corner_parking_district",
       "output": "extracted_data/210_newton_corner_parking_district.tsv",
       "schema": "schemas/210_newton_corner_parking_district.json",
-      "spec": "specs/210_newton_corner_parking_district.md"
+      "spec": "specs/210_newton_corner_parking_district.md",
+      "counting": {
+        "region_start": "Newton Corner parking district:",
+        "region_end": "\\(d\\) The public streets",
+        "entry_start": "^[A-Z]"
+      }
     },
     {
       "section": "211",
       "title": "Charlesbank Area Parking District",
-      "status": "planned",
+      "status": "active",
       "source": "sections/211.txt",
       "slug": "charlesbank_parking_district",
       "output": "extracted_data/211_charlesbank_parking_district.tsv",
       "schema": "schemas/211_charlesbank_parking_district.json",
-      "spec": "specs/211_charlesbank_parking_district.md"
+      "spec": "specs/211_charlesbank_parking_district.md",
+      "counting": {
+        "region_start": "Charlesbank Area parking district:",
+        "region_end": "\\(d\\) The public streets",
+        "entry_start": "^[A-Z]",
+        "unit": "line"
+      }
     },
     {
       "section": "219",

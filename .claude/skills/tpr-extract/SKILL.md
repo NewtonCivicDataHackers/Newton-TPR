@@ -131,6 +131,11 @@ counts those matching `entry_start`; the TSV must have exactly that many
 rows. Continuation paragraphs (PDF artifacts that split an entry) start
 lowercase and are not counted.
 
+Add `"unit": "line"` when entries are one-per-line with no blank lines
+between them (e.g. district membership lists); the validator then counts
+non-blank lines matching `entry_start` instead of paragraphs. Default is
+`"paragraph"`.
+
 ## Schema format
 
 Plain JSON, validated by `validate.py` (stdlib subset, not full JSON Schema):

@@ -416,6 +416,62 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `notes` | Sub-clause detail (e.g. drive/reservation qualifiers) or administrative provisions that are not a single mappable segment |
 | `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
 
+### 208 — Waban Village Parking District
+
+[208_waban_parking_district.tsv](208_waban_parking_district.tsv) — 7 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street (or street segment) belonging to the parking district (required) |
+| `district` | Name of the parking district (constant per file) (required) |
+| `from_point` | Start of the segment range when the source gives a parenthetical 'X to Y' |
+| `to_point` | End of the segment range |
+| `segment_note` | Non-range parenthetical qualifier (locality disambiguator like 'Newton Corner', or 'including <addresses>') |
+| `notes` | Extractor remarks about source anomalies; never carries data |
+| `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
+
+### 209 — Newton Highlands Parking District
+
+[209_newton_highlands_parking_district.tsv](209_newton_highlands_parking_district.tsv) — 8 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street (or street segment) belonging to the parking district (required) |
+| `district` | Name of the parking district (constant per file) (required) |
+| `from_point` | Start of the segment range when the source gives a parenthetical 'X to Y' |
+| `to_point` | End of the segment range |
+| `segment_note` | Non-range parenthetical qualifier (locality disambiguator like 'Newton Corner', or 'including <addresses>') |
+| `notes` | Extractor remarks about source anomalies; never carries data |
+| `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
+
+### 210 — Newton Corner Parking District
+
+[210_newton_corner_parking_district.tsv](210_newton_corner_parking_district.tsv) — 7 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street (or street segment) belonging to the parking district (required) |
+| `district` | Name of the parking district (constant per file) (required) |
+| `from_point` | Start of the segment range when the source gives a parenthetical 'X to Y' |
+| `to_point` | End of the segment range |
+| `segment_note` | Non-range parenthetical qualifier (locality disambiguator like 'Newton Corner', or 'including <addresses>') |
+| `notes` | Extractor remarks about source anomalies; never carries data |
+| `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
+
+### 211 — Charlesbank Area Parking District
+
+[211_charlesbank_parking_district.tsv](211_charlesbank_parking_district.tsv) — 6 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street (or street segment) belonging to the parking district (required) |
+| `district` | Name of the parking district (constant per file) (required) |
+| `from_point` | Start of the segment range when the source gives a parenthetical 'X to Y' |
+| `to_point` | End of the segment range |
+| `segment_note` | Non-range parenthetical qualifier (locality disambiguator like 'Newton Corner', or 'including <addresses>') |
+| `notes` | Extractor remarks about source anomalies; never carries data |
+| `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
+
 ### 219 — Parking prohibitions in areas that previously allowed parking
 
 [219_removed_parking_spaces.tsv](219_removed_parking_spaces.tsv) — 2 rows
@@ -460,10 +516,6 @@ Sections with extraction coverage planned but not yet built:
 - **204** — Newton North High School Tiger Parking Permits → `204_tiger_parking_permits.tsv`
 - **205** — Newtonville Neighborhood Parking District → `205_newtonville_parking_district.tsv`
 - **206** — Auburndale Village Parking District → `206_auburndale_parking_district.tsv`
-- **208** — Waban Village Parking District → `208_waban_parking_district.tsv`
-- **209** — Newton Highlands Parking District → `209_newton_highlands_parking_district.tsv`
-- **210** — Newton Corner Parking District → `210_newton_corner_parking_district.tsv`
-- **211** — Charlesbank Area Parking District → `211_charlesbank_parking_district.tsv`
 
 ## Not extracted
 

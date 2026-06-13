@@ -1,7 +1,7 @@
 {
   "source": "tpr.pdf",
   "revision_date": "2026-01-16",
-  "last_updated": "2026-06-12",
+  "last_updated": "2026-06-13",
   "sections": [
     {
       "section": "83",
@@ -231,9 +231,17 @@
       "section": "195",
       "title": "Reserved",
       "page_start": 208,
-      "page_end": 209,
+      "page_end": 208,
       "txt_filename": "sections/195.txt",
-      "size": 767
+      "size": 389
+    },
+    {
+      "section": "196",
+      "title": "Time limits in other municipal off-street parking areas",
+      "page_start": 208,
+      "page_end": 209,
+      "txt_filename": "sections/196.txt",
+      "size": 377
     },
     {
       "section": "199",

@@ -3,7 +3,7 @@
 ## Document Information
 
 - **Revision Date**: 2026-01-16
-- **Last Processed**: 2026-06-12
+- **Last Processed**: 2026-06-13
 - **Local Document**: [tpr.pdf](tpr.pdf)
 - **Source Webpage**: [https://www.newtonma.gov/government/public-works/transportation-division](https://www.newtonma.gov/government/public-works/transportation-division)
 - **Original PDF**: [https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000)
@@ -42,7 +42,8 @@
 | 179 | School drop off zones | [179.txt](sections/179.txt) | [205](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=205) | 4345 bytes |
 | 180 | Stopping Prohibited on Particular Streets | [180.txt](sections/180.txt) | [207](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=207) | 972 bytes |
 | 194 | Time limits in municipal off-street parking areas | [194.txt](sections/194.txt) | [207](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=207) | 2137 bytes |
-| 195 | Reserved | [195.txt](sections/195.txt) | [208](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=208) | 767 bytes |
+| 195 | Reserved | [195.txt](sections/195.txt) | [208](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=208) | 389 bytes |
+| 196 | Time limits in other municipal off-street parking areas | [196.txt](sections/196.txt) | [208](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=208) | 377 bytes |
 | 199 | Fire Lanes | [199.txt](sections/199.txt) | [209](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=209) | 1559 bytes |
 | 200 | Accessible Parking Spaces | [200.txt](sections/200.txt) | [210](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=210) | 8655 bytes |
 | 201 | Overnight on-street angle parking areas | [201.txt](sections/201.txt) | [213](https://www.newtonma.gov/home/showpublisheddocument/73546/637654034206430000#page=213) | 327 bytes |
@@ -77,7 +78,7 @@ The Traffic and Parking Regulations have been processed into machine-readable CS
 ## Notes
 
 - This document contains the Traffic and Parking Regulations for the City of Newton, updated through 2026-01-16.
-- The data in this repository was last processed on 2026-06-12.
+- The data in this repository was last processed on 2026-06-13.
 - Section files are provided in plain text format in the [sections](sections/) directory.
 - For direct access to specific content, you can either:
   - Read the text files in the sections directory

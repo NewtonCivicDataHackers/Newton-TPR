@@ -117,8 +117,11 @@ def find_section_boundaries(processed_text):
     current_section = None
     
     for i, line in enumerate(processed_text):
-        # Check for section headers
-        match = re.match(r'^Sec\.\s*TPR-(\d+)\.', line)
+        # Check for section headers. The period after the number is optional
+        # (e.g. "Sec. TPR-196 Time limits..." has none); requiring whitespace
+        # after it keeps reserved-range headings ("Sec. TPR-181—TPR-193.")
+        # from matching, since those have an em-dash after the number.
+        match = re.match(r'^Sec\.\s*TPR-(\d+)\.?\s', line)
         if match:
             # If we were processing a section, mark its end
             if current_section is not None:
@@ -286,7 +289,7 @@ def extract_section_title(section_content):
         return "Reserved"
         
     first_line = section_content[0].strip()
-    title_match = re.match(r'^Sec\.\s*TPR-\d+\.\s*(.+?)\.?\s*$', first_line)
+    title_match = re.match(r'^Sec\.\s*TPR-\d+\.?\s*(.+?)\.?\s*$', first_line)
     
     if title_match:
         return title_match.group(1).strip()

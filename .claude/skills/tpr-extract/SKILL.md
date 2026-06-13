@@ -26,9 +26,12 @@ deterministic validator before it is written back.
 ├── specs/
 │   └── <slug>.md       per-section extraction notes: grammar, edge cases,
 │                       worked examples, judgment calls
-└── scripts/
-    ├── validate.py     deterministic validator (stdlib only)
-    └── gen_readme.py   regenerates extracted_data/README.md from schemas
+├── scripts/
+│   ├── validate.py     deterministic validator (stdlib only)
+│   ├── expand_dittos.py  pre-normalization (ditto marks → explicit text)
+│   └── gen_readme.py   regenerates extracted_data/README.md from schemas
+└── parsers/           deterministic re-derivations used as a SANITY CHECK,
+                       not as the source of truth — see parsers/README.md
 ```
 
 Naming: each section gets a **slug declared once in manifest.json** (e.g.
@@ -203,9 +206,27 @@ rows identical and every divergence a spec gap; after one tightening round,
 32/32 byte-identical. Spec maturity, not model choice, determines
 consistency.
 
-## Promotion path
+## Deterministic parsers (`parsers/`) — a sanity check, not an authority
 
-Everything starts as LLM extraction + deterministic validation. If a
-section's grammar proves perfectly regular across revisions, it may be
-promoted to a deterministic parser script without changing the contract —
-the schema and validator don't care who produced the rows.
+A few sections have a regular-enough grammar to re-derive deterministically
+from the section text (84 stanzas, 177, 220). Those parsers live in
+`parsers/` and `parsers/check.py` diffs them against the committed TSVs.
+
+Be clear about their role — and do NOT repeat the tempting mistake of treating
+"promote to a deterministic parser" as a stable, trustworthy endpoint:
+
+- The TPR is **human-edited**. Every revision can introduce a new phrasing,
+  structure, typo, or inconsistency that a parser frozen against today's
+  formats won't handle — possibly *silently*. So the LLM, which interprets
+  meaning, is the more format-robust extractor; the parser is the brittle one.
+- Therefore the parser's value is as a cheap, independent **second opinion /
+  tripwire**, not as a source of truth. The committed `extracted_data/*.tsv`
+  remain authoritative. On a new revision, run `parsers/check.py`: agreement
+  (plus the method-independent verifiers in `validate.py`) is strong evidence a
+  section didn't drift; **divergence or a parser failure is a signal for human
+  review**, never automatic correction.
+- This is one leg of a triangulation — LLM extraction + deterministic parser +
+  `validate.py`'s checksums/counts/multiset reconciliation. Where they
+  disagree is exactly what a person should look at. Note the residual: silent
+  semantic drift that still *looks* valid (e.g. a coordinate typo) is caught by
+  none of these — only by a human reading the per-revision diff.

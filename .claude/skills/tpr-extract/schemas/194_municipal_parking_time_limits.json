@@ -1,0 +1,20 @@
+{
+  "title": "Time limits in municipal off-street (metered) parking areas (Sec. TPR-194)",
+  "columns": ["village", "lot_name", "spaces_1hr", "spaces_2hr", "spaces_3hr", "spaces_6hr", "spaces_no_time_limit", "accessible_spaces", "ev_spaces", "reserved_by_permit", "enforcement_hours", "source_text", "notes"],
+  "fields": {
+    "village": {"description": "Village grouping the lot falls under (table sub-heading)", "required": true},
+    "lot_name": {"description": "Metered parking lot name", "required": true},
+    "spaces_1hr": {"description": "Number of 1-hour-limit spaces", "type": "integer", "required": true},
+    "spaces_2hr": {"description": "Number of 2-hour-limit spaces", "type": "integer", "required": true},
+    "spaces_3hr": {"description": "Number of 3-hour-limit spaces", "type": "integer", "required": true},
+    "spaces_6hr": {"description": "Number of 6-hour-limit spaces", "type": "integer", "required": true},
+    "spaces_no_time_limit": {"description": "Number of no-time-limit spaces", "type": "integer", "required": true},
+    "accessible_spaces": {"description": "Number of accessible parking spaces", "type": "integer", "required": true},
+    "ev_spaces": {"description": "Number of EV charging spaces", "type": "integer", "required": true},
+    "reserved_by_permit": {"description": "Reserved-by-permit-or-other cell, verbatim, in count(code) form (codes decoded in the spec legend; e.g. '2(ZC) & 12(NC)'); '0' if none", "required": true},
+    "enforcement_hours": {"description": "Which enforcement window applies", "required": true, "enum": ["8AM-6PM Mon-Sat", "8AM-6PM Mon-Fri"]},
+    "source_text": {"description": "Readable rendering of the lot's table row", "required": true},
+    "notes": {"description": "Permit-code exceptions on count cells, or other remarks", "required": false}
+  },
+  "unique": ["source_text", "lot_name"]
+}

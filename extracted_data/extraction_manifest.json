@@ -90,6 +90,9 @@
     },
     "84_speed_limits": {
       "rows": 275
+    },
+    "194_municipal_parking_time_limits": {
+      "rows": 11
     }
   }
 }

@@ -1,0 +1,12 @@
+village	lot_name	spaces_1hr	spaces_2hr	spaces_3hr	spaces_6hr	spaces_no_time_limit	accessible_spaces	ev_spaces	reserved_by_permit	enforcement_hours	source_text	notes
+Auburndale	Lexington St	0	15	0	0	14	2	4	6(A)	8AM-6PM Mon-Sat	Auburndale / Lexington St: 1hr=0 2hr=15 3hr=0 6hr=0 no-limit=14 accessible=2 EV=4 reserved=6(A); 8AM-6PM Mon-Sat	
+Newton Centre	Cypress St	0	0	21	0	23	3	0	10(NC)	8AM-6PM Mon-Sat	Newton Centre / Cypress St: 1hr=0 2hr=0 3hr=21 6hr=0 no-limit=23 accessible=3 EV=0 reserved=10(NC); 8AM-6PM Mon-Sat	
+Newton Centre	"Langley ""Triangle"""	0	0	132	0	0	6	0	2(ZC) & 12(NC)	8AM-6PM Mon-Sat	"Newton Centre / Langley ""Triangle"": 1hr=0 2hr=0 3hr=132 6hr=0 no-limit=0 accessible=6 EV=0 reserved=2(ZC) & 12(NC); 8AM-6PM Mon-Sat"	
+Newton Centre	Pelham St	0	0	63	0	21	4	0	0	8AM-6PM Mon-Sat	Newton Centre / Pelham St: 1hr=0 2hr=0 3hr=63 6hr=0 no-limit=21 accessible=4 EV=0 reserved=0; 8AM-6PM Mon-Sat	
+Newton Centre	Pleasant St	0	0	30	0	18	4	4	18(NC)	8AM-6PM Mon-Sat	Newton Centre / Pleasant St: 1hr=0 2hr=0 3hr=30 6hr=0 no-limit=18 accessible=4 EV=4 reserved=18(NC); 8AM-6PM Mon-Sat	
+Newton Corner	Pearl St	0	0	35	0	25	3	4	1(ZC)	8AM-6PM Mon-Sat	Newton Corner / Pearl St: 1hr=0 2hr=0 3hr=35 6hr=0 no-limit=25 accessible=3 EV=4 reserved=1(ZC); 8AM-6PM Mon-Sat	
+Newton Corner	Richardson St	10	0	11	0	35	3	2	1(ZC)	8AM-6PM Mon-Sat	Newton Corner / Richardson St: 1hr=10 2hr=0 3hr=11 6hr=0 no-limit=35 accessible=3 EV=2 reserved=1(ZC); 8AM-6PM Mon-Sat	
+Newton Highlands	Hartford St	0	0	46	0	5	3	0	3(BH)	8AM-6PM Mon-Sat	Newton Highlands / Hartford St: 1hr=0 2hr=0 3hr=46 6hr=0 no-limit=5 accessible=3 EV=0 reserved=3(BH); 8AM-6PM Mon-Sat	
+Newtonville	Austin St	0	0	69	0	50	5	0	0	8AM-6PM Mon-Fri	Newtonville / Austin St: 1hr=0 2hr=0 3hr=69 6hr=0 no-limit=50 accessible=5 EV=0 reserved=0; 8AM-6PM Mon-Fri	3hr (69) and no-limit (50) spaces are CC (Cooper Center) permit-exempt
+West Newton	Cherry St	0	0	55	0	11	3	0	0	8AM-6PM Mon-Sat	West Newton / Cherry St: 1hr=0 2hr=0 3hr=55 6hr=0 no-limit=11 accessible=3 EV=0 reserved=0; 8AM-6PM Mon-Sat	
+West Newton	Waltham St	0	0	14	0	0	1	0	0	8AM-6PM Mon-Sat	West Newton / Waltham St: 1hr=0 2hr=0 3hr=14 6hr=0 no-limit=0 accessible=1 EV=0 reserved=0; 8AM-6PM Mon-Sat	

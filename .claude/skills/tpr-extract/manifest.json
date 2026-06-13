@@ -371,12 +371,15 @@
     {
       "section": "194",
       "title": "Time limits in municipal off-street parking areas",
-      "status": "planned",
+      "status": "active",
       "source": "sections/194.txt",
       "slug": "municipal_parking_time_limits",
       "output": "extracted_data/194_municipal_parking_time_limits.tsv",
       "schema": "schemas/194_municipal_parking_time_limits.json",
-      "spec": "specs/194_municipal_parking_time_limits.md"
+      "spec": "specs/194_municipal_parking_time_limits.md",
+      "counting": {
+        "verified_by": "two independent PDF-page reads (Sonnet + orchestrator) agree 11/11 lots, every cell; text unrecoverable"
+      }
     },
     {
       "section": "195",

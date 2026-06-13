@@ -114,6 +114,9 @@
     },
     "177_game_day_parking": {
       "rows": 102
+    },
+    "220_tow_zones": {
+      "rows": 62
     }
   }
 }

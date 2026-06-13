@@ -1,89 +1,16 @@
 {
-  "title": "Tow-away zone parking prohibitions (Sec. TPR-220)",
-  "columns": [
-    "street",
-    "prohibition_type",
-    "side",
-    "from_point",
-    "to_point",
-    "extent",
-    "length_feet",
-    "bearing",
-    "days",
-    "times",
-    "time_exception",
-    "location_detail",
-    "notes",
-    "source_text"
-  ],
+  "title": "Parking prohibitions for tow zones (Sec. TPR-220)",
+  "columns": ["street", "restriction", "side", "from_point", "to_point", "segment_detail", "schedule", "source_text", "notes"],
   "fields": {
-    "street": {
-      "description": "Street or way the prohibition is on, as written (whitespace-collapsed). For the citywide blanket rules (prohibition_type fire_lane/bus_stop/football_game_day) this holds the categorical subject phrase (e.g. 'any fire lane') since there is no single geocodable street.",
-      "required": true
-    },
-    "prohibition_type": {
-      "description": "Kind of prohibition. 'tow_away_zone' = the standard '(Tow-away zone)' / '(Tow-way zone)' entries; 'parking_prohibited' = the 'Parking prohibited' wording (Essex Road); 'fire_lane'/'bus_stop'/'football_game_day' = the three citywide blanket rules at the head of the list.",
-      "required": true,
-      "enum": [
-        "tow_away_zone",
-        "parking_prohibited",
-        "fire_lane",
-        "bus_stop",
-        "football_game_day"
-      ]
-    },
-    "side": {
-      "description": "Side(s) of the street the zone applies to. Base compass plus diagonal bearings; multiple sides comma-joined in source order (e.g. 'north,west' for 'north and west side'). 'both' = both sides. Empty when the source states no side.",
-      "pattern": "(north|south|east|west|northeast|northwest|southeast|southwest|both)(,(north|south|east|west|northeast|northwest|southeast|southwest))*"
-    },
-    "from_point": {
-      "description": "Start reference of the zone segment, as written (whitespace-collapsed): a cross street ('Hammond Street'), a measured point ('a point 340 feet west of Walnut Street'), a terminus ('its westerly terminus'), or an address/landmark ('31 Elmwood Street'). Empty when the zone is the whole street (see extent) or no segment is stated.",
-      "required": false
-    },
-    "to_point": {
-      "description": "End reference of the zone segment, as written: a cross street, a measured point, a terminus, an address/landmark, or a city line ('Boston City Line'). Empty when the extent is given as a measured length from from_point (see length_feet/bearing) or no end is stated.",
-      "required": false
-    },
-    "extent": {
-      "description": "Qualitative extent when the zone covers the whole way rather than a measured/endpoint segment. Only value observed: 'entire length'. Empty otherwise.",
-      "required": false,
-      "enum": [
-        "entire length"
-      ]
-    },
-    "length_feet": {
-      "description": "Measured length of the zone in feet when stated as a distance running from from_point (e.g. 'from Hammond Street easterly 300 feet' -> 300; 'westerly 140 feet' -> 140). The orientation of that run goes in bearing. Empty when the segment is defined by two endpoints instead.",
-      "type": "integer"
-    },
-    "bearing": {
-      "$ref": "common#compass_point",
-      "description": "Orientation in which length_feet is measured from from_point: the '-erly' compass word normalized to a compass token. Empty when no measured length is given."
-    },
-    "days": {
-      "description": "Days the prohibition applies; empty means every day / all days. 'Saturdays included' and 'including Sundays and Holidays' expand into the token set alongside the weekdays.",
-      "$ref": "common#days"
-    },
-    "times": {
-      "description": "Time window(s) the prohibition applies, 24-hour. Empty means at all times. '12:00 midnight' normalizes to 00:00. Used for the applies-window; an 'except' window goes in time_exception.",
-      "$ref": "common#time_ranges"
-    },
-    "time_exception": {
-      "description": "Time window during which the prohibition does NOT apply, 24-hour (the 'except HH:MM to HH:MM' form, e.g. Old Colony Road 'except 7:00 p.m. to 12:00 midnight' -> 19:00-00:00). Empty when there is no exception window.",
-      "$ref": "common#time_range"
-    },
-    "location_detail": {
-      "description": "Segment/position qualifier the from_point/to_point/length atoms cannot hold (e.g. 'between off-ramp and on-ramp at Boylston Street', 'from exit driveway of Newton Post #440'). Never carries side, day, or time data.",
-      "required": false
-    },
-    "notes": {
-      "description": "Extractor remarks about source-text anomalies only (typos like 'Tow-way', the Longfellow/Lothrup merged paragraph). Never carries regulation data.",
-      "required": false
-    },
-    "source_text": {
-      "$ref": "common#source_text"
-    }
+    "street": {"description": "Street the tow-zone applies to; empty for the blanket prohibitions", "required": false},
+    "restriction": {"description": "Restriction type, normalized lowercase (e.g. 'tow-away zone', 'parking prohibited', 'blanket prohibition')", "required": true},
+    "side": {"description": "Side(s): both/north/south/east/west or compound; empty if unstated", "required": false},
+    "from_point": {"description": "Segment start for 'from X to Y' / 'between X and Y'", "required": false},
+    "to_point": {"description": "Segment end", "required": false},
+    "segment_detail": {"description": "Full/!pair location phrasing when not a clean from/to (e.g. 'from Hammond Street easterly 300 feet', 'entire length')", "required": false},
+    "schedule": {"description": "Days/times when stated (e.g. 'Monday through Saturday', '8:00 a.m. to 5:00 p.m., Saturdays included', 'on school days'); empty = at all times", "required": false},
+    "source_text": {"description": "Verbatim entry, street-prefixed, whitespace/dash-normalized", "required": true},
+    "notes": {"description": "Sub-clause origin, blanket flag, or source typo", "required": false}
   },
-  "unique": [
-    "source_text"
-  ]
+  "unique": ["source_text"]
 }

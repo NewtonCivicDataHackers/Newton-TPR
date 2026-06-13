@@ -592,13 +592,15 @@
     {
       "section": "220",
       "title": "Parking prohibitions for tow zones.*",
-      "status": "review",
+      "status": "active",
       "source": "sections/220.txt",
       "slug": "tow_zones",
       "output": "extracted_data/220_tow_zones.tsv",
       "schema": "schemas/220_tow_zones.json",
       "spec": "specs/220_tow_zones.md",
-      "reason": "176-class section: blanket preamble entries + street headers with numbered sub-clauses + em-dash inline forms. Both models produced malformed rows (inconsistent column counts); needs careful single-section pass."
+      "counting": {
+        "verified_by": "deterministic parse; 62 rows (3 blanket + 58 tow-away + 1 parking-prohibited), matching the independent count from an earlier Sonnet+Opus double-extraction; source_text unique"
+      }
     },
     {
       "section": "221",

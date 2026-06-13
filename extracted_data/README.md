@@ -633,6 +633,22 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `notes` | Extractor remarks about anomalies in the source text; never carries data |
 | `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
 
+### 220 — Parking prohibitions for tow zones.*
+
+[220_tow_zones.tsv](220_tow_zones.tsv) — 62 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street the tow-zone applies to; empty for the blanket prohibitions |
+| `restriction` | Restriction type, normalized lowercase (e.g. 'tow-away zone', 'parking prohibited', 'blanket prohibition') (required) |
+| `side` | Side(s): both/north/south/east/west or compound; empty if unstated |
+| `from_point` | Segment start for 'from X to Y' / 'between X and Y' |
+| `to_point` | Segment end |
+| `segment_detail` | Full/!pair location phrasing when not a clean from/to (e.g. 'from Hammond Street easterly 300 feet', 'entire length') |
+| `schedule` | Days/times when stated (e.g. 'Monday through Saturday', '8:00 a.m. to 5:00 p.m., Saturdays included', 'on school days'); empty = at all times |
+| `source_text` | Verbatim entry, street-prefixed, whitespace/dash-normalized (required) |
+| `notes` | Sub-clause origin, blanket flag, or source typo |
+
 ### 221 — Signs to be erected
 
 [221_game_day_sign_locations.tsv](221_game_day_sign_locations.tsv) — 7 rows
@@ -660,5 +676,4 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | 222 | Reserved | excluded | Reserved. |
 | 223 | Reserved | excluded | Reserved. |
 | 195 | Reserved | review | Marked Reserved, but sections/195.txt contains stray TPR-196 content (section-splitter artifact in process-tpr.py). |
-| 220 | Parking prohibitions for tow zones.* | review | 176-class section: blanket preamble entries + street headers with numbered sub-clauses + em-dash inline forms. Both models produced malformed rows (inconsistent column counts); needs careful single-section pass. |
 

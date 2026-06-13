@@ -87,6 +87,9 @@
     },
     "211_charlesbank_parking_district": {
       "rows": 6
+    },
+    "84_speed_limits": {
+      "rows": 275
     }
   }
 }

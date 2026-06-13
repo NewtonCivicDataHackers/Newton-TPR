@@ -10,6 +10,23 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 
 ## Datasets
 
+### 84 — Speed zones designated
+
+[84_speed_limits.tsv](84_speed_limits.tsv) — 275 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street the speed zone applies to (required) |
+| `direction` | Direction of travel; empty for one-liner entries that state no direction (vocabulary: `direction`) |
+| `entry_type` | Source form this row came from (required) |
+| `start_point` | Start of the segment (street/landmark, or GPS 'lat, lon'); empty for interior stanza sub-segments whose boundary the source does not name |
+| `end_point` | End of the segment (street/landmark, or GPS 'lat, lon'); empty for interior stanza sub-segments |
+| `length_miles` | Sub-segment length in miles (stanza/one-liner); empty for table rows, which give endpoints not length |
+| `offset_miles` | Cumulative distance from the stanza's start to this sub-segment's start; 0 for the first/only segment; empty for table and one-liner rows |
+| `speed_mph` | Posted speed limit (vocabulary: `speed_mph`) |
+| `source_text` | Verbatim source (whitespace/quote-normalized). NOT unique: every sub-segment of a multi-segment stanza shares its stanza's text (required) |
+| `notes` | Sub-segment index, source-defect flags, or checksum discrepancies; never carries primary data |
+
 ### 85 — One-way streets
 
 [85_one_way_streets.tsv](85_one_way_streets.tsv) — 110 rows
@@ -508,7 +525,6 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 Sections with extraction coverage planned but not yet built:
 
 - **83** — Use and operation of heavy commercial vehicles restricted on certain streets → `83_commercial_vehicle_restrictions.tsv`
-- **84** — Speed zones designated → `84_speed_limits.tsv`
 - **176** — Parking regulations pertaining to particular streets.* → `176_street_parking_regulations.tsv`
 - **177** — Football game day parking regulations → `177_game_day_parking.tsv`
 - **180** — Stopping Prohibited on Particular Streets → `180_stopping_prohibited.tsv`

@@ -135,7 +135,7 @@ def validate_dataset(ds, common, extraction_manifest, errors):
             seen[v] = i
 
     counting = ds.get("counting")
-    if counting:
+    if counting and counting.get("region_start"):
         source_text = (REPO_ROOT / ds["source"]).read_text()
         try:
             expected = count_entries(source_text, counting)
@@ -147,6 +147,11 @@ def validate_dataset(ds, common, extraction_manifest, errors):
                     f"{name}: source has {expected} entries but TSV has "
                     f"{len(rows)} rows — entries dropped or invented"
                 )
+    elif counting and counting.get("verified_by"):
+        # Section's completeness can't be checked by a single regex (e.g. mixed
+        # formats / PDF-table rows). Completeness is established by the means
+        # named here and documented in the spec; skip the regex count.
+        print(f"  {name}: regex-count skipped — verified by {counting['verified_by']}")
     else:
         errors.append(f"{name}: active dataset has no counting rules in manifest")
 

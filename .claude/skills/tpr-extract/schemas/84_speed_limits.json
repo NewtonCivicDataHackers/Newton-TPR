@@ -1,0 +1,17 @@
+{
+  "title": "Speed zones / special speed limits (Sec. TPR-84)",
+  "columns": ["street", "direction", "entry_type", "start_point", "end_point", "length_miles", "offset_miles", "speed_mph", "source_text", "notes"],
+  "fields": {
+    "street": {"description": "Street the speed zone applies to", "required": true},
+    "direction": {"$ref": "common#direction", "description": "Direction of travel; empty for one-liner entries that state no direction"},
+    "entry_type": {"description": "Source form this row came from", "required": true, "enum": ["stanza", "table", "oneliner"]},
+    "start_point": {"description": "Start of the segment (street/landmark, or GPS 'lat, lon'); empty for interior stanza sub-segments whose boundary the source does not name", "required": false},
+    "end_point": {"description": "End of the segment (street/landmark, or GPS 'lat, lon'); empty for interior stanza sub-segments", "required": false},
+    "length_miles": {"description": "Sub-segment length in miles (stanza/one-liner); empty for table rows, which give endpoints not length", "type": "number", "required": false},
+    "offset_miles": {"description": "Cumulative distance from the stanza's start to this sub-segment's start; 0 for the first/only segment; empty for table and one-liner rows", "type": "number", "required": false},
+    "speed_mph": {"$ref": "common#speed_mph", "description": "Posted speed limit"},
+    "source_text": {"description": "Verbatim source (whitespace/quote-normalized). NOT unique: every sub-segment of a multi-segment stanza shares its stanza's text", "required": true},
+    "notes": {"description": "Sub-segment index, source-defect flags, or checksum discrepancies; never carries primary data", "required": false}
+  },
+  "unique": []
+}

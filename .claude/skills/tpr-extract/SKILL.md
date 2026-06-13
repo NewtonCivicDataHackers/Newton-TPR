@@ -151,6 +151,14 @@ counts those matching `entry_start`; the TSV must have exactly that many
 rows. Continuation paragraphs (PDF artifacts that split an entry) start
 lowercase and are not counted.
 
+When a section's completeness cannot be checked by a single regex — mixed
+entry formats, or rows recovered from a PDF page because text extraction
+scrambled a table — set `"counting": {"verified_by": "<how>"}` instead.
+`validate.py` then skips the regex count for that dataset; completeness must
+be established by other documented means (e.g. section 84: a per-stanza
+distance checksum for prose stanzas, plus column-multiset reconciliation for
+PDF-read tables — both described in the spec).
+
 Add `"unit": "line"` when entries are one-per-line with no blank lines
 between them (e.g. district membership lists); the validator then counts
 non-blank lines matching `entry_start` instead of paragraphs. Default is

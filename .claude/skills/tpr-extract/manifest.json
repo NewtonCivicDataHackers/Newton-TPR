@@ -14,12 +14,15 @@
     {
       "section": "84",
       "title": "Speed zones designated",
-      "status": "planned",
+      "status": "active",
       "source": "sections/84.txt",
       "slug": "speed_limits",
       "output": "extracted_data/84_speed_limits.tsv",
       "schema": "schemas/84_speed_limits.json",
-      "spec": "specs/84_speed_limits.md"
+      "spec": "specs/84_speed_limits.md",
+      "counting": {
+        "verified_by": "per-stanza distance checksum (115/116 exact; 1 source anomaly flagged) + PDF-page table reads reconciled against text column multisets; see spec"
+      }
     },
     {
       "section": "85",

@@ -1,0 +1,17 @@
+{
+  "title": "Parking regulations pertaining to particular streets (Sec. TPR-176)",
+  "columns": ["street", "clause", "restriction", "side", "from_point", "to_point", "extent", "schedule", "source_text", "notes"],
+  "fields": {
+    "street": {"description": "Street the regulation applies to (the heading the clause falls under)", "required": true},
+    "clause": {"description": "The numbered clause this row came from, e.g. '1'", "type": "integer", "required": true},
+    "restriction": {"description": "Leading restriction phrase, normalized lowercase (e.g. 'prohibited', 'two-hour limit', 'one-hour limit', '15-minute limit', 'parking meter zone', 'resident permit only', 'loading zone', 'no stopping')", "required": true},
+    "side": {"description": "Side(s) of street; usually a common#side value but 176 also has compound/variant forms ('north and south', 'see notes'); empty when the clause states none", "required": false},
+    "from_point": {"description": "Start of the segment when the clause gives 'X to Y'; empty for whole-street or when not a clean range", "required": false},
+    "to_point": {"description": "End of the segment; 'end' for the street's end; empty otherwise", "required": false},
+    "extent": {"description": "'entire length' when the clause covers the whole street; else empty", "required": false},
+    "schedule": {"description": "Day/time text verbatim-ish (e.g. '7:00 a.m. to 6:00 p.m.; except Saturdays, Sundays and Holidays'); for a clause with lettered a)/b)/c) sub-windows, all of them joined with '; '", "required": false},
+    "source_text": {"description": "The full numbered clause verbatim (wrapped lines rejoined, whitespace/quotes normalized), prefixed with the street name to be unique", "required": true},
+    "notes": {"description": "Cross-references (e.g. 'see TPR-202'), lettered-sub-clause presence, or anomalies", "required": false}
+  },
+  "unique": ["source_text"]
+}

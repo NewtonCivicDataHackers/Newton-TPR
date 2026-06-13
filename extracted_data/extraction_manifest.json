@@ -93,6 +93,9 @@
     },
     "194_municipal_parking_time_limits": {
       "rows": 11
+    },
+    "176_street_parking_regulations": {
+      "rows": 1295
     }
   }
 }

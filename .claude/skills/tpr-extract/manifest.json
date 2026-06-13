@@ -319,12 +319,15 @@
     {
       "section": "176",
       "title": "Parking regulations pertaining to particular streets.*",
-      "status": "planned",
+      "status": "active",
       "source": "sections/176.txt",
       "slug": "street_parking_regulations",
       "output": "extracted_data/176_street_parking_regulations.tsv",
       "schema": "schemas/176_street_parking_regulations.json",
-      "spec": "specs/176_street_parking_regulations.md"
+      "spec": "specs/176_street_parking_regulations.md",
+      "counting": {
+        "verified_by": "11 Sonnet text-chunk agents; reliable-field salvage + source_text anchor; cross-method clause-count reconciliation (1295 vs deterministic 1288, 6 diffs all deterministic-detector errors); source_text unique; see spec"
+      }
     },
     {
       "section": "177",

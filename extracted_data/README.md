@@ -341,6 +341,23 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 | `notes` | Extractor remarks about anomalies in the source text; never carries data |
 | `source_text` | Verbatim source clause, whitespace-collapsed; the row's provenance (required; vocabulary: `source_text`) |
 
+### 176 — Parking regulations pertaining to particular streets.*
+
+[176_street_parking_regulations.tsv](176_street_parking_regulations.tsv) — 1295 rows
+
+| Column | Description |
+|--------|-------------|
+| `street` | Street the regulation applies to (the heading the clause falls under) (required) |
+| `clause` | The numbered clause this row came from, e.g. '1' (required) |
+| `restriction` | Leading restriction phrase, normalized lowercase (e.g. 'prohibited', 'two-hour limit', 'one-hour limit', '15-minute limit', 'parking meter zone', 'resident permit only', 'loading zone', 'no stopping') (required) |
+| `side` | Side(s) of street; usually a common#side value but 176 also has compound/variant forms ('north and south', 'see notes'); empty when the clause states none |
+| `from_point` | Start of the segment when the clause gives 'X to Y'; empty for whole-street or when not a clean range |
+| `to_point` | End of the segment; 'end' for the street's end; empty otherwise |
+| `extent` | 'entire length' when the clause covers the whole street; else empty |
+| `schedule` | Day/time text verbatim-ish (e.g. '7:00 a.m. to 6:00 p.m.; except Saturdays, Sundays and Holidays'); for a clause with lettered a)/b)/c) sub-windows, all of them joined with '; ' |
+| `source_text` | The full numbered clause verbatim (wrapped lines rejoined, whitespace/quotes normalized), prefixed with the street name to be unique (required) |
+| `notes` | Cross-references (e.g. 'see TPR-202'), lettered-sub-clause presence, or anomalies |
+
 ### 179 — School drop off zones
 
 [179_school_drop_off_zones.tsv](179_school_drop_off_zones.tsv) — 30 rows
@@ -545,7 +562,6 @@ Structured TSV datasets extracted from the Newton Traffic and Parking Regulation
 Sections with extraction coverage planned but not yet built:
 
 - **83** — Use and operation of heavy commercial vehicles restricted on certain streets → `83_commercial_vehicle_restrictions.tsv`
-- **176** — Parking regulations pertaining to particular streets.* → `176_street_parking_regulations.tsv`
 - **177** — Football game day parking regulations → `177_game_day_parking.tsv`
 - **180** — Stopping Prohibited on Particular Streets → `180_stopping_prohibited.tsv`
 - **204** — Newton North High School Tiger Parking Permits → `204_tiger_parking_permits.tsv`
